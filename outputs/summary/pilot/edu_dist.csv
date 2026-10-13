@@ -1,0 +1,595 @@
+position_group,search_country,job_level,edu_required,n_jobs
+Skilled_Trades_Ops,United States,Mid Senior,not_stated,3303
+Finance_Accounting,Australia,Mid Senior,not_stated,880
+Management_HR_Admin,United States,Mid Senior,bachelor,3056
+Sales_Customer,Australia,Mid Senior,not_stated,2164
+Sales_Customer,United Kingdom,Mid Senior,not_stated,7919
+Skilled_Trades_Ops,Canada,Mid Senior,not_stated,3711
+Science_Research,United States,Mid Senior,high_school,26
+Other,United Kingdom,Mid Senior,not_stated,18446
+Skilled_Trades_Ops,United Kingdom,Mid Senior,not_stated,9187
+Education,Australia,Mid Senior,not_stated,1001
+Sales_Customer,United States,Mid Senior,not_stated,4394
+Finance_Accounting,United States,Mid Senior,bachelor,2928
+Tech_Engineering,United Kingdom,Mid Senior,not_stated,8275
+Tech_Engineering,Canada,Mid Senior,not_stated,1809
+Management_HR_Admin,United Kingdom,Mid Senior,not_stated,19447
+Management_HR_Admin,Canada,Mid Senior,not_stated,6154
+Tech_Engineering,Australia,Mid Senior,not_stated,1475
+Education,United States,Mid Senior,not_stated,1853
+Creative_Media,United Kingdom,Mid Senior,not_stated,1625
+Healthcare_Clinical,United Kingdom,Mid Senior,bachelor,250
+Creative_Media,Canada,Associate,bachelor,28
+Healthcare_Clinical,United States,Associate,bachelor,60
+Tech_Engineering,Canada,Mid Senior,professional_doctorate,10
+Finance_Accounting,Australia,Associate,not_stated,141
+Healthcare_Nursing,United States,Associate,master,33
+Other,United States,Associate,high_school,340
+Healthcare_Clinical,Australia,Mid Senior,high_school,4
+Sales_Customer,United States,Associate,not_stated,906
+Creative_Media,United States,Mid Senior,not_stated,423
+Healthcare_Clinical,Canada,Mid Senior,not_stated,2238
+Tech_Engineering,Australia,Associate,not_stated,161
+Education,Canada,Mid Senior,master,136
+Healthcare_Nursing,United States,Mid Senior,bachelor,436
+Finance_Accounting,United Kingdom,Mid Senior,phd,5
+Science_Research,United States,Mid Senior,master,85
+Other,Australia,Associate,not_stated,425
+Healthcare_Clinical,United States,Mid Senior,associate,49
+Management_HR_Admin,United States,Associate,associate,57
+Sales_Customer,Canada,Mid Senior,high_school,214
+Science_Research,United States,Mid Senior,phd,118
+Education,United States,Associate,bachelor,190
+Education,Canada,Mid Senior,high_school,78
+Healthcare_Nursing,Australia,Associate,bachelor,4
+Finance_Accounting,United States,Associate,master,16
+Other,United States,Mid Senior,associate,264
+Healthcare_Clinical,Canada,Mid Senior,professional_doctorate,85
+Other,United States,Associate,phd,26
+Education,Canada,Associate,not_stated,149
+Education,Australia,Associate,not_stated,96
+Legal_Compliance,United States,Mid Senior,bachelor,38
+Skilled_Trades_Ops,Australia,Associate,high_school,5
+Tech_Engineering,United Kingdom,Associate,bachelor,112
+Finance_Accounting,United States,Associate,high_school,133
+Education,United States,Mid Senior,professional_doctorate,133
+Sales_Customer,Canada,Mid Senior,master,67
+Healthcare_Clinical,Canada,Associate,associate,24
+Skilled_Trades_Ops,United States,Mid Senior,professional_doctorate,51
+Skilled_Trades_Ops,United States,Associate,associate,32
+Healthcare_Clinical,Australia,Mid Senior,master,21
+Creative_Media,United States,Associate,bachelor,52
+Skilled_Trades_Ops,Canada,Mid Senior,professional_doctorate,30
+Sales_Customer,United States,Associate,professional_doctorate,4
+Other,United States,Associate,master,43
+Healthcare_Nursing,United Kingdom,Mid Senior,bachelor,57
+Other,Australia,Mid Senior,phd,11
+Skilled_Trades_Ops,Canada,Associate,associate,5
+Healthcare_Nursing,Australia,Mid Senior,master,10
+Education,Canada,Mid Senior,phd,52
+Sales_Customer,United States,Mid Senior,professional_doctorate,15
+Healthcare_Clinical,Australia,Mid Senior,phd,9
+Finance_Accounting,United Kingdom,Mid Senior,master,21
+Healthcare_Nursing,Canada,Associate,master,4
+Education,United Kingdom,Associate,master,9
+Management_HR_Admin,Australia,Mid Senior,associate,9
+Hospitality_Food,United States,Mid Senior,bachelor,41
+Sales_Customer,Canada,Mid Senior,phd,14
+Tech_Engineering,United States,Mid Senior,associate,22
+Healthcare_Nursing,United States,Associate,high_school,6
+Science_Research,United States,Associate,phd,7
+Management_HR_Admin,United Kingdom,Associate,master,5
+Other,Australia,Mid Senior,master,26
+Management_HR_Admin,Australia,Associate,high_school,2
+Hospitality_Food,United States,Associate,high_school,9
+Sales_Customer,Canada,Associate,associate,2
+Other,Canada,Associate,associate,7
+Sales_Customer,Australia,Associate,master,2
+Other,Canada,Mid Senior,associate,38
+Tech_Engineering,United States,Associate,associate,8
+Finance_Accounting,United Kingdom,Associate,master,3
+Tech_Engineering,United Kingdom,Mid Senior,professional_doctorate,7
+Healthcare_Nursing,Canada,Associate,high_school,4
+Legal_Compliance,United States,Associate,bachelor,14
+Management_HR_Admin,Canada,Mid Senior,professional_doctorate,15
+Hospitality_Food,United Kingdom,Mid Senior,high_school,12
+Finance_Accounting,Canada,Mid Senior,associate,4
+Tech_Engineering,Canada,Associate,master,7
+Legal_Compliance,Canada,Mid Senior,master,2
+Science_Research,United Kingdom,Associate,phd,13
+Skilled_Trades_Ops,Australia,Mid Senior,associate,6
+Hospitality_Food,Canada,Mid Senior,associate,8
+Finance_Accounting,Canada,Associate,high_school,7
+Management_HR_Admin,Australia,Associate,phd,4
+Science_Research,Canada,Associate,bachelor,15
+Other,Australia,Mid Senior,high_school,19
+Management_HR_Admin,United Kingdom,Mid Senior,professional_doctorate,1
+Tech_Engineering,Canada,Associate,phd,4
+Legal_Compliance,Australia,Mid Senior,bachelor,11
+Finance_Accounting,United States,Associate,phd,6
+Education,Australia,Mid Senior,professional_doctorate,6
+Tech_Engineering,Canada,Associate,high_school,1
+Education,United Kingdom,Associate,phd,5
+Healthcare_Clinical,United Kingdom,Associate,high_school,2
+Science_Research,Australia,Mid Senior,associate,2
+Science_Research,United States,Associate,master,13
+Skilled_Trades_Ops,United Kingdom,Mid Senior,professional_doctorate,1
+Science_Research,United Kingdom,Associate,master,5
+Other,United Kingdom,Mid Senior,professional_doctorate,6
+Creative_Media,United Kingdom,Mid Senior,professional_doctorate,4
+Healthcare_Nursing,Canada,Mid Senior,associate,3
+Management_HR_Admin,Canada,Associate,associate,5
+Skilled_Trades_Ops,United Kingdom,Associate,phd,1
+Finance_Accounting,Canada,Associate,master,4
+Other,United Kingdom,Associate,associate,2
+Management_HR_Admin,Australia,Associate,master,1
+Finance_Accounting,United Kingdom,Mid Senior,high_school,3
+Skilled_Trades_Ops,United Kingdom,Associate,master,6
+Hospitality_Food,Canada,Associate,associate,2
+Tech_Engineering,Australia,Associate,professional_doctorate,1
+Science_Research,Canada,Mid Senior,associate,2
+Creative_Media,United Kingdom,Associate,phd,1
+Management_HR_Admin,United Kingdom,Associate,high_school,1
+Healthcare_Clinical,United Kingdom,Associate,master,4
+Healthcare_Nursing,United Kingdom,Associate,bachelor,3
+Creative_Media,Canada,Mid Senior,associate,1
+Finance_Accounting,United Kingdom,Associate,high_school,1
+Legal_Compliance,Australia,Associate,bachelor,2
+Legal_Compliance,Canada,Associate,bachelor,2
+Hospitality_Food,Australia,Mid Senior,associate,4
+Skilled_Trades_Ops,United Kingdom,Associate,high_school,7
+Hospitality_Food,Australia,Associate,bachelor,1
+Creative_Media,Australia,Mid Senior,associate,2
+Education,United Kingdom,Mid Senior,associate,1
+Sales_Customer,Australia,Associate,high_school,1
+Education,Canada,Associate,professional_doctorate,3
+Sales_Customer,Australia,Associate,phd,1
+Finance_Accounting,United Kingdom,Associate,phd,2
+Finance_Accounting,Australia,Mid Senior,professional_doctorate,1
+Other,Canada,Mid Senior,high_school,330
+Management_HR_Admin,United States,Mid Senior,not_stated,8892
+Hospitality_Food,United States,Mid Senior,not_stated,532
+Other,United States,Mid Senior,high_school,1674
+Finance_Accounting,United States,Mid Senior,not_stated,2364
+Other,United States,Mid Senior,master,1218
+Healthcare_Clinical,United Kingdom,Mid Senior,not_stated,6237
+Legal_Compliance,United States,Mid Senior,not_stated,880
+Skilled_Trades_Ops,United States,Mid Senior,bachelor,643
+Creative_Media,United States,Associate,not_stated,97
+Healthcare_Nursing,United States,Mid Senior,not_stated,1586
+Other,United Kingdom,Mid Senior,bachelor,876
+Healthcare_Clinical,United States,Mid Senior,phd,143
+Healthcare_Nursing,United Kingdom,Mid Senior,not_stated,4264
+Sales_Customer,United States,Mid Senior,bachelor,1970
+Tech_Engineering,Canada,Mid Senior,bachelor,983
+Other,United States,Mid Senior,phd,792
+Other,United Kingdom,Associate,high_school,4
+Legal_Compliance,United States,Mid Senior,professional_doctorate,481
+Legal_Compliance,United States,Associate,not_stated,221
+Management_HR_Admin,United Kingdom,Mid Senior,bachelor,756
+Tech_Engineering,United Kingdom,Mid Senior,bachelor,1168
+Tech_Engineering,United States,Mid Senior,high_school,114
+Skilled_Trades_Ops,United Kingdom,Mid Senior,bachelor,350
+Science_Research,United Kingdom,Mid Senior,phd,131
+Healthcare_Clinical,United States,Mid Senior,high_school,132
+Tech_Engineering,United Kingdom,Associate,not_stated,765
+Finance_Accounting,Australia,Mid Senior,bachelor,142
+Healthcare_Nursing,Canada,Associate,associate,30
+Education,United States,Mid Senior,bachelor,1005
+Tech_Engineering,Australia,Mid Senior,bachelor,373
+Healthcare_Clinical,United States,Mid Senior,master,536
+Management_HR_Admin,United States,Associate,high_school,240
+Sales_Customer,United States,Associate,bachelor,682
+Education,United Kingdom,Mid Senior,phd,63
+Legal_Compliance,United States,Associate,professional_doctorate,68
+Healthcare_Nursing,Australia,Associate,not_stated,63
+Finance_Accounting,United States,Mid Senior,professional_doctorate,29
+Skilled_Trades_Ops,Canada,Mid Senior,bachelor,460
+Management_HR_Admin,United States,Mid Senior,professional_doctorate,185
+Management_HR_Admin,Canada,Mid Senior,bachelor,1375
+Healthcare_Clinical,Canada,Mid Senior,bachelor,297
+Healthcare_Nursing,United Kingdom,Associate,not_stated,427
+Healthcare_Nursing,Canada,Mid Senior,master,70
+Skilled_Trades_Ops,United States,Associate,high_school,494
+Education,United Kingdom,Mid Senior,high_school,9
+Legal_Compliance,Australia,Mid Senior,not_stated,221
+Creative_Media,United Kingdom,Mid Senior,bachelor,213
+Hospitality_Food,Australia,Associate,not_stated,76
+Tech_Engineering,United States,Mid Senior,phd,97
+Management_HR_Admin,Australia,Mid Senior,master,28
+Finance_Accounting,United Kingdom,Mid Senior,associate,3
+Other,Australia,Associate,bachelor,33
+Other,United States,Associate,associate,47
+Tech_Engineering,United States,Mid Senior,master,149
+Legal_Compliance,Canada,Associate,not_stated,34
+Creative_Media,Canada,Associate,not_stated,55
+Education,Australia,Mid Senior,bachelor,101
+Science_Research,Canada,Mid Senior,master,26
+Other,Canada,Mid Senior,phd,67
+Education,United States,Associate,not_stated,197
+Education,Canada,Associate,bachelor,44
+Creative_Media,United States,Mid Senior,bachelor,278
+Education,United Kingdom,Mid Senior,master,68
+Sales_Customer,United Kingdom,Mid Senior,bachelor,244
+Education,Australia,Associate,bachelor,12
+Other,Canada,Associate,high_school,74
+Finance_Accounting,Canada,Mid Senior,master,27
+Healthcare_Clinical,Australia,Mid Senior,associate,42
+Science_Research,Canada,Associate,not_stated,15
+Legal_Compliance,Australia,Associate,not_stated,42
+Other,Canada,Associate,phd,15
+Other,Canada,Mid Senior,master,179
+Skilled_Trades_Ops,Canada,Associate,high_school,130
+Healthcare_Clinical,United States,Associate,not_stated,181
+Hospitality_Food,Canada,Mid Senior,high_school,93
+Science_Research,Australia,Mid Senior,master,8
+Management_HR_Admin,Canada,Associate,high_school,54
+Management_HR_Admin,Australia,Mid Senior,phd,14
+Sales_Customer,Australia,Mid Senior,bachelor,123
+Sales_Customer,Canada,Associate,high_school,46
+Science_Research,Canada,Mid Senior,phd,38
+Management_HR_Admin,Canada,Associate,phd,14
+Education,United States,Associate,professional_doctorate,37
+Other,Canada,Associate,master,23
+Tech_Engineering,United States,Associate,master,25
+Other,United Kingdom,Associate,master,17
+Hospitality_Food,Canada,Mid Senior,master,2
+Science_Research,Canada,Mid Senior,high_school,5
+Science_Research,United States,Mid Senior,associate,13
+Healthcare_Clinical,United Kingdom,Mid Senior,professional_doctorate,7
+Management_HR_Admin,United States,Associate,master,29
+Science_Research,Australia,Mid Senior,phd,15
+Tech_Engineering,United States,Associate,phd,7
+Sales_Customer,Canada,Mid Senior,associate,10
+Tech_Engineering,Australia,Associate,bachelor,24
+Healthcare_Nursing,United States,Mid Senior,professional_doctorate,7
+Management_HR_Admin,Canada,Associate,master,8
+Creative_Media,Canada,Mid Senior,phd,3
+Sales_Customer,United Kingdom,Associate,phd,4
+Healthcare_Nursing,United States,Associate,associate,5
+Creative_Media,Australia,Mid Senior,master,5
+Science_Research,United Kingdom,Mid Senior,master,36
+Science_Research,United Kingdom,Mid Senior,high_school,2
+Healthcare_Clinical,United States,Associate,professional_doctorate,57
+Finance_Accounting,United States,Associate,associate,47
+Finance_Accounting,Australia,Associate,bachelor,16
+Skilled_Trades_Ops,United States,Associate,phd,2
+Legal_Compliance,United Kingdom,Mid Senior,phd,2
+Healthcare_Clinical,United Kingdom,Associate,associate,6
+Skilled_Trades_Ops,United States,Associate,master,11
+Management_HR_Admin,Australia,Associate,associate,3
+Healthcare_Clinical,Canada,Associate,master,9
+Science_Research,Australia,Associate,phd,1
+Management_HR_Admin,Australia,Mid Senior,high_school,11
+Healthcare_Clinical,Canada,Associate,phd,5
+Sales_Customer,United Kingdom,Associate,high_school,7
+Finance_Accounting,Canada,Mid Senior,high_school,10
+Creative_Media,Canada,Mid Senior,master,22
+Management_HR_Admin,United States,Associate,phd,16
+Other,Australia,Mid Senior,associate,4
+Finance_Accounting,Canada,Mid Senior,phd,6
+Skilled_Trades_Ops,Australia,Mid Senior,high_school,7
+Healthcare_Nursing,Canada,Mid Senior,high_school,2
+Tech_Engineering,United States,Associate,high_school,7
+Hospitality_Food,United States,Associate,associate,2
+Skilled_Trades_Ops,Australia,Mid Senior,phd,3
+Other,United Kingdom,Associate,phd,5
+Creative_Media,Canada,Mid Senior,high_school,9
+Education,Canada,Mid Senior,associate,3
+Healthcare_Clinical,Canada,Associate,high_school,3
+Hospitality_Food,Canada,Associate,high_school,10
+Skilled_Trades_Ops,Canada,Associate,master,5
+Sales_Customer,Canada,Associate,phd,4
+Healthcare_Nursing,United Kingdom,Mid Senior,professional_doctorate,1
+Legal_Compliance,United Kingdom,Mid Senior,master,1
+Sales_Customer,United Kingdom,Associate,master,4
+Healthcare_Clinical,Australia,Associate,associate,4
+Sales_Customer,Canada,Associate,master,7
+Sales_Customer,Australia,Associate,associate,6
+Skilled_Trades_Ops,Australia,Mid Senior,master,4
+Healthcare_Nursing,Canada,Mid Senior,phd,2
+Science_Research,Canada,Associate,professional_doctorate,1
+Science_Research,United States,Associate,associate,2
+Hospitality_Food,Australia,Mid Senior,high_school,2
+Creative_Media,Australia,Associate,associate,1
+Creative_Media,Canada,Associate,professional_doctorate,1
+Creative_Media,Australia,Mid Senior,phd,1
+Skilled_Trades_Ops,United Kingdom,Associate,associate,1
+Hospitality_Food,Canada,Mid Senior,phd,2
+Hospitality_Food,United States,Mid Senior,professional_doctorate,2
+Science_Research,Australia,Associate,master,1
+Tech_Engineering,Canada,Associate,associate,1
+Healthcare_Nursing,Australia,Mid Senior,associate,1
+Finance_Accounting,Canada,Associate,associate,1
+Other,United States,Mid Senior,bachelor,2948
+Other,United States,Associate,not_stated,1145
+Other,Australia,Mid Senior,not_stated,5037
+Finance_Accounting,Canada,Mid Senior,bachelor,427
+Finance_Accounting,United Kingdom,Mid Senior,not_stated,5027
+Healthcare_Nursing,Australia,Mid Senior,not_stated,1234
+Finance_Accounting,United States,Associate,not_stated,522
+Finance_Accounting,United Kingdom,Associate,not_stated,499
+Healthcare_Clinical,United States,Mid Senior,bachelor,434
+Tech_Engineering,Canada,Associate,not_stated,283
+Management_HR_Admin,Australia,Associate,not_stated,423
+Education,Canada,Mid Senior,not_stated,1592
+Skilled_Trades_Ops,Australia,Mid Senior,bachelor,136
+Education,United States,Mid Senior,master,784
+Sales_Customer,Canada,Associate,bachelor,113
+Healthcare_Clinical,Australia,Mid Senior,not_stated,2272
+Hospitality_Food,United Kingdom,Mid Senior,not_stated,2549
+Management_HR_Admin,United Kingdom,Associate,not_stated,1332
+Sales_Customer,Canada,Mid Senior,not_stated,3092
+Education,United Kingdom,Associate,not_stated,347
+Finance_Accounting,United States,Mid Senior,associate,97
+Sales_Customer,United States,Mid Senior,high_school,1131
+Management_HR_Admin,United Kingdom,Mid Senior,phd,76
+Management_HR_Admin,Australia,Mid Senior,bachelor,325
+Skilled_Trades_Ops,United States,Mid Senior,high_school,1433
+Healthcare_Clinical,United Kingdom,Associate,not_stated,631
+Healthcare_Nursing,Canada,Mid Senior,bachelor,138
+Tech_Engineering,United States,Mid Senior,bachelor,1084
+Tech_Engineering,United States,Associate,bachelor,254
+Tech_Engineering,Canada,Mid Senior,phd,38
+Science_Research,Australia,Mid Senior,bachelor,33
+Sales_Customer,United States,Associate,high_school,174
+Management_HR_Admin,United States,Associate,bachelor,310
+Skilled_Trades_Ops,Canada,Associate,bachelor,79
+Healthcare_Clinical,Canada,Mid Senior,master,145
+Creative_Media,United Kingdom,Associate,not_stated,141
+Skilled_Trades_Ops,Canada,Mid Senior,high_school,302
+Education,United States,Mid Senior,phd,796
+Other,Canada,Mid Senior,bachelor,1292
+Hospitality_Food,United Kingdom,Associate,not_stated,74
+Other,United Kingdom,Mid Senior,master,123
+Management_HR_Admin,Canada,Mid Senior,master,167
+Legal_Compliance,Canada,Mid Senior,not_stated,176
+Science_Research,Canada,Mid Senior,bachelor,79
+Sales_Customer,Australia,Mid Senior,high_school,15
+Finance_Accounting,Canada,Associate,not_stated,218
+Skilled_Trades_Ops,United Kingdom,Associate,not_stated,955
+Skilled_Trades_Ops,Australia,Associate,not_stated,353
+Science_Research,United States,Mid Senior,not_stated,281
+Sales_Customer,Australia,Associate,not_stated,406
+Healthcare_Clinical,Australia,Associate,not_stated,255
+Healthcare_Nursing,United States,Mid Senior,associate,150
+Tech_Engineering,United Kingdom,Mid Senior,master,108
+Education,United States,Mid Senior,high_school,385
+Sales_Customer,United States,Associate,master,31
+Hospitality_Food,United States,Associate,not_stated,94
+Healthcare_Nursing,United States,Associate,professional_doctorate,7
+Skilled_Trades_Ops,United States,Mid Senior,master,153
+Other,Canada,Associate,bachelor,116
+Other,United Kingdom,Mid Senior,high_school,58
+Healthcare_Clinical,Canada,Mid Senior,phd,34
+Science_Research,United Kingdom,Mid Senior,bachelor,72
+Creative_Media,Canada,Mid Senior,bachelor,183
+Management_HR_Admin,United States,Mid Senior,associate,317
+Healthcare_Clinical,Canada,Associate,bachelor,31
+Management_HR_Admin,Canada,Mid Senior,high_school,364
+Legal_Compliance,United Kingdom,Mid Senior,bachelor,14
+Education,United Kingdom,Mid Senior,bachelor,153
+Education,Canada,Associate,phd,12
+Management_HR_Admin,United Kingdom,Mid Senior,master,70
+Management_HR_Admin,United Kingdom,Mid Senior,high_school,48
+Other,United States,Associate,professional_doctorate,10
+Education,Australia,Mid Senior,master,38
+Creative_Media,United States,Mid Senior,high_school,20
+Tech_Engineering,Australia,Mid Senior,master,16
+Skilled_Trades_Ops,United Kingdom,Mid Senior,high_school,41
+Sales_Customer,United Kingdom,Associate,bachelor,47
+Sales_Customer,United Kingdom,Mid Senior,master,46
+Healthcare_Nursing,United States,Associate,not_stated,66
+Skilled_Trades_Ops,United States,Mid Senior,phd,60
+Management_HR_Admin,Canada,Mid Senior,phd,72
+Sales_Customer,United States,Mid Senior,master,192
+Tech_Engineering,Canada,Mid Senior,master,80
+Skilled_Trades_Ops,United States,Associate,bachelor,110
+Science_Research,United Kingdom,Associate,not_stated,60
+Management_HR_Admin,Canada,Associate,bachelor,111
+Sales_Customer,United Kingdom,Mid Senior,high_school,32
+Other,United Kingdom,Associate,bachelor,96
+Creative_Media,United States,Mid Senior,master,27
+Healthcare_Clinical,Australia,Mid Senior,professional_doctorate,15
+Creative_Media,Australia,Mid Senior,bachelor,64
+Healthcare_Clinical,Canada,Mid Senior,high_school,36
+Hospitality_Food,Canada,Mid Senior,bachelor,25
+Other,United Kingdom,Mid Senior,phd,88
+Tech_Engineering,Canada,Mid Senior,high_school,17
+Sales_Customer,Canada,Mid Senior,professional_doctorate,5
+Tech_Engineering,United Kingdom,Mid Senior,phd,40
+Science_Research,United States,Associate,not_stated,37
+Sales_Customer,United States,Mid Senior,phd,82
+Tech_Engineering,United Kingdom,Mid Senior,high_school,7
+Healthcare_Nursing,Canada,Associate,not_stated,55
+Education,United States,Associate,associate,10
+Sales_Customer,United States,Associate,phd,6
+Creative_Media,United Kingdom,Mid Senior,master,14
+Sales_Customer,United Kingdom,Mid Senior,phd,15
+Other,Australia,Associate,master,4
+Education,Canada,Associate,master,13
+Creative_Media,United Kingdom,Mid Senior,phd,5
+Education,Australia,Associate,phd,5
+Skilled_Trades_Ops,United Kingdom,Mid Senior,master,26
+Creative_Media,Australia,Associate,not_stated,33
+Education,Canada,Associate,high_school,35
+Science_Research,United States,Mid Senior,professional_doctorate,8
+Education,Australia,Mid Senior,phd,48
+Legal_Compliance,United Kingdom,Associate,bachelor,2
+Hospitality_Food,United States,Mid Senior,associate,16
+Skilled_Trades_Ops,United Kingdom,Mid Senior,phd,12
+Skilled_Trades_Ops,Canada,Mid Senior,master,22
+Healthcare_Clinical,United States,Associate,associate,10
+Creative_Media,United States,Mid Senior,phd,24
+Hospitality_Food,Australia,Mid Senior,bachelor,11
+Finance_Accounting,United Kingdom,Associate,professional_doctorate,2
+Sales_Customer,Australia,Mid Senior,master,15
+Creative_Media,United States,Associate,associate,2
+Science_Research,United States,Associate,professional_doctorate,3
+Education,Canada,Mid Senior,professional_doctorate,11
+Finance_Accounting,Australia,Mid Senior,master,5
+Legal_Compliance,Canada,Mid Senior,professional_doctorate,15
+Hospitality_Food,United States,Associate,professional_doctorate,1
+Creative_Media,United Kingdom,Associate,professional_doctorate,1
+Healthcare_Clinical,Australia,Associate,professional_doctorate,1
+Sales_Customer,Australia,Mid Senior,phd,3
+Tech_Engineering,Australia,Associate,phd,1
+Skilled_Trades_Ops,Canada,Mid Senior,phd,4
+Finance_Accounting,Australia,Mid Senior,high_school,1
+Other,Australia,Mid Senior,professional_doctorate,3
+Tech_Engineering,United Kingdom,Associate,associate,2
+Other,Australia,Associate,phd,5
+Healthcare_Nursing,United Kingdom,Mid Senior,associate,2
+Tech_Engineering,Australia,Associate,master,2
+Science_Research,Australia,Associate,bachelor,2
+Education,Australia,Mid Senior,high_school,3
+Education,Australia,Associate,high_school,1
+Hospitality_Food,Canada,Associate,bachelor,4
+Tech_Engineering,Australia,Mid Senior,phd,4
+Education,United Kingdom,Associate,professional_doctorate,2
+Healthcare_Clinical,United Kingdom,Mid Senior,associate,3
+Finance_Accounting,Australia,Mid Senior,phd,2
+Other,Australia,Associate,high_school,2
+Finance_Accounting,United States,Associate,professional_doctorate,3
+Science_Research,United Kingdom,Associate,professional_doctorate,1
+Creative_Media,United Kingdom,Mid Senior,high_school,1
+Hospitality_Food,Australia,Associate,associate,1
+Sales_Customer,Australia,Associate,professional_doctorate,1
+Management_HR_Admin,Australia,Mid Senior,not_stated,5017
+Skilled_Trades_Ops,Australia,Mid Senior,not_stated,2314
+Other,Canada,Associate,not_stated,881
+Other,Canada,Mid Senior,not_stated,7782
+Sales_Customer,United Kingdom,Associate,not_stated,1346
+Other,United States,Mid Senior,not_stated,9901
+Finance_Accounting,Canada,Mid Senior,not_stated,1282
+Management_HR_Admin,Canada,Associate,not_stated,661
+Education,United Kingdom,Mid Senior,not_stated,3136
+Healthcare_Nursing,Canada,Mid Senior,not_stated,1840
+Sales_Customer,Canada,Mid Senior,bachelor,576
+Skilled_Trades_Ops,United States,Associate,not_stated,757
+Management_HR_Admin,United States,Mid Senior,high_school,2865
+Hospitality_Food,United States,Mid Senior,high_school,125
+Education,United States,Mid Senior,associate,115
+Tech_Engineering,United States,Associate,not_stated,295
+Other,United Kingdom,Associate,not_stated,1426
+Finance_Accounting,United States,Mid Senior,high_school,377
+Management_HR_Admin,United States,Mid Senior,master,652
+Healthcare_Clinical,United States,Mid Senior,not_stated,3257
+Legal_Compliance,United Kingdom,Mid Senior,not_stated,1221
+Education,Canada,Mid Senior,bachelor,363
+Hospitality_Food,Canada,Mid Senior,not_stated,1035
+Other,United States,Mid Senior,professional_doctorate,331
+Healthcare_Clinical,Canada,Associate,not_stated,140
+Sales_Customer,Canada,Associate,not_stated,651
+Finance_Accounting,United States,Associate,bachelor,431
+Creative_Media,Australia,Mid Senior,not_stated,403
+Creative_Media,Canada,Mid Senior,not_stated,429
+Management_HR_Admin,United States,Mid Senior,phd,578
+Healthcare_Nursing,Australia,Mid Senior,bachelor,50
+Healthcare_Nursing,United States,Mid Senior,master,279
+Skilled_Trades_Ops,Canada,Associate,not_stated,930
+Science_Research,United States,Mid Senior,bachelor,267
+Tech_Engineering,United States,Mid Senior,not_stated,1316
+Creative_Media,United Kingdom,Associate,bachelor,17
+Healthcare_Clinical,United Kingdom,Mid Senior,master,81
+Management_HR_Admin,United States,Associate,not_stated,799
+Healthcare_Nursing,United States,Mid Senior,phd,30
+Hospitality_Food,Australia,Mid Senior,not_stated,781
+Science_Research,Canada,Mid Senior,not_stated,322
+Science_Research,United Kingdom,Mid Senior,not_stated,829
+Legal_Compliance,Canada,Mid Senior,bachelor,21
+Finance_Accounting,United States,Mid Senior,master,190
+Healthcare_Clinical,United Kingdom,Associate,bachelor,73
+Finance_Accounting,United Kingdom,Mid Senior,bachelor,162
+Tech_Engineering,Canada,Associate,bachelor,118
+Other,United States,Associate,bachelor,341
+Other,Australia,Mid Senior,bachelor,320
+Sales_Customer,Australia,Associate,bachelor,40
+Education,United Kingdom,Associate,bachelor,34
+Management_HR_Admin,United Kingdom,Associate,bachelor,73
+Healthcare_Clinical,United States,Mid Senior,professional_doctorate,302
+Science_Research,United States,Associate,bachelor,58
+Sales_Customer,United States,Mid Senior,associate,125
+Healthcare_Clinical,United States,Associate,master,28
+Healthcare_Clinical,Australia,Mid Senior,bachelor,157
+Skilled_Trades_Ops,United States,Mid Senior,associate,166
+Hospitality_Food,Canada,Associate,not_stated,120
+Science_Research,Australia,Mid Senior,not_stated,139
+Management_HR_Admin,Australia,Associate,bachelor,34
+Healthcare_Nursing,United States,Mid Senior,high_school,115
+Healthcare_Clinical,United Kingdom,Mid Senior,phd,64
+Healthcare_Nursing,United Kingdom,Mid Senior,master,35
+Skilled_Trades_Ops,Australia,Mid Senior,professional_doctorate,2
+Finance_Accounting,United States,Mid Senior,phd,29
+Sales_Customer,United States,Associate,associate,31
+Other,Canada,Mid Senior,professional_doctorate,27
+Tech_Engineering,United Kingdom,Associate,phd,7
+Skilled_Trades_Ops,United Kingdom,Associate,bachelor,31
+Management_HR_Admin,Canada,Mid Senior,associate,36
+Finance_Accounting,Canada,Associate,bachelor,72
+Legal_Compliance,United States,Mid Senior,high_school,13
+Education,United States,Associate,high_school,23
+Management_HR_Admin,United States,Associate,professional_doctorate,17
+Finance_Accounting,United Kingdom,Associate,bachelor,34
+Legal_Compliance,United Kingdom,Associate,not_stated,129
+Other,Canada,Associate,professional_doctorate,3
+Hospitality_Food,United States,Mid Senior,phd,4
+Hospitality_Food,United Kingdom,Mid Senior,bachelor,9
+Skilled_Trades_Ops,United Kingdom,Mid Senior,associate,10
+Education,United States,Associate,master,45
+Healthcare_Nursing,United States,Associate,bachelor,25
+Skilled_Trades_Ops,United States,Associate,professional_doctorate,7
+Science_Research,United Kingdom,Associate,bachelor,10
+Creative_Media,United States,Mid Senior,associate,10
+Education,United States,Associate,phd,32
+Education,Australia,Associate,associate,2
+Healthcare_Clinical,Australia,Associate,bachelor,11
+Creative_Media,Canada,Associate,master,1
+Tech_Engineering,United Kingdom,Mid Senior,associate,5
+Tech_Engineering,Canada,Mid Senior,associate,2
+Tech_Engineering,United States,Associate,professional_doctorate,4
+Sales_Customer,United Kingdom,Mid Senior,associate,2
+Healthcare_Nursing,Canada,Associate,bachelor,18
+Hospitality_Food,United Kingdom,Associate,bachelor,1
+Healthcare_Clinical,Canada,Associate,professional_doctorate,5
+Tech_Engineering,United Kingdom,Associate,master,5
+Legal_Compliance,United States,Associate,master,1
+Healthcare_Clinical,United States,Associate,high_school,14
+Skilled_Trades_Ops,Australia,Associate,bachelor,12
+Hospitality_Food,United States,Associate,bachelor,7
+Other,United Kingdom,Mid Senior,associate,8
+Tech_Engineering,Australia,Mid Senior,associate,2
+Skilled_Trades_Ops,Canada,Mid Senior,associate,19
+Legal_Compliance,United Kingdom,Mid Senior,professional_doctorate,1
+Creative_Media,United Kingdom,Mid Senior,associate,1
+Tech_Engineering,United States,Mid Senior,professional_doctorate,3
+Management_HR_Admin,United Kingdom,Mid Senior,associate,10
+Creative_Media,Australia,Associate,bachelor,2
+Science_Research,Canada,Associate,high_school,1
+Healthcare_Clinical,United Kingdom,Mid Senior,high_school,5
+Science_Research,Australia,Associate,not_stated,15
+Education,Canada,Associate,associate,6
+Legal_Compliance,United States,Associate,high_school,1
+Hospitality_Food,Australia,Associate,high_school,2
+Hospitality_Food,Canada,Mid Senior,professional_doctorate,3
+Science_Research,Canada,Associate,master,5
+Healthcare_Clinical,United States,Associate,phd,10
+Creative_Media,Canada,Associate,high_school,2
+Science_Research,Canada,Associate,phd,3
+Legal_Compliance,United States,Mid Senior,master,6
+Finance_Accounting,Canada,Mid Senior,professional_doctorate,3
+Creative_Media,United States,Associate,high_school,1
+Sales_Customer,Australia,Mid Senior,associate,3
+Science_Research,Australia,Mid Senior,professional_doctorate,1
+Education,Australia,Mid Senior,associate,2
+Healthcare_Clinical,Canada,Mid Senior,associate,1
+Creative_Media,United States,Associate,master,1
+Healthcare_Nursing,United Kingdom,Mid Senior,phd,2
+Hospitality_Food,United States,Mid Senior,master,7
+Management_HR_Admin,Australia,Mid Senior,professional_doctorate,2
+Education,United Kingdom,Mid Senior,professional_doctorate,2
+Creative_Media,Canada,Mid Senior,professional_doctorate,1
+Healthcare_Nursing,Canada,Mid Senior,professional_doctorate,1
+Legal_Compliance,Australia,Mid Senior,master,1
+Science_Research,United Kingdom,Mid Senior,professional_doctorate,1
+Skilled_Trades_Ops,Canada,Associate,professional_doctorate,1

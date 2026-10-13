@@ -1,0 +1,107 @@
+{
+  "method": "tfidf_logistic_regression",
+  "features": "job_title + first_300_words_of_summary",
+  "train_n": 150,
+  "label_space": "fine",
+  "fine_cv": {
+    "accuracy": 0.6886792452830188,
+    "n_used": 106,
+    "n_classes_used": 12,
+    "n_dropped_classes": 19,
+    "top_confusions": [
+      {
+        "gold": "Hospitality & Food",
+        "pred": "Retail Ops",
+        "n": 5
+      },
+      {
+        "gold": "Construction & Trades",
+        "pred": "Retail Ops",
+        "n": 3
+      },
+      {
+        "gold": "Supply Chain & Ops",
+        "pred": "Hospitality & Food",
+        "n": 3
+      },
+      {
+        "gold": "Other",
+        "pred": "Hospitality & Food",
+        "n": 2
+      },
+      {
+        "gold": "Finance & Accounting",
+        "pred": "Engineering (Non-software)",
+        "n": 2
+      }
+    ]
+  },
+  "coarse_cv": {
+    "accuracy": 0.6666666666666666,
+    "n_used": 150,
+    "n_classes_used": 7,
+    "n_dropped_classes": 0,
+    "top_confusions": [
+      {
+        "gold": "Business Ops",
+        "pred": "Customer-facing",
+        "n": 6
+      },
+      {
+        "gold": "Professional Services",
+        "pred": "Healthcare",
+        "n": 4
+      },
+      {
+        "gold": "Tech & Data",
+        "pred": "Business Ops",
+        "n": 4
+      },
+      {
+        "gold": "Professional Services",
+        "pred": "Business Ops",
+        "n": 4
+      },
+      {
+        "gold": "Healthcare",
+        "pred": "Customer-facing",
+        "n": 4
+      }
+    ]
+  },
+  "selected_cv": {
+    "accuracy": 0.6886792452830188,
+    "n_used": 106,
+    "n_classes_used": 12,
+    "n_dropped_classes": 19,
+    "top_confusions": [
+      {
+        "gold": "Hospitality & Food",
+        "pred": "Retail Ops",
+        "n": 5
+      },
+      {
+        "gold": "Construction & Trades",
+        "pred": "Retail Ops",
+        "n": 3
+      },
+      {
+        "gold": "Supply Chain & Ops",
+        "pred": "Hospitality & Food",
+        "n": 3
+      },
+      {
+        "gold": "Other",
+        "pred": "Hospitality & Food",
+        "n": 2
+      },
+      {
+        "gold": "Finance & Accounting",
+        "pred": "Engineering (Non-software)",
+        "n": 2
+      }
+    ]
+  },
+  "linkedin_native_fields": null,
+  "note": "parquet has no job_function/industry. Fine 5-fold CV\u22480.69 on classes with n\u22655; coarse9 CV was lower. Ship fine labels to match gold taxonomy; title rules used only when classifier proba < min_proba."
+}

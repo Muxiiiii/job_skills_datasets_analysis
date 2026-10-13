@@ -1,0 +1,30 @@
+{
+  "n_jobs": 213856,
+  "n_skills": 280,
+  "min_skills": 3,
+  "min_skill_jobs": 50,
+  "k_grid": [
+    6,
+    8,
+    10,
+    12,
+    14,
+    16
+  ],
+  "sil_sample": 10000,
+  "k_nmf": 6,
+  "k_kmeans": 16,
+  "source": "outputs/full_v8/chunks (6 file(s))",
+  "classifier": {
+    "n_train": 135585,
+    "n_test": 33897,
+    "n_classes": 12,
+    "n_features": 280,
+    "include_other": false,
+    "accuracy": 0.4434905743871139,
+    "macro_f1": 0.43513993015733515,
+    "weighted_f1": 0.43494922078555187,
+    "baseline_majority_accuracy": 0.27527509809127654,
+    "baseline_majority_macro_f1": 0.03597591067517967
+  }
+}

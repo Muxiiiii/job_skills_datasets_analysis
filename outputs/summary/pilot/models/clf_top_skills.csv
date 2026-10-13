@@ -1,0 +1,121 @@
+position_group,rank,skill,coef
+Creative_Media,1,Architecture,3.8945565223693848
+Creative_Media,2,Prototyping,3.6937079429626465
+Creative_Media,3,Electrical Engineering,3.4780712127685547
+Creative_Media,4,AutoCAD,3.474553108215332
+Creative_Media,5,Content Marketing,3.407501459121704
+Creative_Media,6,Electrical Systems,3.186401844024658
+Creative_Media,7,Project Management,3.0408546924591064
+Creative_Media,8,Production,2.959892511367798
+Creative_Media,9,Merchandising,2.8826520442962646
+Creative_Media,10,MATLAB,2.8158035278320312
+Education,1,Curriculum Development,3.513983964920044
+Education,2,Clinical Training,2.411729574203491
+Education,3,First Aid,2.1136059761047363
+Education,4,Psychology,2.019441604614258
+Education,5,Assessment,1.8620693683624268
+Education,6,Clinical Skills,1.8311065435409546
+Education,7,Technical / Product Training,1.8255151510238647
+Education,8,Physical Security,1.7234946489334106
+Education,9,Mathematical Calculations,1.6881507635116577
+Education,10,Social Work,1.595132827758789
+Finance_Accounting,1,Accounting,7.1590776443481445
+Finance_Accounting,2,Financial Statements,3.4264724254608154
+Finance_Accounting,3,GAAP,3.338453531265259
+Finance_Accounting,4,Auditing,3.0166733264923096
+Finance_Accounting,5,Accounts Payable,2.909571409225464
+Finance_Accounting,6,Microsoft Excel,2.6522679328918457
+Finance_Accounting,7,Benefits Administration,2.646573066711426
+Finance_Accounting,8,Employee Relations,2.4247162342071533
+Finance_Accounting,9,Forklift Operation,2.375242233276367
+Finance_Accounting,10,Payroll,2.325204849243164
+Healthcare_Clinical,1,Surgery,3.145642042160034
+Healthcare_Clinical,2,Social Work,2.952338457107544
+Healthcare_Clinical,3,Patient Care,2.856415033340454
+Healthcare_Clinical,4,Psychology,2.7015812397003174
+Healthcare_Clinical,5,Radiology,2.665923595428467
+Healthcare_Clinical,6,Clinical Skills,2.4277536869049072
+Healthcare_Clinical,7,Dentistry,2.3345816135406494
+Healthcare_Clinical,8,Diagnosis,2.142806053161621
+Healthcare_Clinical,9,Critical Care,2.099860191345215
+Healthcare_Clinical,10,Internal Medicine,2.078287124633789
+Healthcare_Nursing,1,Nursing,8.89198112487793
+Healthcare_Nursing,2,Patient Care,3.5102431774139404
+Healthcare_Nursing,3,Medication Administration,3.4803996086120605
+Healthcare_Nursing,4,Clinical Skills,3.3957040309906006
+Healthcare_Nursing,5,Care Planning,3.2299563884735107
+Healthcare_Nursing,6,Surgery,3.1274914741516113
+Healthcare_Nursing,7,Infection Control,3.0176708698272705
+Healthcare_Nursing,8,Clinical Quality,2.823355197906494
+Healthcare_Nursing,9,Vital Signs,2.642397165298462
+Healthcare_Nursing,10,Phlebotomy,2.5976223945617676
+Hospitality_Food,1,Food Preparation,6.024864196777344
+Hospitality_Food,2,Restaurant Management,3.891636848449707
+Hospitality_Food,3,Food Safety,3.5687625408172607
+Hospitality_Food,4,Customer Service,3.150686025619507
+Hospitality_Food,5,Hospitality,3.0670793056488037
+Hospitality_Food,6,Sanitation,3.015143871307373
+Hospitality_Food,7,Merchandising,2.328596353530884
+Hospitality_Food,8,Food Service,2.2955780029296875
+Hospitality_Food,9,Inventory Management,2.06766676902771
+Hospitality_Food,10,Production,1.8194931745529175
+Legal_Compliance,1,Litigation,8.034420013427734
+Legal_Compliance,2,Case Management,4.71998929977417
+Legal_Compliance,3,Negotiation,4.472874164581299
+Legal_Compliance,4,Advocacy,3.3901822566986084
+Legal_Compliance,5,Real Estate Development,2.9269649982452393
+Legal_Compliance,6,Filing,2.5578854084014893
+Legal_Compliance,7,Computer Science,2.4825081825256348
+Legal_Compliance,8,Business / Org Development,2.291487216949463
+Legal_Compliance,9,Attention to Detail,2.2328805923461914
+Legal_Compliance,10,Procurement,2.2169928550720215
+Management_HR_Admin,1,Employee Relations,2.175642251968384
+Management_HR_Admin,2,Sales,2.1070971488952637
+Management_HR_Admin,3,SEO,2.106987953186035
+Management_HR_Admin,4,Administrative Support,2.100909471511841
+Management_HR_Admin,5,Restaurant Management,2.0789546966552734
+Management_HR_Admin,6,Accounting,2.0164735317230225
+Management_HR_Admin,7,Filing,1.9242099523544312
+Management_HR_Admin,8,Food Preparation,1.8049397468566895
+Management_HR_Admin,9,People Management,1.7740721702575684
+Management_HR_Admin,10,Social Work,1.735927700996399
+Sales_Customer,1,Sales,8.377196311950684
+Sales_Customer,2,Cashiering,3.7342238426208496
+Sales_Customer,3,Customer Service,3.2436413764953613
+Sales_Customer,4,Prospecting,2.7854740619659424
+Sales_Customer,5,SaaS,2.6342570781707764
+Sales_Customer,6,CRM,2.282025098800659
+Sales_Customer,7,Insurance,2.0482242107391357
+Sales_Customer,8,Evidence-Based Practice,1.9052971601486206
+Sales_Customer,9,Salesforce,1.90326726436615
+Sales_Customer,10,Retail / Store Operations,1.7775850296020508
+Science_Research,1,Clinical Analysis,7.127078533172607
+Science_Research,2,Chemistry,5.943591594696045
+Science_Research,3,Data Analysis,3.2279088497161865
+Science_Research,4,Troubleshooting,2.938758611679077
+Science_Research,5,Instrumentation,2.7858541011810303
+Science_Research,6,Python,2.7835516929626465
+Science_Research,7,Machine Learning,2.7670140266418457
+Science_Research,8,Oncology,2.653515100479126
+Science_Research,9,Quality Assurance,2.5556564331054688
+Science_Research,10,Product Development,2.4038004875183105
+Skilled_Trades_Ops,1,Civil Engineering,2.7432174682617188
+Skilled_Trades_Ops,2,Electrical Systems,2.715363025665283
+Skilled_Trades_Ops,3,Repair,2.6932897567749023
+Skilled_Trades_Ops,4,Testing,2.522251844406128
+Skilled_Trades_Ops,5,Forklift Operation,2.517956256866455
+Skilled_Trades_Ops,6,Equipment Operation,2.3919904232025146
+Skilled_Trades_Ops,7,Inspection,2.3766696453094482
+Skilled_Trades_Ops,8,Production,2.367745876312256
+Skilled_Trades_Ops,9,Preventive Maintenance,2.1675732135772705
+Skilled_Trades_Ops,10,Blueprints,2.1309304237365723
+Tech_Engineering,1,Testing,3.9719793796539307
+Tech_Engineering,2,Architecture,3.409273147583008
+Tech_Engineering,3,Mechanical Engineering,3.4058597087860107
+Tech_Engineering,4,Civil Engineering,3.3078079223632812
+Tech_Engineering,5,Revit,3.1303372383117676
+Tech_Engineering,6,AutoCAD,2.903822422027588
+Tech_Engineering,7,SolidWorks,2.494053363800049
+Tech_Engineering,8,JavaScript,2.3469202518463135
+Tech_Engineering,9,Project Management,2.292741537094116
+Tech_Engineering,10,Electrical Systems,2.17478346824646

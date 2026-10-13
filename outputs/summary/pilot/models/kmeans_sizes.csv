@@ -1,0 +1,17 @@
+cluster,n_jobs,top_position_groups,share_jobs
+0,7932,"Healthcare Clinical 31%, Management HR Admin 15%, Healthcare Nursing 15%",0.03709037857249738
+1,8902,"Management HR Admin 34%, Other 24%, Sales Customer 17%",0.04162614095466108
+2,9226,"Other 31%, Management HR Admin 21%, Sales Customer 12%",0.04314117911117762
+3,13731,"Skilled Trades Ops 26%, Management HR Admin 25%, Other 18%",0.06420675594792757
+4,6806,"Management HR Admin 27%, Other 22%, Sales Customer 18%",0.031825153374233126
+5,14086,"Management HR Admin 30%, Other 26%, Sales Customer 12%",0.06586675145892563
+6,14771,"Finance Accounting 61%, Management HR Admin 19%, Other 13%",0.06906984138859794
+7,17392,"Healthcare Nursing 41%, Healthcare Clinical 21%, Other 14%",0.08132575190782583
+8,9990,"Management HR Admin 31%, Other 21%, Hospitality Food 21%",0.04671367649259315
+9,12272,"Tech Engineering 36%, Skilled Trades Ops 19%, Management HR Admin 16%",0.05738440819991022
+10,35168,"Other 26%, Management HR Admin 24%, Education 9%",0.1644471045937453
+11,12153,"Sales Customer 72%, Other 13%, Management HR Admin 9%",0.0568279590004489
+12,8290,"Skilled Trades Ops 39%, Management HR Admin 18%, Other 18%",0.03876440221457429
+13,11062,"Other 23%, Management HR Admin 20%, Healthcare Clinical 14%",0.051726395331437976
+14,20305,"Management HR Admin 33%, Other 23%, Sales Customer 16%",0.09494706718539578
+15,11770,"Tech Engineering 37%, Other 25%, Management HR Admin 12%",0.05503703426604818

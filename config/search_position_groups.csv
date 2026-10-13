@@ -1,0 +1,1994 @@
+search_position,position_group,n_jobs
+Account Executive,Sales_Customer,19468
+Christian Science Nurse,Healthcare_Nursing,16048
+Consultant Education,Education,12138
+Change Person,Sales_Customer,12025
+Circulation-Sales Representative,Sales_Customer,10978
+Accountant,Finance_Accounting,9571
+Chef,Hospitality_Food,9559
+Agricultural-Research Engineer,Tech_Engineering,9549
+Extra,Sales_Customer,9338
+Car Inspector,Skilled_Trades_Ops,9230
+Dermatologist,Healthcare_Clinical,9031
+Assembler,Skilled_Trades_Ops,8738
+Bakery Supervisor,Hospitality_Food,8500
+Guide,Sales_Customer,8415
+Director Social,Management_HR_Admin,8319
+Nurse Practitioner,Healthcare_Nursing,8287
+Anesthesiologist,Healthcare_Clinical,8229
+Driver,Skilled_Trades_Ops,8170
+Architect,Tech_Engineering,8041
+Manager Benefits,Finance_Accounting,7966
+Counselor,Healthcare_Clinical,7845
+Recruiter,Sales_Customer,7638
+Manager Customer Service,Sales_Customer,7566
+Nurse Infection Control,Healthcare_Nursing,7470
+Nurse-Midwife,Healthcare_Nursing,7342
+Family Practitioner,Healthcare_Clinical,7305
+Aeronautical-Design Engineer,Tech_Engineering,7199
+Driver Supervisor,Skilled_Trades_Ops,7004
+Clerk General,Management_HR_Admin,6875
+Bridge Inspector,Skilled_Trades_Ops,6691
+Check Cashier,Sales_Customer,6678
+Biologist,Science_Research,6592
+Model,Sales_Customer,6587
+Nuclear Medicine Technologist,Healthcare_Clinical,6563
+Instructor,Education,6380
+Economist,Finance_Accounting,6301
+Special Effects Specialist,Skilled_Trades_Ops,6173
+Director Educational Program,Education,6103
+Art Therapist,Healthcare_Clinical,5934
+Manager Employment,Management_HR_Admin,5923
+Nurse School,Healthcare_Nursing,5896
+Nurse Office,Healthcare_Nursing,5857
+Lawyer,Legal_Compliance,5694
+Dental Assistant,Healthcare_Clinical,5693
+Nurse Anesthetist,Healthcare_Nursing,5615
+Producer,Creative_Media,5602
+Director Nursing Service,Healthcare_Nursing,5314
+Principal,Education,5173
+Companion,Healthcare_Clinical,5154
+Nurse Supervisor,Healthcare_Nursing,4984
+Nurse Consultant,Healthcare_Nursing,4959
+Manager Sales,Sales_Customer,4946
+Nurse Practical,Healthcare_Nursing,4931
+Building Consultant,Other,4929
+Auditor,Finance_Accounting,4900
+Barber,Other,4854
+Manager Personnel,Management_HR_Admin,4840
+Radiologic Technologist,Healthcare_Clinical,4755
+Medical Technologist,Healthcare_Clinical,4754
+Director Education,Education,4738
+Controls Designer,Creative_Media,4729
+Sales Agent Insurance,Sales_Customer,4709
+Manager Display,Management_HR_Admin,4678
+Manager Department,Management_HR_Admin,4656
+Director Stage,Management_HR_Admin,4627
+Nurse Staff Community Health,Healthcare_Nursing,4551
+Surgical Technician,Skilled_Trades_Ops,4488
+Manager Records Analysis,Management_HR_Admin,4483
+Veterinarian,Healthcare_Clinical,4477
+Page,Other,4343
+Computer Operator,Skilled_Trades_Ops,4312
+Scheduler,Other,4261
+Art Director,Management_HR_Admin,4257
+Clinical Therapist,Healthcare_Clinical,4205
+Second,Other,4202
+Charter,Other,4121
+Claim Examiner,Other,4046
+Cleaner,Other,4043
+Abstractor,Other,4037
+Equal-Opportunity Representative,Sales_Customer,4029
+Tax Preparer,Finance_Accounting,4019
+Guide Travel,Sales_Customer,3994
+Controller,Finance_Accounting,3962
+Pathologist,Healthcare_Clinical,3951
+Cook,Hospitality_Food,3895
+Head Coach,Other,3894
+Insurance Attorney,Legal_Compliance,3875
+Stand-In,Other,3848
+Retirement Officer,Other,3832
+River,Other,3815
+Chemical Engineer,Tech_Engineering,3796
+Food-Service Driver,Skilled_Trades_Ops,3787
+Host/Hostess,Other,3777
+Vendor,Other,3772
+Accountant Cost,Finance_Accounting,3765
+Starter,Other,3754
+Radiologist,Healthcare_Clinical,3703
+Management Analyst,Other,3670
+Gynecologist,Other,3666
+Electrical Supervisor,Management_HR_Admin,3663
+Civil Engineering Technician,Tech_Engineering,3662
+Administrative Assistant,Management_HR_Admin,3628
+Contact Clerk,Management_HR_Admin,3626
+Pharmacist,Healthcare_Clinical,3505
+Field Representative,Sales_Customer,3500
+Pressure Supervisor,Management_HR_Admin,3455
+Maintenance Supervisor,Skilled_Trades_Ops,3429
+General Practitioner,Other,3425
+Commercial Engineer,Tech_Engineering,3400
+Nurse Assistant,Healthcare_Nursing,3394
+Preparation Supervisor,Management_HR_Admin,3388
+Manager Compensation,Management_HR_Admin,3370
+Ticket Broker,Other,3338
+Designer,Creative_Media,3322
+Safety Manager,Management_HR_Admin,3311
+Field Contractor,Other,3291
+Tier,Other,3248
+Inspector,Skilled_Trades_Ops,3237
+Documentation Supervisor,Management_HR_Admin,3215
+Computer Programmer,Tech_Engineering,3214
+Job Analyst,Other,3178
+Personal Shopper,Other,3167
+Orderly,Other,3142
+Sales Attendant,Sales_Customer,3121
+Pediatrician,Other,3115
+Counselor Marriage And Family,Healthcare_Clinical,3108
+Nurse Head,Healthcare_Nursing,3073
+Radiation-Therapy Technologist,Healthcare_Clinical,3054
+Psychiatrist,Healthcare_Clinical,3044
+Transplant Coordinator,Management_HR_Admin,3037
+Manager Pool,Management_HR_Admin,3003
+Air-Conditioning Mechanic,Skilled_Trades_Ops,3002
+Dialysis Technician,Skilled_Trades_Ops,3000
+Assistant Principal,Education,2989
+Chemist,Science_Research,2980
+Rate Supervisor,Management_HR_Admin,2977
+Developer,Tech_Engineering,2969
+Manager Education And Training,Education,2949
+Accounting Clerk,Finance_Accounting,2949
+Customer Service Representative,Sales_Customer,2943
+Program Coordinator,Management_HR_Admin,2941
+Career-Guidance Technician,Skilled_Trades_Ops,2926
+Director Technical,Management_HR_Admin,2910
+Range Manager,Management_HR_Admin,2906
+Ultrasound Technologist,Healthcare_Clinical,2879
+Manager Internal Security,Management_HR_Admin,2867
+Administrative Clerk,Management_HR_Admin,2828
+Set-Key Driver,Skilled_Trades_Ops,2824
+Civil Engineer,Tech_Engineering,2817
+Acupuncturist,Other,2806
+Safety Engineer,Tech_Engineering,2805
+Dye-House Supervisor,Management_HR_Admin,2791
+Physician Assistant,Healthcare_Clinical,2753
+Handler,Other,2740
+Electrical Inspector,Skilled_Trades_Ops,2681
+Auxiliary-Equipment Operator,Skilled_Trades_Ops,2664
+Superintendent Sales,Sales_Customer,2601
+Superintendent Local,Other,2574
+Counter Supervisor,Management_HR_Admin,2542
+Fountain Server,Hospitality_Food,2537
+Kitchen Supervisor,Management_HR_Admin,2524
+Data Communications Analyst,Other,2521
+Athletic Trainer,Other,2503
+Dentist,Healthcare_Clinical,2485
+Procurement Engineer,Tech_Engineering,2476
+Physician Occupational,Healthcare_Clinical,2474
+Contract Administrator,Management_HR_Admin,2461
+Supervisor Chemical,Management_HR_Admin,2437
+Contract Specialist,Other,2430
+Magazine Supervisor,Management_HR_Admin,2413
+Home Attendant,Other,2397
+Instructor Physical,Education,2393
+Production Supervisor,Skilled_Trades_Ops,2299
+Supervisor,Management_HR_Admin,2299
+Supervisor Education,Education,2259
+Laboratory Technician,Skilled_Trades_Ops,2255
+Credit Authorizer,Other,2235
+Interpreter,Other,2228
+Tutor,Education,2222
+Data Base Administrator,Management_HR_Admin,2183
+Medical Assistant,Healthcare_Clinical,2154
+Supervisor Area,Management_HR_Admin,2139
+Buyer,Other,2109
+Cardiac Monitor Technician,Skilled_Trades_Ops,2106
+Documentation Engineer,Tech_Engineering,2106
+Car Hop,Other,2105
+Financial Planner,Finance_Accounting,2083
+Container Coordinator,Management_HR_Admin,2072
+Interior Designer,Creative_Media,2070
+Teller,Other,2047
+Judge,Other,2039
+Manager Stage,Management_HR_Admin,2033
+Psychologist Counseling,Healthcare_Clinical,2008
+Bartender,Hospitality_Food,1984
+Supervisor Inspection,Management_HR_Admin,1981
+Sous Chef,Hospitality_Food,1981
+Assistant Construction Superintendent,Skilled_Trades_Ops,1972
+Job Development Specialist,Other,1970
+Central-Office Equipment Engineer,Tech_Engineering,1960
+Physical Therapist,Healthcare_Clinical,1941
+Scanner,Other,1936
+Cardiologist,Healthcare_Clinical,1929
+Power-Transmission Engineer,Tech_Engineering,1910
+Surgeon,Healthcare_Clinical,1906
+Biochemistry Technologist,Healthcare_Clinical,1903
+Supervisor Shop,Management_HR_Admin,1903
+Budget Analyst,Other,1900
+Quality Assurance Analyst,Other,1900
+Production Helper,Skilled_Trades_Ops,1897
+Supervisor Files,Management_HR_Admin,1846
+Graduate Assistant,Other,1843
+Shop Supervisor,Management_HR_Admin,1838
+Dispatcher,Other,1835
+Printer,Other,1796
+Protective Officer,Other,1791
+Faculty Member College Or University,Other,1790
+Credit Counselor,Healthcare_Clinical,1789
+Maintenance Mechanic,Skilled_Trades_Ops,1781
+Internist,Other,1779
+Editorial Assistant,Other,1769
+Cashier Ii,Sales_Customer,1760
+Stock Supervisor,Management_HR_Admin,1760
+Medical-Laboratory Technician,Skilled_Trades_Ops,1751
+Conductor,Other,1744
+Computer Systems Hardware Analyst,Other,1741
+Nurse Private Duty,Healthcare_Nursing,1738
+Technical Support Specialist,Other,1718
+Sales Representative,Sales_Customer,1700
+Bar Attendant,Other,1696
+Value Engineer,Tech_Engineering,1691
+Nurse Licensed Practical,Healthcare_Nursing,1688
+Survival Specialist,Other,1676
+Housekeeper,Other,1664
+Clinical Psychologist,Healthcare_Clinical,1646
+Director Research,Management_HR_Admin,1641
+Hair Stylist,Other,1639
+Installer,Other,1618
+Psychiatric Technician,Healthcare_Clinical,1613
+Police Surgeon,Healthcare_Clinical,1609
+Supervisor Telephone Information,Management_HR_Admin,1606
+Neurologist,Healthcare_Clinical,1593
+Coordinator Of Rehabilitation Services,Management_HR_Admin,1588
+Baker Apprentice,Hospitality_Food,1585
+Cargo Checker,Other,1575
+Service Representative,Sales_Customer,1572
+Registered Representative,Sales_Customer,1557
+Bouncer,Other,1542
+Teacher,Education,1534
+Facilities Planner,Other,1530
+Baker Helper,Hospitality_Food,1512
+Dancer,Other,1508
+Orthopedic Assistant,Other,1503
+Psychologist Educational,Healthcare_Clinical,1503
+Chief Computer Programmer,Tech_Engineering,1500
+Storekeeper,Other,1494
+Double,Other,1493
+Electrical Engineer,Tech_Engineering,1487
+Sales Agent Business Services,Sales_Customer,1478
+Field Service Technician,Skilled_Trades_Ops,1476
+Research Associate,Science_Research,1466
+Director School Of Nursing,Healthcare_Nursing,1438
+Substance Abuse Counselor,Healthcare_Clinical,1437
+Manager Quality Control,Management_HR_Admin,1436
+Supervisor Line,Management_HR_Admin,1431
+Auditor Internal,Finance_Accounting,1423
+Manager Procurement Services,Management_HR_Admin,1394
+Development Mechanic,Skilled_Trades_Ops,1382
+Utilization-Review Coordinator,Management_HR_Admin,1380
+Assembler Product,Skilled_Trades_Ops,1378
+Secretary,Management_HR_Admin,1349
+Manager Contracts,Management_HR_Admin,1343
+Arbitrator,Other,1340
+Training Representative,Sales_Customer,1339
+Tax Clerk,Finance_Accounting,1337
+Psychologist School,Healthcare_Clinical,1330
+Medical Physicist,Other,1325
+Podiatrist,Other,1321
+Meter Reader,Other,1317
+Cook Apprentice,Hospitality_Food,1311
+Superintendent Service,Other,1301
+Ventilator,Other,1300
+Supervisor Cleaning,Management_HR_Admin,1299
+Supervisor Preparation Department,Management_HR_Admin,1280
+Bus Inspector,Skilled_Trades_Ops,1278
+Reader,Other,1273
+Electromechanical Technician,Skilled_Trades_Ops,1266
+Emergency Medical Services Coordinator,Management_HR_Admin,1266
+Data Entry Clerk,Management_HR_Admin,1265
+Nematologist,Other,1254
+Chart Clerk,Management_HR_Admin,1254
+Microbiologist,Other,1251
+Bookmobile Driver,Skilled_Trades_Ops,1219
+Manager Forms Analysis,Management_HR_Admin,1219
+Systems Analyst,Other,1212
+Property Coordinator,Management_HR_Admin,1198
+Historic-Site Administrator,Management_HR_Admin,1195
+Distribution-Field Engineer,Tech_Engineering,1191
+Goodwill Ambassador,Other,1184
+Veterinary Technician,Skilled_Trades_Ops,1181
+Program Assistant,Other,1171
+Director Athletic,Management_HR_Admin,1171
+Industrial Engineer,Tech_Engineering,1166
+Tax Attorney,Finance_Accounting,1163
+Immigration Inspector,Skilled_Trades_Ops,1154
+Computer Security Specialist,Other,1150
+Claims Clerk,Management_HR_Admin,1148
+Sales Representative General Merchandise,Sales_Customer,1142
+Cable Television Installer,Other,1133
+Urologist,Other,1128
+Vocational Rehabilitation Consultant,Other,1125
+Fitter,Other,1116
+Sales Representative Containers,Sales_Customer,1097
+Plumber Supervisor,Skilled_Trades_Ops,1093
+Service Supervisor Ii,Management_HR_Admin,1086
+Assembler Unit,Skilled_Trades_Ops,1081
+Travel Agent,Other,1080
+Assembly Technician,Skilled_Trades_Ops,1079
+Electronics Worker,Other,1076
+Electronics-Test Engineer,Tech_Engineering,1074
+Director Of Religious Activities,Management_HR_Admin,1069
+Nurse Supervisor Evening-Or-Night,Healthcare_Nursing,1060
+Supervisor Landscape,Management_HR_Admin,1058
+Bookkeeper,Finance_Accounting,1056
+Educational Specialist,Education,1053
+Manager Promotion,Management_HR_Admin,1052
+Investigator,Other,1030
+Accountant Tax,Finance_Accounting,1025
+Endodontist,Other,1020
+Electrical Technician,Skilled_Trades_Ops,1018
+Electrical-Research Engineer,Tech_Engineering,1012
+Chief Engineer,Tech_Engineering,1012
+Underwriting Clerk,Management_HR_Admin,1008
+Sales Representative Food Products,Sales_Customer,1006
+Billing Clerk,Management_HR_Admin,1003
+Plant Pathologist,Healthcare_Clinical,1002
+Physical Therapist Assistant,Healthcare_Clinical,994
+Air Analyst,Other,990
+Employee Relations Specialist,Other,988
+Accountant Systems,Finance_Accounting,975
+Merchandise Distributor,Other,971
+Solutions Operator,Skilled_Trades_Ops,965
+Standards Engineer,Tech_Engineering,963
+Mathematician,Other,958
+Tumor Registrar,Other,958
+Emergency Medical Technician,Skilled_Trades_Ops,944
+Automobile Mechanic,Skilled_Trades_Ops,938
+Pipe Fitter,Other,937
+Psychologist Social,Healthcare_Clinical,933
+Layer,Other,922
+Customer-Equipment Engineer,Tech_Engineering,922
+Coach Driver,Skilled_Trades_Ops,919
+Headwaiter/Headwaitress,Other,914
+Technical Coordinator,Management_HR_Admin,912
+Supervisor Properties,Management_HR_Admin,907
+Drummer,Other,901
+Food-Service Supervisor,Management_HR_Admin,893
+Supervisor Customer Services,Sales_Customer,886
+Perfusionist,Other,876
+Sales-Promotion Representative,Sales_Customer,876
+Modeler,Other,873
+Ophthalmologist,Other,866
+Polysomnographic Technician,Skilled_Trades_Ops,863
+Garde Manger,Other,857
+Tool Planner,Other,854
+Chauffeur,Other,853
+Butcher Apprentice,Other,850
+Training Technician,Skilled_Trades_Ops,847
+Research Subject,Science_Research,844
+Stock-Control Supervisor,Management_HR_Admin,839
+Manager Employee Welfare,Management_HR_Admin,827
+Leader Tier,Other,822
+Balance Assembler,Skilled_Trades_Ops,821
+Test Fixture Designer,Creative_Media,810
+Router,Other,810
+Materials Engineer,Tech_Engineering,809
+Investment Analyst,Other,804
+Cost-And-Sales-Record Supervisor,Sales_Customer,802
+Music Copyist,Other,801
+Real-Estate Clerk,Management_HR_Admin,800
+Automobile Detailer,Other,790
+Software Engineer,Tech_Engineering,789
+Manager Reports Analysis,Management_HR_Admin,782
+Supervisor V,Management_HR_Admin,782
+Baker,Hospitality_Food,781
+Group-Sales Representative,Sales_Customer,778
+Instructor Extension Work,Education,773
+Dining Room Attendant,Other,771
+Acrobat,Other,764
+Cutter,Other,757
+Customer-Facilities Supervisor,Management_HR_Admin,754
+Communications Consultant,Other,750
+Zoo Veterinarian,Healthcare_Clinical,748
+Lead Former,Other,746
+Utility Worker,Other,742
+Electrician,Skilled_Trades_Ops,739
+Manufacturing Engineer,Tech_Engineering,734
+Psychiatric Aide,Healthcare_Clinical,731
+Credit-Card Clerk,Management_HR_Admin,730
+Paramedic,Healthcare_Clinical,728
+Supervisor Delivery Department,Management_HR_Admin,724
+Residence Counselor,Healthcare_Clinical,721
+Electrical Test Engineer,Tech_Engineering,717
+Environmental Analyst,Other,715
+Appointment Clerk,Management_HR_Admin,713
+Maintenance Data Analyst,Tech_Engineering,709
+Educational Resource Coordinator,Education,708
+Take-Up Operator,Skilled_Trades_Ops,707
+Card Player,Other,707
+Rehabilitation Clerk,Management_HR_Admin,706
+Control Operator,Skilled_Trades_Ops,706
+Creative Director,Management_HR_Admin,705
+Land Surveyor,Other,702
+Certification And Selection Specialist,Other,693
+Human Resource Advisor,Management_HR_Admin,686
+Psychic Reader,Other,685
+Supervisor Drawing,Management_HR_Admin,682
+Buyer Assistant,Other,672
+Grant Coordinator,Management_HR_Admin,669
+Manager Advertising,Management_HR_Admin,669
+Dock Hand,Other,666
+Production Coordinator,Skilled_Trades_Ops,662
+Color Maker,Other,659
+Logistics Engineer,Tech_Engineering,656
+Medical Secretary,Management_HR_Admin,652
+Structural Engineer,Tech_Engineering,649
+Director Translation,Management_HR_Admin,647
+Information Scientist,Science_Research,647
+Airframe-And-Power-Plant Mechanic,Skilled_Trades_Ops,637
+Sanitary Engineer,Tech_Engineering,637
+Guard Security,Other,634
+Instructor Business Education,Education,628
+Budget Officer,Other,626
+Plumber,Skilled_Trades_Ops,625
+Technical Operator,Skilled_Trades_Ops,624
+Nurse Supervisor Community-Health Nursing,Healthcare_Nursing,624
+Screen Operator,Skilled_Trades_Ops,622
+Occupational Therapy Assistant,Healthcare_Clinical,619
+Engineer Of System Development,Tech_Engineering,618
+Train Clerk,Management_HR_Admin,617
+Supervisor Matrix,Management_HR_Admin,616
+Beach Lifeguard,Other,613
+Clergy Member,Other,610
+Preparer,Other,609
+Supervisor Mapping,Management_HR_Admin,606
+Hearing Officer,Other,606
+Finishing Inspector,Skilled_Trades_Ops,604
+Supervisor Travel-Information Center,Management_HR_Admin,603
+Manager Camp,Management_HR_Admin,602
+Automatic-Equipment Technician,Skilled_Trades_Ops,597
+Sales-Service Promoter,Sales_Customer,587
+Supervisor Channel Process,Management_HR_Admin,578
+Electrical-Installation Supervisor,Management_HR_Admin,576
+Supervisor Operations,Management_HR_Admin,575
+Recreational Therapist,Healthcare_Clinical,574
+Phlebotomist,Healthcare_Clinical,574
+Supervisor Trust Accounts,Management_HR_Admin,571
+Post-Office Clerk,Management_HR_Admin,570
+Counter Hand,Other,569
+Reliability Engineer,Tech_Engineering,567
+Critic,Other,567
+Telecommunicator,Other,566
+Meat Clerk,Management_HR_Admin,562
+Pattern-Shop Supervisor,Management_HR_Admin,561
+Actuary,Other,560
+Electrician Supervisor,Skilled_Trades_Ops,560
+Programmer-Analyst,Tech_Engineering,559
+Supervisor Pipelines,Management_HR_Admin,558
+Title Supervisor,Management_HR_Admin,556
+Landscape Gardener,Other,556
+Transportation Engineer,Tech_Engineering,555
+Waiter/Waitress,Hospitality_Food,553
+Laboratory Manager,Management_HR_Admin,551
+Genealogist,Other,550
+Geologist,Other,548
+Cement Mason,Other,547
+Pulmonary-Function Technician,Skilled_Trades_Ops,547
+Paralegal,Legal_Compliance,545
+Customer Services Coordinator,Sales_Customer,541
+Director Radio,Management_HR_Admin,540
+Supervisor Maintenance,Skilled_Trades_Ops,540
+Supervisor Coffee,Management_HR_Admin,540
+Distribution Supervisor,Management_HR_Admin,540
+Gas Inspector,Skilled_Trades_Ops,539
+Processor,Other,539
+Equipment Cleaner,Other,537
+Payroll Clerk,Finance_Accounting,536
+Service Supervisor I,Management_HR_Admin,536
+Quality Assurance Monitor,Other,536
+Airport Engineer,Tech_Engineering,533
+Instructor Sports,Education,531
+Barge Captain,Other,530
+Color Developer,Tech_Engineering,530
+Field Engineer Specialist,Tech_Engineering,527
+Registration Clerk,Management_HR_Admin,527
+Adjuster,Other,525
+Superintendent Track,Other,518
+Supervisor Net Making,Management_HR_Admin,517
+Communication-Center Operator,Skilled_Trades_Ops,516
+Supervisor Cutting Department,Management_HR_Admin,515
+Exercise Physiologist,Other,514
+Production Assistant,Skilled_Trades_Ops,514
+Liaison Engineer,Tech_Engineering,513
+Automotive Engineer,Tech_Engineering,507
+Load-Out Supervisor,Management_HR_Admin,505
+Electrical-Design Engineer,Tech_Engineering,504
+Court Clerk,Management_HR_Admin,503
+Mortgage Clerk,Management_HR_Admin,503
+Fire Inspector,Skilled_Trades_Ops,502
+Supervisor Vendor Quality,Management_HR_Admin,500
+Supervisor Accounts Receivable,Management_HR_Admin,497
+Speech Pathologist,Healthcare_Clinical,494
+Bench Carpenter,Skilled_Trades_Ops,493
+Lawyer Patent,Legal_Compliance,493
+Home-Service Director,Management_HR_Admin,492
+Mill Operator,Skilled_Trades_Ops,491
+Receptionist,Management_HR_Admin,487
+Project Engineer,Tech_Engineering,486
+Regulatory Administrator,Management_HR_Admin,485
+Manager Advertising Agency,Management_HR_Admin,482
+Research Mechanic,Skilled_Trades_Ops,480
+Industrial Hygienist,Healthcare_Clinical,476
+Hydraulic Engineer,Tech_Engineering,476
+Supervisor Sample,Management_HR_Admin,476
+Policy-Change Clerk,Management_HR_Admin,474
+Mechanical Engineer,Tech_Engineering,474
+Assembly Inspector,Skilled_Trades_Ops,472
+Pipeline Construction Inspector,Skilled_Trades_Ops,467
+Applications Engineer Manufacturing,Tech_Engineering,467
+Dietitian Clinical,Other,466
+Blood-Donor Recruiter,Sales_Customer,465
+Usher,Other,464
+Manufacturer'S Representative,Sales_Customer,461
+Credit Analyst,Other,460
+Utilization Engineer,Tech_Engineering,460
+Progress Clerk,Management_HR_Admin,460
+Hands Assembler,Skilled_Trades_Ops,459
+Host/Hostess Ground,Other,457
+Public-Safety Officer,Other,453
+Criminalist,Other,453
+Escort,Other,451
+Supervisor Identification And Communications,Management_HR_Admin,451
+Folder,Other,451
+Audiovisual Production Specialist,Skilled_Trades_Ops,450
+Field Cashier,Sales_Customer,448
+Health Physicist,Other,447
+Production Planner,Skilled_Trades_Ops,445
+Industrial-Health Engineer,Tech_Engineering,441
+Day Worker,Other,441
+Examiner,Other,440
+Instructor Driving,Education,440
+Animal Scientist,Science_Research,439
+Safety Inspector,Skilled_Trades_Ops,437
+Intelligence Specialist,Other,435
+Manager Regulated Program,Management_HR_Admin,434
+Child Monitor,Other,433
+Foreign-Student Adviser,Other,432
+Director Of Counseling,Management_HR_Admin,432
+Pediatric Dentist,Healthcare_Clinical,432
+Systems Programmer,Tech_Engineering,430
+Mechanical Research Engineer,Tech_Engineering,427
+Grip,Other,426
+Electro-Optical Engineer,Tech_Engineering,422
+Butler,Other,422
+Laboratory Supervisor,Management_HR_Admin,421
+Teacher Music,Education,418
+Surveyor Helper,Other,417
+Guide Establishment,Sales_Customer,416
+Fitter I,Other,415
+Actor,Other,414
+Occupational Therapist,Healthcare_Clinical,414
+Production Engineer,Tech_Engineering,412
+Slitter,Other,405
+Accountant Property,Finance_Accounting,404
+Nuclear Engineer,Tech_Engineering,402
+Nurse Instructor,Healthcare_Nursing,402
+Order Runner,Other,401
+Lead Handler,Other,400
+Operations-Research Analyst,Science_Research,399
+Tanker,Other,398
+Lawyer Probate,Legal_Compliance,397
+Assembly Supervisor,Management_HR_Admin,396
+Aquatic Biologist,Science_Research,395
+Media Director,Management_HR_Admin,393
+Baggage Handler,Other,393
+Recreation-Facility Attendant,Other,392
+Pastry Chef,Hospitality_Food,391
+Psychologist Developmental,Healthcare_Clinical,389
+Certified Medication Technician,Skilled_Trades_Ops,386
+Child-Care Attendant School,Education,386
+Lawyer Criminal,Legal_Compliance,386
+Tool Grinder I,Other,386
+Operating Engineer,Tech_Engineering,385
+Model Artists',Sales_Customer,383
+Cooper,Other,381
+Archivist,Other,379
+Reporter,Other,378
+Parts Clerk,Management_HR_Admin,378
+Form Builder,Other,377
+Pager,Other,374
+Audit Clerk,Management_HR_Admin,373
+Turner,Other,372
+Department Head College Or University,Other,372
+Gate Guard,Other,372
+Process Server,Hospitality_Food,369
+Supervisor Lending Activities,Management_HR_Admin,369
+Supervisor Agency Appointments,Management_HR_Admin,368
+Communication-Center Coordinator,Management_HR_Admin,366
+Food-And-Beverage Controller,Finance_Accounting,364
+Occupational Analyst,Other,364
+Illustrator,Other,363
+Pressure Controller,Finance_Accounting,362
+Safety Coordinator,Management_HR_Admin,361
+Veterinary Pathologist,Healthcare_Clinical,360
+Driver-Utility Worker,Skilled_Trades_Ops,360
+Supervisor Screen Making,Management_HR_Admin,359
+Data Communications Technician,Skilled_Trades_Ops,359
+Operations And Intelligence Assistant,Other,353
+Plant Engineer,Tech_Engineering,351
+Recruit Instructor,Education,351
+Registrar,Other,350
+Nurse Supervisor Occupational Health Nursing,Healthcare_Nursing,348
+Historian,Other,347
+Chemical Laboratory Technician,Skilled_Trades_Ops,345
+Supervisor Grading,Management_HR_Admin,345
+Collection Clerk,Management_HR_Admin,344
+Financial-Aids Officer,Finance_Accounting,343
+Osteopathic Physician,Healthcare_Clinical,343
+Caption Writer,Creative_Media,342
+Die-Maker Apprentice,Other,340
+Light Technician,Skilled_Trades_Ops,340
+Bursar,Other,339
+Evaluator,Other,338
+Optician,Other,337
+Supervisor Show Operations,Management_HR_Admin,336
+Programmer Engineering And Scientific,Tech_Engineering,334
+Public Health Physician,Healthcare_Clinical,333
+Camera Operator,Skilled_Trades_Ops,333
+Baler,Other,332
+Trust Operations Assistant,Other,330
+Weed Inspector,Skilled_Trades_Ops,329
+Instrument Technician,Skilled_Trades_Ops,326
+Reports Analyst,Other,325
+Warehouse Supervisor,Skilled_Trades_Ops,322
+Express Clerk,Management_HR_Admin,322
+Director Television,Management_HR_Admin,322
+Customs Inspector,Skilled_Trades_Ops,321
+Counselor Nurses Association,Healthcare_Nursing,321
+Supervisor I,Management_HR_Admin,317
+Dispatcher Service,Other,316
+Supervisor Inspecting,Management_HR_Admin,316
+Customer-Service Clerk,Management_HR_Admin,315
+Top Former,Other,315
+Fire-Protection Engineer,Tech_Engineering,314
+Oral And Maxillofacial Surgeon,Healthcare_Clinical,313
+Medical-Service Technician,Skilled_Trades_Ops,313
+Traffic Clerk,Management_HR_Admin,313
+Supervisor Fitting,Management_HR_Admin,309
+Test Worker,Other,309
+Scout,Other,308
+Shop Estimator,Other,307
+School Secretary,Education,306
+Detective,Other,305
+Blending Supervisor,Management_HR_Admin,305
+Procurement Clerk,Management_HR_Admin,305
+Pharmacy Technician,Skilled_Trades_Ops,305
+Supervisor Line Department,Management_HR_Admin,304
+Locker-Room Attendant,Other,304
+Supervisor Customer-Complaint Service,Management_HR_Admin,304
+Laboratory Clerk,Management_HR_Admin,302
+Caller,Other,302
+Porter,Other,301
+Electronics Engineer,Tech_Engineering,301
+Sample-Room Supervisor,Management_HR_Admin,298
+Frame Hand,Other,298
+Biochemist,Other,297
+Color Tester,Other,296
+Pastoral Assistant,Other,296
+Exhibit Builder,Other,295
+Binder,Other,293
+Computer Security Coordinator,Management_HR_Admin,292
+Technical Training Coordinator,Management_HR_Admin,291
+Supervisor Logging,Management_HR_Admin,290
+Boiler,Other,290
+Dean Of Students,Other,288
+Supervisor Bonding,Management_HR_Admin,288
+Assignment Editor,Creative_Media,288
+Company Laborer,Skilled_Trades_Ops,287
+Configuration Management Analyst,Other,286
+Carpenter Maintenance,Skilled_Trades_Ops,286
+Vector Control Assistant,Other,286
+Sales Representative Advertising,Sales_Customer,286
+Supervisor Refining,Management_HR_Admin,285
+Quality Assurance Supervisor,Management_HR_Admin,285
+Fire-Protection Engineering Technician,Tech_Engineering,284
+Chiropractor,Healthcare_Clinical,283
+Supervisor Laundry,Management_HR_Admin,282
+Sales Representative Safety Apparel And Equipment,Sales_Customer,279
+Instructor Modeling,Education,277
+Membership Solicitor,Legal_Compliance,276
+Flagger,Other,275
+Gate Agent,Other,275
+Electronics Assembler,Skilled_Trades_Ops,275
+Refrigeration Mechanic,Skilled_Trades_Ops,274
+Director Utility Accounts,Management_HR_Admin,274
+Food Checker,Other,273
+Supervisor Model Making,Sales_Customer,273
+Fuller,Other,272
+Material Coordinator,Management_HR_Admin,271
+Horse Trainer,Other,271
+Collector,Other,270
+Bricklayer Supervisor,Management_HR_Admin,269
+Intelligence Research Specialist,Science_Research,269
+Supervisor Painting,Management_HR_Admin,268
+Reviewer,Other,268
+Production Manager Advertising,Skilled_Trades_Ops,268
+Optometrist,Healthcare_Clinical,267
+Part Maker,Other,265
+Chiropractor Assistant,Healthcare_Clinical,264
+Manager Labor Relations,Management_HR_Admin,262
+Tool Grinder Ii,Other,262
+Personnel Scheduler,Other,261
+Archeologist,Other,261
+Job Printer,Other,260
+Dispatcher Service Or Work,Other,259
+Millwright,Other,258
+Dog Groomer,Other,256
+Foot Worker,Other,255
+Currency Counter,Other,255
+Nurse Staff Occupational Health Nursing,Healthcare_Nursing,253
+Supervisor Claims,Management_HR_Admin,252
+Title Attorney,Legal_Compliance,252
+Locksmith,Other,252
+Supervisor Inspection And Testing,Management_HR_Admin,251
+Magician,Other,249
+Appeals Referee,Other,249
+Respiratory Therapist,Healthcare_Clinical,249
+Process Controller,Finance_Accounting,248
+Quality-Control Checker,Other,246
+Correction Officer,Other,245
+Personnel Recruiter,Sales_Customer,245
+Customs Import Specialist,Other,245
+Car-Wash Supervisor,Management_HR_Admin,244
+Salesperson General Merchandise,Other,244
+Cosmetologist,Other,244
+Line Supervisor,Management_HR_Admin,243
+Sorting Supervisor,Management_HR_Admin,241
+Sandwich Maker,Other,241
+Miller,Other,240
+Hospital-Insurance Representative,Sales_Customer,239
+Supervisor Vi,Management_HR_Admin,238
+Chief Bank Examiner,Other,238
+Public-Relations Representative,Sales_Customer,235
+Planetarium Technician,Skilled_Trades_Ops,235
+Copy Holder,Other,235
+Supervisor Fabrication,Management_HR_Admin,234
+Supervisor Picking,Management_HR_Admin,233
+Horticulturist,Other,232
+Schedule Maker,Other,232
+Director Of Admissions,Management_HR_Admin,232
+Can Inspector,Skilled_Trades_Ops,231
+Supply Clerk,Management_HR_Admin,230
+Director Day Care Center,Management_HR_Admin,230
+Manager Reservations,Management_HR_Admin,229
+Booking Clerk,Management_HR_Admin,229
+Opener,Other,229
+Audiovisual Technician,Skilled_Trades_Ops,228
+Stock Fitter,Other,228
+Utilities-And-Maintenance Supervisor,Skilled_Trades_Ops,227
+Communications Technician,Skilled_Trades_Ops,226
+Material Expediter,Other,226
+Treasurer,Other,224
+Kitchen Clerk,Management_HR_Admin,224
+Guide Plant,Sales_Customer,224
+Press Supervisor,Management_HR_Admin,224
+Mining Engineer,Tech_Engineering,224
+Stretcher,Other,223
+Physical-Integration Practitioner,Other,222
+Laboratory Assistant,Science_Research,221
+Field Service Engineer,Tech_Engineering,220
+Tourist-Information Assistant,Other,220
+Equestrian,Other,219
+Personnel Clerk,Management_HR_Admin,217
+Supervisor Yard,Management_HR_Admin,216
+Stress Analyst,Other,216
+Caretaker,Other,215
+Scheduler Maintenance,Skilled_Trades_Ops,215
+Building Inspector,Skilled_Trades_Ops,214
+Supervisor Aircraft Maintenance,Skilled_Trades_Ops,213
+Director Fundraising,Management_HR_Admin,212
+Hazardous-Waste Management Specialist,Other,212
+Personal Attendant,Other,211
+Mechanical-Design Engineer Products,Tech_Engineering,211
+Stock Control Clerk,Management_HR_Admin,211
+Sales Representative Financial Services,Sales_Customer,210
+Supervisor Mill,Management_HR_Admin,209
+Carpenter,Skilled_Trades_Ops,209
+Welding Engineer,Tech_Engineering,209
+Analyst Food And Beverage,Other,209
+Continuity Director,Management_HR_Admin,207
+Service Clerk,Management_HR_Admin,207
+Tester,Other,207
+Plant Operator,Skilled_Trades_Ops,207
+Orthodontist,Other,206
+Central-Office Installer,Management_HR_Admin,206
+Buffer,Other,206
+Pattern Hand,Other,206
+Sales Clerk,Sales_Customer,205
+Supervisor Plastics,Management_HR_Admin,205
+Playwright,Other,202
+Compressor,Other,202
+Engine-Testing Supervisor,Management_HR_Admin,201
+Picker,Other,200
+Field-Contact Technician,Skilled_Trades_Ops,200
+Material Handler,Other,200
+Cook Helper,Hospitality_Food,199
+Supervisor Processing,Management_HR_Admin,198
+Salesperson Parts,Other,197
+Test Technician,Skilled_Trades_Ops,196
+Complaint Evaluation Supervisor,Management_HR_Admin,195
+Supervisor Tower,Management_HR_Admin,195
+Medical Radiation Dosimetrist,Other,194
+Rubber,Other,194
+Painter,Other,193
+Instructor Physical Education,Education,193
+Dietetic Technician,Skilled_Trades_Ops,192
+Insurance Clerk,Management_HR_Admin,191
+Host/Hostess Restaurant,Hospitality_Food,191
+Scientific Glass Blower,Other,191
+Conservation Technician,Skilled_Trades_Ops,190
+Finer,Other,190
+Counselor Camp,Healthcare_Clinical,189
+Biomedical Engineer,Tech_Engineering,189
+Roller,Other,188
+Home Economist,Finance_Accounting,188
+Health Officer Field,Other,187
+Cashier Courtesy Booth,Sales_Customer,187
+Manicurist,Other,187
+Microelectronics Technician,Skilled_Trades_Ops,186
+Physical Therapy Aide,Healthcare_Clinical,185
+Sales Representative School Equipment And Supplies,Education,184
+User Support Analyst,Other,183
+Call-Out Operator,Skilled_Trades_Ops,183
+Laser Technician,Skilled_Trades_Ops,183
+Cytotechnologist,Other,182
+Director Extension Work,Management_HR_Admin,182
+Inventory Clerk,Management_HR_Admin,181
+Pollution-Control Technician,Skilled_Trades_Ops,181
+Landscape Architect,Tech_Engineering,181
+Prize Coordinator,Management_HR_Admin,180
+Translator,Other,180
+Section Supervisor,Management_HR_Admin,178
+Director Records Management,Management_HR_Admin,178
+Property-Assessment Monitor,Other,177
+Orchestrator,Other,177
+Audiologist,Other,177
+Public Health Educator,Other,177
+File Clerk Ii,Management_HR_Admin,176
+Infantry Unit Leader,Other,175
+Overhead Crane Operator,Skilled_Trades_Ops,175
+Dietitian Research,Science_Research,175
+Supervisor Cashiers,Management_HR_Admin,175
+Inspection Supervisor,Management_HR_Admin,174
+Reserves Clerk,Management_HR_Admin,174
+Museum Technician,Skilled_Trades_Ops,174
+Janitor,Other,173
+Drill-Press Operator,Skilled_Trades_Ops,173
+Sales Attendant Building Materials,Sales_Customer,173
+Stenographer,Other,172
+Set-Up Worker,Other,172
+Electronics Technician,Skilled_Trades_Ops,171
+Glass Cutter,Other,170
+Pollution-Control Engineer,Tech_Engineering,170
+Research-Contracts Supervisor,Management_HR_Admin,170
+Communications Coordinator,Management_HR_Admin,170
+Contestant Coordinator,Management_HR_Admin,170
+Audiovisual Librarian,Other,169
+Political Scientist,Science_Research,169
+Printer Machine,Other,169
+Production Engineer Track,Tech_Engineering,168
+Chief Petroleum Engineer,Tech_Engineering,166
+Weather Clerk,Management_HR_Admin,166
+Waiter/Waitress Bar,Hospitality_Food,166
+Music Therapist,Healthcare_Clinical,165
+Color Expert,Other,165
+Material-Handling Supervisor,Management_HR_Admin,164
+Continuity Clerk,Management_HR_Admin,163
+Graphic Designer,Creative_Media,162
+Quality Assurance Coordinator,Management_HR_Admin,160
+Director Media Marketing,Management_HR_Admin,160
+General-Handling Supervisor,Management_HR_Admin,160
+Special Agent,Other,159
+Occupational-Safety-And-Health Inspector,Skilled_Trades_Ops,159
+Experimental Mechanic,Skilled_Trades_Ops,159
+Demonstrator,Other,158
+Quality-Control Supervisor,Management_HR_Admin,158
+Bed Operator,Skilled_Trades_Ops,157
+Supervisor Pipeline Maintenance,Skilled_Trades_Ops,157
+Detailer,Other,156
+Plant Supervisor,Management_HR_Admin,155
+Credit Clerk,Management_HR_Admin,154
+Technician Plant And Maintenance,Skilled_Trades_Ops,154
+Line Maintainer,Other,154
+Director Of Placement,Management_HR_Admin,153
+Supervisor Electronics Processing,Management_HR_Admin,152
+Finisher,Other,152
+Supervisor Preparation Plant,Management_HR_Admin,151
+Identification Clerk,Management_HR_Admin,151
+Flyer,Other,151
+Purchasing Agent,Other,150
+Building Cleaner,Other,150
+Market-Research Analyst I,Science_Research,148
+Director Field Services,Management_HR_Admin,148
+Supervisor Gate Services,Management_HR_Admin,147
+Supervisor Dock,Management_HR_Admin,147
+Night Auditor,Finance_Accounting,146
+Lifeguard,Other,146
+Supervisor Cell Operation,Management_HR_Admin,145
+Instrument Inspector,Skilled_Trades_Ops,145
+Office-Machine-Service Supervisor,Management_HR_Admin,145
+Mold Maker,Other,145
+Mechanical-Maintenance Supervisor,Skilled_Trades_Ops,144
+Director Special Education,Education,143
+Chemical-Engineering Technician,Tech_Engineering,143
+Legal Secretary,Management_HR_Admin,143
+Instructor Technical Training,Education,142
+Flight Engineer,Tech_Engineering,142
+Stocking-And-Box-Shop Supervisor,Management_HR_Admin,142
+Tool-And-Die Supervisor,Management_HR_Admin,141
+Veterinarian Laboratory Animal Care,Healthcare_Clinical,141
+Packer,Other,141
+Director Dental Services,Healthcare_Clinical,140
+Welding Technician,Skilled_Trades_Ops,139
+Entomologist,Other,139
+Mechanical-Engineering Technician,Tech_Engineering,139
+Elevator Constructor,Other,138
+Ceramic Engineer,Tech_Engineering,138
+Teller Head,Other,137
+Supervisor Production,Skilled_Trades_Ops,137
+General-Ledger Bookkeeper,Finance_Accounting,137
+Park Aide,Other,137
+Reproduction Technician,Skilled_Trades_Ops,137
+Loader,Other,135
+Housecleaner,Other,134
+Cook Fast Food,Hospitality_Food,132
+Recorder,Other,132
+Engineering Assistant Mechanical Equipment,Tech_Engineering,131
+Representative Personal Service,Sales_Customer,131
+Loading-Machine Tool-Setter,Other,131
+Rolling-Mill Operator,Skilled_Trades_Ops,130
+Admitting Officer,Other,130
+District Attorney,Legal_Compliance,130
+Lead Operator,Skilled_Trades_Ops,130
+Medical-Record Clerk,Management_HR_Admin,128
+Floor Worker,Other,128
+Checker,Other,128
+Editor Department,Creative_Media,128
+Supervisor Loading And Unloading,Management_HR_Admin,127
+Foster Parent,Other,126
+Electronics Inspector,Skilled_Trades_Ops,126
+Miller Supervisor,Management_HR_Admin,126
+News Assistant,Other,125
+Irrigation Engineer,Tech_Engineering,124
+Aeronautical Engineer,Tech_Engineering,124
+Bookmobile Librarian,Other,124
+Room-Service Clerk,Management_HR_Admin,124
+Routing Clerk,Management_HR_Admin,123
+Mortgage Loan Processor,Other,123
+Process Inspector,Skilled_Trades_Ops,123
+Costumer,Other,123
+Secretary Of Police,Management_HR_Admin,123
+Librarian,Other,123
+Cable Supervisor,Management_HR_Admin,123
+Manager Athlete,Management_HR_Admin,121
+Electrician Supervisor Substation,Skilled_Trades_Ops,121
+Packaging Engineer,Tech_Engineering,120
+Electrician Office,Skilled_Trades_Ops,120
+Election Clerk,Management_HR_Admin,120
+Floral Designer,Creative_Media,120
+Lot Attendant,Other,120
+Liner,Other,119
+Breaker,Other,119
+Marine Engineer,Tech_Engineering,118
+Counter Clerk,Management_HR_Admin,118
+Warm-In Worker,Other,118
+Test Equipment Mechanic,Skilled_Trades_Ops,118
+Unit Clerk,Management_HR_Admin,118
+Supervisor Cell-Efficiency,Management_HR_Admin,118
+Industrial Engineering Technician,Tech_Engineering,118
+Sales Agent Financial-Report Service,Sales_Customer,117
+Power-Distribution Engineer,Tech_Engineering,117
+Farmer General,Other,117
+Mill Supervisor,Management_HR_Admin,116
+Mechanical-Design Engineer Facilities,Tech_Engineering,116
+Quality Control Engineer,Tech_Engineering,115
+Electrical Engineer Power System,Tech_Engineering,115
+Supervisor Garage,Management_HR_Admin,115
+Electrician Research,Skilled_Trades_Ops,115
+Crusher Supervisor,Management_HR_Admin,114
+Sales Representative Signs,Sales_Customer,113
+Director Music,Management_HR_Admin,113
+Supervisor Quality Control,Management_HR_Admin,112
+Supervisor Iv,Management_HR_Admin,112
+Supervisor Animal Maintenance,Skilled_Trades_Ops,111
+Excavator,Other,110
+Supervisor Sheet Manufacturing,Skilled_Trades_Ops,110
+Supervisor Laboratory,Management_HR_Admin,110
+Geophysicist,Other,109
+Complaint Clerk,Management_HR_Admin,109
+Feeder,Other,108
+Salesperson Furniture,Other,108
+Registrar College Or University,Other,108
+Director Instructional Material,Management_HR_Admin,108
+Building-Insulation Supervisor,Management_HR_Admin,107
+Instrumentation Technician,Skilled_Trades_Ops,107
+Stock Clerk,Management_HR_Admin,107
+Title Clerk,Management_HR_Admin,107
+Supervisor Parking Lot,Management_HR_Admin,106
+Supervisor Specialty Food Products,Management_HR_Admin,106
+Shipping And Receiving Clerk,Management_HR_Admin,106
+Transportation Agent,Other,105
+Manufacturer'S Service Representative,Sales_Customer,105
+Former Hand,Other,105
+Treating Engineer,Tech_Engineering,105
+Clearing Supervisor,Management_HR_Admin,105
+Model Builder,Sales_Customer,104
+Fashion Designer,Creative_Media,104
+Optician Apprentice,Other,104
+Booking Supervisor,Management_HR_Admin,103
+Forest Ecologist,Other,103
+Boxing Inspector,Skilled_Trades_Ops,102
+General Helper,Other,102
+Motor Operator,Skilled_Trades_Ops,102
+Packaging Supervisor,Management_HR_Admin,102
+Test Engineer Mechanical Equipment,Tech_Engineering,102
+Shipping-And-Receiving Supervisor,Management_HR_Admin,102
+Placer,Other,101
+Engineering-Document-Control Clerk,Tech_Engineering,101
+Maintainability Engineer,Tech_Engineering,100
+Music Librarian,Other,100
+Police Aide,Other,100
+Handle Maker,Other,99
+Deck Engineer,Tech_Engineering,99
+Draper,Other,99
+Supervisor Ii,Management_HR_Admin,99
+Supervisor Print Line,Management_HR_Admin,99
+Make-Up Operator,Skilled_Trades_Ops,98
+Outside Property Agent,Other,98
+Cheese Grader,Other,98
+Check Writer,Creative_Media,97
+Assistant Designer,Creative_Media,97
+Protection Engineer,Tech_Engineering,97
+Transfer Controller,Finance_Accounting,97
+Toxicologist,Other,95
+Steward/Stewardess,Hospitality_Food,94
+Relay Technician,Skilled_Trades_Ops,94
+Mortgage-Accounting Clerk,Finance_Accounting,94
+Revenue Agent,Other,93
+Route Supervisor,Management_HR_Admin,93
+Assignment Clerk,Management_HR_Admin,92
+Order Clerk,Management_HR_Admin,92
+Inspector General,Skilled_Trades_Ops,92
+Machine Builder,Other,92
+Supervisor Route Sales-Delivery Drivers,Sales_Customer,92
+Supervisor Cooler Service,Management_HR_Admin,92
+Pad Hand,Other,91
+Patent Agent,Other,91
+Marshal,Other,91
+Field-Service Representative,Sales_Customer,91
+Vault Cashier,Sales_Customer,90
+Lathe Hand,Other,90
+Supervisor Mails,Management_HR_Admin,90
+Agricultural Engineer,Tech_Engineering,89
+Biological Aide,Other,89
+Manager Lodging Facilities,Management_HR_Admin,89
+Expediter,Other,89
+Diamond Expert,Other,88
+Supervisor Production Control,Skilled_Trades_Ops,88
+Dock Supervisor,Management_HR_Admin,88
+Mathematical Technician,Skilled_Trades_Ops,88
+Psychometrist,Other,88
+Investigator Private,Other,88
+Waiter/Waitress Room Service,Hospitality_Food,87
+Dental Hygienist,Healthcare_Clinical,87
+Distribution-Accounting Clerk,Finance_Accounting,87
+Supervisor Brake Repair,Management_HR_Admin,86
+Stripper,Other,86
+Incoming-Freight Clerk,Management_HR_Admin,86
+Pipe Installer,Other,86
+Tool Designer,Creative_Media,85
+Soil-Conservation Technician,Skilled_Trades_Ops,85
+Health-Equipment Servicer,Other,85
+Services Clerk,Management_HR_Admin,85
+Track Supervisor,Management_HR_Admin,85
+Tool Maker,Other,85
+Deliverer Merchandise,Other,84
+Ophthalmic Technician,Skilled_Trades_Ops,84
+Jeweler,Other,84
+Record Clerk,Management_HR_Admin,84
+Stained Glass Artist,Creative_Media,84
+Timber Framer,Other,84
+Cutting Supervisor,Management_HR_Admin,84
+Equal Opportunity Officer,Other,83
+Program Proposals Coordinator,Management_HR_Admin,83
+Telephone Operator,Skilled_Trades_Ops,83
+Press Hand,Other,83
+Seed Analyst,Other,82
+Design Assembler,Skilled_Trades_Ops,82
+Drafter Detail,Other,82
+Homemaker,Other,82
+Supervisor Mixing,Management_HR_Admin,82
+Superintendent Schools,Other,82
+Corrective Therapist,Healthcare_Clinical,82
+Extension Clerk,Management_HR_Admin,82
+Research Assistant I,Science_Research,82
+Collator,Other,81
+Blacksmith,Other,81
+Supervisor Payroll,Finance_Accounting,81
+Lathe Operator,Skilled_Trades_Ops,81
+Teacher Resource,Education,80
+Cellar Supervisor,Management_HR_Admin,80
+Reclamation Supervisor,Management_HR_Admin,80
+Auditor County Or City,Finance_Accounting,80
+Landscape Specialist,Other,80
+Supervisor Ovens,Management_HR_Admin,80
+Bus Driver,Skilled_Trades_Ops,80
+Chart Calculator,Other,79
+Shop Tailor,Other,79
+Alarm Operator,Skilled_Trades_Ops,79
+Statement Clerk,Management_HR_Admin,79
+Chopper,Other,79
+Auditor Data Processing,Finance_Accounting,79
+Table Worker,Other,78
+Property Custodian,Other,78
+Van Driver,Skilled_Trades_Ops,78
+Making-Line Worker,Other,78
+Supervisor Microwave,Management_HR_Admin,78
+Field-Assembly Supervisor,Management_HR_Admin,77
+Supervisor Sample Preparation,Management_HR_Admin,76
+House Builder,Other,76
+Service Observer,Other,76
+Machinist Apprentice,Other,76
+Meat Cutter,Other,75
+Material Scheduler,Other,75
+Teacher Aide I,Education,75
+Supervisor Public Message Service,Management_HR_Admin,75
+Teacher Adult Education,Education,74
+Driver'S License Examiner,Skilled_Trades_Ops,74
+Continuity Writer,Creative_Media,74
+Sales Representative Communication Equipment,Sales_Customer,74
+Vault Custodian,Other,74
+Chief Drafter,Other,73
+Industrial Designer,Creative_Media,73
+Technical Illustrator,Other,73
+Occupational Therapy Aide,Healthcare_Clinical,72
+Stock Cutter,Other,72
+Supervisor Film Processing,Management_HR_Admin,72
+Physicist,Other,72
+Supervisor Coating,Management_HR_Admin,72
+Cut-In Worker,Other,72
+Chemist Food,Science_Research,72
+Inspector Building,Skilled_Trades_Ops,71
+Traffic Agent,Other,71
+Cleaner Furniture,Other,71
+Millwright Apprentice,Other,71
+Press Feeder,Other,71
+Passenger Representative,Sales_Customer,70
+Professional Athlete,Other,70
+Settlement Clerk,Management_HR_Admin,70
+Chemist Instrumentation,Science_Research,70
+Optical Engineer,Tech_Engineering,70
+Speed Operator,Skilled_Trades_Ops,70
+Process-Area Supervisor,Management_HR_Admin,70
+Animal Caretaker,Other,69
+Budget Clerk,Management_HR_Admin,69
+Assembly Operator,Skilled_Trades_Ops,69
+Decorator,Other,69
+Equipment Installer,Other,69
+Space Scheduler,Other,69
+Supervisor Finishing,Management_HR_Admin,68
+House Worker General,Other,68
+Drafter Architectural,Other,68
+Setter,Other,67
+Quality-Control Clerk,Management_HR_Admin,67
+Food Assembler Kitchen,Skilled_Trades_Ops,67
+Service Mechanic,Skilled_Trades_Ops,67
+Flight Operations Specialist,Other,66
+Cook Specialty,Hospitality_Food,66
+Able Seaman,Other,66
+Supervisor Lubrication,Management_HR_Admin,66
+Circulation Clerk,Management_HR_Admin,66
+Machine Repairer Maintenance,Skilled_Trades_Ops,66
+Supervisor Cab,Management_HR_Admin,66
+Supervisor Instrument Maintenance,Skilled_Trades_Ops,66
+Securities Trader,Other,65
+Locomotive Engineer,Tech_Engineering,65
+Teacher Secondary School,Education,65
+Hotel Clerk,Hospitality_Food,64
+Electronics Tester,Other,64
+Inspector Electrical,Skilled_Trades_Ops,64
+Film Loader,Other,64
+Proofreader,Other,64
+Filler,Other,64
+Clerk Route,Management_HR_Admin,64
+Machinist,Other,64
+Photographer,Creative_Media,64
+Mail Handler,Other,63
+Rater,Other,63
+Prosthodontist,Other,62
+Supervisor Wet End,Management_HR_Admin,62
+Mechanical Inspector,Skilled_Trades_Ops,62
+Salesperson Shoes,Other,61
+Teacher Elementary School,Education,61
+Testing And Analysis Department Supervisor,Management_HR_Admin,61
+Tool-Crib Attendant,Other,61
+Supervisor Electronics Systems Maintenance,Skilled_Trades_Ops,61
+Mixing Supervisor,Management_HR_Admin,60
+Furniture Designer,Creative_Media,60
+Laundry Clerk,Management_HR_Admin,60
+Sales Representative Franchise,Sales_Customer,60
+Box Printer,Other,60
+Powered Bridge Specialist,Other,59
+Crew Scheduler,Other,59
+Cabinetmaker,Other,59
+Control Clerk,Management_HR_Admin,59
+Counterintelligence Agent,Other,59
+Records-Management Analyst,Other,58
+Final Inspector,Skilled_Trades_Ops,58
+Staff Toxicologist,Other,58
+Director Industrial Relations,Management_HR_Admin,58
+Electrician Helper,Skilled_Trades_Ops,58
+Sewer And Inspector,Skilled_Trades_Ops,58
+Supervisor Special Education,Education,58
+Tool Builder,Other,58
+Dump-Truck Driver,Skilled_Trades_Ops,57
+Television Installer,Other,57
+Assembly-Machine Operator,Skilled_Trades_Ops,57
+Ordnance Engineer,Tech_Engineering,57
+Golf-Course Ranger,Other,57
+Passenger Service Representative,Sales_Customer,57
+Director Funds Development,Management_HR_Admin,56
+Experimental Mechanic Electrical,Skilled_Trades_Ops,56
+Medical Record Technician,Skilled_Trades_Ops,56
+Blender,Other,56
+Molding Supervisor,Management_HR_Admin,56
+Weaving Supervisor,Management_HR_Admin,55
+Script Reader,Other,55
+Dairy Scientist,Science_Research,55
+Supervisor Type Photography,Management_HR_Admin,55
+Switchboard Operator,Skilled_Trades_Ops,55
+Clerk-Of-Scales,Management_HR_Admin,55
+Selector,Other,55
+Mail Carrier,Other,54
+Psychologist Chief,Healthcare_Clinical,54
+Washer,Other,54
+Calibration Laboratory Technician,Skilled_Trades_Ops,54
+Paint-Line Operator,Skilled_Trades_Ops,54
+Stock Checker Apparel,Other,54
+Voice Pathologist,Healthcare_Clinical,53
+Laborer,Skilled_Trades_Ops,53
+Tool-Grinder Operator,Skilled_Trades_Ops,53
+Petroleum Inspector,Skilled_Trades_Ops,53
+Packager Head,Other,53
+Die Designer,Creative_Media,53
+Drafter Commercial,Other,53
+Keno Writer,Creative_Media,53
+Line-Service Attendant,Other,52
+Preparation-Room Worker,Other,52
+Tool-Crib Supervisor,Management_HR_Admin,52
+Pipe-Fitter Apprentice,Other,52
+Inspector Quality Assurance,Skilled_Trades_Ops,52
+Table Hand,Other,52
+Pinsetter Mechanic Automatic,Skilled_Trades_Ops,52
+Expedition Supervisor,Management_HR_Admin,52
+Supervisor Assembly,Management_HR_Admin,52
+Signal Maintainer,Other,52
+Teller Vault,Other,52
+Batch Mixer,Other,51
+Supply Controller,Finance_Accounting,51
+Paint Mixer Machine,Other,51
+Roll Operator,Skilled_Trades_Ops,51
+Tire Technician,Skilled_Trades_Ops,50
+Foundry Supervisor,Management_HR_Admin,50
+Materials Scientist,Science_Research,50
+Assembly-Line Inspector,Skilled_Trades_Ops,50
+Test Driver I,Skilled_Trades_Ops,50
+Metrologist,Other,50
+Heat-Treat Supervisor,Management_HR_Admin,50
+Route Aide,Other,49
+Supervisor Filtration,Management_HR_Admin,49
+Forest Engineer,Tech_Engineering,49
+Cleaner Industrial,Other,49
+Autoclave Operator,Skilled_Trades_Ops,49
+Cleaner Housekeeping,Other,49
+Sound Technician,Skilled_Trades_Ops,49
+Grading Clerk,Management_HR_Admin,49
+Assembler I,Skilled_Trades_Ops,49
+Masseur/Masseuse,Other,49
+Deposit Clerk,Management_HR_Admin,49
+Finishing Supervisor,Management_HR_Admin,49
+Welder Helper,Skilled_Trades_Ops,48
+Stonemason,Other,48
+History-Card Clerk,Management_HR_Admin,48
+Cafeteria Attendant,Other,48
+Tank-Truck Driver,Skilled_Trades_Ops,48
+Periodontist,Other,48
+Teacher Hearing Impaired,Education,48
+Teacher Kindergarten,Education,48
+Stationary Engineer,Tech_Engineering,48
+Chief Librarian Branch Or Department,Other,47
+Supervisor Rides,Management_HR_Admin,47
+Title Examiner,Other,47
+Cartoonist,Other,47
+Quality Control Technician,Skilled_Trades_Ops,47
+Supervisor Janitorial Services,Management_HR_Admin,46
+Chief Engineer Research,Tech_Engineering,46
+Linen-Room Attendant,Other,46
+Grinder,Other,46
+Quality-Control Coordinator,Management_HR_Admin,46
+Code And Test Clerk,Management_HR_Admin,46
+Display Maker,Other,46
+Supervisor Paper Testing,Management_HR_Admin,46
+Warehouse Traffic Supervisor,Skilled_Trades_Ops,46
+Tree Surgeon,Healthcare_Clinical,46
+Mortgage Loan Closer,Other,46
+Welding Supervisor,Skilled_Trades_Ops,45
+Machine Cleaner,Other,45
+Supervisor Product Inspection,Management_HR_Admin,45
+Tire-Service Supervisor,Management_HR_Admin,45
+Drafter Electrical,Other,44
+Road Supervisor,Management_HR_Admin,44
+Cake Decorator,Other,44
+Library Assistant,Other,44
+Claim Adjuster,Other,44
+Electrician Substation,Skilled_Trades_Ops,43
+Traffic-Maintenance Supervisor,Skilled_Trades_Ops,43
+Dispatcher Maintenance Service,Skilled_Trades_Ops,43
+Receipt-And-Report Clerk,Management_HR_Admin,43
+Electrical-Control Assembler,Skilled_Trades_Ops,43
+Director Pharmacy Services,Management_HR_Admin,42
+Pump Mechanic,Skilled_Trades_Ops,42
+Outside-Plant Engineer,Tech_Engineering,42
+Inspector-Packer,Skilled_Trades_Ops,42
+Civil-Service Clerk,Management_HR_Admin,42
+Box Maker,Other,41
+Heater,Other,41
+Inspection Supervisor Ii,Management_HR_Admin,41
+Documentation-Billing Clerk,Management_HR_Admin,41
+Teacher Visually Impaired,Education,41
+Microfilm Processor,Other,41
+Conveyor-Maintenance Mechanic,Skilled_Trades_Ops,41
+Maintenance Mechanic Engine,Skilled_Trades_Ops,41
+Dietitian Teaching,Other,41
+Supervisor Specialty Plant,Management_HR_Admin,40
+Microbiology Technologist,Healthcare_Clinical,40
+Product-Safety Engineer,Tech_Engineering,40
+Quality Control Inspector,Skilled_Trades_Ops,40
+Director Speech-And-Hearing,Management_HR_Admin,40
+Foundry Metallurgist,Other,39
+Pharmacologist,Other,39
+First Helper,Other,39
+Utility Operator,Skilled_Trades_Ops,39
+Pipe-Fitter Helper,Other,39
+Grader,Other,39
+Identification Officer,Other,38
+Shoe-Repair Supervisor,Management_HR_Admin,38
+Amusement Park Worker,Other,38
+Psychologist Engineering,Healthcare_Clinical,38
+Teacher Art,Education,38
+Transporter Patients,Other,38
+Log-Truck Driver,Skilled_Trades_Ops,38
+Feed-In Worker,Other,38
+Teacher Learning Disabled,Education,38
+Chemical-Equipment Sales Engineer,Tech_Engineering,37
+Sales Agent Real Estate,Sales_Customer,37
+Soil Scientist,Science_Research,37
+Survey Worker,Other,37
+Paint Mixer Hand,Other,37
+Teacher Preschool,Education,37
+Photographic Engineer,Tech_Engineering,37
+Attendance Officer,Other,37
+Housekeeper Home,Other,37
+Table Operator,Skilled_Trades_Ops,36
+Ambulance Attendant,Other,36
+Production Proofreader,Skilled_Trades_Ops,36
+Pharmacist Assistant,Healthcare_Clinical,36
+Distributing Clerk,Management_HR_Admin,36
+Utility Worker Production,Skilled_Trades_Ops,35
+Cook Apprentice Pastry,Hospitality_Food,35
+Control Inspector,Skilled_Trades_Ops,35
+Telephone-Answering-Service Operator,Skilled_Trades_Ops,35
+Mail Clerk,Management_HR_Admin,35
+Construction-Equipment Mechanic,Skilled_Trades_Ops,35
+Sampler,Other,34
+Handle Assembler,Skilled_Trades_Ops,34
+Set-Staff Fitter,Other,34
+Deliverer Outside,Other,34
+Supervisor Production Department,Skilled_Trades_Ops,34
+Cleaner Hospital,Other,34
+Wash Operator,Skilled_Trades_Ops,34
+Cook Short Order,Hospitality_Food,34
+Diet Clerk,Management_HR_Admin,34
+Tank Assembler,Skilled_Trades_Ops,33
+Sales Representative Education Courses,Education,33
+Mechanical-Test Technician,Skilled_Trades_Ops,33
+Chief Dispatcher,Other,33
+Dispatcher Security Guard,Other,33
+Alumni Secretary,Management_HR_Admin,33
+Supervisor Instrument Repair,Management_HR_Admin,32
+Supervisor Gear Repair,Management_HR_Admin,32
+Printed Circuit Designer,Creative_Media,32
+Property Clerk,Management_HR_Admin,32
+Floor Worker Well Service,Other,32
+Set Designer,Creative_Media,32
+Supervisor Electrical Assembly,Management_HR_Admin,32
+Reinsurance Clerk,Management_HR_Admin,32
+Unit Operator,Skilled_Trades_Ops,32
+Fitter Ii,Other,31
+Reservations Agent,Other,31
+Cell Installer,Other,31
+Hydraulic Operator,Skilled_Trades_Ops,31
+Machine Operator General,Skilled_Trades_Ops,31
+Lumber Handler,Other,31
+Caustic Operator,Skilled_Trades_Ops,31
+Millwright Supervisor,Management_HR_Admin,31
+Avionics Technician,Skilled_Trades_Ops,31
+Scale Mechanic,Skilled_Trades_Ops,30
+Sorter,Other,30
+Supervisor Shipping,Management_HR_Admin,30
+Metallurgist Physical,Other,30
+Senior Technician Controls,Skilled_Trades_Ops,30
+Supervisor Paper Machine,Management_HR_Admin,30
+Cleaner Ii,Other,30
+Welder-Assembler,Skilled_Trades_Ops,30
+Teacher Aide Ii,Education,30
+Metal Fabricator,Other,30
+Packaging Technician,Skilled_Trades_Ops,30
+Electrical-Equipment Tester,Other,30
+Automated Equipment Engineer-Technician,Tech_Engineering,30
+Bindery Worker,Other,30
+Tattoo Artist,Creative_Media,29
+Invoice-Control Clerk,Management_HR_Admin,29
+Utility Clerk,Management_HR_Admin,29
+Custom Tailor,Other,29
+Inspector Type,Skilled_Trades_Ops,29
+Specification Writer,Creative_Media,29
+Production Clerk,Skilled_Trades_Ops,29
+Music Engraver,Other,28
+Instrument-Shop Supervisor,Management_HR_Admin,28
+Way Inspector,Skilled_Trades_Ops,28
+Salvage Supervisor,Management_HR_Admin,28
+Operator Automated Process,Skilled_Trades_Ops,28
+Equipment Inspector,Skilled_Trades_Ops,28
+Electronics-Design Engineer,Tech_Engineering,28
+Tester Operator,Skilled_Trades_Ops,27
+Fisher Line,Other,27
+Parking-Lot Attendant,Other,27
+Lock Maintenance Supervisor,Skilled_Trades_Ops,27
+Drafter Civil,Other,27
+Transportation-Equipment-Maintenance Worker,Skilled_Trades_Ops,27
+Chief Projectionist,Other,27
+Map Clerk,Management_HR_Admin,27
+Coffee Maker,Other,27
+Supervisor Drying,Management_HR_Admin,27
+Supervisor Engine-Repair,Management_HR_Admin,27
+Specialties Operator,Skilled_Trades_Ops,26
+Electrician Aircraft,Skilled_Trades_Ops,26
+Instrument Mechanic,Skilled_Trades_Ops,26
+Supervisor Word Processing,Management_HR_Admin,26
+Cover Inspector,Skilled_Trades_Ops,26
+Transfer Clerk,Management_HR_Admin,25
+Animal Keeper,Other,25
+Police-Academy Instructor,Education,25
+Save-All Operator,Skilled_Trades_Ops,25
+Truck Driver Heavy,Skilled_Trades_Ops,25
+Fitter Helper,Other,25
+Band-Saw Operator,Skilled_Trades_Ops,25
+Watch Repairer,Other,25
+Maintenance-Mechanic Supervisor,Skilled_Trades_Ops,25
+Rigger Supervisor,Management_HR_Admin,25
+Power Operator,Skilled_Trades_Ops,25
+Color Mixer,Other,25
+Mixer,Other,24
+Supervisor Wet Room,Management_HR_Admin,24
+Core Loader,Other,24
+Drafter Mechanical,Other,24
+Taxi Driver,Skilled_Trades_Ops,24
+Petroleum Engineer,Tech_Engineering,24
+Shelving Supervisor,Management_HR_Admin,24
+Key Cutter,Other,24
+Medical-Equipment Repairer,Other,24
+Umpire,Other,24
+Social Secretary,Management_HR_Admin,24
+Direct-Mail Clerk,Management_HR_Admin,24
+Supervisor Customer Records Division,Management_HR_Admin,24
+Supervisor Sewer Maintenance,Skilled_Trades_Ops,24
+Material Assembler,Skilled_Trades_Ops,24
+Airport Attendant,Other,24
+Assembler Component,Skilled_Trades_Ops,24
+Sales Representative Textiles,Sales_Customer,23
+Instrument Assembler,Skilled_Trades_Ops,23
+Special Tester,Other,23
+Food Mixer,Other,23
+Still Operator,Skilled_Trades_Ops,23
+Mold-Maker Apprentice,Other,23
+Roller Operator,Skilled_Trades_Ops,23
+Supervisor Grinding,Management_HR_Admin,23
+Screen Writer,Creative_Media,23
+Supervisor Iii,Management_HR_Admin,23
+Letter-Of-Credit Clerk,Management_HR_Admin,23
+Industrial-Truck Operator,Skilled_Trades_Ops,23
+Roofing Supervisor,Management_HR_Admin,23
+Police Officer I,Other,23
+Pipe-Organ Builder,Other,22
+Steward/Stewardess Wine,Hospitality_Food,22
+Food-Service Worker Hospital,Other,22
+Supervisor Fabrication Department,Management_HR_Admin,22
+Typist,Other,22
+Electrical Assembler,Skilled_Trades_Ops,22
+Ticket Agent,Other,22
+Teacher Drama,Education,22
+Shuttle Hand,Other,22
+Ticket Seller,Other,22
+Sterilizer,Other,22
+Inspector Processing,Skilled_Trades_Ops,22
+Supervisor Packing,Management_HR_Admin,22
+Travel Clerk,Management_HR_Admin,22
+Intelligence Clerk,Management_HR_Admin,22
+Assembler Motor Vehicle,Skilled_Trades_Ops,21
+Web-Press Operator,Skilled_Trades_Ops,21
+Case Fitter,Other,21
+Supervisor Assembly Department,Management_HR_Admin,21
+Package Designer,Creative_Media,21
+Polisher,Other,21
+Panel Installer,Other,21
+Inspector Precision,Skilled_Trades_Ops,21
+Telephone Operator Chief,Skilled_Trades_Ops,21
+Sewer Hand,Other,21
+Information Clerk,Management_HR_Admin,21
+Railroad Engineer,Tech_Engineering,21
+Scale Operator,Skilled_Trades_Ops,21
+Board Attendant,Other,21
+Exhibit Designer,Creative_Media,21
+Weld Inspector,Skilled_Trades_Ops,20
+Control-Panel Operator,Skilled_Trades_Ops,20
+Cadet Deck,Other,20
+Code Inspector,Skilled_Trades_Ops,20
+Transmission Mechanic,Skilled_Trades_Ops,20
+Radiation-Protection Specialist,Other,20
+Furniture Cleaner,Other,20
+Quality-Control Inspector,Skilled_Trades_Ops,20
+Supervisor Cook Room,Hospitality_Food,20
+Electrician Automotive,Skilled_Trades_Ops,20
+Assembler Movement,Skilled_Trades_Ops,20
+Dispatcher Chief Service Or Work,Other,20
+Illustrator Set,Other,19
+Sales Representative Jewelry,Sales_Customer,19
+Form Designer,Creative_Media,19
+Machine-Shop Supervisor Production,Skilled_Trades_Ops,19
+Attendance Clerk,Management_HR_Admin,19
+Chemical Compounder,Other,19
+Trimmer,Other,18
+Arranger,Other,18
+Bench Worker,Other,18
+Inspector I,Skilled_Trades_Ops,18
+Director Employment Research And Planning,Management_HR_Admin,18
+Tire Inspector,Skilled_Trades_Ops,18
+Floor Broker,Other,18
+Sales Engineer Mechanical Equipment,Tech_Engineering,18
+Gauge Operator,Skilled_Trades_Ops,18
+Ski Patroller,Other,18
+Fiber Technologist,Healthcare_Clinical,18
+Customer-Complaint Clerk,Management_HR_Admin,18
+Photo Technician,Skilled_Trades_Ops,18
+Inspector Receiving,Skilled_Trades_Ops,18
+Automobile-Mechanic Helper,Skilled_Trades_Ops,17
+License Inspector,Skilled_Trades_Ops,17
+Pull-Out Operator,Skilled_Trades_Ops,17
+Driver Sales Route,Sales_Customer,17
+Port Engineer,Tech_Engineering,17
+Sample Clerk,Management_HR_Admin,17
+Chemical Operator Iii,Skilled_Trades_Ops,17
+Supervisor Prepress,Management_HR_Admin,17
+Time-Study Engineer,Tech_Engineering,17
+Jig Builder,Other,17
+Electric-Motor Assembler,Skilled_Trades_Ops,17
+Electrician Maintenance,Skilled_Trades_Ops,16
+Truck Supervisor,Management_HR_Admin,16
+Inspector Ii,Skilled_Trades_Ops,16
+Biomedical Equipment Technician,Skilled_Trades_Ops,16
+Radiation-Protection Engineer,Tech_Engineering,16
+Freezer Operator,Skilled_Trades_Ops,16
+Linen-Room Supervisor,Management_HR_Admin,16
+Supervisor Receiving And Processing,Management_HR_Admin,16
+Garden Worker,Other,16
+Machinist Supervisor Outside,Management_HR_Admin,16
+Sales Representative Security Systems,Sales_Customer,16
+Dispatcher Traffic Or System,Other,16
+Assembler Production Line,Skilled_Trades_Ops,16
+Supervisor Boiler Repair,Management_HR_Admin,15
+Escort-Vehicle Driver,Skilled_Trades_Ops,15
+Diesel Mechanic,Skilled_Trades_Ops,15
+Locksmith Apprentice,Other,15
+Employment Clerk,Management_HR_Admin,15
+Tool-Maintenance Worker,Skilled_Trades_Ops,15
+Tube Operator,Skilled_Trades_Ops,15
+Quality-Control Tester,Other,15
+Freight-Loading Supervisor,Management_HR_Admin,15
+Signal Supervisor,Management_HR_Admin,15
+Electronics Utility Worker,Other,15
+Reserve Operator,Skilled_Trades_Ops,15
+Packing-Line Worker,Other,14
+Waiter/Waitress Club,Hospitality_Food,14
+Salvage Engineer,Tech_Engineering,14
+Cleaner Commercial Or Institutional,Other,14
+Supervisor Paint Department,Management_HR_Admin,14
+Dental Ceramist Assistant,Healthcare_Clinical,14
+Boiler Operator,Skilled_Trades_Ops,14
+Repair Operator,Skilled_Trades_Ops,14
+Installer Electrical Plumbing Mechanical,Other,14
+Machine Assembler,Skilled_Trades_Ops,14
+Sales Representative Building Equipment And Supplies,Sales_Customer,13
+Tow-Truck Operator,Skilled_Trades_Ops,13
+Solderer,Other,13
+Police Officer Crime Prevention,Other,13
+Bell Captain,Other,13
+Pick-Up Operator,Skilled_Trades_Ops,13
+Supervisor Right-Of-Way Maintenance,Skilled_Trades_Ops,13
+Spot Cleaner,Other,13
+Legal Investigator,Legal_Compliance,13
+Plant Propagator,Other,13
+Perfumer,Other,13
+Instrument-Technician Apprentice,Skilled_Trades_Ops,13
+Chemical-Radiation Technician,Skilled_Trades_Ops,13
+Display Designer,Creative_Media,13
+Forest Worker,Other,13
+Clock Assembler,Skilled_Trades_Ops,13
+Recovery Operator,Skilled_Trades_Ops,12
+Supervisor Swimming-Pool Maintenance,Skilled_Trades_Ops,12
+Station Agent I,Other,12
+Film Or Videotape Editor,Creative_Media,12
+Tractor-Crane Operator,Skilled_Trades_Ops,12
+Cashier-Checker,Sales_Customer,12
+Laboratory Technician Pharmaceutical,Skilled_Trades_Ops,12
+Membership Secretary,Management_HR_Admin,12
+Reservation Clerk,Management_HR_Admin,12
+Cold-Mill Operator,Skilled_Trades_Ops,12
+Cabinetmaker Apprentice,Other,12
+Bulk-Plant Operator,Skilled_Trades_Ops,12
+Media Clerk,Management_HR_Admin,12
+Loading-Machine Operator,Skilled_Trades_Ops,12
+Tile Setter Apprentice,Other,12
+Cargo Inspector,Skilled_Trades_Ops,12
+Laboratory-Equipment Installer,Science_Research,12
+Cutter I,Other,12
+Police Officer Ii,Other,12
+Maintenance Mechanic Telephone,Skilled_Trades_Ops,12
+Model Maker,Sales_Customer,12
+Tractor Mechanic,Skilled_Trades_Ops,12
+Wastewater-Treatment-Plant Operator,Skilled_Trades_Ops,12
+Programming Equipment Operator,Skilled_Trades_Ops,12
+Supervisor Housecleaner,Management_HR_Admin,12
+Set-Up Mechanic,Skilled_Trades_Ops,11
+Stage Technician,Skilled_Trades_Ops,11
+Carpenter Apprentice,Skilled_Trades_Ops,11
+Inspector Assembly,Skilled_Trades_Ops,11
+Investigator Internal Affairs,Other,11
+Cook Pastry,Hospitality_Food,11
+Cook Helper Pastry,Hospitality_Food,11
+Safety Engineer Mines,Tech_Engineering,11
+Mail-Processing-Equipment Mechanic,Skilled_Trades_Ops,11
+Prompter,Other,11
+Radio Mechanic,Skilled_Trades_Ops,11
+Street Cleaner,Other,11
+License Clerk,Management_HR_Admin,11
+Packager Hand,Other,11
+Repairer,Other,11
+Interpreter Deaf,Other,11
+Waste-Treatment Operator,Skilled_Trades_Ops,11
+Screen Cleaner,Other,11
+Order Detailer,Other,11
+Trouble Shooter I,Other,11
+Outpatient-Admitting Clerk,Management_HR_Admin,11
+Hospital-Admitting Clerk,Management_HR_Admin,10
+Assembler Filters,Skilled_Trades_Ops,10
+Manipulator,Other,10
+Small-Engine Mechanic,Skilled_Trades_Ops,10
+Salesperson Books,Other,10
+Boiler-Out,Other,10
+Sales Clerk Food,Sales_Customer,10
+Rural Mail Carrier,Other,10
+Rigger,Other,10
+Assembler Electromechanical,Skilled_Trades_Ops,10
+Tank Cleaner,Other,10
+Power-Plant Operator,Skilled_Trades_Ops,10
+Jeweler Apprentice,Other,10
+Steamer,Other,10
+Proof-Technician Helper,Skilled_Trades_Ops,10
+Door Assembler,Skilled_Trades_Ops,10
+Tractor-Trailer-Truck Driver,Skilled_Trades_Ops,10
+Injection-Molding-Machine Operator,Skilled_Trades_Ops,9
+Fire-Control Mechanic,Skilled_Trades_Ops,9
+Nuclear-Criticality Safety Engineer,Tech_Engineering,9
+Floor Attendant,Other,9
+Lead-Press Operator,Skilled_Trades_Ops,9
+Sampler First,Other,9
+News Librarian,Other,9
+Transfer Operator,Skilled_Trades_Ops,9
+Stacker,Other,9
+Kitchen Steward/Stewardess,Hospitality_Food,9
+Librarian Special Collections,Other,9
+Dental Ceramist,Healthcare_Clinical,9
+Helper Manufacturing,Skilled_Trades_Ops,9
+Supervisor Engine Assembly,Management_HR_Admin,9
+Bagger,Other,9
+Operational Test Mechanic,Skilled_Trades_Ops,9
+Supervisor Paint,Management_HR_Admin,9
+Press Helper,Other,9
+Computer Peripheral Equipment Operator,Skilled_Trades_Ops,8
+Advertising-Dispatch Clerk,Management_HR_Admin,8
+Sheet-Metal Worker,Other,8
+Truck Driver Light,Skilled_Trades_Ops,8
+Park Naturalist,Other,8
+Plan Checker,Other,8
+Hot-Room Attendant,Other,8
+Mechanical Technician Laboratory,Healthcare_Clinical,8
+Children'S Attendant,Other,8
+Tool Repairer,Other,8
+Supervisor Wheel Shop,Management_HR_Admin,8
+Referral-And-Information Aide,Other,8
+Material Clerk,Management_HR_Admin,8
+Truck-Crane Operator,Skilled_Trades_Ops,8
+Butcher Meat,Other,8
+Plugger,Other,8
+Claims Clerk I,Management_HR_Admin,8
+Stock Preparer,Other,8
+Embroidery-Machine Operator,Skilled_Trades_Ops,7
+Institution Librarian,Other,7
+Order Caller,Other,7
+Sawmill Worker,Other,7
+Center-Machine Operator,Skilled_Trades_Ops,7
+Dump Operator,Skilled_Trades_Ops,7
+Handle-Machine Operator,Skilled_Trades_Ops,7
+Museum Attendant,Other,7
+Sample Collector,Other,7
+Senior Reservations Agent,Other,7
+Kettle Operator,Skilled_Trades_Ops,7
+Air-Compressor Mechanic,Skilled_Trades_Ops,7
+Grader Marker,Other,7
+Wheel Assembler,Skilled_Trades_Ops,7
+Inspector Iii,Skilled_Trades_Ops,7
+File Clerk I,Management_HR_Admin,7
+Spring Assembler,Skilled_Trades_Ops,7
+Gas-Transfer Operator,Skilled_Trades_Ops,7
+Oil Boiler,Other,7
+Mess Attendant,Other,6
+Billing Typist,Other,6
+Field-Service Engineer,Tech_Engineering,6
+Line Inspector,Skilled_Trades_Ops,6
+Watch Assembler,Skilled_Trades_Ops,6
+Gas Dispatcher,Other,6
+Contract Clerk,Management_HR_Admin,6
+Head Inspector,Skilled_Trades_Ops,6
+Sales Representative Material-Handling Equipment,Sales_Customer,6
+Statistical Clerk,Management_HR_Admin,6
+Clerk-Typist,Management_HR_Admin,6
+Sales Representative Uniforms,Sales_Customer,6
+Concrete-Building Assembler,Skilled_Trades_Ops,6
+Pipe-Fitter Supervisor,Management_HR_Admin,6
+Maintenance Inspector,Skilled_Trades_Ops,6
+Water-Quality Tester,Other,6
+Supervisor Rigger,Management_HR_Admin,6
+Funeral Attendant,Other,6
+Precision Assembler,Skilled_Trades_Ops,6
+Tower-Crane Operator,Skilled_Trades_Ops,6
+Washer Hand,Other,6
+Quality-Control Technician,Skilled_Trades_Ops,5
+Motion-Picture Projectionist,Other,5
+Final Tester,Other,5
+Packager Machine,Other,5
+Compounder,Other,5
+Food-And-Beverage Checker,Other,5
+Welder-Fitter,Skilled_Trades_Ops,5
+C.O.D. Clerk,Management_HR_Admin,5
+Furniture Finisher,Other,5
+Press Setter,Other,5
+Load Tester,Other,5
+Welder Combination,Skilled_Trades_Ops,5
+Sculptor,Other,5
+Drafter Plumbing,Other,5
+Assembler Production,Skilled_Trades_Ops,5
+Treatment-Plant Mechanic,Skilled_Trades_Ops,5
+Furnace Installer,Other,5
+Shipwright Apprentice,Other,5
+Acrobatic Rigger,Other,5
+Conduit Mechanic,Skilled_Trades_Ops,5
+Flexographic-Press Operator,Skilled_Trades_Ops,5
+Checker-In,Other,5
+Dispatcher Clerk,Management_HR_Admin,5
+Photojournalist,Other,5
+Lock Assembler,Skilled_Trades_Ops,5
+Mechanic Industrial Truck,Skilled_Trades_Ops,5
+Office-Machine Servicer,Management_HR_Admin,5
+Screen Printer,Other,5
+Bench Assembler,Skilled_Trades_Ops,5
+Turbine Operator,Skilled_Trades_Ops,5
+Helper Electrical,Other,5
+Bucket Operator,Skilled_Trades_Ops,5
+Saw Operator,Skilled_Trades_Ops,5
+Switchboard Operator Assistant,Skilled_Trades_Ops,5
+Electronics Mechanic,Skilled_Trades_Ops,5
+Ride Operator,Skilled_Trades_Ops,5
+Inspector Plumbing,Skilled_Trades_Ops,5
+Finisher Machine,Other,4
+Glass Inspector,Skilled_Trades_Ops,4
+Tower Operator,Skilled_Trades_Ops,4
+Oxygen-Plant Operator,Skilled_Trades_Ops,4
+Chemical Operator Ii,Skilled_Trades_Ops,4
+Ordinary Seaman,Other,4
+Metal Finisher,Other,4
+Biology Specimen Technician,Skilled_Trades_Ops,4
+Blacksmith Apprentice,Other,4
+Garbage Collector,Other,4
+Newspaper Carrier,Other,4
+Classification Clerk,Management_HR_Admin,4
+Winder Operator,Skilled_Trades_Ops,4
+Water-Treatment-Plant Operator,Skilled_Trades_Ops,4
+Stonemason Supervisor,Management_HR_Admin,4
+Pharmaceutical Operator,Skilled_Trades_Ops,4
+Shipping-Order Clerk,Management_HR_Admin,4
+Leather Finisher,Other,4
+Cleaner Window,Other,4
+Pallet Assembler,Skilled_Trades_Ops,4
+Process-Machine Operator,Skilled_Trades_Ops,4
+Securities Clerk,Management_HR_Admin,4
+Colorist,Other,4
+Fluid-Power Mechanic,Skilled_Trades_Ops,4
+Explosives-Truck Driver,Skilled_Trades_Ops,4
+Disaster Or Damage Control Specialist,Other,4
+Digitizer Operator,Skilled_Trades_Ops,4
+Machine Set-Up Operator,Skilled_Trades_Ops,4
+Inspector Tool,Skilled_Trades_Ops,4
+Washer Machine,Other,4
+Academic Dean,Education,4
+Blow-Up Operator,Skilled_Trades_Ops,4
+Electrician Apprentice,Skilled_Trades_Ops,4
+Welder Apprentice Gas,Skilled_Trades_Ops,4
+Welder Gas,Skilled_Trades_Ops,4
+Chiller Operator,Skilled_Trades_Ops,4
+Pile-Driver Operator,Skilled_Trades_Ops,3
+Measuring-Machine Operator,Skilled_Trades_Ops,3
+Tool-Machine Set-Up Operator,Skilled_Trades_Ops,3
+Press Operator,Skilled_Trades_Ops,3
+Machine Operator Ii,Skilled_Trades_Ops,3
+Dispatcher Radio,Other,3
+Bus Attendant,Other,3
+Machine-Assembler Supervisor,Skilled_Trades_Ops,3
+Cutter Hand,Other,3
+Detective Ii,Other,3
+Press Tender,Other,3
+Press-Hand Supervisor,Management_HR_Admin,3
+Steward/Stewardess Banquet,Hospitality_Food,3
+Optician Dispensing,Other,3
+Welder Apprentice Combination,Skilled_Trades_Ops,3
+Wet-End Operator I,Skilled_Trades_Ops,3
+Structural-Steel Worker,Other,3
+Welder Arc,Skilled_Trades_Ops,3
+Refinery Operator,Skilled_Trades_Ops,3
+Well-Drill Operator,Skilled_Trades_Ops,3
+Pump Installer,Other,3
+Cabinet Assembler,Skilled_Trades_Ops,3
+Glass Cutter Hand,Other,3
+Laundry Operator,Skilled_Trades_Ops,3
+Scanner Operator,Skilled_Trades_Ops,3
+Tractor Operator,Skilled_Trades_Ops,3
+Still-Pump Operator,Skilled_Trades_Ops,3
+Load Dispatcher,Other,3
+Electric-Motor Fitter,Other,3
+Coater Operator,Skilled_Trades_Ops,3
+Rotogravure-Press Operator,Skilled_Trades_Ops,3
+Engine Tester,Other,3
+Gas-Welding-Equipment Mechanic,Skilled_Trades_Ops,3
+Drafter Structural,Other,3
+Parachute Rigger,Other,3
+Test-Engine Operator,Skilled_Trades_Ops,3
+Plastics Fabricator,Other,3
+Director Summer Sessions,Management_HR_Admin,3
+Variety-Saw Operator,Skilled_Trades_Ops,3
+Cheese Cutter,Other,2
+Supervisor Component Assembler,Skilled_Trades_Ops,2
+Salesperson Flowers,Other,2
+Palletizer Operator I,Skilled_Trades_Ops,2
+Welder Apprentice Arc,Skilled_Trades_Ops,2
+Passenger Service Representative I,Sales_Customer,2
+Crusher Operator,Skilled_Trades_Ops,2
+Punch Press Operator,Skilled_Trades_Ops,2
+Hardware Assembler,Skilled_Trades_Ops,2
+Laboratory Tester,Science_Research,2
+Sewing Machine Operator,Skilled_Trades_Ops,2
+Cutter Operator,Skilled_Trades_Ops,2
+Auto-Design Detailer,Other,2
+Cable Maintainer,Other,2
+Stitcher Operator,Skilled_Trades_Ops,2
+Substation Operator,Skilled_Trades_Ops,2
+Kitchen Helper,Other,2
+Ride Attendant,Other,2
+Stager,Other,2
+Police Officer Iii,Other,2
+Machinist Automotive,Other,2
+Glass Installer,Other,2
+Hammer Operator,Skilled_Trades_Ops,2
+Liquor Inspector,Skilled_Trades_Ops,2
+Laundry Worker I,Other,2
+Cost Clerk,Management_HR_Admin,2
+Assembler Semiconductor,Skilled_Trades_Ops,2
+Oven Operator,Skilled_Trades_Ops,2
+Charge-Account Clerk,Management_HR_Admin,2
+Fuel Attendant,Other,2
+Assembler Ii,Skilled_Trades_Ops,1
+Distillation Operator,Skilled_Trades_Ops,1
+Sales Representative Welding Equipment,Sales_Customer,1
+Mixer Operator,Skilled_Trades_Ops,1
+Scoreboard Operator,Skilled_Trades_Ops,1
+Cleaner Wall,Other,1
+Booster Assembler,Skilled_Trades_Ops,1
+Proof-Machine Operator,Skilled_Trades_Ops,1
+Spring Fitter,Other,1
+Stationary-Engineer Supervisor,Tech_Engineering,1
+Foreign Clerk,Management_HR_Admin,1
+Production Assembler,Skilled_Trades_Ops,1
+Retort Operator,Skilled_Trades_Ops,1
+Powerhouse Mechanic,Skilled_Trades_Ops,1
+Machine Tester,Other,1
+Progressive Assembler And Fitter,Skilled_Trades_Ops,1
+Town Clerk,Management_HR_Admin,1
+Bending-Machine Operator I,Skilled_Trades_Ops,1
+Mine Inspector,Skilled_Trades_Ops,1
+Printed Circuit Board Assembler Hand,Skilled_Trades_Ops,1
+Sorter Operator,Skilled_Trades_Ops,1
+Keyboard-Action Assembler,Skilled_Trades_Ops,1
+Still Operator Batch Or Continuous,Skilled_Trades_Ops,1
+Cannery Worker,Other,1
+Follow-Up Clerk,Management_HR_Admin,1
+Tool-And-Die-Maker Apprentice,Other,1
+Playroom Attendant,Other,1
+Lunch-Truck Driver,Skilled_Trades_Ops,1
+Final Assembler,Skilled_Trades_Ops,1
+Correspondence Clerk,Management_HR_Admin,1
+Boat Rigger,Other,1
+Muffler Installer,Other,1
+Meat-Cutter Apprentice,Other,1
+Mixer Operator I,Skilled_Trades_Ops,1
+Battery Assembler,Skilled_Trades_Ops,1
+Boilermaker I,Other,1
+Laborer General,Skilled_Trades_Ops,1
+Hydraulic Repairer,Other,1
+Assembler Metal Building,Skilled_Trades_Ops,1
+Ticketing Clerk,Management_HR_Admin,1
+Trolley Operator,Skilled_Trades_Ops,1
+Racket Stringer,Other,1
+Salad Maker,Other,1
+Color-Card Maker,Other,1
+Experimental Assembler,Skilled_Trades_Ops,1
+Punch-Press Operator,Skilled_Trades_Ops,1
+Dividend Clerk,Management_HR_Admin,1
+Fur Designer,Creative_Media,1
+Salesperson Jewelry,Other,1
+Diesel-Mechanic Apprentice,Skilled_Trades_Ops,1
+Dry-End Operator,Skilled_Trades_Ops,1
+Directory-Assistance Operator,Skilled_Trades_Ops,1
+Kettle Operator I,Skilled_Trades_Ops,1
+Lock Installer,Other,1
+Front-End Mechanic,Skilled_Trades_Ops,1
+Game Attendant,Other,1
+Boilermaker Fitter,Other,1
+Change-House Attendant,Other,1
+Colorist Photography,Other,1
+Screen-Machine Operator,Skilled_Trades_Ops,1
+Police Clerk,Management_HR_Admin,1
+Boilermaker Apprentice,Other,1
+Memorial Designer,Creative_Media,1
+Job-Printer Apprentice,Other,1
+Stable Attendant,Other,1
+Tool-Maker Apprentice,Other,1
+Electric-Motor Repairer,Other,1
+Dental-Laboratory Technician,Healthcare_Clinical,1
+Sample Clerk Paper,Management_HR_Admin,1
+Finisher Operator,Skilled_Trades_Ops,1
+Filter Operator,Skilled_Trades_Ops,1
+Insurance Checker,Other,1
+Kiln Operator,Skilled_Trades_Ops,1
+Sheet-Metal-Worker Apprentice,Other,1
+Coating Operator,Skilled_Trades_Ops,1
+Maintenance Machinist,Skilled_Trades_Ops,1

@@ -1,0 +1,55 @@
+# --- raw data (Kaggle: 1.3M LinkedIn Jobs & Skills 2024) ---
+/job_skills.csv
+/job_summary.csv
+/linkedin_job_postings.csv
+
+# --- intermediate data: large and/or contains job-description text ---
+/cleaned/*
+!/cleaned/final_eval_v8.md
+!/cleaned/holdout_eval_v7.md
+!/cleaned/eval_tune_v8.json
+!/cleaned/job_family_tfidf_lr_v8.joblib
+!/cleaned/job_family_tfidf_lr_v8_meta.json
+!/cleaned/fresh50_gold_claude.csv
+!/cleaned/fresh50_gold_claude.sha256
+!/cleaned/holdout_gold_claude.csv
+
+# --- full-run output (row level) ---
+/outputs/full_v8/
+/outputs/summary/full/
+*.parquet
+*.log
+
+# --- environment / caches ---
+.venv/
+venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.ipynb_checkpoints/
+.DS_Store
+.streamlit/secrets.toml
+.env
+.env.*
+.claude/
+
+# --- local working files: kept on disk, not part of the published project ---
+# development notes and review instructions
+/cursor_prompt*.md
+/round*_review*.md
+*prompt*.md
+# per-version changelogs (consolidated in CHANGELOG.md) and the superseded v7 freeze marker
+/CHANGELOG_*.md
+/RULES_FROZEN.txt
+# superseded pipeline versions and one-off stage scripts (v8 is the frozen pipeline)
+/run_pipeline_v[3-7].py
+/run_stage*.py
+/csv_io.py
+/test_job_family.py
+/scripts/build_full_summaries_v8.py
+# superseded exploration notebooks (01-03 are the data preparation steps)
+/0[4-7]_*.ipynb
+# 50k trial-run checks, superseded by outputs/summary/pilot/
+/outputs/pilot_check/
+/outputs/summary/pilot_50k_report.json
+/outputs/summary/search_position_top50.csv

@@ -1,0 +1,178 @@
+# NOTE: order = clean → merge → sense → hierarchy
+# action=parent means parent_skill=raw (broad, dropped) / child_skill=canonical (specific, kept)
+raw,canonical,action,notes
+QA,Quality Assurance,merge,common abbreviation
+Quality,Quality Assurance,parent,broad NER fragment — drop if QA present; else sense-refine
+Analysis,Data Analysis,parent,broad vs specific
+Development,Software Development,parent,broad vs specific
+Problemsolving,Problem Solving,merge,spacing variant
+Problem-solving,Problem Solving,merge,hyphen variant
+Detail Oriented,Attention to Detail,merge,synonym
+Detail-Oriented,Attention to Detail,merge,synonym
+Detailoriented,Attention to Detail,merge,spacing variant
+Organizational Skills,Organization,merge,synonym
+Organisational Skills,Organization,merge,UK spelling
+Communication Skills,Communication,merge,synonym
+Interpersonal Communication,Interpersonal Skills,merge,near-synonym
+Customer Support,Customer Service,merge,near-synonym
+Client Service,Customer Service,merge,near-synonym
+MS Excel,Microsoft Excel,merge,alias
+Excel,Microsoft Excel,merge,alias already in dict but keep for post-pass
+MS Office,Microsoft Office,merge,alias
+Microsoft Office Suite,Microsoft Office,merge,alias
+PowerBI,Power BI,merge,spacing
+Team Work,Teamwork,merge,spacing
+Collaboration,Teamwork,parent,collaboration often broader; treat as parent of teamwork when both present
+Project Managing,Project Management,merge,gerund form
+Managing Projects,Project Management,merge,gerund form
+Data Analytics,Data Analysis,merge,near-synonym
+Analyzing Data,Data Analysis,merge,gerund
+Machine-Learning,Machine Learning,merge,hyphen
+Cyber Security,Cybersecurity,merge,spacing
+InfoSec,Cybersecurity,merge,abbrev
+Network Security,Cybersecurity,parent,subset — keep as parent so Cybersecurity wins if both present
+Information Security,Cybersecurity,merge,synonym
+EHR,Electronic Health Records,merge,abbrev
+EMR,Electronic Health Records,merge,abbrev
+Epic Systems,Electronic Health Records,merge,vendor as EHR proxy
+Registered Nurse,Nursing,parent,credential vs skill cluster
+Clinical Nursing,Nursing,merge,synonym
+Direct Patient Care,Patient Care,merge,synonym
+Med Administration,Medication Administration,merge,abbrev
+Java,JavaScript,keep,DO NOT MERGE — different languages
+R,React,keep,DO NOT MERGE
+Training,Staff Development,keep,related but not always same
+Analysis,Data Analysis,parent,broad vs specific — drop Analysis if Data Analysis present
+Development,Software Development,parent,broad vs specific after sense refine also handles this
+Operations,Business Operations,keep,needs sense first; do not auto-merge
+Management,Project Management,keep,needs sense first
+Security,Cybersecurity,keep,needs sense first
+Sales,Retail Operations,keep,different
+Testing,Quality Assurance,parent,testing often under QA umbrella
+Procedures,Compliance,keep,not the same
+Healthcare,Patient Care,parent,broad domain vs concrete skill
+Business,Business Administration,merge,overly broad NER token
+Technology,Information Technology,merge,overly broad NER token
+Technical Skills,Computer Proficiency,merge,near-synonym in this dump
+PC Skills,Computer Proficiency,merge,near-synonym
+Software,Computer Proficiency,keep,too ambiguous — leave for sense/manual
+Word,Microsoft Word,merge,alias
+Outlook,Microsoft Outlook,merge,alias
+PowerPoint,Microsoft PowerPoint,merge,alias
+Google Suite,Google Workspace,merge,alias
+G Suite,Google Workspace,merge,alias
+Self-Motivation,Initiative,merge,synonym
+Self Motivation,Initiative,merge,synonym
+Selfstarter,Initiative,merge,synonym
+Prioritization,Time Management,parent,often co-occurs; keep specific if both
+Multi-Tasking,Multitasking,merge,hyphen
+Multi Tasking,Multitasking,merge,spacing
+Flexibility,Adaptability,merge,near-synonym in soft-skill layer
+People Skills,Interpersonal Skills,merge,synonym
+Relationship Building,Interpersonal Skills,parent,broader soft skill
+Client Relations,Customer Service,merge,near-synonym
+Guest Service,Customer Service,merge,hospitality wording
+Communication,Verbal Communication,parent,drop broad Communication when Verbal Communication present
+Team Leadership,Leadership,merge,near-synonym
+Leading Teams,Leadership,merge,near-synonym
+Supervisory Experience,Team Management,merge,near-synonym
+Supervision,Team Management,merge,near-synonym
+Mentoring,Coaching,merge,near-synonym in this dump
+Hiring,Recruitment,merge,near-synonym
+Talent Acquisition,Recruitment,merge,synonym
+Onboarding,Recruitment,parent,HR subprocess
+Kanban,Agile,merge,agile practice
+Scrum,Agile,parent,keep Scrum Master distinct; bare Scrum → under Agile when both
+Budget Management,Budgeting,merge,synonym
+Financial Budgeting,Budgeting,merge,synonym
+Inventory Control,Inventory Management,merge,synonym
+Stock Management,Inventory Management,merge,synonym
+Logistics,Supply Chain,parent,related
+Quality Control,Quality Assurance,keep,sense-dependent
+Continuous Improvement,Process Improvement,merge,near-synonym
+Performance Improvement,Quality Improvement,merge,near-synonym
+Six Sigma,Quality Improvement,parent,method under QI
+Regulatory Compliance,Compliance,merge,synonym
+Workplace Safety,Safety,merge,synonym
+Safety Protocols,Safety,merge,synonym
+Safety Procedures,Safety,merge,synonym
+OSHA,Safety,parent,standard under safety
+Patient Privacy,HIPAA,merge,near-synonym in clinical JDs
+HIPAA Compliance,HIPAA,merge,synonym
+Charting,Documentation,merge,clinical wording
+Clinical Documentation,Documentation,merge,synonym
+Medical Documentation,Documentation,merge,synonym
+Taking Vital Signs,Vital Signs,merge,gerund
+Patient Vitals,Vital Signs,merge,synonym
+Nursing Care Plan,Care Planning,merge,synonym
+Care Plans,Care Planning,merge,synonym
+Direct Patient Care,Patient Care,merge,duplicate row safe
+Applied Behavior Analysis,Psychology,keep,too specific — keep if added later
+QA Testing,Quality Assurance,merge,synonym
+Software Testing,Testing,merge,near-synonym
+Technical Troubleshooting,Troubleshooting,merge,synonym
+Debugging,Troubleshooting,parent,subset
+GitHub,Git,merge,platform
+GitLab,Git,merge,platform
+PostgreSQL,SQL,parent,dialect under SQL
+MySQL,SQL,parent,dialect under SQL
+SQL Server,SQL,parent,dialect under SQL
+Postgres,SQL,parent,dialect under SQL
+Amazon Web Services,AWS,merge,full name
+Microsoft Azure,Azure,merge,full name
+Google Cloud Platform,Google Cloud,merge,full name
+GCP,Google Cloud,merge,abbrev
+Node.js,JavaScript,parent,runtime — keep separate ideally; parent if both
+Nodejs,JavaScript,parent,same
+React.js,React,merge,alias
+ReactJS,React,merge,alias
+MS Word,Microsoft Word,merge,alias
+Spreadsheets,Microsoft Excel,parent,broader
+Data Viz,Data Visualization,merge,abbrev
+Visualizing Data,Data Visualization,merge,gerund
+Statistical Analysis,Statistics,merge,near-synonym
+Data Pipelines,ETL,merge,near-synonym
+Data Pipeline,ETL,merge,near-synonym
+Data Warehousing,ETL,parent,related
+Bookkeeping,Accounting,parent,subset
+Financial Accounting,Accounting,merge,synonym
+FP&A,Financial Analysis,merge,abbrev
+Customer Relationship Management,CRM,merge,full form
+Salesforce CRM,Salesforce,merge,alias
+SFDC,Salesforce,merge,abbrev
+Digital Marketing,Marketing,parent,subset
+Marketing Strategy,Marketing,merge,near-synonym
+Search Engine Optimization,SEO,merge,full form
+Content Strategy,Content Marketing,merge,near-synonym
+Content Creation,Content Marketing,merge,near-synonym
+B2B Sales,Sales,merge,channel
+Business Development,Sales,parent,related
+Inside Sales,Sales,merge,channel
+Selling,Sales,merge,gerund
+Staff Scheduling,Scheduling,merge,synonym
+Calendar Management,Scheduling,merge,near-synonym
+Employee Training,Training,merge,synonym
+Staff Training,Training,merge,synonym
+Training Delivery,Training,merge,synonym
+Team Player,Teamwork,merge,soft synonym
+Working In A Team,Teamwork,merge,phrase
+Collaborative,Teamwork,merge,adjective form from NER
+Public Speaking,Presentation Skills,merge,near-synonym
+Presentations,Presentation Skills,merge,plural
+Negotiating,Negotiation,merge,gerund
+Conflict Management,Conflict Resolution,merge,synonym
+Decision-Making,Decision Making,merge,hyphen
+Decisionmaking,Decision Making,merge,spacing
+Analytical Thinking,Critical Thinking,merge,near-synonym
+Analytical Skills,Critical Thinking,merge,near-synonym
+People Leadership,Leadership,merge,near-synonym
+Managing Time,Time Management,merge,gerund
+Time-Management,Time Management,merge,hyphen
+Detail Orientation,Attention to Detail,merge,synonym
+Accuracy,Attention to Detail,parent,related soft signal
+Client Relationships,Interpersonal Skills,parent,related
+Active Listening,Interpersonal Skills,parent,related
+BLS,CPR,keep,stage2: distinct certification
+Version Control,Git,keep,stage2: distinct skill
+Financial Modeling,Financial Analysis,keep,stage2: distinct skill
+Communication,Written Communication,parent,stage4: drop Communication when Written Communication present
