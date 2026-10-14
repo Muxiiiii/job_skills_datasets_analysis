@@ -8,8 +8,6 @@ group, country and seniority.
 > Every result in this repository comes from the first 300,000 postings (259,589 after
 > deduplication). That slice is not a random sample; see [Pilot caveat](#pilot-caveat).
 > The numbers will be updated when the full run finishes.
->
-> Link to Streamlit Dashboard: https://linkedin-job-skills-datasets-analysis.streamlit.app/
 
 ## Contents
 
@@ -43,7 +41,7 @@ then evaluated on postings they had never seen. Analysis runs on small aggregate
 | Clustering and classification report | [`outputs/models_report.md`](outputs/models_report.md) |
 | Aggregated summary tables | `outputs/summary/pilot/` |
 | Validation report | [`cleaned/final_eval_v8.md`](cleaned/final_eval_v8.md) |
-| Streamlit dashboard (seven pages) | `app/streamlit_app.py`, runs locally; see [Quickstart](#quickstart) |
+| Streamlit dashboard (eight pages) | `app/streamlit_app.py`, runs locally; see [Quickstart](#quickstart) |
 
 ![Top 30 skills overall](outputs/figures/02_top30_skills.png)
 
@@ -114,7 +112,8 @@ CSV files from Kaggle and place them in the repository root.
 | 5 | Build aggregated summary tables | `src/analysis/build_summaries.py` | `outputs/summary/<name>/` |
 | 6 | Produce figures and the EDA report | `src/analysis/eda.py` | `outputs/figures/`, `outputs/eda_report.md` |
 | 7 | Cluster skill profiles and predict occupation group | `src/analysis/models.py` | `outputs/models_report.md` |
-| 8 | Serve the dashboard from the summary tables | `app/streamlit_app.py` | Local web app |
+| 8 | Skill bundles and occupation-transition gaps (curriculum view) | `src/analysis/curriculum.py` | `outputs/summary/<name>/curriculum/`, `outputs/curriculum_report.md` |
+| 9 | Serve the dashboard from the summary tables | `app/streamlit_app.py` | Local web app |
 
 Skills come from two sources: LinkedIn's `job_skills` list and a dictionary and context match on
 the description text. A skill found in both sources is flagged `high_confidence`.
@@ -196,16 +195,20 @@ Full details are in [`cleaned/final_eval_v8.md`](cleaned/final_eval_v8.md),
 │   ├── config.py                     paths, presets, quality constants
 │   ├── build_summaries.py
 │   ├── eda.py
-│   └── models.py
+│   ├── models.py
+│   └── curriculum.py                 skill communities, RCA, occupation-transition gaps
 ├── app/
-│   └── streamlit_app.py              dashboard
+│   ├── streamlit_app.py              dashboard
+│   └── curriculum_page.py            "Curriculum insights" page
 ├── tests/
 │   ├── test_rules.py                 extraction rule tests
-│   └── test_analysis.py              analysis-layer tests
+│   ├── test_analysis.py              analysis-layer tests
+│   └── test_curriculum.py            curriculum-analysis tests
 ├── cleaned/                          validation reports, gold labels, frozen job-family model
 └── outputs/
     ├── eda_report.md
     ├── models_report.md
+    ├── curriculum_report.md
     ├── figures/                      eight EDA figures
     └── summary/
         ├── DATA_QUALITY.md
@@ -236,8 +239,8 @@ The dashboard reads only the committed tables in `outputs/summary/pilot/`. It ne
 streamlit run app/streamlit_app.py
 ```
 
-It has seven pages: Overview, Skill ranking, Co-occurrence, Education & experience,
-Certificates, Model results and Data quality.
+It has eight pages: Overview, Skill ranking, Co-occurrence, Education & experience,
+Certificates, Model results, Data quality and Curriculum insights.
 
 ### 3. Rebuild the summaries, EDA and models
 
@@ -248,6 +251,7 @@ and which is not committed.
 python -m src.analysis.build_summaries    # chunks 0-5 → outputs/summary/pilot/
 python -m src.analysis.eda                # outputs/figures/ and outputs/eda_report.md
 python -m src.analysis.models             # outputs/models_report.md
+python -m src.analysis.curriculum         # outputs/summary/pilot/curriculum/ and outputs/curriculum_report.md
 ```
 
 ### 4. Switch to the full run
@@ -258,6 +262,7 @@ Once the full run has finished and merged its chunks:
 python -m src.analysis.build_summaries --preset full
 python -m src.analysis.eda --summary-dir outputs/summary/full --figures-dir outputs/figures_full --report outputs/eda_report_full.md
 python -m src.analysis.models --preset full --report outputs/models_report_full.md
+python -m src.analysis.curriculum --preset full    # outputs/summary/full/curriculum/, outputs/curriculum_report_full.md
 SKILL_SUMMARY_DIR=outputs/summary/full streamlit run app/streamlit_app.py
 ```
 
