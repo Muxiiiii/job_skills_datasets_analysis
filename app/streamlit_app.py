@@ -333,9 +333,14 @@ def page_quality(base, ov):
         st.json(ov["inputs"])
 
 
+def page_curriculum(base, ov):
+    from curriculum_page import render  # app/curriculum_page.py, reads <summary-dir>/curriculum/
+    render(base, ov)
+
+
 PAGES = {"Overview": page_overview, "Skill ranking": page_ranking, "Co-occurrence": page_cooccurrence,
          "Education & experience": page_edu_yoe, "Certificates": page_certs, "Model results": page_models,
-         "Data quality": page_quality}
+         "Data quality": page_quality, "Curriculum insights": page_curriculum}
 
 
 def main():
