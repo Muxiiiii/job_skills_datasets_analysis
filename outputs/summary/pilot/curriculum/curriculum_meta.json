@@ -1,0 +1,213 @@
+{
+  "generated_at_utc": "2026-10-14T02:46:28+00:00",
+  "source": "outputs/full_v8/chunks (6 file(s))",
+  "out_dir": "outputs/summary/pilot/curriculum",
+  "n_postings_dedup": 259589,
+  "n_skills": 281,
+  "params": {
+    "top_skills": 300,
+    "min_skill_jobs": 100,
+    "min_lift": 1.5,
+    "min_co_jobs": 30,
+    "edge_weight": "pmi",
+    "resolution": 1.5,
+    "resolution_grid": [
+      1.0,
+      1.5,
+      2.0
+    ],
+    "seed": 42,
+    "stability_seeds": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "rca_min": 1.0,
+    "rca_min_group_jobs": 20,
+    "vec_min_skill_jobs": 50,
+    "gap_min_share_to": 0.03,
+    "transfer_min_share": 0.05,
+    "top_gap": 15,
+    "top_positions": 50,
+    "include_other": false
+  },
+  "network": {
+    "n_candidate_skills": 278,
+    "n_nodes": 278,
+    "n_edges": 8922,
+    "n_isolated_dropped": 0,
+    "modularity": 0.3269346331220144,
+    "n_communities": 7
+  },
+  "stability": {
+    "seeds": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "n_communities": [
+      8,
+      7,
+      8,
+      7,
+      7
+    ],
+    "ari_mean": 0.9800812698421943,
+    "ari_min": 0.9651736731777432,
+    "nmi_mean": 0.9748931919591367,
+    "nmi_min": 0.9569889689803277
+  },
+  "sensitivity": [
+    {
+      "resolution": 1.0,
+      "n_communities": [
+        4,
+        4,
+        4,
+        5,
+        5
+      ],
+      "ari_mean": 0.8380029081538167,
+      "ari_min": 0.7338416728907474,
+      "nmi_mean": 0.9017072389405639,
+      "nmi_min": 0.8280057265800608
+    },
+    {
+      "resolution": 1.5,
+      "n_communities": [
+        8,
+        7,
+        8,
+        7,
+        7
+      ],
+      "ari_mean": 0.9800812698421943,
+      "ari_min": 0.9651736731777432,
+      "nmi_mean": 0.9748931919591367,
+      "nmi_min": 0.9569889689803277
+    },
+    {
+      "resolution": 2.0,
+      "n_communities": [
+        11,
+        11,
+        12,
+        11,
+        12
+      ],
+      "ari_mean": 0.8370144797757957,
+      "ari_min": 0.7576818095457113,
+      "nmi_mean": 0.8534955947649501,
+      "nmi_min": 0.7870160440361433
+    }
+  ],
+  "group_sizes": {
+    "Creative_Media": 4204,
+    "Education": 13246,
+    "Finance_Accounting": 16183,
+    "Healthcare_Clinical": 18420,
+    "Healthcare_Nursing": 11065,
+    "Hospitality_Food": 5667,
+    "Legal_Compliance": 3620,
+    "Management_HR_Admin": 54741,
+    "Sales_Customer": 26990,
+    "Science_Research": 2807,
+    "Skilled_Trades_Ops": 26390,
+    "Tech_Engineering": 19298
+  },
+  "n_vector_skills": 280,
+  "group_concentration": {
+    "Creative_Media": {
+      "top_terms": [
+        "Producer",
+        "Controls Designer"
+      ],
+      "top2_share": 0.5461465271170314
+    },
+    "Education": {
+      "top_terms": [
+        "Consultant Education",
+        "Instructor"
+      ],
+      "top2_share": 0.38494639891287935
+    },
+    "Finance_Accounting": {
+      "top_terms": [
+        "Accountant",
+        "Auditor"
+      ],
+      "top2_share": 0.35809182475437185
+    },
+    "Healthcare_Clinical": {
+      "top_terms": [
+        "Anesthesiologist",
+        "Counselor"
+      ],
+      "top2_share": 0.1728555917480999
+    },
+    "Healthcare_Nursing": {
+      "top_terms": [
+        "Christian Science Nurse",
+        "Nurse Practitioner"
+      ],
+      "top2_share": 0.3699954812471758
+    },
+    "Hospitality_Food": {
+      "top_terms": [
+        "Chef",
+        "Bakery Supervisor"
+      ],
+      "top2_share": 0.5745544379742368
+    },
+    "Legal_Compliance": {
+      "top_terms": [
+        "Lawyer",
+        "Insurance Attorney"
+      ],
+      "top2_share": 0.8408839779005525
+    },
+    "Management_HR_Admin": {
+      "top_terms": [
+        "Clerk General",
+        "Director Social"
+      ],
+      "top2_share": 0.08985952028643979
+    },
+    "Sales_Customer": {
+      "top_terms": [
+        "Account Executive",
+        "Change Person"
+      ],
+      "top2_share": 0.3906632085957762
+    },
+    "Science_Research": {
+      "top_terms": [
+        "Biologist",
+        "Chemist"
+      ],
+      "top2_share": 0.6159600997506235
+    },
+    "Skilled_Trades_Ops": {
+      "top_terms": [
+        "Driver",
+        "Assembler"
+      ],
+      "top2_share": 0.15422508525956802
+    },
+    "Tech_Engineering": {
+      "top_terms": [
+        "Architect",
+        "Agricultural-Research Engineer"
+      ],
+      "top2_share": 0.2073790030054928
+    }
+  },
+  "partial_slice": true,
+  "sample_note": "These tables come from a partial slice of the full run (the first postings in URL order), not a random sample: the US is under-weighted and covers only job titles early in the alphabet. Treat every figure as provisional until the full run is in.",
+  "peak_rss_mb": 1969.8,
+  "quality_note": "Skill extraction precision≈0.66 / recall≈0.58 on 50 unseen postings (two-source high-confidence subset: precision≈0.93). Use for rankings and group comparisons, not as per-posting skill lists."
+}
