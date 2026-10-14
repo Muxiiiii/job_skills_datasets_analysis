@@ -21,7 +21,7 @@ JOB_FAMILY_RULES = [
      r"\b(?:nurses?|nursing|registered nurses?|\brns?\b|lpns?|cnas?|nurse practitioners?|\bnps?\b|icu|med[- ]surg|clinical nurses?)\b"),
     ("Veterinary",
      r"\b(?:veterinar\w*|vet(?:erinary)?(?:\s+techs?|\s+surgeons?)?|animal care)\b"),
-    # Psychiatrists are physicians (round6); keep psychology/therapy in Behavioral Health
+    # Psychiatrists are physicians; keep psychology/therapy in Behavioral Health
     ("Physician & PA",
      r"\b(?:physicians?|doctors?|surgeons?|hospitalists?|psychiatrists?|"
      r"anesthesiologists?|obstetricians?|gynecologists?|cardiologists?|"
@@ -402,7 +402,7 @@ def refine_skill_detailed(
     best = scores[0][0]
     second = scores[1][0] if len(scores) > 1 else 0
     if best <= 0:
-        # Gold / Claude convention: bare workplace safety → Workplace / OSHA Safety
+        # Gold-label convention: bare workplace safety → Workplace / OSHA Safety
         if skill == "Safety":
             return {"skill_refined": "Workplace / OSHA Safety", "sense": "Workplace / OSHA Safety"}
         return {"skill_refined": f"{skill} (unspecified)", "sense": "unspecified"}
@@ -775,7 +775,7 @@ def refine_skill_table(
         df["skill_raw"] = df["skill"].astype(str)
     df["skill_canonical"] = df["skill"].astype(str)
 
-    # 1) merge synonyms (+ round6 near-synonym canonicals)
+    # 1) merge synonyms (+ near-synonym canonicals)
     df["skill_canonical"] = df["skill_canonical"].replace(merge_map)
     df["skill_canonical"] = df["skill_canonical"].replace(CANONICAL_SKILL_MERGE)
 
@@ -893,7 +893,7 @@ def refine_skill_table(
 # ---------------------------------------------------------------------------
 # Section segmentation (stage 2) — tag then skip benefits/company/eeo for skills
 # ---------------------------------------------------------------------------
-# Headers only at line / bullet start, followed by ':' or newline (round4).
+# Headers only at line / bullet start, followed by ':' or newline.
 # Avoids mid-sentence "comprehensive benefits" / "other duties as assigned".
 SECTION_HEADER = re.compile(
     r"(?im)(?:^|[\n\r•]\s*)("
@@ -923,16 +923,16 @@ _SECTION_TYPE_MAP = [
     (("how to apply", "to apply"), "other"),
 ]
 
-# Round6: summary evidence only from requirement-class sections when they exist.
+# Summary evidence only from requirement-class sections when they exist.
 # "other" kept as fallback only when the JD has no req/preferred/responsibilities headers.
 SUMMARY_EVIDENCE_SECTIONS = {"requirements", "preferred", "responsibilities"}
 SKILL_ALLOWED_SECTIONS = SUMMARY_EVIDENCE_SECTIONS | {"other"}
 
-# Bare tokens that are never real skills (Claude: always too_generic)
+# Bare tokens that are never real skills (always judged too_generic in the gold labels)
 ALWAYS_DROP_SKILLS = {"Software", "Procedures", "Healthcare", "Implementation"}
 
 # High FP skills: keep from requirements / preferred / responsibilities only
-# (round7: responsibilities == requirements; do NOT require requirements-only)
+# (responsibilities == requirements; do NOT require requirements-only)
 LOW_PRECISION_SUMMARY_ONLY = {
     "Recruitment", "Hiring", "Human Resources", "Management", "Management (unspecified)",
     "Payroll", "Counseling", "Transportation", "Procurement", "Professionalism",
@@ -941,7 +941,7 @@ LOW_PRECISION_SUMMARY_ONLY = {
 }
 LOW_PRECISION_ALLOWED_SECTIONS = {"requirements", "preferred", "responsibilities"}
 
-# Merge near-synonym canonical names (round6 recall)
+# Merge near-synonym canonical names (recall)
 CANONICAL_SKILL_MERGE = {
     "Team Management": "People Management",
 }
@@ -1103,14 +1103,14 @@ def build_alias_to_skill(skill_dict: dict) -> dict[str, str]:
     return out
 
 
-# Short / acronym aliases matched in summary with strict word boundaries (round4).
+# Short / acronym aliases matched in summary with strict word boundaries.
 # Matched via regex (case-insensitive with \b), not dropped for being short.
 SHORT_SUMMARY_ALIASES = {
     "sql", "aws", "cpr", "excel", "java", "hvac", "bls", "acls", "pals",
     "git", "etl", "crm", "seo", "cdl", "pmp", "cpa", "cfa", "ehr", "emr",
     "gaap", "hipaa", "osha", "html", "css", "api", "sre", "iam", "soc", "sap",
 }
-# Must match with exact casing (or exclude verb forms) — round5
+# Must match with exact casing (or exclude verb forms)
 SHORT_CASE_SENSITIVE = {"Excel", "Git", "CSS", "CRM", "SAP"}
 _SHORT_VERB_EXCLUDE = re.compile(
     r"(?i)\b(?:to\s+)?excel\s+in\b|\beager\s+to\s+excel\b|\bexcel\s+at\b|"
@@ -1287,7 +1287,7 @@ def extract_skill_evidence(
             if skill == "Diversity and Inclusion" and has_eeo and "diversity and inclusion" not in tok_l:
                 token_log.append({"raw_token": tok, "status": "filtered", "reason": "eeo_context"})
                 continue
-            # Round6: ner_only without JD support → keep only if summary is thin;
+            # ner_only without JD support → keep only if summary is thin;
             # otherwise drop high-risk generics / mark unsupported.
             jd_supported = False
             if summary.strip():
@@ -1348,7 +1348,7 @@ def extract_skill_evidence(
             hits.append((skill, start, end, "summary_short"))
 
         # ambiguous: req/preferred/responsibilities; also untyped "other" (short JD)
-        # and multi-word duty phrases anywhere in intro other (round7)
+        # and multi-word duty phrases anywhere in intro other
         for stype, _h, a, _b, chunk in spans:
             allow_amb = stype in AMBIGUOUS_ALLOWED_SECTIONS or (
                 stype == "other" and not has_req_signal
@@ -1385,9 +1385,9 @@ def extract_skill_evidence(
                 and matched_multi
                 and rule in {"summary_alias", "summary_short", "summary_ambiguous"}
             )
-            # Round6: when JD has req sections, drop "other" hits only for ambiguous /
+            # When JD has req sections, drop "other" hits only for ambiguous /
             # generic bare tokens (keeps Communication/Teamwork etc. in prose).
-            # Round7: keep multi-word duty phrases even in intro "other".
+            # Keep multi-word duty phrases even in intro "other".
             if stype == "other" and has_req_signal and not duty_other_ok:
                 if skill in ambiguous_for_summary or skill in ALWAYS_DROP_SKILLS or skill in GENERIC_SKILLS:
                     continue
@@ -1398,7 +1398,7 @@ def extract_skill_evidence(
                 })
                 continue
             base_skill = re.sub(r" \((?:unspecified|conflict)\)$", "", skill)
-            # Short / untyped JD: treat sole "other" blob as requirements (round7)
+            # Short / untyped JD: treat sole "other" blob as requirements
             effective_stype = stype
             if stype == "other" and (not has_req_signal or duty_other_ok):
                 effective_stype = "requirements"

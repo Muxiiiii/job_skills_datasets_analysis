@@ -140,7 +140,7 @@ def extract_quals(summary: str, title: str) -> dict:
         for s in sections:
             st = s["section_type"]
             # Skip company/eeo for skills-like quals; still allow YOE/edu from benefits? No —
-            # but licenses often sit under a mis-tagged Benefits header (round8b).
+            # but licenses often sit under a mis-tagged Benefits header.
             if st in {"company", "eeo"}:
                 continue
             if st == "benefits":

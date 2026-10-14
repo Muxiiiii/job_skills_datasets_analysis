@@ -1,9 +1,10 @@
-Round 8 FROZEN (UTC date in CHANGELOG_v8.md).
+v8 rules FROZEN (freeze date and history: see CHANGELOG.md).
 
 Frozen surfaces:
-- Skill extraction rules (unchanged from v7 freeze)
-- Education / YOE / cert generic patches from round 8
+- Skill extraction rules (unchanged from the v7 freeze)
+- Education / YOE / cert generic patches from v8
 - Job family: TF-IDF + LogisticRegression (cleaned/job_family_tfidf_lr_v8.joblib)
 
-Do not tune on holdout gold. Holdout metrics are the external quality numbers.
-Next: Claude holdout re-score; optional new-50 family check; then 1.3M if pass.
+Do not tune on holdout gold. Post-freeze validation results (holdout 50 and
+fresh 50) are in cleaned/final_eval_v8.md; quote those as the external quality
+numbers. Later changes are recorded in CHANGELOG.md.

@@ -163,8 +163,7 @@ Every table uses the same defaults:
 
 Full details are in [`cleaned/final_eval_v8.md`](cleaned/final_eval_v8.md),
 [`cleaned/holdout_eval_v7.md`](cleaned/holdout_eval_v7.md) and
-[`outputs/summary/DATA_QUALITY.md`](outputs/summary/DATA_QUALITY.md). These three documents are
-written in Chinese.
+[`outputs/summary/DATA_QUALITY.md`](outputs/summary/DATA_QUALITY.md).
 
 ## Repository layout
 

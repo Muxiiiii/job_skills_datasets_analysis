@@ -132,7 +132,7 @@ KEEP_RE = re.compile(
 
 # Ambiguous single words / short labels — OK to match against NER skill tokens
 # (usually already skill-like), but DO NOT match against JD requirement text.
-# Only skills that exist in SKILL_DICT (round5 — drop 16 names not in vocab)
+# Only skills that exist in SKILL_DICT (16 names not in vocab were dropped)
 AMBIGUOUS_FOR_SUMMARY = {
     "Organization",
     "Training",
@@ -319,7 +319,7 @@ SKILL_META = {
     "Strategic Planning": {"aliases": ["strategic planning"], "type": "hard", "domain": "Management"},
     "Change Management": {"aliases": ["change management"], "type": "hard", "domain": "Management"},
     "Performance Management": {"aliases": ["performance management"], "type": "hard", "domain": "Management"},
-    # Round6: People Management is the canonical name (gold); Team Management merges into it.
+    # People Management is the canonical name (gold); Team Management merges into it.
     "People Management": {"aliases": [
         "people management", "team management", "supervisory experience",
         "supervision of staff", "managing staff", "manage a team", "supervise staff",
@@ -423,7 +423,7 @@ SKILL_META = {
     "Mathematical Calculations": {"aliases": ["mathematical calculations", "math skills", "mathematics", "mathematical skills"], "type": "hard", "domain": "Professional Skills"},
 }
 
-# Round-2 expansion from unmapped high-frequency NER tokens (sample + 200k audit)
+# Expansion from unmapped high-frequency NER tokens (sample + 200k audit)
 SKILL_META_ROUND2 = {
     # soft / professional
     "Accountability": {"aliases": ["accountability"], "type": "soft", "domain": "Professional Skills"},
@@ -638,7 +638,7 @@ CERT_DICT = {
     "PHR": ["phr certification", "professional in human resources"],
     "Cosmetology License": ["cosmetology license", "licensed cosmetologist"],
     "Barber License": ["barber license", "licensed barber"],
-    # Round8 holdout gaps
+    # Gaps found on the holdout sample
     "CIPD": ["cipd", "cipd level", "chartered institute of personnel"],
     "LMFT": ["lmft", "licensed marriage and family therapist"],
     "LPC": ["lpc", "licensed professional counselor"],
@@ -678,7 +678,7 @@ EDU_PATTERNS = [
         r")",
     ),
     ("phd", r"(?i)\bPh\.?\s?D\.?\b|\bPhD\b|\bdoctoral(?:\s+degree)?\b(?!\s+of\s+jurisprudence)"),
-    # Round8: never bare "MS" in MS Office; never bare "master" in master data.
+    # Never bare "MS" in MS Office; never bare "master" in master data.
     # Allow: master's/master degree, Master's (as degree word), MBA, M.S., MS in/or PhD, MSN.
     ("master",
      r"(?i)(?:"
@@ -697,7 +697,7 @@ EDU_PATTERNS = [
     ("bachelor",
      r"(?i)\bbachelor'?s?(?:\s+degree)?\b|\bB\.S\.(?!\w)|\bB\.A\.(?!\w)|\bBS\b|\bBA\b|\bBSN\b|"
      r"\bbachelor of (?:science|arts|science in nursing)\b|\b4[- ]year degree\b|\bundergraduate degree\b"),
-    # Round6: NEVER bare "as"/"associate"/"AA"/"AS" — only explicit degree contexts.
+    # NEVER bare "as"/"associate"/"AA"/"AS" — only explicit degree contexts.
     # "Sales Associate", "Associate Discount", "as well as" must not match.
     ("associate",
      r"(?i)(?:"
@@ -717,7 +717,7 @@ EDU_PATTERNS = [
     ("high_school", r"(?i)\bhigh school(?:\s+diploma|\s+or\s+equivalent)?\b|\bGED\b"),
 ]
 
-# Bare "degree in X" / "a degree in" with no level → bachelor (round6 recall for edu)
+# Bare "degree in X" / "a degree in" with no level → bachelor (edu recall)
 _DEGREE_IN_RE = re.compile(r"(?i)\b(?:a|an|the)?\s*degree\s+in\b|\bcollege\s+degree\b")
 
 
@@ -744,7 +744,7 @@ EDU_RANK = {
     "professional_doctorate": 6,
 }
 
-# English word numbers for "Five (5) years" / "two years" (round8)
+# English word numbers for "Five (5) years" / "two years"
 _YOE_WORD2NUM = {
     "one": 1, "two": 2, "three": 3, "four": 4, "five": 5,
     "six": 6, "seven": 7, "eight": 8, "nine": 9, "ten": 10,
@@ -774,7 +774,7 @@ YOE_RE = re.compile(
     re.I,
 )
 
-# Round8: "Five (5) to ten (10) years of experience" / "Two years of supervisor experience"
+# "Five (5) to ten (10) years of experience" / "Two years of supervisor experience"
 YOE_WORD_RE = re.compile(
     r"(?:(?P<atleast>at\s+least|minimum(?:\s+of)?)\s+)?"
     r"(?P<wmin>" + _YOE_WORD_ALT + r"|\d{1,2})"
@@ -1204,7 +1204,7 @@ def extract_education_records(text: str, *, has_req_section: bool = False,
                     if not re.search(r"(?i)juris|law|legal|attorney|counsel", ctx) and "J.D" not in m.group(0):
                         if not re.search(r"(?i)degree|doctor", sent):
                             continue
-                # Round8: MS Office / master data / scrum master are not degrees
+                # MS Office / master data / scrum master are not degrees
                 if level == "master":
                     ctx = sent[max(0, m.start() - 5):m.end() + 25]
                     if re.search(
@@ -1218,7 +1218,7 @@ def extract_education_records(text: str, *, has_req_section: bool = False,
                     if re.fullmatch(r"(?i)master", m.group(0)):
                         continue
                 found.append((m.start(), m.end(), level, m.group(0)))
-        # Round6: "degree in Finance" / "college degree" with no level word → bachelor
+        # "degree in Finance" / "college degree" with no level word → bachelor
         if not found:
             mdeg = _DEGREE_IN_RE.search(sent)
             if mdeg and not re.search(r"(?i)\bgraduate\s+of\b", sent):
@@ -1455,7 +1455,7 @@ def extract_cert_records(text: str, *, title: str | None = None) -> list[dict]:
 
 
 # ---------------------------------------------------------------------------
-# Summary context filters (round5 — key off RAW skill name; ±8 word window)
+# Summary context filters (key off RAW skill name; ±8 word window)
 # ---------------------------------------------------------------------------
 _BENEFIT_WORDS_RE = re.compile(
     r"(?i)\b(?:dental|vision|medical|insurance|401\s*\(?\s*k\)?|life|disability|pto|"
@@ -1537,7 +1537,7 @@ def context_filter_skill(
     mt_l = mt.lower()
     base = re.sub(r"\s*\((?:unspecified|conflict)\)$", "", skill or "", flags=re.I).strip().lower()
 
-    # company-name token only (round7: do NOT drop when skill appears in job title —
+    # company-name token only (do NOT drop when skill appears in job title —
     # e.g. "Salesforce" in "IT Specialist – Salesforce" is a real requirement)
     if company and base and len(base) >= 4:
         if re.search(rf"(?i)(?<!\w){re.escape(base)}(?!\w)", str(company)):
@@ -1633,7 +1633,7 @@ def context_filter_skill(
     ):
         return "context: communication standards/protocols"
 
-    # Round6 sense / not-requirement tightenings
+    # Sense / not-requirement tightenings
     if skill_l in {"equity", "diversity and inclusion"} and re.search(
         r"(?i)\b(?:equal\s+opportunity|eeo|dei\b|diversity|inclusion|belonging|"
         r"protected\s+(?:class|characteristic)|affirmative\s+action)\b",
