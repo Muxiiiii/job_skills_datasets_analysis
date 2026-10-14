@@ -1,0 +1,13 @@
+method_a,method_b,kendall_tau,p_value,top10_overlap,variant
+equal,mc_median,0.920455,0.0,10,4d
+equal,entropy,0.71828,0.0,7,4d
+equal,critic,0.805991,0.0,4,4d
+mc_median,entropy,0.731973,0.0,7,4d
+mc_median,critic,0.745872,0.0,4,4d
+entropy,critic,0.558474,0.0,1,4d
+equal,mc_median,0.965928,0.0,8,3d
+equal,entropy,0.717051,0.0,5,3d
+equal,critic,0.843779,0.0,5,3d
+mc_median,entropy,0.736419,0.0,6,3d
+mc_median,critic,0.830612,0.0,3,3d
+entropy,critic,0.573835,0.0,0,3d

@@ -16,7 +16,11 @@
 
 # --- full-run output (row level) ---
 /outputs/full_v8/
-/outputs/summary/full/
+# full-run summary tables: only the small CSV / JSON files are published
+/outputs/summary/full/**
+!/outputs/summary/full/**/
+!/outputs/summary/full/**/*.csv
+!/outputs/summary/full/**/*.json
 *.parquet
 *.log
 

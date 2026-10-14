@@ -169,22 +169,24 @@ def describe_communities(G: nx.Graph, part: dict[str, int], seed: int = SEED) ->
 
 
 # ---------------------------------------------------------------------------------- data access
-def load_matrix(inp: dict):
+def load_matrix(inp: dict, extra_cols: tuple[str, ...] = ()):
     """Deduplicated postings x specific skills, binary CSR.
 
     Returns (X, jobs, skills): jobs has one row per deduplicated posting (also postings
     without any specific skill, so shares use the same denominators as build_summaries);
-    skills is ordered by posting count, descending.
+    skills is ordered by posting count, descending. ``extra_cols`` are further posting
+    columns copied into ``jobs`` unchanged (e.g. yoe_min_overall, edu_required).
     """
     con = connect(inp)
-    con.execute("""CREATE TEMP TABLE jdim AS
-                   SELECT job_link, position_group, search_position,
+    extra = "".join(f", {c}" for c in extra_cols)
+    con.execute(f"""CREATE TEMP TABLE jdim AS
+                   SELECT job_link, position_group, search_position{extra},
                           row_number() OVER (ORDER BY job_link) - 1 AS j FROM jobs""")
     con.execute("""CREATE TEMP TABLE sdim AS
                    SELECT skill, count(DISTINCT job_link) AS n_jobs,
                           row_number() OVER (ORDER BY count(DISTINCT job_link) DESC, skill) - 1 AS s
                    FROM sk WHERE NOT generic GROUP BY 1""")
-    jobs = con.execute("SELECT position_group, search_position FROM jdim ORDER BY j").df()
+    jobs = con.execute(f"SELECT position_group, search_position{extra} FROM jdim ORDER BY j").df()
     skills = con.execute("SELECT skill, n_jobs FROM sdim ORDER BY s").df()
     long = con.execute("""SELECT DISTINCT d.j::INTEGER AS j, m.s::INTEGER AS s
                           FROM sk JOIN jdim d USING (job_link) JOIN sdim m USING (skill)

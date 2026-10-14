@@ -1,0 +1,1097 @@
+position_group,skill,n_jobs,share_group,share_overall,rca,rank
+Creative_Media,Electrical Engineering,2619,0.169977,0.01681,10.111837,1
+Creative_Media,Content Marketing,466,0.030244,0.003672,8.235711,2
+Creative_Media,Revit,683,0.044328,0.005544,7.995362,3
+Creative_Media,Prototyping,478,0.031023,0.003985,7.785102,4
+Creative_Media,MATLAB,417,0.027064,0.003701,7.312466,5
+Creative_Media,AutoCAD,1610,0.104491,0.015403,6.78362,6
+Creative_Media,Commissioning,797,0.051726,0.008176,6.326827,7
+Creative_Media,Architecture,2341,0.151934,0.029673,5.120211,8
+Creative_Media,Robotics,372,0.024143,0.005043,4.78723,9
+Creative_Media,Electrical Systems,3246,0.21067,0.045196,4.661292,10
+Creative_Media,Automation,1664,0.107996,0.023588,4.578516,11
+Creative_Media,CAD,287,0.018627,0.004098,4.545241,12
+Creative_Media,SEO,201,0.013045,0.003021,4.317964,13
+Creative_Media,CSS,289,0.018756,0.004677,4.010474,14
+Creative_Media,Blueprints,901,0.058476,0.014663,3.987939,15
+Creative_Media,Scrum Master,58,0.003764,0.000952,3.955317,16
+Creative_Media,SolidWorks,221,0.014343,0.003653,3.926605,17
+Creative_Media,Instrumentation,646,0.041926,0.010959,3.825599,18
+Creative_Media,Computer Vision,54,0.003505,0.000937,3.740874,19
+Creative_Media,Social Media,897,0.058217,0.016211,3.59109,20
+Creative_Media,Software Development,2680,0.173936,0.048859,3.559979,21
+Creative_Media,Jira,287,0.018627,0.005518,3.375504,22
+Creative_Media,C++,262,0.017004,0.005065,3.357448,23
+Creative_Media,Product Development,722,0.046859,0.013986,3.350381,24
+Creative_Media,Creative Thinking,211,0.013694,0.004189,3.269108,25
+Creative_Media,JavaScript,422,0.027388,0.008448,3.242185,26
+Creative_Media,Microservices,148,0.009605,0.002979,3.223939,27
+Creative_Media,C#,187,0.012137,0.003842,3.158873,28
+Creative_Media,Version Control,150,0.009735,0.003097,3.143225,29
+Creative_Media,Requirements Gathering,214,0.013889,0.004482,3.098757,30
+Creative_Media,Estimating,496,0.032191,0.010449,3.080713,31
+Creative_Media,Project Management,4954,0.321521,0.109973,2.923628,32
+Creative_Media,Production,3338,0.216641,0.075293,2.877307,33
+Creative_Media,Mechanical Engineering,650,0.042186,0.01472,2.865923,34
+Creative_Media,Artificial Intelligence,252,0.016355,0.005729,2.85492,35
+Creative_Media,Agile,1001,0.064966,0.023073,2.815718,36
+Creative_Media,Java,478,0.031023,0.011044,2.809071,37
+Creative_Media,Git,310,0.020119,0.007166,2.807785,38
+Creative_Media,DevOps,300,0.01947,0.006945,2.803587,39
+Creative_Media,Azure,277,0.017978,0.006801,2.64337,40
+Creative_Media,Product Management,260,0.016874,0.006411,2.631906,41
+Creative_Media,Python,780,0.050623,0.019315,2.620909,42
+Creative_Media,AWS,498,0.032321,0.012512,2.583154,43
+Creative_Media,Computer Science,966,0.062695,0.024277,2.582503,44
+Creative_Media,High Availability,46,0.002985,0.001161,2.570717,45
+Creative_Media,Data Modeling,122,0.007918,0.003082,2.568799,46
+Creative_Media,Manufacturing,2270,0.147326,0.058123,2.534716,47
+Creative_Media,Reliability,613,0.039785,0.015704,2.533403,48
+Creative_Media,Troubleshooting,2030,0.13175,0.052837,2.493512,49
+Creative_Media,Google Cloud,159,0.010319,0.004174,2.47221,50
+Creative_Media,Security Testing,33,0.002142,0.000867,2.469466,51
+Creative_Media,Construction Management,575,0.037318,0.015672,2.381138,52
+Creative_Media,Jenkins,109,0.007074,0.00301,2.350241,53
+Creative_Media,Networking,984,0.063863,0.027222,2.346022,54
+Creative_Media,Kubernetes,159,0.010319,0.0044,2.34555,55
+Creative_Media,Docker,127,0.008242,0.003549,2.32252,56
+Creative_Media,Sustainability,427,0.027713,0.011971,2.314925,57
+Creative_Media,Contract Administration,127,0.008242,0.003594,2.293151,58
+Creative_Media,HTML,357,0.02317,0.010285,2.252764,59
+Creative_Media,Cloud Computing,201,0.013045,0.005806,2.246942,60
+Creative_Media,Technical Support,622,0.040369,0.018003,2.242386,61
+Creative_Media,Master Data Management,50,0.003245,0.00147,2.207199,62
+Creative_Media,Lean / Six Sigma,346,0.022456,0.010349,2.169848,63
+Creative_Media,React,224,0.014538,0.006712,2.165959,64
+Creative_Media,Machine Learning,282,0.018302,0.008493,2.154984,65
+Creative_Media,Procurement,625,0.040563,0.019167,2.116349,66
+Creative_Media,Linux,209,0.013564,0.006616,2.050386,67
+Creative_Media,Insurance,174,0.011293,0.005864,1.92573,68
+Creative_Media,Civil Engineering,399,0.025896,0.013457,1.92427,69
+Creative_Media,Cybersecurity,558,0.036215,0.018986,1.907478,70
+Creative_Media,Business Analysis,369,0.023949,0.012608,1.899519,71
+Creative_Media,Root Cause Analysis,314,0.020379,0.01083,1.8818,72
+Creative_Media,Consulting,783,0.050818,0.027259,1.864263,73
+Creative_Media,Change Management,478,0.031023,0.016724,1.854953,74
+Creative_Media,Testing,186,0.012072,0.006508,1.854915,75
+Creative_Media,Google Workspace,172,0.011163,0.006044,1.84692,76
+Creative_Media,IT Operations,116,0.007529,0.00409,1.840851,77
+Creative_Media,Stakeholder Engagement,131,0.008502,0.00463,1.836105,78
+Creative_Media,SQL,618,0.040109,0.022388,1.791529,79
+Creative_Media,Quality Control (Manufacturing),351,0.02278,0.012827,1.776022,80
+Creative_Media,ETL,141,0.009151,0.005194,1.761699,81
+Creative_Media,Oracle,244,0.015836,0.009036,1.752617,82
+Creative_Media,Creativity,1829,0.118705,0.067755,1.751959,83
+Creative_Media,Quality Assurance (Software),61,0.003959,0.002277,1.738517,84
+Creative_Media,Marketing,1787,0.115979,0.067283,1.72374,85
+Creative_Media,Writing,1721,0.111695,0.065661,1.701093,86
+Creative_Media,Repair,1183,0.076778,0.045145,1.700721,87
+Creative_Media,Risk Management,1089,0.070678,0.04252,1.662239,88
+Creative_Media,Client Relationships,267,0.017329,0.010629,1.630291,89
+Creative_Media,Budgeting,1415,0.091835,0.056995,1.611278,90
+Creative_Media,Presentation Skills,1656,0.107477,0.067053,1.602857,91
+Creative_Media,SharePoint,176,0.011423,0.007137,1.60052,92
+Creative_Media,Cost Control,226,0.014668,0.009333,1.571538,93
+Creative_Media,Strategic Thinking,197,0.012786,0.008148,1.569187,94
+Creative_Media,Process Improvement,1365,0.08859,0.058687,1.509532,95
+Creative_Media,Microsoft Teams,73,0.004738,0.003198,1.481345,96
+Creative_Media,Fund Management,114,0.007399,0.00504,1.468134,97
+Creative_Media,Quality Assurance,1488,0.096573,0.066671,1.448504,98
+Creative_Media,Databases,415,0.026934,0.019114,1.409143,99
+Creative_Media,SAP,369,0.023949,0.017,1.408756,100
+Creative_Media,Salesforce,223,0.014473,0.010535,1.373858,101
+Creative_Media,Operations Management,73,0.004738,0.003461,1.368984,102
+Creative_Media,Microsoft PowerPoint,873,0.056659,0.041677,1.359468,103
+Creative_Media,Physical Security,113,0.007334,0.00541,1.355694,104
+Creative_Media,SaaS,49,0.00318,0.002394,1.328339,105
+Creative_Media,ERP Systems,117,0.007593,0.005724,1.326573,106
+Creative_Media,Business / Org Development,391,0.025376,0.019228,1.319773,107
+Creative_Media,Microsoft Word,744,0.048287,0.03892,1.240677,108
+Creative_Media,Business Intelligence,107,0.006944,0.005627,1.23419,109
+Creative_Media,Supply Chain,800,0.051921,0.042274,1.228213,110
+Creative_Media,Written Communication,1762,0.114356,0.093922,1.217571,111
+Creative_Media,Initiative,1171,0.075999,0.063004,1.206259,112
+Creative_Media,Microsoft Office,2613,0.169587,0.142002,1.19426,113
+Creative_Media,Data Visualization,120,0.007788,0.006535,1.191793,114
+Creative_Media,Active Directory,65,0.004219,0.003561,1.184666,115
+Creative_Media,Power BI,124,0.008048,0.006878,1.170068,116
+Creative_Media,Multitasking,929,0.060293,0.05219,1.155276,117
+Creative_Media,Attention to Detail,3289,0.213461,0.186489,1.144629,118
+Creative_Media,Coaching,1224,0.079439,0.070116,1.132968,119
+Creative_Media,Real Estate Development,23,0.001493,0.001319,1.131694,120
+Creative_Media,Equity,507,0.032905,0.029158,1.128519,121
+Creative_Media,Professional Development,864,0.056075,0.049785,1.126333,122
+Creative_Media,Teamwork,6428,0.417186,0.372322,1.120498,123
+Creative_Media,Windows,304,0.01973,0.017798,1.10858,124
+Creative_Media,Problem Solving,4015,0.260579,0.235488,1.106547,125
+Creative_Media,Microsoft Access,32,0.002077,0.00191,1.087413,126
+Creative_Media,Team Building,235,0.015252,0.014211,1.073272,127
+Creative_Media,Time Management,2215,0.143756,0.134309,1.070345,128
+Creative_Media,Prospecting,249,0.01616,0.015123,1.068577,129
+Creative_Media,Communication,7242,0.470016,0.440804,1.066268,130
+Creative_Media,HVAC,190,0.012331,0.011659,1.057678,131
+Creative_Media,Microsoft Excel,1656,0.107477,0.102739,1.046112,132
+Creative_Media,Workplace / OSHA Safety,3158,0.204958,0.196952,1.040652,133
+Creative_Media,Interpersonal Skills,2074,0.134605,0.130057,1.034969,134
+Creative_Media,Integrity,1124,0.072949,0.071162,1.025108,135
+Creative_Media,Microsoft Outlook,613,0.039785,0.038969,1.020935,136
+Creative_Media,Customer Focus,651,0.042251,0.041519,1.017634,137
+Creative_Media,Public Relations,96,0.006231,0.006171,1.009612,138
+Creative_Media,Pricing,334,0.021677,0.021515,1.007518,139
+Creative_Media,Retail Operations,270,0.017523,0.017491,1.001878,140
+Education,Curriculum Development,2753,0.058257,0.006774,8.59993,1
+Education,Child Development,1180,0.02497,0.004117,6.065753,2
+Education,First Aid,2466,0.052184,0.016874,3.09262,3
+Education,Cultural Competence,403,0.008528,0.003132,2.723282,4
+Education,Clinical Training,203,0.004296,0.001694,2.53621,5
+Education,Public Relations,733,0.015511,0.006171,2.513486,6
+Education,Psychology,1578,0.033393,0.013837,2.413323,7
+Education,Policy Development,444,0.009396,0.00417,2.252925,8
+Education,Planogram,171,0.003619,0.00166,2.179381,9
+Education,Employee Training / L&D,1179,0.024949,0.012051,2.070274,10
+Education,Statistics,1889,0.039974,0.019353,2.065496,11
+Education,Assessment,8513,0.180146,0.088875,2.026974,12
+Education,Google Workspace,577,0.01221,0.006044,2.020155,13
+Education,Professional Development,4568,0.096665,0.049785,1.941638,14
+Education,Social Work,1369,0.02897,0.015023,1.928349,15
+Education,CPR,3738,0.079101,0.042308,1.869647,16
+Education,Counseling,2458,0.052015,0.028411,1.830792,17
+Education,Equity,2373,0.050216,0.029158,1.722218,18
+Education,Coaching,5629,0.119117,0.070116,1.698857,19
+Education,Human Resources,2830,0.059887,0.035501,1.686879,20
+Education,Presentation Skills,5319,0.112557,0.067053,1.678625,21
+Education,Microsoft Teams,252,0.005333,0.003198,1.667337,22
+Education,Artificial Intelligence,451,0.009544,0.005729,1.66594,23
+Education,Staff Development,2495,0.052798,0.03179,1.660814,24
+Education,Advocacy,651,0.013776,0.008414,1.637253,25
+Education,Business Analysis,966,0.020442,0.012608,1.621376,26
+Education,Event Planning,523,0.011067,0.006872,1.610394,27
+Education,Goal Setting,564,0.011935,0.007475,1.59657,28
+Education,Requirements Gathering,336,0.00711,0.004482,1.586362,29
+Education,Patience,404,0.008549,0.005391,1.58579,30
+Education,Stakeholder Engagement,343,0.007258,0.00463,1.567507,31
+Education,Operations Management,256,0.005417,0.003461,1.565326,32
+Education,Quality Improvement,3025,0.064013,0.040973,1.562314,33
+Education,Data Analysis,5806,0.122863,0.079132,1.552627,34
+Education,Data Science,668,0.014136,0.009191,1.53793,35
+Education,Physical Security,385,0.008147,0.00541,1.506029,36
+Education,Clinical Skills,1489,0.031509,0.021061,1.496109,37
+Education,Bilingual,1241,0.026261,0.01763,1.489605,38
+Education,Financial Management,966,0.020442,0.013732,1.488634,39
+Education,Data Visualization,456,0.00965,0.006535,1.476637,40
+Education,Conflict Resolution,2417,0.051147,0.034694,1.474213,41
+Education,Mental Health,2981,0.063082,0.043794,1.440424,42
+Education,Social Media,1080,0.022854,0.016211,1.409765,43
+Education,Case Management,1476,0.031234,0.022238,1.404546,44
+Education,Scrum Master,63,0.001333,0.000952,1.400823,45
+Education,Data Entry,2915,0.061685,0.044969,1.371722,46
+Education,Tableau,361,0.007639,0.005589,1.366911,47
+Education,Resilience,589,0.012464,0.009144,1.363065,48
+Education,Clinical Operations,711,0.015046,0.011085,1.35735,49
+Education,Confidentiality,2910,0.061579,0.045435,1.355334,50
+Education,Microsoft PowerPoint,2667,0.056437,0.041677,1.35415,51
+Education,Writing,4195,0.088772,0.065661,1.351974,52
+Education,Account / Case Management,80,0.001693,0.001263,1.339994,53
+Education,Creative Thinking,265,0.005608,0.004189,1.338696,54
+Education,Team Building,872,0.018453,0.014211,1.298517,55
+Education,HTML,627,0.013268,0.010285,1.290043,56
+Education,OneDrive,43,0.00091,0.000706,1.289062,57
+Education,Written Communication,5639,0.119329,0.093922,1.270515,58
+Education,Mathematical Calculations,1548,0.032758,0.02587,1.26623,59
+Education,Software Development,2887,0.061093,0.048859,1.250399,60
+Education,Change Management,987,0.020886,0.016724,1.248853,61
+Education,Recruitment,1802,0.038133,0.030718,1.241386,62
+Education,Strategic Thinking,477,0.010094,0.008148,1.238842,63
+Education,Physical Therapy,1520,0.032165,0.026068,1.233903,64
+Education,Stress Management,527,0.011152,0.009113,1.223805,65
+Education,Evidence-Based Practice,496,0.010496,0.00858,1.223291,66
+Education,Interpersonal Skills,7429,0.157208,0.130057,1.208755,67
+Education,Banking,1439,0.030451,0.025458,1.196155,68
+Education,People Management,6085,0.128767,0.107703,1.195576,69
+Education,Decision Making,4133,0.08746,0.073463,1.190532,70
+Education,Consulting,1531,0.032398,0.027259,1.188529,71
+Education,Teamwork,20720,0.438463,0.372322,1.177645,72
+Education,Budgeting,3164,0.066954,0.056995,1.174735,73
+Education,Professionalism,1319,0.027912,0.023768,1.174324,74
+Education,SharePoint,396,0.00838,0.007137,1.174175,75
+Education,Accountability,1908,0.040376,0.035111,1.149952,76
+Education,SaaS,130,0.002751,0.002394,1.149067,77
+Education,Critical Thinking,5768,0.122059,0.106848,1.142353,78
+Education,Power BI,371,0.007851,0.006878,1.141439,79
+Education,Benefits Administration,95,0.00201,0.001762,1.14067,80
+Education,Spanish,1501,0.031763,0.028043,1.132671,81
+Education,Emergency Response,459,0.009713,0.008679,1.119093,82
+Education,Delegation,355,0.007512,0.006734,1.115531,83
+Education,Business Intelligence,295,0.006243,0.005627,1.109455,84
+Education,Databases,998,0.021119,0.019114,1.10491,85
+Education,Marketing,3513,0.07434,0.067283,1.104879,86
+Education,Communication,23014,0.487007,0.440804,1.104814,87
+Education,Creativity,3535,0.074805,0.067755,1.10405,88
+Education,Risk Management,2216,0.046894,0.04252,1.102871,89
+Education,Microsoft Office,7358,0.155705,0.142002,1.0965,90
+Education,Filing,819,0.017331,0.015887,1.090919,91
+Education,Machine Learning,437,0.009248,0.008493,1.088844,92
+Education,Microsoft Word,2001,0.042344,0.03892,1.087984,93
+Education,Sustainability,614,0.012993,0.011971,1.085342,94
+Education,Patient Safety,450,0.009523,0.008822,1.079385,95
+Education,Adaptability,3528,0.074657,0.069772,1.070018,96
+Education,Motivation,846,0.017902,0.016752,1.068668,97
+Education,Performance Management,1121,0.023722,0.022212,1.067979,98
+Education,Transportation,1297,0.027446,0.025742,1.066193,99
+Education,Employee Relations,479,0.010136,0.009526,1.064033,100
+Education,Integrity,3569,0.075525,0.071162,1.061303,101
+Education,Project Management,5488,0.116133,0.109973,1.056014,102
+Education,Time Management,6644,0.140596,0.134309,1.046813,103
+Education,Product Management,315,0.006666,0.006411,1.039673,104
+Education,Microsoft Access,93,0.001968,0.00191,1.030426,105
+Education,Care Coordination,377,0.007978,0.007791,1.024009,106
+Education,Empathy,1363,0.028843,0.028212,1.02238,107
+Education,Business / Org Development,924,0.019553,0.019228,1.016913,108
+Education,Microsoft Outlook,1869,0.039551,0.038969,1.01493,109
+Education,Process Improvement,2807,0.0594,0.058687,1.012142,110
+Education,Administrative Support,548,0.011596,0.011478,1.010323,111
+Education,Problem Solving,11190,0.236795,0.235488,1.00555,112
+Education,Computer Science,1152,0.024378,0.024277,1.004166,113
+Education,Microsoft Excel,4874,0.10314,0.102739,1.003905,114
+Finance_Accounting,GAAP,5398,0.124971,0.006796,18.387819,1
+Finance_Accounting,Financial Statements,6874,0.159142,0.010097,15.761757,2
+Finance_Accounting,Accounts Payable,4467,0.103417,0.007686,13.455336,3
+Finance_Accounting,Variance Analysis,2265,0.052438,0.003926,13.358143,4
+Finance_Accounting,Accounts Receivable,3386,0.078391,0.006613,11.854463,5
+Finance_Accounting,Benefits Administration,828,0.019169,0.001762,10.876778,6
+Finance_Accounting,Accounting,23839,0.551905,0.054371,10.150686,7
+Finance_Accounting,Financial Analysis,6944,0.160763,0.018752,8.573103,8
+Finance_Accounting,Auditing,6481,0.150044,0.017675,8.489001,9
+Finance_Accounting,Financial Modeling,1211,0.028036,0.003836,7.307808,10
+Finance_Accounting,ERP Systems,1597,0.036973,0.005724,6.459113,11
+Finance_Accounting,Payroll,4966,0.11497,0.021182,5.42763,12
+Finance_Accounting,Forecasting,5039,0.11666,0.02167,5.383415,13
+Finance_Accounting,Employee Relations,1542,0.035699,0.009526,3.747464,14
+Finance_Accounting,SAP,2396,0.055471,0.017,3.263014,15
+Finance_Accounting,Microsoft Excel,13894,0.321665,0.102739,3.130891,16
+Finance_Accounting,Budgeting,7589,0.175696,0.056995,3.082631,17
+Finance_Accounting,Real Estate Development,174,0.004028,0.001319,3.054029,18
+Finance_Accounting,Banking,3342,0.077372,0.025458,3.039252,19
+Finance_Accounting,Microsoft Access,250,0.005788,0.00191,3.030451,20
+Finance_Accounting,Business Intelligence,729,0.016877,0.005627,2.999499,21
+Finance_Accounting,Power BI,890,0.020605,0.006878,2.995728,22
+Finance_Accounting,Oracle,1155,0.02674,0.009036,2.959388,23
+Finance_Accounting,Financial Management,1748,0.040469,0.013732,2.947039,24
+Finance_Accounting,Filing,2011,0.046557,0.015887,2.930585,25
+Finance_Accounting,Billing,3192,0.073899,0.026956,2.741516,26
+Finance_Accounting,Client Relationships,1209,0.02799,0.010629,2.633317,27
+Finance_Accounting,Fund Management,480,0.011113,0.00504,2.205084,28
+Finance_Accounting,Data Analysis,7360,0.170394,0.079132,2.153284,29
+Finance_Accounting,Tableau,519,0.012016,0.005589,2.149977,30
+Finance_Accounting,Attention to Detail,16624,0.384868,0.186489,2.063761,31
+Finance_Accounting,Critical Thinking,9498,0.219892,0.106848,2.057979,32
+Finance_Accounting,Master Data Management,128,0.002963,0.00147,2.015599,33
+Finance_Accounting,Business Analysis,1083,0.025073,0.012608,1.988697,34
+Finance_Accounting,Human Resources,2935,0.067949,0.035501,1.913988,35
+Finance_Accounting,Account / Case Management,101,0.002338,0.001263,1.850835,36
+Finance_Accounting,Consulting,2166,0.050146,0.027259,1.839614,37
+Finance_Accounting,Risk Management,3364,0.077881,0.04252,1.831658,38
+Finance_Accounting,Microsoft Word,3073,0.071144,0.03892,1.827979,39
+Finance_Accounting,Process Improvement,4494,0.104042,0.058687,1.772824,40
+Finance_Accounting,Insurance,443,0.010256,0.005864,1.748931,41
+Finance_Accounting,Performance Management,1664,0.038524,0.022212,1.734378,42
+Finance_Accounting,Microsoft Office,10584,0.245034,0.142002,1.725569,43
+Finance_Accounting,Data Visualization,485,0.011228,0.006535,1.718242,44
+Finance_Accounting,Microsoft PowerPoint,2985,0.069107,0.041677,1.658142,45
+Finance_Accounting,Business Acumen,724,0.016762,0.010332,1.622243,46
+Finance_Accounting,Confidentiality,3031,0.070172,0.045435,1.544447,47
+Finance_Accounting,Recruitment,2037,0.047159,0.030718,1.535241,48
+Finance_Accounting,Cost Control,618,0.014308,0.009333,1.532949,49
+Finance_Accounting,Policy Development,274,0.006343,0.00417,1.521065,50
+Finance_Accounting,Manufacturing,3800,0.087975,0.058123,1.513595,51
+Finance_Accounting,Written Communication,5949,0.137727,0.093922,1.46641,52
+Finance_Accounting,Initiative,3929,0.090962,0.063004,1.443739,53
+Finance_Accounting,Microsoft Outlook,2429,0.056235,0.038969,1.443072,54
+Finance_Accounting,Multitasking,3171,0.073413,0.05219,1.40666,55
+Finance_Accounting,Hospitality,664,0.015373,0.011096,1.38544,56
+Finance_Accounting,Automation,1401,0.032435,0.023588,1.375094,57
+Finance_Accounting,Databases,1116,0.025837,0.019114,1.351743,58
+Finance_Accounting,Business / Org Development,1118,0.025883,0.019228,1.34613,59
+Finance_Accounting,Interpersonal Skills,7552,0.174839,0.130057,1.344322,60
+Finance_Accounting,Strategic Thinking,469,0.010858,0.008148,1.332613,61
+Finance_Accounting,Pricing,1237,0.028638,0.021515,1.331064,62
+Finance_Accounting,Time Management,7668,0.177525,0.134309,1.321768,63
+Finance_Accounting,Integrity,4012,0.092883,0.071162,1.30523,64
+Finance_Accounting,Requirements Gathering,250,0.005788,0.004482,1.291328,65
+Finance_Accounting,Equity,1623,0.037575,0.029158,1.288672,66
+Finance_Accounting,Decision Making,4073,0.094296,0.073463,1.283582,67
+Finance_Accounting,Stakeholder Engagement,247,0.005718,0.00463,1.23494,68
+Finance_Accounting,Marketing,3579,0.082859,0.067283,1.231492,69
+Finance_Accounting,Problem Solving,12497,0.289323,0.235488,1.228606,70
+Finance_Accounting,SQL,1188,0.027504,0.022388,1.228499,71
+Finance_Accounting,Presentation Skills,3445,0.079756,0.067053,1.189451,72
+Finance_Accounting,Data Entry,2284,0.052878,0.044969,1.175864,73
+Finance_Accounting,Professional Development,2515,0.058226,0.049785,1.169536,74
+Finance_Accounting,SharePoint,355,0.008219,0.007137,1.151595,75
+Finance_Accounting,Statistics,961,0.022248,0.019353,1.149607,76
+Finance_Accounting,Litigation,471,0.010904,0.009629,1.132414,77
+Finance_Accounting,Change Management,811,0.018776,0.016724,1.122661,78
+Finance_Accounting,Security Testing,42,0.000972,0.000867,1.121144,79
+Finance_Accounting,Communication,20680,0.47877,0.440804,1.086128,80
+Finance_Accounting,Professionalism,1115,0.025814,0.023768,1.086054,81
+Finance_Accounting,IT Operations,191,0.004422,0.00409,1.081227,82
+Finance_Accounting,Microsoft Teams,149,0.00345,0.003198,1.078556,83
+Finance_Accounting,Employee Training / L&D,554,0.012826,0.012051,1.064283,84
+Finance_Accounting,Google Workspace,273,0.00632,0.006044,1.045695,85
+Finance_Accounting,Project Management,4892,0.113256,0.109973,1.029854,86
+Finance_Accounting,Staff Development,1410,0.032643,0.03179,1.026841,87
+Finance_Accounting,Networking,1203,0.027851,0.027222,1.023117,88
+Finance_Accounting,Supply Chain,1868,0.043247,0.042274,1.023018,89
+Finance_Accounting,People Management,4741,0.109761,0.107703,1.019108,90
+Finance_Accounting,Computer Proficiency,3085,0.071422,0.070234,1.016917,91
+Finance_Accounting,Adaptability,3053,0.070681,0.069772,1.013031,92
+Finance_Accounting,Cybersecurity,821,0.019007,0.018986,1.001132,93
+Healthcare_Clinical,Marriage and Family Therapy,2936,0.024001,0.003015,7.961479,1
+Healthcare_Clinical,Dental Hygiene,480,0.003924,0.000519,7.553953,2
+Healthcare_Clinical,Radiology,12876,0.105258,0.01904,5.528378,3
+Healthcare_Clinical,Psychology,7459,0.060975,0.013837,4.406768,4
+Healthcare_Clinical,Social Work,6708,0.054836,0.015023,3.650114,5
+Healthcare_Clinical,Internal Medicine,10486,0.08572,0.023539,3.641587,6
+Healthcare_Clinical,Mental Health,17947,0.146712,0.043794,3.35005,7
+Healthcare_Clinical,Dentistry,7185,0.058736,0.017594,3.338307,8
+Healthcare_Clinical,Surgery,8374,0.068455,0.020592,3.324307,9
+Healthcare_Clinical,Counseling,10860,0.088778,0.028411,3.12477,10
+Healthcare_Clinical,Electronic Health Records,7677,0.062758,0.022623,2.774078,11
+Healthcare_Clinical,Child Development,1370,0.011199,0.004117,2.720535,12
+Healthcare_Clinical,Diagnosis,21140,0.172814,0.06387,2.705729,13
+Healthcare_Clinical,Physical Therapy,8313,0.067957,0.026068,2.606911,14
+Healthcare_Clinical,Clinical Skills,6622,0.054133,0.021061,2.570329,15
+Healthcare_Clinical,Account / Case Management,391,0.003196,0.001263,2.530001,16
+Healthcare_Clinical,Cultural Competence,959,0.00784,0.003132,2.50344,17
+Healthcare_Clinical,Pediatrics,3290,0.026895,0.01084,2.481139,18
+Healthcare_Clinical,Critical Care,4121,0.033688,0.014544,2.316356,19
+Healthcare_Clinical,Patient Care,36366,0.297283,0.129431,2.296838,20
+Healthcare_Clinical,HIPAA,4295,0.035111,0.015347,2.287797,21
+Healthcare_Clinical,Patient Safety,2399,0.019611,0.008822,2.222927,22
+Healthcare_Clinical,Clinical Training,444,0.00363,0.001694,2.142907,23
+Healthcare_Clinical,Patient Education,5264,0.043032,0.020344,2.115236,24
+Healthcare_Clinical,Clinical Quality,5561,0.04546,0.021574,2.10718,25
+Healthcare_Clinical,Care Coordination,1844,0.015074,0.007791,1.934882,26
+Healthcare_Clinical,BLS,13450,0.10995,0.056841,1.934335,27
+Healthcare_Clinical,Oncology,2645,0.021622,0.011576,1.867808,28
+Healthcare_Clinical,Medical Terminology,2858,0.023363,0.01259,1.855699,29
+Healthcare_Clinical,Empathy,6242,0.051027,0.028212,1.80872,30
+Healthcare_Clinical,Case Management,4683,0.038282,0.022238,1.721491,31
+Healthcare_Clinical,CPR,8121,0.066387,0.042308,1.569138,32
+Healthcare_Clinical,Evidence-Based Practice,1645,0.013447,0.00858,1.567275,33
+Healthcare_Clinical,Confidentiality,8701,0.071128,0.045435,1.565502,34
+Healthcare_Clinical,Vital Signs,1277,0.010439,0.006711,1.555512,35
+Healthcare_Clinical,Infection Control,2960,0.024197,0.015984,1.51383,36
+Healthcare_Clinical,ACLS,5067,0.041421,0.027399,1.511788,37
+Healthcare_Clinical,Wound Care,1253,0.010243,0.006944,1.475103,38
+Healthcare_Clinical,Curriculum Development,1192,0.009744,0.006774,1.438454,39
+Healthcare_Clinical,Medication Administration,3971,0.032462,0.022585,1.437334,40
+Healthcare_Clinical,Phlebotomy,733,0.005992,0.004533,1.321852,41
+Healthcare_Clinical,Professional Development,7567,0.061858,0.049785,1.242502,42
+Healthcare_Clinical,Assessment,13403,0.109566,0.088875,1.232817,43
+Healthcare_Clinical,Nursing,19267,0.157503,0.131925,1.193884,44
+Healthcare_Clinical,Care Planning,2410,0.019701,0.016523,1.192343,45
+Healthcare_Clinical,Staffing,6343,0.051852,0.043775,1.184509,46
+Healthcare_Clinical,Advocacy,1206,0.009859,0.008414,1.171691,47
+Healthcare_Clinical,Quality Improvement,5785,0.047291,0.040973,1.15419,48
+Healthcare_Clinical,Billing,3743,0.030598,0.026956,1.135129,49
+Healthcare_Clinical,Stress Management,1236,0.010104,0.009113,1.108795,50
+Healthcare_Clinical,Staff Development,4261,0.034833,0.03179,1.095704,51
+Healthcare_Clinical,Goal Setting,966,0.007897,0.007475,1.056372,52
+Healthcare_Clinical,Bilingual,2245,0.018352,0.01763,1.04099,53
+Healthcare_Clinical,English Proficiency,1376,0.011248,0.010906,1.031438,54
+Healthcare_Nursing,Care Planning,8534,0.108212,0.016523,6.549132,1
+Healthcare_Nursing,Nursing,66275,0.840371,0.131925,6.370082,2
+Healthcare_Nursing,Medication Administration,11243,0.142562,0.022585,6.312292,3
+Healthcare_Nursing,Wound Care,3282,0.041616,0.006944,5.993174,4
+Healthcare_Nursing,ACLS,11962,0.151679,0.027399,5.535934,5
+Healthcare_Nursing,Evidence-Based Practice,3637,0.046117,0.00858,5.374892,6
+Healthcare_Nursing,Infection Control,6581,0.083447,0.015984,5.220647,7
+Healthcare_Nursing,Critical Care,5818,0.073773,0.014544,5.072517,8
+Healthcare_Nursing,Vital Signs,2601,0.032981,0.006711,4.914394,9
+Healthcare_Nursing,BLS,21901,0.277706,0.056841,4.885628,10
+Healthcare_Nursing,Patient Education,7829,0.099272,0.020344,4.879735,11
+Healthcare_Nursing,Care Coordination,2934,0.037203,0.007791,4.7753,12
+Healthcare_Nursing,Clinical Quality,7360,0.093325,0.021574,4.325871,13
+Healthcare_Nursing,Clinical Operations,3771,0.047816,0.011085,4.313768,14
+Healthcare_Nursing,Clinical Training,563,0.007139,0.001694,4.214788,15
+Healthcare_Nursing,Patient Care,42097,0.533792,0.129431,4.124137,16
+Healthcare_Nursing,CPR,12979,0.164574,0.042308,3.889912,17
+Healthcare_Nursing,Clinical Skills,6249,0.079238,0.021061,3.762333,18
+Healthcare_Nursing,Patient Safety,2542,0.032233,0.008822,3.653571,19
+Healthcare_Nursing,Pediatrics,3071,0.03894,0.01084,3.592379,20
+Healthcare_Nursing,Quality Improvement,9652,0.122388,0.040973,2.987022,21
+Healthcare_Nursing,Empathy,6523,0.082712,0.028212,2.931852,22
+Healthcare_Nursing,Medical Terminology,2751,0.034883,0.01259,2.770658,23
+Healthcare_Nursing,Delegation,1450,0.018386,0.006734,2.730232,24
+Healthcare_Nursing,Oncology,2332,0.02957,0.011576,2.55436,25
+Healthcare_Nursing,HIPAA,3058,0.038776,0.015347,2.526614,26
+Healthcare_Nursing,Electronic Health Records,4409,0.055906,0.022623,2.471236,27
+Healthcare_Nursing,Diagnosis,12283,0.155749,0.06387,2.438545,28
+Healthcare_Nursing,Case Management,3999,0.050708,0.022238,2.280232,29
+Healthcare_Nursing,Phlebotomy,806,0.01022,0.004533,2.254555,30
+Healthcare_Nursing,Cultural Competence,556,0.00705,0.003132,2.251337,31
+Healthcare_Nursing,Assessment,15712,0.199229,0.088875,2.241688,32
+Healthcare_Nursing,Stress Management,1567,0.01987,0.009113,2.180463,33
+Healthcare_Nursing,Physical Therapy,4340,0.055031,0.026068,2.111083,34
+Healthcare_Nursing,Surgery,3362,0.04263,0.020592,2.070203,35
+Healthcare_Nursing,Staffing,7028,0.089115,0.043775,2.03574,36
+Healthcare_Nursing,Internal Medicine,3585,0.045458,0.023539,1.931155,37
+Healthcare_Nursing,Advocacy,1249,0.015837,0.008414,1.882242,38
+Healthcare_Nursing,Goal Setting,1055,0.013377,0.007475,1.789532,39
+Healthcare_Nursing,Mental Health,6023,0.076372,0.043794,1.743891,40
+Healthcare_Nursing,Emergency Response,1108,0.01405,0.008679,1.618718,41
+Healthcare_Nursing,Professionalism,2921,0.037038,0.023768,1.558306,42
+Healthcare_Nursing,Accountability,4172,0.052901,0.035111,1.506689,43
+Healthcare_Nursing,Dentistry,2076,0.026324,0.017594,1.496146,44
+Healthcare_Nursing,Policy Development,478,0.006061,0.00417,1.453348,45
+Healthcare_Nursing,Critical Thinking,11724,0.148661,0.106848,1.391327,46
+Healthcare_Nursing,Confidentiality,4871,0.061765,0.045435,1.359408,47
+Healthcare_Nursing,Computer Literacy,3342,0.042377,0.033603,1.261114,48
+Healthcare_Nursing,Professional Development,4933,0.062551,0.049785,1.25641,49
+Healthcare_Nursing,Account / Case Management,122,0.001547,0.001263,1.224478,50
+Healthcare_Nursing,Patience,520,0.006594,0.005391,1.223055,51
+Healthcare_Nursing,English Proficiency,1037,0.013149,0.010906,1.205731,52
+Healthcare_Nursing,First Aid,1588,0.020136,0.016874,1.193334,53
+Healthcare_Nursing,Decision Making,6479,0.082154,0.073463,1.118309,54
+Healthcare_Nursing,Staff Development,2635,0.033412,0.03179,1.051016,55
+Healthcare_Nursing,Counseling,2289,0.029025,0.028411,1.021601,56
+Hospitality_Food,Food Preparation,10467,0.449555,0.020776,21.638194,1
+Hospitality_Food,Food Service,4403,0.189108,0.011389,16.604625,2
+Hospitality_Food,Restaurant Management,1812,0.077825,0.00556,13.997468,3
+Hospitality_Food,Food Safety,2957,0.127003,0.010925,11.624862,4
+Hospitality_Food,Hospitality,2169,0.093158,0.011096,8.395833,5
+Hospitality_Food,POS Systems,547,0.023494,0.003914,6.001819,6
+Hospitality_Food,Sanitation,10969,0.471116,0.081915,5.751289,7
+Hospitality_Food,Cost Control,952,0.040888,0.009333,4.380873,8
+Hospitality_Food,Stocking,810,0.034789,0.010431,3.33529,9
+Hospitality_Food,Inventory Management,4231,0.181721,0.056701,3.204873,10
+Hospitality_Food,Cash Handling,937,0.040244,0.01394,2.886998,11
+Hospitality_Food,Retail / Store Operations,1104,0.047417,0.019079,2.485215,12
+Hospitality_Food,Customer Service,12355,0.530645,0.226825,2.339447,13
+Hospitality_Food,Production,3859,0.165743,0.075293,2.201314,14
+Hospitality_Food,Conflict Resolution,1624,0.06975,0.034694,2.010424,15
+Hospitality_Food,Financial Management,637,0.027359,0.013732,1.992363,16
+Hospitality_Food,Cashiering,413,0.017738,0.009109,1.947362,17
+Hospitality_Food,English Proficiency,484,0.020788,0.010906,1.906149,18
+Hospitality_Food,Event Planning,290,0.012455,0.006872,1.812368,19
+Hospitality_Food,Merchandising,1672,0.071812,0.039699,1.808926,20
+Hospitality_Food,Staff Development,1318,0.056608,0.03179,1.780672,21
+Hospitality_Food,Team Building,565,0.024267,0.014211,1.707645,22
+Hospitality_Food,Human Resources,1405,0.060344,0.035501,1.699777,23
+Hospitality_Food,Recruitment,1215,0.052184,0.030718,1.698816,24
+Hospitality_Food,Retail Operations,689,0.029592,0.017491,1.691912,25
+Hospitality_Food,Payroll,790,0.03393,0.021182,1.601825,26
+Hospitality_Food,Sustainability,438,0.018812,0.011971,1.571413,27
+Hospitality_Food,People Management,3937,0.169093,0.107703,1.570002,28
+Hospitality_Food,Adaptability,2540,0.109092,0.069772,1.563559,29
+Hospitality_Food,Stress Management,326,0.014002,0.009113,1.536517,30
+Hospitality_Food,Mathematical Calculations,892,0.038311,0.02587,1.480895,31
+Hospitality_Food,Workplace / OSHA Safety,6764,0.290512,0.196952,1.475042,32
+Hospitality_Food,Attention to Detail,6381,0.274063,0.186489,1.469593,33
+Hospitality_Food,Multitasking,1781,0.076494,0.05219,1.465687,34
+Hospitality_Food,Performance Management,729,0.03131,0.022212,1.409622,35
+Hospitality_Food,Loss Prevention,326,0.014002,0.010268,1.363572,36
+Hospitality_Food,Equipment Operation,399,0.017137,0.012732,1.345975,37
+Hospitality_Food,Time Management,4141,0.177855,0.134309,1.324228,38
+Hospitality_Food,Scheduling,3034,0.13031,0.098421,1.323999,39
+Hospitality_Food,Planogram,51,0.00219,0.00166,1.319244,40
+Hospitality_Food,Budgeting,1650,0.070867,0.056995,1.243384,41
+Hospitality_Food,Initiative,1772,0.076107,0.063004,1.207966,42
+Hospitality_Food,Communication,12165,0.522484,0.440804,1.185297,43
+Hospitality_Food,Teamwork,10231,0.439419,0.372322,1.180214,44
+Hospitality_Food,Customer Focus,1135,0.048748,0.041519,1.174124,45
+Hospitality_Food,Scrum Master,26,0.001117,0.000952,1.173367,46
+Hospitality_Food,Patience,147,0.006314,0.005391,1.171116,47
+Hospitality_Food,Coaching,1869,0.080273,0.070116,1.144862,48
+Hospitality_Food,Physical Security,141,0.006056,0.00541,1.119463,49
+Hospitality_Food,Professionalism,606,0.026028,0.023768,1.095049,50
+Hospitality_Food,Employee Relations,235,0.010093,0.009526,1.059511,51
+Hospitality_Food,Pricing,520,0.022334,0.021515,1.038047,52
+Hospitality_Food,Quality Assurance,1560,0.067002,0.066671,1.00496,53
+Legal_Compliance,Litigation,5794,0.523349,0.009629,54.349983,1
+Legal_Compliance,Advocacy,902,0.081474,0.008414,9.683035,2
+Legal_Compliance,Case Management,1707,0.154187,0.022238,6.93351,3
+Legal_Compliance,Real Estate Development,93,0.0084,0.001319,6.368593,4
+Legal_Compliance,Negotiation,2639,0.238371,0.041634,5.725428,5
+Legal_Compliance,Writing,2535,0.228977,0.065661,3.487262,6
+Legal_Compliance,Filing,569,0.051396,0.015887,3.235125,7
+Legal_Compliance,OneDrive,21,0.001897,0.000706,2.687168,8
+Legal_Compliance,Client Relationships,275,0.02484,0.010629,2.336932,9
+Legal_Compliance,Insurance,139,0.012555,0.005864,2.141018,10
+Legal_Compliance,Business / Org Development,434,0.039202,0.019228,2.038785,11
+Legal_Compliance,Policy Development,90,0.008129,0.00417,1.949289,12
+Legal_Compliance,Account / Case Management,27,0.002439,0.001263,1.930398,13
+Legal_Compliance,Fund Management,103,0.009304,0.00504,1.84611,14
+Legal_Compliance,Critical Thinking,2143,0.193569,0.106848,1.811622,15
+Legal_Compliance,Strategic Thinking,139,0.012555,0.008148,1.540929,16
+Legal_Compliance,Banking,425,0.038389,0.025458,1.507946,17
+Legal_Compliance,Electrical Engineering,276,0.02493,0.01681,1.483075,18
+Legal_Compliance,Written Communication,1493,0.134857,0.093922,1.435846,19
+Legal_Compliance,Interpersonal Skills,2005,0.181104,0.130057,1.392491,20
+Legal_Compliance,Attention to Detail,2628,0.237377,0.186489,1.272875,21
+Legal_Compliance,Professionalism,334,0.030169,0.023768,1.269286,22
+Legal_Compliance,Counseling,399,0.03604,0.028411,1.268528,23
+Legal_Compliance,Initiative,854,0.077138,0.063004,1.224337,24
+Legal_Compliance,Spanish,363,0.032788,0.028043,1.16923,25
+Legal_Compliance,Chemistry,139,0.012555,0.010819,1.160453,26
+Legal_Compliance,Risk Management,544,0.049137,0.04252,1.155643,27
+Legal_Compliance,Equity,373,0.033692,0.029158,1.155498,28
+Legal_Compliance,Time Management,1698,0.153374,0.134309,1.14195,29
+Legal_Compliance,Business Acumen,126,0.011381,0.010332,1.1015,30
+Legal_Compliance,Bilingual,210,0.018968,0.01763,1.075942,31
+Legal_Compliance,Procurement,227,0.020504,0.019167,1.069775,32
+Management_HR_Admin,Employee Relations,4092,0.021855,0.009526,2.294204,1
+Management_HR_Admin,Performance Management,9319,0.049772,0.022212,2.240801,2
+Management_HR_Admin,Content Marketing,1477,0.007889,0.003672,2.148137,3
+Management_HR_Admin,Event Planning,2616,0.013972,0.006872,2.033036,4
+Management_HR_Admin,Operations Management,1271,0.006788,0.003461,1.961495,5
+Management_HR_Admin,Restaurant Management,1968,0.010511,0.00556,1.890494,6
+Management_HR_Admin,People Management,37384,0.199667,0.107703,1.85387,7
+Management_HR_Admin,SEO,1039,0.005549,0.003021,1.836812,8
+Management_HR_Admin,Administrative Support,3922,0.020947,0.011478,1.825006,9
+Management_HR_Admin,Business Operations,270,0.001442,0.000809,1.782847,10
+Management_HR_Admin,Contract Administration,1186,0.006334,0.003594,1.7623,11
+Management_HR_Admin,Inventory Management,18638,0.099545,0.056701,1.755602,12
+Management_HR_Admin,Financial Management,4505,0.024061,0.013732,1.752196,13
+Management_HR_Admin,Team Building,4633,0.024745,0.014211,1.741287,14
+Management_HR_Admin,Recruitment,10009,0.053458,0.030718,1.740282,15
+Management_HR_Admin,Public Relations,2004,0.010703,0.006171,1.734391,16
+Management_HR_Admin,Social Media,5243,0.028003,0.016211,1.727348,17
+Management_HR_Admin,Strategic Thinking,2634,0.014068,0.008148,1.726594,18
+Management_HR_Admin,Retail Operations,5538,0.029578,0.017491,1.691104,19
+Management_HR_Admin,Cost Control,2942,0.015713,0.009333,1.683547,20
+Management_HR_Admin,Filing,4999,0.026699,0.015887,1.680617,21
+Management_HR_Admin,Budgeting,17919,0.095705,0.056995,1.679168,22
+Management_HR_Admin,Employee Training / L&D,3770,0.020135,0.012051,1.67083,23
+Management_HR_Admin,Merchandising,12204,0.065181,0.039699,1.641896,24
+Management_HR_Admin,Conflict Resolution,10657,0.056919,0.034694,1.640572,25
+Management_HR_Admin,Business Acumen,3169,0.016926,0.010332,1.638109,26
+Management_HR_Admin,Loss Prevention,3147,0.016808,0.010268,1.636877,27
+Management_HR_Admin,Stocking,3159,0.016872,0.010431,1.617548,28
+Management_HR_Admin,Policy Development,1238,0.006612,0.00417,1.585482,29
+Management_HR_Admin,Stakeholder Engagement,1373,0.007333,0.00463,1.583663,30
+Management_HR_Admin,Delegation,1984,0.010596,0.006734,1.573519,31
+Management_HR_Admin,Food Safety,3200,0.017091,0.010925,1.564391,32
+Management_HR_Admin,Lean / Six Sigma,3019,0.016124,0.010349,1.558054,33
+Management_HR_Admin,Change Management,4854,0.025925,0.016724,1.55014,34
+Management_HR_Admin,Marketing,18994,0.101446,0.067283,1.507751,35
+Management_HR_Admin,Product Management,1807,0.009651,0.006411,1.505294,36
+Management_HR_Admin,POS Systems,1101,0.00588,0.003914,1.502248,37
+Management_HR_Admin,Payroll,5862,0.031309,0.021182,1.478062,38
+Management_HR_Admin,Coaching,19348,0.103337,0.070116,1.4738,39
+Management_HR_Admin,Process Improvement,16095,0.085963,0.058687,1.464761,40
+Management_HR_Admin,Cash Handling,3799,0.02029,0.01394,1.455576,41
+Management_HR_Admin,Supply Chain,11482,0.061325,0.042274,1.450665,42
+Management_HR_Admin,Benefits Administration,476,0.002542,0.001762,1.442515,43
+Management_HR_Admin,Microsoft Word,10488,0.056016,0.03892,1.439278,44
+Management_HR_Admin,Hospitality,2983,0.015932,0.011096,1.435874,45
+Management_HR_Admin,Creative Thinking,1122,0.005993,0.004189,1.430559,46
+Management_HR_Admin,Microsoft PowerPoint,11141,0.059504,0.041677,1.427726,47
+Management_HR_Admin,Human Resources,9475,0.050606,0.035501,1.425455,48
+Management_HR_Admin,Microsoft Outlook,10363,0.055348,0.038969,1.42033,49
+Management_HR_Admin,Google Workspace,1595,0.008519,0.006044,1.40944,50
+Management_HR_Admin,Scheduling,25841,0.138016,0.098421,1.402298,51
+Management_HR_Admin,Procurement,5027,0.026849,0.019167,1.40082,52
+Management_HR_Admin,CMMS,557,0.002975,0.002129,1.39746,53
+Management_HR_Admin,Pricing,5601,0.029915,0.021515,1.390395,54
+Management_HR_Admin,Decision Making,19084,0.101927,0.073463,1.387465,55
+Management_HR_Admin,Billing,7001,0.037392,0.026956,1.387175,56
+Management_HR_Admin,Real Estate Development,341,0.001821,0.001319,1.380771,57
+Management_HR_Admin,Project Management,28244,0.15085,0.109973,1.371698,58
+Management_HR_Admin,Business / Org Development,4929,0.026326,0.019228,1.369138,59
+Management_HR_Admin,Microsoft Excel,26310,0.140521,0.102739,1.367744,60
+Management_HR_Admin,Microsoft Office,36308,0.19392,0.142002,1.365614,61
+Management_HR_Admin,Case Management,5685,0.030363,0.022238,1.36539,62
+Management_HR_Admin,Sustainability,3060,0.016343,0.011971,1.365201,63
+Management_HR_Admin,Customer Focus,10541,0.056299,0.041519,1.355997,64
+Management_HR_Admin,Fund Management,1277,0.00682,0.00504,1.353375,65
+Management_HR_Admin,Problem Resolution,2158,0.011526,0.008519,1.352965,66
+Management_HR_Admin,Carpentry,1051,0.005613,0.004157,1.3505,67
+Management_HR_Admin,Accounts Receivable,1664,0.008887,0.006613,1.343976,68
+Management_HR_Admin,Statistics,4850,0.025904,0.019353,1.338477,69
+Management_HR_Admin,Risk Management,10653,0.056897,0.04252,1.338147,70
+Management_HR_Admin,Goal Setting,1871,0.009993,0.007475,1.336779,71
+Management_HR_Admin,Multitasking,13008,0.069475,0.05219,1.331211,72
+Management_HR_Admin,Emergency Response,2142,0.01144,0.008679,1.318104,73
+Management_HR_Admin,Forklift Operation,964,0.005149,0.003911,1.316568,74
+Management_HR_Admin,Quality Control (Manufacturing),3160,0.016877,0.012827,1.315814,75
+Management_HR_Admin,SharePoint,1758,0.009389,0.007137,1.315629,76
+Management_HR_Admin,Planogram,408,0.002179,0.00166,1.312424,77
+Management_HR_Admin,Retail / Store Operations,4685,0.025022,0.019079,1.311485,78
+Management_HR_Admin,Painting,1018,0.005437,0.004193,1.29681,79
+Management_HR_Admin,Data Entry,10901,0.058222,0.044969,1.294704,80
+Management_HR_Admin,Food Service,2754,0.014709,0.011389,1.291526,81
+Management_HR_Admin,Databases,4619,0.02467,0.019114,1.290688,82
+Management_HR_Admin,Sanitation,19754,0.105505,0.081915,1.287989,83
+Management_HR_Admin,OneDrive,170,0.000908,0.000706,1.286267,84
+Management_HR_Admin,Preventive Maintenance,4260,0.022753,0.017708,1.284836,85
+Management_HR_Admin,Root Cause Analysis,2604,0.013908,0.01083,1.284254,86
+Management_HR_Admin,Time Management,32174,0.17184,0.134309,1.279444,87
+Management_HR_Admin,Data Analysis,18945,0.101185,0.079132,1.278679,88
+Management_HR_Admin,Customer Service,54213,0.28955,0.226825,1.276535,89
+Management_HR_Admin,Initiative,15032,0.080285,0.063004,1.274286,90
+Management_HR_Admin,Quality Assurance,15893,0.084884,0.066671,1.273177,91
+Management_HR_Admin,Accountability,8286,0.044255,0.035111,1.260442,92
+Management_HR_Admin,ETL,1224,0.006537,0.005194,1.25852,93
+Management_HR_Admin,Forecasting,5104,0.02726,0.02167,1.257962,94
+Management_HR_Admin,Social Work,3524,0.018822,0.015023,1.252838,95
+Management_HR_Admin,Creativity,15849,0.084649,0.067755,1.249333,96
+Management_HR_Admin,Financial Analysis,4376,0.023372,0.018752,1.246376,97
+Management_HR_Admin,Auditing,4114,0.021973,0.017675,1.243146,98
+Management_HR_Admin,Problem Solving,54808,0.292728,0.235488,1.243066,99
+Management_HR_Admin,Microsoft Access,443,0.002366,0.00191,1.238837,100
+Management_HR_Admin,Quality Assurance (Software),528,0.00282,0.002277,1.238367,101
+Management_HR_Admin,Bilingual,4079,0.021786,0.01763,1.235748,102
+Management_HR_Admin,Master Data Management,339,0.001811,0.00147,1.231508,103
+Management_HR_Admin,Attention to Detail,42947,0.229379,0.186489,1.229985,104
+Management_HR_Admin,Accounting,12497,0.066746,0.054371,1.227599,105
+Management_HR_Admin,Interpersonal Skills,29841,0.15938,0.130057,1.225457,106
+Management_HR_Admin,Clinical Operations,2543,0.013582,0.011085,1.225308,107
+Management_HR_Admin,Microsoft Teams,730,0.003899,0.003198,1.219053,108
+Management_HR_Admin,Negotiation,9463,0.050542,0.041634,1.213959,109
+Management_HR_Admin,Plumbing,2234,0.011932,0.009842,1.212369,110
+Management_HR_Admin,Written Communication,21250,0.113496,0.093922,1.208408,111
+Management_HR_Admin,Presentation Skills,15152,0.080926,0.067053,1.206898,112
+Management_HR_Admin,SAP,3803,0.020312,0.017,1.194818,113
+Management_HR_Admin,Oncology,2586,0.013812,0.011576,1.193111,114
+Management_HR_Admin,Workplace / OSHA Safety,43979,0.23489,0.196952,1.192628,115
+Management_HR_Admin,Staffing,9757,0.052112,0.043775,1.190435,116
+Management_HR_Admin,Production,16762,0.089525,0.075293,1.189027,117
+Management_HR_Admin,High Availability,258,0.001378,0.001161,1.18654,118
+Management_HR_Admin,Tableau,1241,0.006628,0.005589,1.185992,119
+Management_HR_Admin,Quality Improvement,9074,0.048464,0.040973,1.18282,120
+Management_HR_Admin,Data Modeling,680,0.003632,0.003082,1.178272,121
+Management_HR_Admin,Inspection,6034,0.032227,0.027471,1.173129,122
+Management_HR_Admin,First Aid,3705,0.019788,0.016874,1.172731,123
+Management_HR_Admin,Accounts Payable,1686,0.009005,0.007686,1.1716,124
+Management_HR_Admin,Data Visualization,1429,0.007632,0.006535,1.167934,125
+Management_HR_Admin,Manufacturing,12698,0.06782,0.058123,1.166823,126
+Management_HR_Admin,English Proficiency,2379,0.012706,0.010906,1.165104,127
+Management_HR_Admin,Confidentiality,9906,0.052908,0.045435,1.164471,128
+Management_HR_Admin,Resilience,1988,0.010618,0.009144,1.161166,129
+Management_HR_Admin,Computer Literacy,7269,0.038823,0.033603,1.15537,130
+Management_HR_Admin,Integrity,15369,0.082085,0.071162,1.153494,131
+Management_HR_Admin,Staff Development,6837,0.036516,0.03179,1.148664,132
+Management_HR_Admin,Computer Proficiency,15099,0.080643,0.070234,1.148211,133
+Management_HR_Admin,Mathematical Calculations,5544,0.02961,0.02587,1.144568,134
+Management_HR_Admin,Transportation,5511,0.029434,0.025742,1.143413,135
+Management_HR_Admin,Patience,1153,0.006158,0.005391,1.142275,136
+Management_HR_Admin,Communication,93930,0.501677,0.440804,1.138095,137
+Management_HR_Admin,HVAC,2481,0.013251,0.011659,1.136561,138
+Management_HR_Admin,Stress Management,1936,0.01034,0.009113,1.134707,139
+Management_HR_Admin,Business Intelligence,1193,0.006372,0.005627,1.132413,140
+Management_HR_Admin,Client Relationships,2239,0.011958,0.010629,1.125056,141
+Management_HR_Admin,Data Science,1935,0.010335,0.009191,1.124393,142
+Management_HR_Admin,Power BI,1444,0.007712,0.006878,1.121303,143
+Management_HR_Admin,Critical Thinking,22236,0.118762,0.106848,1.111498,144
+Management_HR_Admin,IT Operations,846,0.004518,0.00409,1.104834,145
+Management_HR_Admin,Driving,19415,0.103695,0.094122,1.101708,146
+Management_HR_Admin,Advocacy,1735,0.009267,0.008414,1.101314,147
+Management_HR_Admin,Professionalism,4878,0.026053,0.023768,1.096129,148
+Management_HR_Admin,Writing,13380,0.071462,0.065661,1.088352,149
+Management_HR_Admin,ERP Systems,1165,0.006222,0.005724,1.087019,150
+Management_HR_Admin,Product Development,2836,0.015147,0.013986,1.083002,151
+Management_HR_Admin,Adaptability,14131,0.075473,0.069772,1.081713,152
+Management_HR_Admin,Teamwork,74816,0.39959,0.372322,1.073238,153
+Management_HR_Admin,Scrum Master,189,0.001009,0.000952,1.060673,154
+Management_HR_Admin,HTML,2024,0.01081,0.010285,1.051052,155
+Management_HR_Admin,Estimating,2056,0.010981,0.010449,1.050894,156
+Management_HR_Admin,Salesforce,2068,0.011045,0.010535,1.048465,157
+Management_HR_Admin,Banking,4994,0.026673,0.025458,1.047737,158
+Management_HR_Admin,Professional Development,9761,0.052133,0.049785,1.047161,159
+Management_HR_Admin,Spanish,5483,0.029285,0.028043,1.044283,160
+Management_HR_Admin,Construction Management,3063,0.016359,0.015672,1.04383,161
+Management_HR_Admin,Consulting,5299,0.028302,0.027259,1.038259,162
+Management_HR_Admin,Equity,5632,0.03008,0.029158,1.031644,163
+Management_HR_Admin,Food Preparation,4011,0.021423,0.020776,1.031123,164
+Management_HR_Admin,Oracle,1742,0.009304,0.009036,1.029702,165
+Management_HR_Admin,Agile,4440,0.023714,0.023073,1.02779,166
+Management_HR_Admin,Physical Security,1039,0.005549,0.00541,1.025805,167
+Management_HR_Admin,Assessment,16990,0.090743,0.088875,1.021024,168
+Management_HR_Admin,CRM,4493,0.023997,0.023612,1.016319,169
+Management_HR_Admin,Counseling,5383,0.02875,0.028411,1.011949,170
+Management_HR_Admin,Active Listening,1207,0.006447,0.006393,1.008391,171
+Sales_Customer,Sales,25150,0.255961,0.035161,7.2797,1
+Sales_Customer,Prospecting,9734,0.099067,0.015123,6.550593,2
+Sales_Customer,CRM,11862,0.120724,0.023612,5.112912,3
+Sales_Customer,SaaS,1148,0.011684,0.002394,4.880197,4
+Sales_Customer,Cashiering,4250,0.043254,0.009109,4.748549,5
+Sales_Customer,Salesforce,4625,0.04707,0.010535,4.468189,6
+Sales_Customer,Loss Prevention,4324,0.044007,0.010268,4.285698,7
+Sales_Customer,Retail / Store Operations,7325,0.074549,0.019079,3.90731,8
+Sales_Customer,Merchandising,14356,0.146107,0.039699,3.680387,9
+Sales_Customer,Retail Operations,5777,0.058795,0.017491,3.361524,10
+Sales_Customer,SEO,936,0.009526,0.003021,3.153128,11
+Sales_Customer,POS Systems,1136,0.011562,0.003914,2.953584,12
+Sales_Customer,Motivation,4697,0.047803,0.016752,2.853555,13
+Sales_Customer,Negotiation,11362,0.115636,0.041634,2.777453,14
+Sales_Customer,Insurance,1508,0.015348,0.005864,2.61716,15
+Sales_Customer,Cash Handling,3520,0.035824,0.01394,2.569952,16
+Sales_Customer,Marketing,16979,0.172802,0.067283,2.568278,17
+Sales_Customer,Business Acumen,2517,0.025616,0.010332,2.479251,18
+Sales_Customer,Pricing,5090,0.051803,0.021515,2.407725,19
+Sales_Customer,Business / Org Development,4544,0.046246,0.019228,2.405157,20
+Sales_Customer,Client Relationships,2468,0.025118,0.010629,2.363099,21
+Sales_Customer,Spanish,6240,0.063507,0.028043,2.26465,22
+Sales_Customer,Customer Focus,8859,0.090162,0.041519,2.171591,23
+Sales_Customer,Planogram,347,0.003532,0.00166,2.126963,24
+Sales_Customer,Networking,5658,0.057584,0.027222,2.115352,25
+Sales_Customer,Social Media,3357,0.034166,0.016211,2.107502,26
+Sales_Customer,Strategic Thinking,1670,0.016996,0.008148,2.085968,27
+Sales_Customer,Stocking,2120,0.021576,0.010431,2.068521,28
+Sales_Customer,Presentation Skills,13435,0.136733,0.067053,2.039177,29
+Sales_Customer,Customer Service,44869,0.456649,0.226825,2.013225,30
+Sales_Customer,Active Listening,1260,0.012824,0.006393,2.005898,31
+Sales_Customer,Resilience,1750,0.01781,0.009144,1.947748,32
+Sales_Customer,Human Resources,6397,0.065105,0.035501,1.833865,33
+Sales_Customer,Recruitment,5376,0.054714,0.030718,1.781168,34
+Sales_Customer,Inventory Management,9785,0.099586,0.056701,1.756322,35
+Sales_Customer,Forecasting,3730,0.037962,0.02167,1.751791,36
+Sales_Customer,Google Workspace,1040,0.010584,0.006044,1.7512,37
+Sales_Customer,Multitasking,8272,0.084187,0.05219,1.613108,38
+Sales_Customer,Bilingual,2728,0.027764,0.01763,1.574842,39
+Sales_Customer,Creative Thinking,631,0.006422,0.004189,1.533059,40
+Sales_Customer,Interpersonal Skills,19038,0.193757,0.130057,1.489782,41
+Sales_Customer,Product Management,914,0.009302,0.006411,1.450861,42
+Sales_Customer,Initiative,8929,0.090874,0.063004,1.442346,43
+Sales_Customer,Event Planning,970,0.009872,0.006872,1.436467,44
+Sales_Customer,Team Building,2004,0.020395,0.014211,1.435233,45
+Sales_Customer,Accountability,4925,0.050124,0.035111,1.427581,46
+Sales_Customer,Driving,13189,0.13423,0.094122,1.426125,47
+Sales_Customer,Account / Case Management,175,0.001781,0.001263,1.409757,48
+Sales_Customer,Time Management,18583,0.189126,0.134309,1.408149,49
+Sales_Customer,Banking,3512,0.035743,0.025458,1.404025,50
+Sales_Customer,Problem Resolution,1175,0.011958,0.008519,1.403749,51
+Sales_Customer,Public Relations,846,0.00861,0.006171,1.395199,52
+Sales_Customer,Professionalism,3257,0.033148,0.023768,1.394615,53
+Sales_Customer,Microsoft Outlook,5332,0.054266,0.038969,1.392549,54
+Sales_Customer,Hospitality,1516,0.015429,0.011096,1.390525,55
+Sales_Customer,Problem Solving,32050,0.326185,0.235488,1.385144,56
+Sales_Customer,Microsoft Office,19130,0.194694,0.142002,1.371063,57
+Sales_Customer,Microsoft PowerPoint,5549,0.056474,0.041677,1.35504,58
+Sales_Customer,Integrity,9353,0.095189,0.071162,1.337633,59
+Sales_Customer,Coaching,9150,0.093123,0.070116,1.328129,60
+Sales_Customer,Goal Setting,962,0.009791,0.007475,1.309717,61
+Sales_Customer,Microsoft Teams,408,0.004152,0.003198,1.298304,62
+Sales_Customer,Decision Making,9365,0.095311,0.073463,1.297409,63
+Sales_Customer,Communication,54887,0.558607,0.440804,1.267244,64
+Sales_Customer,Content Marketing,455,0.004631,0.003672,1.260983,65
+Sales_Customer,Conflict Resolution,4288,0.043641,0.034694,1.257859,66
+Sales_Customer,Adaptability,8548,0.086996,0.069772,1.246868,67
+Sales_Customer,Performance Management,2697,0.027448,0.022212,1.235752,68
+Sales_Customer,Patience,645,0.006564,0.005391,1.217636,69
+Sales_Customer,Computer Literacy,3956,0.040262,0.033603,1.198173,70
+Sales_Customer,Change Management,1967,0.020019,0.016724,1.196994,71
+Sales_Customer,Scheduling,11498,0.11702,0.098421,1.188967,72
+Sales_Customer,Teamwork,43356,0.441251,0.372322,1.185133,73
+Sales_Customer,Attention to Detail,21195,0.21571,0.186489,1.15669,74
+Sales_Customer,Operations Management,393,0.004,0.003461,1.155715,75
+Sales_Customer,Sanitation,9238,0.094019,0.081915,1.147761,76
+Sales_Customer,Written Communication,10541,0.10728,0.093922,1.142229,77
+Sales_Customer,Mathematical Calculations,2892,0.029433,0.02587,1.137714,78
+Sales_Customer,Sustainability,1327,0.013505,0.011971,1.128139,79
+Sales_Customer,Staffing,4822,0.049075,0.043775,1.121071,80
+Sales_Customer,Billing,2944,0.029962,0.026956,1.111541,81
+Sales_Customer,Computer Proficiency,7625,0.077603,0.070234,1.104918,82
+Sales_Customer,Stress Management,987,0.010045,0.009113,1.102332,83
+Sales_Customer,Microsoft Word,4202,0.042765,0.03892,1.098815,84
+Sales_Customer,Business Operations,87,0.000885,0.000809,1.094678,85
+Sales_Customer,Transportation,2766,0.028151,0.025742,1.093557,86
+Sales_Customer,Data Analysis,8480,0.086304,0.079132,1.090635,87
+Sales_Customer,Supply Chain,4528,0.046083,0.042274,1.090116,88
+Sales_Customer,Technical / Product Training,895,0.009109,0.008442,1.07899,89
+Sales_Customer,Stakeholder Engagement,489,0.004977,0.00463,1.074775,90
+Sales_Customer,ACLS,2886,0.029372,0.027399,1.07201,91
+Sales_Customer,People Management,11334,0.115351,0.107703,1.071009,92
+Sales_Customer,Microsoft Excel,10785,0.109763,0.102739,1.068367,93
+Sales_Customer,Creativity,7098,0.072239,0.067755,1.066176,94
+Sales_Customer,Employee Training / L&D,1262,0.012844,0.012051,1.065778,95
+Sales_Customer,Advocacy,870,0.008854,0.008414,1.052319,96
+Sales_Customer,Equity,3002,0.030553,0.029158,1.047839,97
+Sales_Customer,Dentistry,1801,0.018329,0.017594,1.041779,98
+Sales_Customer,Staff Development,3157,0.03213,0.03179,1.010691,99
+Science_Research,Clinical Analysis,2151,0.157536,0.004149,37.968949,1
+Science_Research,Chemistry,3603,0.263879,0.010819,24.389551,2
+Science_Research,R Programming,54,0.003955,0.000253,15.61774,3
+Science_Research,Instrumentation,1503,0.110078,0.010959,10.04413,4
+Science_Research,Data Science,927,0.067892,0.009191,7.386471,5
+Science_Research,Statistics,1290,0.094478,0.019353,4.881791,6
+Science_Research,Phlebotomy,301,0.022045,0.004533,4.863078,7
+Science_Research,Machine Learning,539,0.039476,0.008493,4.648042,8
+Science_Research,MATLAB,207,0.01516,0.003701,4.096232,9
+Science_Research,Product Development,753,0.055149,0.013986,3.943105,10
+Science_Research,Data Visualization,344,0.025194,0.006535,3.855356,11
+Science_Research,Quality Assurance,3200,0.234364,0.066671,3.515225,12
+Science_Research,Preventive Maintenance,770,0.056394,0.017708,3.184558,13
+Science_Research,Troubleshooting,2265,0.165885,0.052837,3.139569,14
+Science_Research,Python,773,0.056613,0.019315,2.93105,15
+Science_Research,Data Analysis,3159,0.231361,0.079132,2.923727,16
+Science_Research,Computer Vision,35,0.002563,0.000937,2.736111,17
+Science_Research,Artificial Intelligence,210,0.01538,0.005729,2.68472,18
+Science_Research,Tableau,181,0.013256,0.005589,2.371967,19
+Science_Research,Oncology,368,0.026952,0.011576,2.3282,20
+Science_Research,Data Entry,1275,0.093379,0.044969,2.076513,21
+Science_Research,Technical Support,494,0.03618,0.018003,2.009709,22
+Science_Research,C++,134,0.009814,0.005065,1.937757,23
+Science_Research,Business Operations,21,0.001538,0.000809,1.901472,24
+Science_Research,Writing,1661,0.121649,0.065661,1.852692,25
+Science_Research,Quality Assurance (Software),56,0.004101,0.002277,1.801041,26
+Science_Research,Quality Control (Manufacturing),315,0.02307,0.012827,1.798615,27
+Science_Research,Databases,467,0.034202,0.019114,1.789412,28
+Science_Research,Mathematical Calculations,624,0.045701,0.02587,1.766539,29
+Science_Research,Equity,643,0.047092,0.029158,1.615096,30
+Science_Research,Presentation Skills,1463,0.107148,0.067053,1.597957,31
+Science_Research,Google Cloud,91,0.006665,0.004174,1.596673,32
+Science_Research,Data Modeling,67,0.004907,0.003082,1.591958,33
+Science_Research,Manufacturing,1257,0.092061,0.058123,1.58389,34
+Science_Research,Creativity,1445,0.10583,0.067755,1.56194,35
+Science_Research,Computer Science,517,0.037864,0.024277,1.559699,36
+Science_Research,Assessment,1710,0.125238,0.088875,1.409155,37
+Science_Research,Linux,125,0.009155,0.006616,1.38384,38
+Science_Research,Microsoft Access,36,0.002637,0.00191,1.38049,39
+Science_Research,Prototyping,75,0.005493,0.003985,1.378428,40
+Science_Research,HIPAA,284,0.0208,0.015347,1.35531,41
+Science_Research,SQL,413,0.030248,0.022388,1.351051,42
+Science_Research,Cloud Computing,107,0.007837,0.005806,1.349789,43
+Science_Research,Written Communication,1709,0.125165,0.093922,1.332653,44
+Science_Research,Automation,415,0.030394,0.023588,1.288564,45
+Science_Research,Software Development,846,0.06196,0.048859,1.268146,46
+Science_Research,Sustainability,206,0.015087,0.011971,1.260267,47
+Science_Research,Infection Control,274,0.020067,0.015984,1.255457,48
+Science_Research,Consulting,463,0.033909,0.027259,1.243978,49
+Science_Research,Attention to Detail,3159,0.231361,0.186489,1.240615,50
+Science_Research,Creative Thinking,70,0.005127,0.004189,1.223858,51
+Science_Research,Clinical Quality,358,0.026219,0.021574,1.21534,52
+Science_Research,Business Intelligence,91,0.006665,0.005627,1.184475,53
+Science_Research,Critical Thinking,1702,0.124652,0.106848,1.166627,54
+Science_Research,Workplace / OSHA Safety,3106,0.227479,0.196952,1.154998,55
+Science_Research,Power BI,108,0.00791,0.006878,1.150005,56
+Science_Research,Requirements Gathering,69,0.005053,0.004482,1.127481,57
+Science_Research,Clinical Training,26,0.001904,0.001694,1.124242,58
+Science_Research,Stakeholder Engagement,71,0.0052,0.00463,1.122977,59
+Science_Research,Robotics,77,0.005639,0.005043,1.118197,60
+Science_Research,ETL,79,0.005786,0.005194,1.113849,61
+Science_Research,Resilience,136,0.00996,0.009144,1.089274,62
+Science_Research,Project Management,1625,0.119013,0.109973,1.082196,63
+Science_Research,Medical Terminology,184,0.013476,0.01259,1.070358,64
+Science_Research,Active Directory,52,0.003808,0.003561,1.069479,65
+Science_Research,Microsoft PowerPoint,603,0.044163,0.041677,1.05964,66
+Science_Research,Version Control,44,0.003222,0.003097,1.040455,67
+Science_Research,IT Operations,57,0.004175,0.00409,1.020756,68
+Science_Research,Teamwork,5139,0.376373,0.372322,1.010881,69
+Science_Research,SharePoint,98,0.007177,0.007137,1.005683,70
+Skilled_Trades_Ops,Carpentry,2168,0.018305,0.004157,4.403928,1
+Skilled_Trades_Ops,Welding,2907,0.024544,0.005715,4.294867,2
+Skilled_Trades_Ops,Equipment Operation,6403,0.054062,0.012732,4.246151,3
+Skilled_Trades_Ops,CMMS,1025,0.008654,0.002129,4.065342,4
+Skilled_Trades_Ops,Preventive Maintenance,8451,0.071354,0.017708,4.029353,5
+Skilled_Trades_Ops,Blueprints,6896,0.058225,0.014663,3.970784,6
+Skilled_Trades_Ops,Painting,1910,0.016127,0.004193,3.846368,7
+Skilled_Trades_Ops,Plumbing,4262,0.035985,0.009842,3.656402,8
+Skilled_Trades_Ops,Inspection,11070,0.093467,0.027471,3.402335,9
+Skilled_Trades_Ops,Repair,18106,0.152873,0.045145,3.386304,10
+Skilled_Trades_Ops,HVAC,4473,0.037767,0.011659,3.239322,11
+Skilled_Trades_Ops,Phlebotomy,1670,0.0141,0.004533,3.110499,12
+Skilled_Trades_Ops,Forklift Operation,1426,0.01204,0.003911,3.078753,13
+Skilled_Trades_Ops,Electrical Systems,16465,0.139018,0.045196,3.075918,14
+Skilled_Trades_Ops,Instrumentation,3456,0.02918,0.010959,2.662539,15
+Skilled_Trades_Ops,Troubleshooting,16447,0.138866,0.052837,2.628194,16
+Skilled_Trades_Ops,Quality Control (Manufacturing),3487,0.029442,0.012827,2.295348,17
+Skilled_Trades_Ops,Construction Management,3715,0.031367,0.015672,2.001386,18
+Skilled_Trades_Ops,Driving,21877,0.184713,0.094122,1.962483,19
+Skilled_Trades_Ops,Civil Engineering,3099,0.026166,0.013457,1.94433,20
+Skilled_Trades_Ops,Manufacturing,13286,0.112177,0.058123,1.92998,21
+Skilled_Trades_Ops,Production,16647,0.140555,0.075293,1.866771,22
+Skilled_Trades_Ops,Quality Assurance,14718,0.124268,0.066671,1.863892,23
+Skilled_Trades_Ops,Commissioning,1718,0.014505,0.008176,1.774214,24
+Skilled_Trades_Ops,Transportation,5355,0.045214,0.025742,1.756391,25
+Skilled_Trades_Ops,Workplace / OSHA Safety,39764,0.335737,0.196952,1.704664,26
+Skilled_Trades_Ops,Lean / Six Sigma,2056,0.017359,0.010349,1.67738,27
+Skilled_Trades_Ops,Emergency Response,1723,0.014548,0.008679,1.676118,28
+Skilled_Trades_Ops,Reliability,2993,0.025271,0.015704,1.609184,29
+Skilled_Trades_Ops,Vital Signs,1258,0.010622,0.006711,1.582698,30
+Skilled_Trades_Ops,Computer Literacy,6297,0.053167,0.033603,1.582229,31
+Skilled_Trades_Ops,Robotics,926,0.007818,0.005043,1.550271,32
+Skilled_Trades_Ops,Customer Focus,7366,0.062193,0.041519,1.497951,33
+Skilled_Trades_Ops,Electrical Engineering,2979,0.025152,0.01681,1.496306,34
+Skilled_Trades_Ops,Mathematical Calculations,4581,0.038678,0.02587,1.495091,35
+Skilled_Trades_Ops,Technical Support,3181,0.026858,0.018003,1.491897,36
+Skilled_Trades_Ops,Root Cause Analysis,1865,0.015747,0.01083,1.454045,37
+Skilled_Trades_Ops,Sanitation,14041,0.118551,0.081915,1.447252,38
+Skilled_Trades_Ops,Active Directory,605,0.005108,0.003561,1.434476,39
+Skilled_Trades_Ops,Computer Proficiency,11638,0.098262,0.070234,1.399075,40
+Skilled_Trades_Ops,English Proficiency,1727,0.014581,0.010906,1.337063,41
+Skilled_Trades_Ops,AutoCAD,2435,0.020559,0.015403,1.334719,42
+Skilled_Trades_Ops,Chemistry,1686,0.014235,0.010819,1.315728,43
+Skilled_Trades_Ops,Estimating,1622,0.013695,0.010449,1.310616,44
+Skilled_Trades_Ops,Windows,2743,0.02316,0.017798,1.301292,45
+Skilled_Trades_Ops,Quality Assurance (Software),346,0.002921,0.002277,1.282864,46
+Skilled_Trades_Ops,Process Improvement,8816,0.074436,0.058687,1.268342,47
+Skilled_Trades_Ops,Data Entry,6695,0.056527,0.044969,1.257025,48
+Skilled_Trades_Ops,Operations Management,500,0.004222,0.003461,1.219834,49
+Skilled_Trades_Ops,Business Operations,116,0.000979,0.000809,1.21087,50
+Skilled_Trades_Ops,Food Safety,1561,0.01318,0.010925,1.206389,51
+Skilled_Trades_Ops,Problem Resolution,1208,0.010199,0.008519,1.197267,52
+Skilled_Trades_Ops,Technical / Product Training,1197,0.010107,0.008442,1.197184,53
+Skilled_Trades_Ops,SAP,2393,0.020205,0.017,1.188522,54
+Skilled_Trades_Ops,Inventory Management,7943,0.067065,0.056701,1.18277,55
+Skilled_Trades_Ops,CAD,569,0.004804,0.004098,1.17231,56
+Skilled_Trades_Ops,Medical Terminology,1725,0.014565,0.01259,1.156829,57
+Skilled_Trades_Ops,Cost Control,1267,0.010698,0.009333,1.146168,58
+Skilled_Trades_Ops,Physical Security,725,0.006121,0.00541,1.131557,59
+Skilled_Trades_Ops,Automation,3155,0.026638,0.023588,1.129343,60
+Skilled_Trades_Ops,Microsoft Outlook,5202,0.043922,0.038969,1.127102,61
+Skilled_Trades_Ops,Customer Service,29984,0.253162,0.226825,1.116113,62
+Skilled_Trades_Ops,Supply Chain,5580,0.047113,0.042274,1.114482,63
+Skilled_Trades_Ops,Attention to Detail,24326,0.20539,0.186489,1.101354,64
+Skilled_Trades_Ops,Patience,696,0.005876,0.005391,1.090033,65
+Skilled_Trades_Ops,Active Listening,820,0.006923,0.006393,1.08299,66
+Skilled_Trades_Ops,Microsoft Word,4969,0.041954,0.03892,1.077979,67
+Skilled_Trades_Ops,OneDrive,90,0.00076,0.000706,1.076499,68
+Skilled_Trades_Ops,Revit,702,0.005927,0.005544,1.069079,69
+Skilled_Trades_Ops,Mechanical Engineering,1851,0.015628,0.01472,1.061727,70
+Skilled_Trades_Ops,Scheduling,12291,0.103776,0.098421,1.054405,71
+Skilled_Trades_Ops,People Management,13440,0.113477,0.107703,1.053615,72
+Skilled_Trades_Ops,Problem Solving,29384,0.248096,0.235488,1.053538,73
+Skilled_Trades_Ops,Sustainability,1455,0.012285,0.011971,1.026189,74
+Skilled_Trades_Ops,Microsoft Office,17123,0.144574,0.142002,1.01811,75
+Skilled_Trades_Ops,Employee Training / L&D,1449,0.012234,0.012051,1.015192,76
+Skilled_Trades_Ops,Motivation,1999,0.016878,0.016752,1.007514,77
+Skilled_Trades_Ops,Written Communication,11193,0.094505,0.093922,1.006214,78
+Skilled_Trades_Ops,Software Development,5818,0.049123,0.048859,1.005406,79
+Tech_Engineering,SolidWorks,2632,0.035094,0.003653,9.607307,1
+Tech_Engineering,Testing,4515,0.060201,0.006508,9.250382,2
+Tech_Engineering,Microservices,1967,0.026227,0.002979,8.802789,3
+Tech_Engineering,Docker,2305,0.030734,0.003549,8.659991,4
+Tech_Engineering,C#,2491,0.033214,0.003842,8.644803,5
+Tech_Engineering,Mechanical Engineering,8920,0.118935,0.01472,8.079915,6
+Tech_Engineering,Kubernetes,2636,0.035147,0.0044,7.988841,7
+Tech_Engineering,Git,4209,0.056121,0.007166,7.831986,8
+Tech_Engineering,JavaScript,4870,0.064934,0.008448,7.686792,9
+Tech_Engineering,Jenkins,1728,0.02304,0.00301,7.654565,10
+Tech_Engineering,Version Control,1764,0.02352,0.003097,7.594053,11
+Tech_Engineering,Revit,3071,0.040947,0.005544,7.385639,12
+Tech_Engineering,Java,6061,0.080814,0.011044,7.317621,13
+Tech_Engineering,C++,2777,0.037027,0.005065,7.310965,14
+Tech_Engineering,MATLAB,1930,0.025734,0.003701,6.953059,15
+Tech_Engineering,CAD,2137,0.028494,0.004098,6.952969,16
+Tech_Engineering,DevOps,3616,0.048214,0.006945,6.942439,17
+Tech_Engineering,AutoCAD,7527,0.100361,0.015403,6.515509,18
+Tech_Engineering,Computer Vision,448,0.005973,0.000937,6.375997,19
+Tech_Engineering,AWS,5971,0.079614,0.012512,6.362954,20
+Tech_Engineering,Electrical Engineering,7672,0.102295,0.01681,6.085468,21
+Tech_Engineering,Azure,3039,0.040521,0.006801,5.957989,22
+Tech_Engineering,Civil Engineering,5999,0.079988,0.013457,5.943781,23
+Tech_Engineering,Google Cloud,1848,0.02464,0.004174,5.903111,24
+Tech_Engineering,CSS,2055,0.0274,0.004677,5.858689,25
+Tech_Engineering,Python,8473,0.112975,0.019315,5.849051,26
+Tech_Engineering,Prototyping,1723,0.022974,0.003985,5.765175,27
+Tech_Engineering,Linux,2838,0.037841,0.006616,5.719954,28
+Tech_Engineering,High Availability,495,0.0066,0.001161,5.683192,29
+Tech_Engineering,Architecture,12195,0.162602,0.029673,5.479729,30
+Tech_Engineering,React,2690,0.035867,0.006712,5.343739,31
+Tech_Engineering,Computer Science,9390,0.125202,0.024277,5.157274,32
+Tech_Engineering,Commissioning,2967,0.039561,0.008176,4.838781,33
+Tech_Engineering,Cloud Computing,2079,0.02772,0.005806,4.774644,34
+Tech_Engineering,ETL,1818,0.02424,0.005194,4.666565,35
+Tech_Engineering,SQL,7713,0.102841,0.022388,4.593561,36
+Tech_Engineering,Product Development,4757,0.063428,0.013986,4.535038,37
+Tech_Engineering,Software Development,16452,0.219363,0.048859,4.48975,38
+Tech_Engineering,Agile,7684,0.102455,0.023073,4.440514,39
+Tech_Engineering,Jira,1808,0.024107,0.005518,4.368637,40
+Tech_Engineering,Machine Learning,2701,0.036014,0.008493,4.240434,41
+Tech_Engineering,Data Modeling,941,0.012547,0.003082,4.070528,42
+Tech_Engineering,Cybersecurity,5737,0.076494,0.018986,4.029034,43
+Tech_Engineering,Automation,7098,0.094641,0.023588,4.012344,44
+Tech_Engineering,Root Cause Analysis,3181,0.042414,0.01083,3.916501,45
+Tech_Engineering,Reliability,4599,0.061321,0.015704,3.904792,46
+Tech_Engineering,Robotics,1451,0.019347,0.005043,3.836185,47
+Tech_Engineering,Artificial Intelligence,1555,0.020734,0.005729,3.619217,48
+Tech_Engineering,Lean / Six Sigma,2738,0.036507,0.010349,3.527585,49
+Tech_Engineering,Quality Assurance (Software),599,0.007987,0.002277,3.507251,50
+Tech_Engineering,Quality Control (Manufacturing),3355,0.044734,0.012827,3.487584,51
+Tech_Engineering,Technical Support,4626,0.061681,0.018003,3.426229,52
+Tech_Engineering,Manufacturing,13842,0.184562,0.058123,3.17536,53
+Tech_Engineering,Requirements Gathering,1060,0.014134,0.004482,3.153337,54
+Tech_Engineering,HTML,2418,0.03224,0.010285,3.13469,55
+Tech_Engineering,Electrical Systems,10448,0.139309,0.045196,3.082348,56
+Tech_Engineering,Scrum Master,214,0.002853,0.000952,2.998181,57
+Tech_Engineering,Oracle,1965,0.0262,0.009036,2.899683,58
+Tech_Engineering,Estimating,2263,0.030174,0.010449,2.887652,59
+Tech_Engineering,Security Testing,187,0.002493,0.000867,2.874892,60
+Tech_Engineering,IT Operations,871,0.011613,0.00409,2.839681,61
+Tech_Engineering,Active Directory,758,0.010107,0.003561,2.838197,62
+Tech_Engineering,Contract Administration,764,0.010187,0.003594,2.834087,63
+Tech_Engineering,Troubleshooting,11169,0.148922,0.052837,2.818516,64
+Tech_Engineering,Procurement,3927,0.052361,0.019167,2.731864,65
+Tech_Engineering,Product Management,1280,0.017067,0.006411,2.661937,66
+Tech_Engineering,Instrumentation,2142,0.02856,0.010959,2.606017,67
+Tech_Engineering,Databases,3720,0.049601,0.019114,2.59502,68
+Tech_Engineering,Business Analysis,2398,0.031974,0.012608,2.536047,69
+Tech_Engineering,Project Management,20835,0.277804,0.109973,2.5261,70
+Tech_Engineering,Construction Management,2927,0.039027,0.015672,2.490178,71
+Tech_Engineering,Blueprints,2596,0.034614,0.014663,2.360583,72
+Tech_Engineering,Production,13150,0.175336,0.075293,2.328715,73
+Tech_Engineering,Welding,986,0.013147,0.005715,2.300473,74
+Tech_Engineering,Consulting,4638,0.061841,0.027259,2.268647,75
+Tech_Engineering,HVAC,1920,0.0256,0.011659,2.195796,76
+Tech_Engineering,Networking,4391,0.058547,0.027222,2.150756,77
+Tech_Engineering,Master Data Management,222,0.00296,0.00147,2.013331,78
+Tech_Engineering,Power BI,1036,0.013814,0.006878,2.008353,79
+Tech_Engineering,Inspection,4121,0.054947,0.027471,2.000174,80
+Tech_Engineering,Sustainability,1782,0.02376,0.011971,1.984758,81
+Tech_Engineering,Data Science,1365,0.0182,0.009191,1.980133,82
+Tech_Engineering,SaaS,354,0.00472,0.002394,1.971545,83
+Tech_Engineering,Windows,2624,0.034987,0.017798,1.96584,84
+Tech_Engineering,Data Visualization,944,0.012587,0.006535,1.926116,85
+Tech_Engineering,Business Intelligence,791,0.010547,0.005627,1.874414,86
+Tech_Engineering,SAP,2360,0.031467,0.017,1.851024,87
+Tech_Engineering,Process Improvement,8037,0.107161,0.058687,1.825974,88
+Tech_Engineering,Repair,5949,0.079321,0.045145,1.757046,89
+Tech_Engineering,Tableau,718,0.009573,0.005589,1.713006,90
+Tech_Engineering,Change Management,2118,0.02824,0.016724,1.68858,91
+Tech_Engineering,SharePoint,900,0.012,0.007137,1.681442,92
+Tech_Engineering,Risk Management,5316,0.070881,0.04252,1.667022,93
+Tech_Engineering,Supply Chain,5278,0.070374,0.042274,1.66473,94
+Tech_Engineering,Creativity,8408,0.112108,0.067755,1.654603,95
+Tech_Engineering,Plumbing,1208,0.016107,0.009842,1.636602,96
+Tech_Engineering,Statistics,2372,0.031627,0.019353,1.634213,97
+Tech_Engineering,Creative Thinking,507,0.00676,0.004189,1.613784,98
+Tech_Engineering,R Programming,30,0.0004,0.000253,1.579611,99
+Tech_Engineering,Writing,7596,0.101281,0.065661,1.542492,100
+Tech_Engineering,ERP Systems,662,0.008827,0.005724,1.542034,101
+Tech_Engineering,Mathematical Calculations,2806,0.037414,0.02587,1.446208,102
+Tech_Engineering,Chemistry,1170,0.0156,0.010819,1.441882,103
+Tech_Engineering,Quality Assurance,7188,0.095841,0.066671,1.437526,104
+Tech_Engineering,Business / Org Development,2063,0.027507,0.019228,1.430581,105
+Tech_Engineering,Cost Control,976,0.013014,0.009333,1.394302,106
+Tech_Engineering,CMMS,222,0.00296,0.002129,1.39047,107
+Tech_Engineering,Fund Management,516,0.00688,0.00504,1.365216,108
+Tech_Engineering,Microsoft Teams,325,0.004333,0.003198,1.354901,109
+Tech_Engineering,Transportation,2580,0.0344,0.025742,1.33634,110
+Tech_Engineering,Real Estate Development,130,0.001733,0.001319,1.314121,111
+Tech_Engineering,Physical Security,531,0.00708,0.00541,1.308786,112
+Tech_Engineering,Presentation Skills,6529,0.087054,0.067053,1.298291,113
+Tech_Engineering,Client Relationships,1019,0.013587,0.010629,1.278259,114
+Tech_Engineering,Written Communication,8985,0.119802,0.093922,1.27555,115
+Tech_Engineering,Stakeholder Engagement,442,0.005893,0.00463,1.272738,116
+Tech_Engineering,Data Analysis,7397,0.098628,0.079132,1.246371,117
+Tech_Engineering,Problem Resolution,777,0.01036,0.008519,1.216132,118
+Tech_Engineering,OneDrive,64,0.000853,0.000706,1.20889,119
+Tech_Engineering,Microsoft PowerPoint,3728,0.049707,0.041677,1.192673,120
+Tech_Engineering,Equity,2536,0.033814,0.029158,1.159688,121
+Tech_Engineering,Microsoft Access,166,0.002213,0.00191,1.158893,122
+Tech_Engineering,Problem Solving,19722,0.262964,0.235488,1.116673,123
+Tech_Engineering,Microsoft Office,11810,0.157469,0.142002,1.10892,124
+Tech_Engineering,Initiative,5144,0.068588,0.063004,1.088618,125
+Tech_Engineering,Staff Development,2587,0.034494,0.03179,1.085047,126
+Tech_Engineering,Negotiation,3380,0.045067,0.041634,1.082472,127
+Tech_Engineering,Microsoft Word,3132,0.041761,0.03892,1.072997,128
+Tech_Engineering,Coaching,5514,0.073521,0.070116,1.048561,129
+Tech_Engineering,Clinical Analysis,326,0.004347,0.004149,1.047635,130
+Tech_Engineering,Workplace / OSHA Safety,15417,0.205563,0.196952,1.04372,131
+Tech_Engineering,Critical Thinking,8333,0.111108,0.106848,1.039868,132
+Tech_Engineering,Teamwork,29026,0.387018,0.372322,1.039473,133
+Tech_Engineering,Pricing,1660,0.022134,0.021515,1.028739,134
+Tech_Engineering,Microsoft Excel,7859,0.104788,0.102739,1.019943,135

@@ -1,0 +1,313 @@
+skill,skill_type,domain
+Communication,soft,Professional Skills
+Teamwork,soft,Professional Skills
+Management (unspecified),hard,Management
+Training (unspecified),hard,Management
+Problem Solving,soft,Professional Skills
+Customer Service,soft,Sales & Customer Success
+Leadership,soft,Management
+Workplace / OSHA Safety,hard,Operations
+Organization,soft,Professional Skills
+Attention to Detail,soft,Professional Skills
+Development (unspecified),hard,Professional Skills
+Documentation,hard,Healthcare & Nursing
+Compliance,hard,Operations
+Microsoft Office,tool,Professional Skills
+Sales,hard,Sales & Customer Success
+Quality (unspecified),hard,Operations
+Reporting,hard,Data & Analytics
+Time Management,soft,Professional Skills
+Nursing,hard,Healthcare & Nursing
+Interpersonal Skills,soft,Professional Skills
+Patient Care,hard,Healthcare & Nursing
+Operations (unspecified),hard,Operations
+Engineering,hard,Engineering & Construction
+Design,hard,Engineering & Construction
+Project Management,hard,Management
+People Management,hard,Management
+Critical Thinking,soft,Professional Skills
+Microsoft Excel,tool,Data & Analytics
+Scheduling,hard,Management
+Driving,hard,Operations
+Written Communication,soft,Professional Skills
+Research,hard,Professional Skills
+Assessment,hard,Professional Skills
+Sanitation,hard,Operations
+Data Analysis,hard,Data & Analytics
+Production,hard,Operations
+Decision Making,soft,Professional Skills
+Integrity,soft,Professional Skills
+Computer Proficiency,tool,Professional Skills
+Coaching,hard,Management
+Adaptability,soft,Professional Skills
+Creativity,soft,Professional Skills
+Marketing,hard,Marketing
+Presentation Skills,soft,Professional Skills
+Quality Assurance,hard,Operations
+Writing,soft,Professional Skills
+Diagnosis,hard,Healthcare & Nursing
+Testing,hard,Cloud & IT
+Initiative,soft,Professional Skills
+Process Improvement,hard,Operations
+Manufacturing,hard,Operations
+Budgeting,hard,Management
+BLS,certification,Healthcare & Nursing
+Inventory Management,hard,Operations
+Monitoring,hard,Professional Skills
+Teaching,hard,Professional Skills
+Project Coordination,hard,Management
+Accounting,hard,Finance & Accounting
+Security (unspecified),hard,Cloud & IT
+Troubleshooting,hard,Cloud & IT
+Analysis (unspecified),hard,Data & Analytics
+Multitasking,soft,Professional Skills
+Professional Development,soft,Professional Skills
+Software Development,hard,Cloud & IT
+Confidentiality,soft,Professional Skills
+Electrical Systems,hard,Engineering & Construction
+Repair,hard,Engineering & Construction
+Data Entry,tool,Professional Skills
+Mental Health,hard,Healthcare & Nursing
+Staffing,hard,Management
+Risk Management,hard,Management
+CPR,certification,Healthcare & Nursing
+Supply Chain,hard,Operations
+Microsoft PowerPoint,tool,Professional Skills
+Negotiation,soft,Sales & Customer Success
+Customer Focus,soft,Sales & Customer Success
+Quality Improvement,hard,Operations
+Merchandising,hard,Sales & Customer Success
+Microsoft Outlook,tool,Professional Skills
+Microsoft Word,tool,Professional Skills
+Human Resources,hard,Management
+Accountability,soft,Professional Skills
+Conflict Resolution,soft,Professional Skills
+Computer Literacy,tool,Professional Skills
+Staff Development,hard,Management
+Recruitment,hard,Management
+Architecture,hard,Engineering & Construction
+Equity,soft,Professional Skills
+Counseling,hard,Healthcare & Nursing
+Empathy,soft,Professional Skills
+Spanish,soft,Professional Skills
+Inspection,hard,Operations
+ACLS,certification,Healthcare & Nursing
+Consulting,hard,Professional Skills
+Networking,hard,Cloud & IT
+Billing,hard,Finance & Accounting
+Physical Therapy,hard,Healthcare & Nursing
+Mathematical Calculations,hard,Professional Skills
+Transportation,hard,Operations
+Banking,hard,Finance & Accounting
+Computer Science,hard,Cloud & IT
+Professionalism,soft,Professional Skills
+CRM,tool,Sales & Customer Success
+Automation,hard,Cloud & IT
+Internal Medicine,hard,Healthcare & Nursing
+Agile,hard,Management
+Electronic Health Records,tool,Healthcare & Nursing
+Medication Administration,hard,Healthcare & Nursing
+SQL,hard,Data & Analytics
+Case Management,hard,Healthcare & Nursing
+Performance Management,hard,Management
+Forecasting,hard,Data & Analytics
+Clinical Quality,hard,Healthcare & Nursing
+Pricing,hard,Sales & Customer Success
+Payroll,hard,Finance & Accounting
+Clinical Skills,hard,Healthcare & Nursing
+Food Preparation,hard,Operations
+Surgery,hard,Healthcare & Nursing
+Patient Education,hard,Healthcare & Nursing
+Statistics,hard,Data & Analytics
+Python,hard,Data & Analytics
+Business / Org Development,hard,Management
+Procurement,hard,Operations
+Databases,hard,Data & Analytics
+Retail / Store Operations,hard,Operations
+Radiology,hard,Healthcare & Nursing
+Cybersecurity,hard,Cloud & IT
+Financial Analysis,hard,Finance & Accounting
+Technical Support,hard,Cloud & IT
+Windows,tool,Cloud & IT
+Preventive Maintenance,hard,Operations
+Auditing,hard,Finance & Accounting
+Bilingual,soft,Professional Skills
+Dentistry,hard,Healthcare & Nursing
+Retail Operations,hard,Sales & Customer Success
+SAP,tool,Operations
+First Aid,hard,Healthcare & Nursing
+Electrical Engineering,hard,Engineering & Construction
+Motivation,soft,Professional Skills
+Change Management,hard,Management
+Care Planning,hard,Healthcare & Nursing
+Social Media,hard,Marketing
+Infection Control,hard,Healthcare & Nursing
+Filing,hard,Professional Skills
+Reliability,soft,Professional Skills
+Construction Management,hard,Engineering & Construction
+AutoCAD,tool,Engineering & Construction
+HIPAA,hard,Healthcare & Nursing
+Prospecting,hard,Sales & Customer Success
+Social Work,hard,Healthcare & Nursing
+Mechanical Engineering,hard,Engineering & Construction
+Blueprints,hard,Engineering & Construction
+Business Administration,hard,Management
+Critical Care,hard,Healthcare & Nursing
+Team Building,soft,Management
+Product Development,hard,Management
+Cash Handling,hard,Finance & Accounting
+Psychology,hard,Healthcare & Nursing
+Financial Management,hard,Finance & Accounting
+Civil Engineering,hard,Engineering & Construction
+Information Technology,hard,Cloud & IT
+Quality Control (Manufacturing),hard,Operations
+Equipment Operation,hard,Operations
+Business Analysis,hard,Management
+Medical Terminology,hard,Healthcare & Nursing
+AWS,hard,Cloud & IT
+Employee Training / L&D,hard,Management
+Sustainability,hard,Operations
+HVAC,hard,Operations
+Oncology,hard,Healthcare & Nursing
+Administrative Support,hard,Professional Skills
+Food Service,hard,Operations
+Hospitality,hard,Operations
+Clinical Operations,hard,Healthcare & Nursing
+Java,hard,Cloud & IT
+Instrumentation,hard,Engineering & Construction
+Food Safety,hard,Operations
+English Proficiency,soft,Professional Skills
+Pediatrics,hard,Healthcare & Nursing
+Root Cause Analysis,hard,Operations
+Chemistry,hard,Healthcare & Nursing
+Client Relationships,soft,Sales & Customer Success
+Salesforce,tool,Sales & Customer Success
+Estimating,hard,Engineering & Construction
+Stocking,hard,Operations
+Lean / Six Sigma,hard,Operations
+Business Acumen,hard,Management
+HTML,hard,Cloud & IT
+Loss Prevention,hard,Operations
+Financial Statements,hard,Finance & Accounting
+Plumbing,hard,Engineering & Construction
+Litigation,hard,Professional Skills
+Employee Relations,hard,Management
+Cost Control,hard,Operations
+Data Science,hard,Data & Analytics
+Resilience,soft,Professional Skills
+Stress Management,soft,Professional Skills
+Cashiering,hard,Sales & Customer Success
+Oracle,tool,Cloud & IT
+Patient Safety,hard,Healthcare & Nursing
+Emergency Response,hard,Operations
+Evidence-Based Practice,hard,Healthcare & Nursing
+Problem Resolution,soft,Professional Skills
+Machine Learning,hard,Data & Analytics
+JavaScript,hard,Cloud & IT
+Technical / Product Training,hard,Management
+Advocacy,soft,Healthcare & Nursing
+Commissioning,hard,Engineering & Construction
+Strategic Thinking,soft,Management
+Care Coordination,hard,Healthcare & Nursing
+Accounts Payable,hard,Finance & Accounting
+Goal Setting,soft,Professional Skills
+Git,tool,Cloud & IT
+SharePoint,tool,Cloud & IT
+Safety (conflict),hard,Operations
+DevOps,hard,Cloud & IT
+Wound Care,hard,Healthcare & Nursing
+Strategic Planning,hard,Management
+Power BI,tool,Data & Analytics
+Event Planning,hard,Marketing
+Azure,hard,Cloud & IT
+GAAP,hard,Finance & Accounting
+Curriculum Development,hard,Professional Skills
+Delegation,hard,Management
+React,hard,Cloud & IT
+Vital Signs,hard,Healthcare & Nursing
+Linux,hard,Cloud & IT
+Accounts Receivable,hard,Finance & Accounting
+Data Visualization,hard,Data & Analytics
+Product Management,hard,Management
+Active Listening,soft,Professional Skills
+Public Relations,hard,Marketing
+Google Workspace,tool,Professional Skills
+Insurance,hard,Finance & Accounting
+Cloud Computing,hard,Cloud & IT
+Artificial Intelligence,hard,Data & Analytics
+ERP Systems,tool,Cloud & IT
+Welding,hard,Engineering & Construction
+Business Intelligence,hard,Data & Analytics
+Tableau,tool,Data & Analytics
+Restaurant Management,hard,Operations
+Revit,tool,Engineering & Construction
+Jira,tool,Cloud & IT
+Physical Security,hard,Operations
+Patience,soft,Professional Skills
+ETL,hard,Data & Analytics
+C++,hard,Cloud & IT
+Robotics,hard,Cloud & IT
+Fund Management,hard,Finance & Accounting
+CSS,hard,Cloud & IT
+Stakeholder Engagement,soft,Management
+Phlebotomy,hard,Healthcare & Nursing
+Requirements Gathering,hard,Management
+Kubernetes,hard,Cloud & IT
+Painting,hard,Engineering & Construction
+Creative Thinking,soft,Professional Skills
+Google Cloud,hard,Cloud & IT
+Policy Development,hard,Management
+Carpentry,hard,Engineering & Construction
+Clinical Analysis,hard,Healthcare & Nursing
+Child Development,hard,Healthcare & Nursing
+CAD,tool,Engineering & Construction
+IT Operations,hard,Cloud & IT
+Prototyping,hard,Engineering & Construction
+Variance Analysis,hard,Finance & Accounting
+POS Systems,tool,Sales & Customer Success
+Forklift Operation,hard,Operations
+Diversity and Inclusion,soft,Professional Skills
+C#,hard,Cloud & IT
+Financial Modeling,hard,Finance & Accounting
+MATLAB,tool,Data & Analytics
+Equipment Maintenance,hard,Operations
+Content Marketing,hard,Marketing
+SolidWorks,tool,Engineering & Construction
+Contract Administration,hard,Operations
+Active Directory,tool,Cloud & IT
+Docker,hard,Cloud & IT
+Operations Management,hard,Operations
+Microsoft Teams,tool,Professional Skills
+Cultural Competence,soft,Healthcare & Nursing
+Version Control,tool,Cloud & IT
+Data Modeling,hard,Data & Analytics
+SEO,hard,Marketing
+Marriage and Family Therapy,hard,Healthcare & Nursing
+Jenkins,tool,Cloud & IT
+Microservices,hard,Cloud & IT
+SaaS,hard,Cloud & IT
+Quality Assurance (Software),hard,Cloud & IT
+CMMS,tool,Operations
+Microsoft Access,tool,Professional Skills
+Benefits Administration,hard,Management
+Clinical Training,hard,Healthcare & Nursing
+Planogram,hard,Sales & Customer Success
+Master Data Management,hard,Data & Analytics
+Real Estate Development,hard,Engineering & Construction
+Quality (conflict),hard,Operations
+Account / Case Management,hard,Management
+High Availability,hard,Cloud & IT
+Scrum Master,hard,Management
+Computer Vision,hard,Data & Analytics
+Security Testing,hard,Cloud & IT
+Business Operations,hard,Operations
+OneDrive,tool,Professional Skills
+Analysis (conflict),hard,Data & Analytics
+Dental Hygiene,hard,Healthcare & Nursing
+Security (conflict),hard,Cloud & IT
+R Programming,hard,Data & Analytics
+Management (conflict),hard,Management
+Training (conflict),hard,Management
+Development (conflict),hard,Professional Skills
+Operations (conflict),hard,Operations
+Financial Securities,hard,Finance & Accounting

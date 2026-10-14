@@ -1,0 +1,34 @@
+{
+  "n_jobs": 300000,
+  "n_skills": 281,
+  "min_skills": 3,
+  "min_skill_jobs": 50,
+  "k_grid": [
+    6,
+    8,
+    10,
+    12,
+    14,
+    16
+  ],
+  "sil_sample": 10000,
+  "k_nmf": 6,
+  "k_kmeans": 16,
+  "source": "outputs/full_v8 (1 file(s))",
+  "classifier": {
+    "n_train": 188352,
+    "n_test": 47088,
+    "n_classes": 12,
+    "n_features": 281,
+    "include_other": false,
+    "accuracy": 0.46311162079510704,
+    "macro_f1": 0.44386440226408225,
+    "weighted_f1": 0.44514818353451024,
+    "baseline_majority_accuracy": 0.23426350662589196,
+    "baseline_majority_macro_f1": 0.031633372907310865
+  },
+  "max_jobs": 300000,
+  "n_jobs_eligible": 886966,
+  "sample_note": "Random sample of 300,000 of 886,966 eligible postings (seed 42, `--max-jobs`).",
+  "slice_caveat": "Postings come from LinkedIn searches in four English-speaking countries in early 2024; they are not a random sample of the labour market."
+}

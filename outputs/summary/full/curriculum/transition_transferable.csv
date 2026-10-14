@@ -1,0 +1,1911 @@
+from,to,skill,share_from,share_to,share_min,rank
+Creative_Media,Education,Communication,0.470016,0.487007,0.470016,1
+Creative_Media,Education,Teamwork,0.417186,0.438463,0.417186,2
+Creative_Media,Education,Problem Solving,0.260579,0.236795,0.236795,3
+Creative_Media,Education,Workplace / OSHA Safety,0.204958,0.187235,0.187235,4
+Creative_Media,Education,Microsoft Office,0.169587,0.155705,0.155705,5
+Creative_Media,Education,Attention to Detail,0.213461,0.144341,0.144341,6
+Creative_Media,Education,Time Management,0.143756,0.140596,0.140596,7
+Creative_Media,Education,Interpersonal Skills,0.134605,0.157208,0.134605,8
+Creative_Media,Education,Project Management,0.321521,0.116133,0.116133,9
+Creative_Media,Education,Written Communication,0.114356,0.119329,0.114356,10
+Creative_Media,Education,Customer Service,0.111825,0.172105,0.111825,11
+Creative_Media,Education,Presentation Skills,0.107477,0.112557,0.107477,12
+Creative_Media,Education,Microsoft Excel,0.107477,0.10314,0.10314,13
+Creative_Media,Education,Critical Thinking,0.096768,0.122059,0.096768,14
+Creative_Media,Education,People Management,0.089434,0.128767,0.089434,15
+Creative_Media,Finance_Accounting,Communication,0.470016,0.47877,0.470016,1
+Creative_Media,Finance_Accounting,Teamwork,0.417186,0.360745,0.360745,2
+Creative_Media,Finance_Accounting,Problem Solving,0.260579,0.289323,0.260579,3
+Creative_Media,Finance_Accounting,Attention to Detail,0.213461,0.384868,0.213461,4
+Creative_Media,Finance_Accounting,Microsoft Office,0.169587,0.245034,0.169587,5
+Creative_Media,Finance_Accounting,Time Management,0.143756,0.177525,0.143756,6
+Creative_Media,Finance_Accounting,Interpersonal Skills,0.134605,0.174839,0.134605,7
+Creative_Media,Finance_Accounting,Written Communication,0.114356,0.137727,0.114356,8
+Creative_Media,Finance_Accounting,Project Management,0.321521,0.113256,0.113256,9
+Creative_Media,Finance_Accounting,Customer Service,0.111825,0.209311,0.111825,10
+Creative_Media,Finance_Accounting,Microsoft Excel,0.107477,0.321665,0.107477,11
+Creative_Media,Finance_Accounting,Critical Thinking,0.096768,0.219892,0.096768,12
+Creative_Media,Finance_Accounting,Budgeting,0.091835,0.175696,0.091835,13
+Creative_Media,Finance_Accounting,People Management,0.089434,0.109761,0.089434,14
+Creative_Media,Finance_Accounting,Workplace / OSHA Safety,0.204958,0.088693,0.088693,15
+Creative_Media,Healthcare_Clinical,Teamwork,0.417186,0.290563,0.290563,1
+Creative_Media,Healthcare_Clinical,Communication,0.470016,0.289288,0.289288,2
+Creative_Media,Healthcare_Clinical,Workplace / OSHA Safety,0.204958,0.119686,0.119686,3
+Creative_Media,Healthcare_Clinical,Problem Solving,0.260579,0.101645,0.101645,4
+Creative_Media,Healthcare_Clinical,Interpersonal Skills,0.134605,0.0898,0.0898,5
+Creative_Media,Healthcare_Clinical,Customer Service,0.111825,0.087077,0.087077,6
+Creative_Media,Healthcare_Clinical,Time Management,0.143756,0.070041,0.070041,7
+Creative_Media,Healthcare_Clinical,Critical Thinking,0.096768,0.065946,0.065946,8
+Creative_Media,Healthcare_Clinical,Attention to Detail,0.213461,0.063959,0.063959,9
+Creative_Media,Healthcare_Clinical,Assessment,0.057567,0.109566,0.057567,10
+Creative_Media,Healthcare_Clinical,Scheduling,0.096638,0.05728,0.05728,11
+Creative_Media,Healthcare_Clinical,Professional Development,0.056075,0.061858,0.056075,12
+Creative_Media,Healthcare_Clinical,Adaptability,0.065356,0.055678,0.055678,13
+Creative_Media,Healthcare_Nursing,Communication,0.470016,0.358795,0.358795,1
+Creative_Media,Healthcare_Nursing,Teamwork,0.417186,0.35177,0.35177,2
+Creative_Media,Healthcare_Nursing,Problem Solving,0.260579,0.156865,0.156865,3
+Creative_Media,Healthcare_Nursing,Workplace / OSHA Safety,0.204958,0.143931,0.143931,4
+Creative_Media,Healthcare_Nursing,Time Management,0.143756,0.105257,0.105257,5
+Creative_Media,Healthcare_Nursing,Critical Thinking,0.096768,0.148661,0.096768,6
+Creative_Media,Healthcare_Nursing,Interpersonal Skills,0.134605,0.083485,0.083485,7
+Creative_Media,Healthcare_Nursing,Customer Service,0.111825,0.080239,0.080239,8
+Creative_Media,Healthcare_Nursing,People Management,0.089434,0.074838,0.074838,9
+Creative_Media,Healthcare_Nursing,Scheduling,0.096638,0.070209,0.070209,10
+Creative_Media,Healthcare_Nursing,Adaptability,0.065356,0.066634,0.065356,11
+Creative_Media,Healthcare_Nursing,Attention to Detail,0.213461,0.061917,0.061917,12
+Creative_Media,Healthcare_Nursing,Integrity,0.072949,0.06075,0.06075,13
+Creative_Media,Healthcare_Nursing,Assessment,0.057567,0.199229,0.057567,14
+Creative_Media,Healthcare_Nursing,Decision Making,0.057178,0.082154,0.057178,15
+Creative_Media,Hospitality_Food,Communication,0.470016,0.522484,0.470016,1
+Creative_Media,Hospitality_Food,Teamwork,0.417186,0.439419,0.417186,2
+Creative_Media,Hospitality_Food,Problem Solving,0.260579,0.23399,0.23399,3
+Creative_Media,Hospitality_Food,Attention to Detail,0.213461,0.274063,0.213461,4
+Creative_Media,Hospitality_Food,Workplace / OSHA Safety,0.204958,0.290512,0.204958,5
+Creative_Media,Hospitality_Food,Production,0.216641,0.165743,0.165743,6
+Creative_Media,Hospitality_Food,Time Management,0.143756,0.177855,0.143756,7
+Creative_Media,Hospitality_Food,Customer Service,0.111825,0.530645,0.111825,8
+Creative_Media,Hospitality_Food,Interpersonal Skills,0.134605,0.104626,0.104626,9
+Creative_Media,Hospitality_Food,Scheduling,0.096638,0.13031,0.096638,10
+Creative_Media,Hospitality_Food,People Management,0.089434,0.169093,0.089434,11
+Creative_Media,Hospitality_Food,Driving,0.086838,0.086286,0.086286,12
+Creative_Media,Hospitality_Food,Coaching,0.079439,0.080273,0.079439,13
+Creative_Media,Hospitality_Food,Initiative,0.075999,0.076107,0.075999,14
+Creative_Media,Hospitality_Food,Microsoft Office,0.169587,0.073401,0.073401,15
+Creative_Media,Legal_Compliance,Communication,0.470016,0.399422,0.399422,1
+Creative_Media,Legal_Compliance,Teamwork,0.417186,0.348568,0.348568,2
+Creative_Media,Legal_Compliance,Attention to Detail,0.213461,0.237377,0.213461,3
+Creative_Media,Legal_Compliance,Problem Solving,0.260579,0.162316,0.162316,4
+Creative_Media,Legal_Compliance,Time Management,0.143756,0.153374,0.143756,5
+Creative_Media,Legal_Compliance,Interpersonal Skills,0.134605,0.181104,0.134605,6
+Creative_Media,Legal_Compliance,Written Communication,0.114356,0.134857,0.114356,7
+Creative_Media,Legal_Compliance,Customer Service,0.111825,0.122211,0.111825,8
+Creative_Media,Legal_Compliance,Writing,0.111695,0.228977,0.111695,9
+Creative_Media,Legal_Compliance,Microsoft Office,0.169587,0.109656,0.109656,10
+Creative_Media,Legal_Compliance,Critical Thinking,0.096768,0.193569,0.096768,11
+Creative_Media,Legal_Compliance,Initiative,0.075999,0.077138,0.075999,12
+Creative_Media,Legal_Compliance,Integrity,0.072949,0.070996,0.070996,13
+Creative_Media,Legal_Compliance,Presentation Skills,0.107477,0.059073,0.059073,14
+Creative_Media,Legal_Compliance,Marketing,0.115979,0.051215,0.051215,15
+Creative_Media,Management_HR_Admin,Communication,0.470016,0.501677,0.470016,1
+Creative_Media,Management_HR_Admin,Teamwork,0.417186,0.39959,0.39959,2
+Creative_Media,Management_HR_Admin,Problem Solving,0.260579,0.292728,0.260579,3
+Creative_Media,Management_HR_Admin,Attention to Detail,0.213461,0.229379,0.213461,4
+Creative_Media,Management_HR_Admin,Workplace / OSHA Safety,0.204958,0.23489,0.204958,5
+Creative_Media,Management_HR_Admin,Microsoft Office,0.169587,0.19392,0.169587,6
+Creative_Media,Management_HR_Admin,Project Management,0.321521,0.15085,0.15085,7
+Creative_Media,Management_HR_Admin,Time Management,0.143756,0.17184,0.143756,8
+Creative_Media,Management_HR_Admin,Interpersonal Skills,0.134605,0.15938,0.134605,9
+Creative_Media,Management_HR_Admin,Written Communication,0.114356,0.113496,0.113496,10
+Creative_Media,Management_HR_Admin,Customer Service,0.111825,0.28955,0.111825,11
+Creative_Media,Management_HR_Admin,Microsoft Excel,0.107477,0.140521,0.107477,12
+Creative_Media,Management_HR_Admin,Marketing,0.115979,0.101446,0.101446,13
+Creative_Media,Management_HR_Admin,Critical Thinking,0.096768,0.118762,0.096768,14
+Creative_Media,Management_HR_Admin,Scheduling,0.096638,0.138016,0.096638,15
+Creative_Media,Sales_Customer,Communication,0.470016,0.558607,0.470016,1
+Creative_Media,Sales_Customer,Teamwork,0.417186,0.441251,0.417186,2
+Creative_Media,Sales_Customer,Problem Solving,0.260579,0.326185,0.260579,3
+Creative_Media,Sales_Customer,Attention to Detail,0.213461,0.21571,0.213461,4
+Creative_Media,Sales_Customer,Workplace / OSHA Safety,0.204958,0.172374,0.172374,5
+Creative_Media,Sales_Customer,Microsoft Office,0.169587,0.194694,0.169587,6
+Creative_Media,Sales_Customer,Time Management,0.143756,0.189126,0.143756,7
+Creative_Media,Sales_Customer,Interpersonal Skills,0.134605,0.193757,0.134605,8
+Creative_Media,Sales_Customer,Marketing,0.115979,0.172802,0.115979,9
+Creative_Media,Sales_Customer,Customer Service,0.111825,0.456649,0.111825,10
+Creative_Media,Sales_Customer,Microsoft Excel,0.107477,0.109763,0.107477,11
+Creative_Media,Sales_Customer,Presentation Skills,0.107477,0.136733,0.107477,12
+Creative_Media,Sales_Customer,Written Communication,0.114356,0.10728,0.10728,13
+Creative_Media,Sales_Customer,Critical Thinking,0.096768,0.099443,0.096768,14
+Creative_Media,Sales_Customer,Scheduling,0.096638,0.11702,0.096638,15
+Creative_Media,Science_Research,Teamwork,0.417186,0.376373,0.376373,1
+Creative_Media,Science_Research,Communication,0.470016,0.353083,0.353083,2
+Creative_Media,Science_Research,Problem Solving,0.260579,0.231727,0.231727,3
+Creative_Media,Science_Research,Attention to Detail,0.213461,0.231361,0.213461,4
+Creative_Media,Science_Research,Workplace / OSHA Safety,0.204958,0.227479,0.204958,5
+Creative_Media,Science_Research,Troubleshooting,0.13175,0.165885,0.13175,6
+Creative_Media,Science_Research,Project Management,0.321521,0.119013,0.119013,7
+Creative_Media,Science_Research,Written Communication,0.114356,0.125165,0.114356,8
+Creative_Media,Science_Research,Writing,0.111695,0.121649,0.111695,9
+Creative_Media,Science_Research,Microsoft Office,0.169587,0.107734,0.107734,10
+Creative_Media,Science_Research,Presentation Skills,0.107477,0.107148,0.107148,11
+Creative_Media,Science_Research,Creativity,0.118705,0.10583,0.10583,12
+Creative_Media,Science_Research,Interpersonal Skills,0.134605,0.096821,0.096821,13
+Creative_Media,Science_Research,Critical Thinking,0.096768,0.124652,0.096768,14
+Creative_Media,Science_Research,Quality Assurance,0.096573,0.234364,0.096573,15
+Creative_Media,Skilled_Trades_Ops,Communication,0.470016,0.435806,0.435806,1
+Creative_Media,Skilled_Trades_Ops,Teamwork,0.417186,0.339874,0.339874,2
+Creative_Media,Skilled_Trades_Ops,Problem Solving,0.260579,0.248096,0.248096,3
+Creative_Media,Skilled_Trades_Ops,Attention to Detail,0.213461,0.20539,0.20539,4
+Creative_Media,Skilled_Trades_Ops,Workplace / OSHA Safety,0.204958,0.335737,0.204958,5
+Creative_Media,Skilled_Trades_Ops,Microsoft Office,0.169587,0.144574,0.144574,6
+Creative_Media,Skilled_Trades_Ops,Production,0.216641,0.140555,0.140555,7
+Creative_Media,Skilled_Trades_Ops,Electrical Systems,0.21067,0.139018,0.139018,8
+Creative_Media,Skilled_Trades_Ops,Troubleshooting,0.13175,0.138866,0.13175,9
+Creative_Media,Skilled_Trades_Ops,Time Management,0.143756,0.12051,0.12051,10
+Creative_Media,Skilled_Trades_Ops,Manufacturing,0.147326,0.112177,0.112177,11
+Creative_Media,Skilled_Trades_Ops,Customer Service,0.111825,0.253162,0.111825,12
+Creative_Media,Skilled_Trades_Ops,Interpersonal Skills,0.134605,0.106798,0.106798,13
+Creative_Media,Skilled_Trades_Ops,Project Management,0.321521,0.099656,0.099656,14
+Creative_Media,Skilled_Trades_Ops,Scheduling,0.096638,0.103776,0.096638,15
+Creative_Media,Tech_Engineering,Communication,0.470016,0.412846,0.412846,1
+Creative_Media,Tech_Engineering,Teamwork,0.417186,0.387018,0.387018,2
+Creative_Media,Tech_Engineering,Project Management,0.321521,0.277804,0.277804,3
+Creative_Media,Tech_Engineering,Problem Solving,0.260579,0.262964,0.260579,4
+Creative_Media,Tech_Engineering,Workplace / OSHA Safety,0.204958,0.205563,0.204958,5
+Creative_Media,Tech_Engineering,Production,0.216641,0.175336,0.175336,6
+Creative_Media,Tech_Engineering,Software Development,0.173936,0.219363,0.173936,7
+Creative_Media,Tech_Engineering,Attention to Detail,0.213461,0.158922,0.158922,8
+Creative_Media,Tech_Engineering,Microsoft Office,0.169587,0.157469,0.157469,9
+Creative_Media,Tech_Engineering,Architecture,0.151934,0.162602,0.151934,10
+Creative_Media,Tech_Engineering,Manufacturing,0.147326,0.184562,0.147326,11
+Creative_Media,Tech_Engineering,Electrical Systems,0.21067,0.139309,0.139309,12
+Creative_Media,Tech_Engineering,Troubleshooting,0.13175,0.148922,0.13175,13
+Creative_Media,Tech_Engineering,Written Communication,0.114356,0.119802,0.114356,14
+Creative_Media,Tech_Engineering,Creativity,0.118705,0.112108,0.112108,15
+Education,Creative_Media,Communication,0.487007,0.470016,0.470016,1
+Education,Creative_Media,Teamwork,0.438463,0.417186,0.417186,2
+Education,Creative_Media,Problem Solving,0.236795,0.260579,0.236795,3
+Education,Creative_Media,Workplace / OSHA Safety,0.187235,0.204958,0.187235,4
+Education,Creative_Media,Microsoft Office,0.155705,0.169587,0.155705,5
+Education,Creative_Media,Attention to Detail,0.144341,0.213461,0.144341,6
+Education,Creative_Media,Time Management,0.140596,0.143756,0.140596,7
+Education,Creative_Media,Interpersonal Skills,0.157208,0.134605,0.134605,8
+Education,Creative_Media,Project Management,0.116133,0.321521,0.116133,9
+Education,Creative_Media,Written Communication,0.119329,0.114356,0.114356,10
+Education,Creative_Media,Customer Service,0.172105,0.111825,0.111825,11
+Education,Creative_Media,Presentation Skills,0.112557,0.107477,0.107477,12
+Education,Creative_Media,Microsoft Excel,0.10314,0.107477,0.10314,13
+Education,Creative_Media,Critical Thinking,0.122059,0.096768,0.096768,14
+Education,Creative_Media,People Management,0.128767,0.089434,0.089434,15
+Education,Finance_Accounting,Communication,0.487007,0.47877,0.47877,1
+Education,Finance_Accounting,Teamwork,0.438463,0.360745,0.360745,2
+Education,Finance_Accounting,Problem Solving,0.236795,0.289323,0.236795,3
+Education,Finance_Accounting,Customer Service,0.172105,0.209311,0.172105,4
+Education,Finance_Accounting,Interpersonal Skills,0.157208,0.174839,0.157208,5
+Education,Finance_Accounting,Microsoft Office,0.155705,0.245034,0.155705,6
+Education,Finance_Accounting,Attention to Detail,0.144341,0.384868,0.144341,7
+Education,Finance_Accounting,Time Management,0.140596,0.177525,0.140596,8
+Education,Finance_Accounting,Data Analysis,0.122863,0.170394,0.122863,9
+Education,Finance_Accounting,Critical Thinking,0.122059,0.219892,0.122059,10
+Education,Finance_Accounting,Written Communication,0.119329,0.137727,0.119329,11
+Education,Finance_Accounting,Project Management,0.116133,0.113256,0.113256,12
+Education,Finance_Accounting,People Management,0.128767,0.109761,0.109761,13
+Education,Finance_Accounting,Microsoft Excel,0.10314,0.321665,0.10314,14
+Education,Finance_Accounting,Workplace / OSHA Safety,0.187235,0.088693,0.088693,15
+Education,Healthcare_Clinical,Teamwork,0.438463,0.290563,0.290563,1
+Education,Healthcare_Clinical,Communication,0.487007,0.289288,0.289288,2
+Education,Healthcare_Clinical,Workplace / OSHA Safety,0.187235,0.119686,0.119686,3
+Education,Healthcare_Clinical,Nursing,0.116578,0.157503,0.116578,4
+Education,Healthcare_Clinical,Patient Care,0.109975,0.297283,0.109975,5
+Education,Healthcare_Clinical,Assessment,0.180146,0.109566,0.109566,6
+Education,Healthcare_Clinical,Problem Solving,0.236795,0.101645,0.101645,7
+Education,Healthcare_Clinical,Interpersonal Skills,0.157208,0.0898,0.0898,8
+Education,Healthcare_Clinical,Customer Service,0.172105,0.087077,0.087077,9
+Education,Healthcare_Clinical,Time Management,0.140596,0.070041,0.070041,10
+Education,Healthcare_Clinical,CPR,0.079101,0.066387,0.066387,11
+Education,Healthcare_Clinical,Critical Thinking,0.122059,0.065946,0.065946,12
+Education,Healthcare_Clinical,Attention to Detail,0.144341,0.063959,0.063959,13
+Education,Healthcare_Clinical,Mental Health,0.063082,0.146712,0.063082,14
+Education,Healthcare_Clinical,Diagnosis,0.062891,0.172814,0.062891,15
+Education,Healthcare_Nursing,Communication,0.487007,0.358795,0.358795,1
+Education,Healthcare_Nursing,Teamwork,0.438463,0.35177,0.35177,2
+Education,Healthcare_Nursing,Assessment,0.180146,0.199229,0.180146,3
+Education,Healthcare_Nursing,Problem Solving,0.236795,0.156865,0.156865,4
+Education,Healthcare_Nursing,Workplace / OSHA Safety,0.187235,0.143931,0.143931,5
+Education,Healthcare_Nursing,Critical Thinking,0.122059,0.148661,0.122059,6
+Education,Healthcare_Nursing,Nursing,0.116578,0.840371,0.116578,7
+Education,Healthcare_Nursing,Patient Care,0.109975,0.533792,0.109975,8
+Education,Healthcare_Nursing,Time Management,0.140596,0.105257,0.105257,9
+Education,Healthcare_Nursing,Interpersonal Skills,0.157208,0.083485,0.083485,10
+Education,Healthcare_Nursing,Decision Making,0.08746,0.082154,0.082154,11
+Education,Healthcare_Nursing,Customer Service,0.172105,0.080239,0.080239,12
+Education,Healthcare_Nursing,CPR,0.079101,0.164574,0.079101,13
+Education,Healthcare_Nursing,People Management,0.128767,0.074838,0.074838,14
+Education,Healthcare_Nursing,Scheduling,0.089301,0.070209,0.070209,15
+Education,Hospitality_Food,Communication,0.487007,0.522484,0.487007,1
+Education,Hospitality_Food,Teamwork,0.438463,0.439419,0.438463,2
+Education,Hospitality_Food,Problem Solving,0.236795,0.23399,0.23399,3
+Education,Hospitality_Food,Workplace / OSHA Safety,0.187235,0.290512,0.187235,4
+Education,Hospitality_Food,Customer Service,0.172105,0.530645,0.172105,5
+Education,Hospitality_Food,Attention to Detail,0.144341,0.274063,0.144341,6
+Education,Hospitality_Food,Time Management,0.140596,0.177855,0.140596,7
+Education,Hospitality_Food,People Management,0.128767,0.169093,0.128767,8
+Education,Hospitality_Food,Interpersonal Skills,0.157208,0.104626,0.104626,9
+Education,Hospitality_Food,Scheduling,0.089301,0.13031,0.089301,10
+Education,Hospitality_Food,Driving,0.082021,0.086286,0.082021,11
+Education,Hospitality_Food,Coaching,0.119117,0.080273,0.080273,12
+Education,Hospitality_Food,Adaptability,0.074657,0.109092,0.074657,13
+Education,Hospitality_Food,Microsoft Office,0.155705,0.073401,0.073401,14
+Education,Hospitality_Food,Budgeting,0.066954,0.070867,0.066954,15
+Education,Legal_Compliance,Communication,0.487007,0.399422,0.399422,1
+Education,Legal_Compliance,Teamwork,0.438463,0.348568,0.348568,2
+Education,Legal_Compliance,Problem Solving,0.236795,0.162316,0.162316,3
+Education,Legal_Compliance,Interpersonal Skills,0.157208,0.181104,0.157208,4
+Education,Legal_Compliance,Attention to Detail,0.144341,0.237377,0.144341,5
+Education,Legal_Compliance,Time Management,0.140596,0.153374,0.140596,6
+Education,Legal_Compliance,Customer Service,0.172105,0.122211,0.122211,7
+Education,Legal_Compliance,Critical Thinking,0.122059,0.193569,0.122059,8
+Education,Legal_Compliance,Written Communication,0.119329,0.134857,0.119329,9
+Education,Legal_Compliance,Microsoft Office,0.155705,0.109656,0.109656,10
+Education,Legal_Compliance,Writing,0.088772,0.228977,0.088772,11
+Education,Legal_Compliance,Integrity,0.075525,0.070996,0.070996,12
+Education,Legal_Compliance,Initiative,0.060902,0.077138,0.060902,13
+Education,Legal_Compliance,Presentation Skills,0.112557,0.059073,0.059073,14
+Education,Legal_Compliance,Marketing,0.07434,0.051215,0.051215,15
+Education,Management_HR_Admin,Communication,0.487007,0.501677,0.487007,1
+Education,Management_HR_Admin,Teamwork,0.438463,0.39959,0.39959,2
+Education,Management_HR_Admin,Problem Solving,0.236795,0.292728,0.236795,3
+Education,Management_HR_Admin,Workplace / OSHA Safety,0.187235,0.23489,0.187235,4
+Education,Management_HR_Admin,Customer Service,0.172105,0.28955,0.172105,5
+Education,Management_HR_Admin,Interpersonal Skills,0.157208,0.15938,0.157208,6
+Education,Management_HR_Admin,Microsoft Office,0.155705,0.19392,0.155705,7
+Education,Management_HR_Admin,Attention to Detail,0.144341,0.229379,0.144341,8
+Education,Management_HR_Admin,Time Management,0.140596,0.17184,0.140596,9
+Education,Management_HR_Admin,People Management,0.128767,0.199667,0.128767,10
+Education,Management_HR_Admin,Critical Thinking,0.122059,0.118762,0.118762,11
+Education,Management_HR_Admin,Project Management,0.116133,0.15085,0.116133,12
+Education,Management_HR_Admin,Written Communication,0.119329,0.113496,0.113496,13
+Education,Management_HR_Admin,Coaching,0.119117,0.103337,0.103337,14
+Education,Management_HR_Admin,Microsoft Excel,0.10314,0.140521,0.10314,15
+Education,Sales_Customer,Communication,0.487007,0.558607,0.487007,1
+Education,Sales_Customer,Teamwork,0.438463,0.441251,0.438463,2
+Education,Sales_Customer,Problem Solving,0.236795,0.326185,0.236795,3
+Education,Sales_Customer,Workplace / OSHA Safety,0.187235,0.172374,0.172374,4
+Education,Sales_Customer,Customer Service,0.172105,0.456649,0.172105,5
+Education,Sales_Customer,Interpersonal Skills,0.157208,0.193757,0.157208,6
+Education,Sales_Customer,Microsoft Office,0.155705,0.194694,0.155705,7
+Education,Sales_Customer,Attention to Detail,0.144341,0.21571,0.144341,8
+Education,Sales_Customer,Time Management,0.140596,0.189126,0.140596,9
+Education,Sales_Customer,People Management,0.128767,0.115351,0.115351,10
+Education,Sales_Customer,Presentation Skills,0.112557,0.136733,0.112557,11
+Education,Sales_Customer,Written Communication,0.119329,0.10728,0.10728,12
+Education,Sales_Customer,Microsoft Excel,0.10314,0.109763,0.10314,13
+Education,Sales_Customer,Critical Thinking,0.122059,0.099443,0.099443,14
+Education,Sales_Customer,Coaching,0.119117,0.093123,0.093123,15
+Education,Science_Research,Teamwork,0.438463,0.376373,0.376373,1
+Education,Science_Research,Communication,0.487007,0.353083,0.353083,2
+Education,Science_Research,Problem Solving,0.236795,0.231727,0.231727,3
+Education,Science_Research,Workplace / OSHA Safety,0.187235,0.227479,0.187235,4
+Education,Science_Research,Attention to Detail,0.144341,0.231361,0.144341,5
+Education,Science_Research,Assessment,0.180146,0.125238,0.125238,6
+Education,Science_Research,Data Analysis,0.122863,0.231361,0.122863,7
+Education,Science_Research,Critical Thinking,0.122059,0.124652,0.122059,8
+Education,Science_Research,Written Communication,0.119329,0.125165,0.119329,9
+Education,Science_Research,Project Management,0.116133,0.119013,0.116133,10
+Education,Science_Research,Microsoft Office,0.155705,0.107734,0.107734,11
+Education,Science_Research,Presentation Skills,0.112557,0.107148,0.107148,12
+Education,Science_Research,Interpersonal Skills,0.157208,0.096821,0.096821,13
+Education,Science_Research,Microsoft Excel,0.10314,0.096089,0.096089,14
+Education,Science_Research,Patient Care,0.109975,0.092281,0.092281,15
+Education,Skilled_Trades_Ops,Communication,0.487007,0.435806,0.435806,1
+Education,Skilled_Trades_Ops,Teamwork,0.438463,0.339874,0.339874,2
+Education,Skilled_Trades_Ops,Problem Solving,0.236795,0.248096,0.236795,3
+Education,Skilled_Trades_Ops,Workplace / OSHA Safety,0.187235,0.335737,0.187235,4
+Education,Skilled_Trades_Ops,Customer Service,0.172105,0.253162,0.172105,5
+Education,Skilled_Trades_Ops,Microsoft Office,0.155705,0.144574,0.144574,6
+Education,Skilled_Trades_Ops,Attention to Detail,0.144341,0.20539,0.144341,7
+Education,Skilled_Trades_Ops,Time Management,0.140596,0.12051,0.12051,8
+Education,Skilled_Trades_Ops,People Management,0.128767,0.113477,0.113477,9
+Education,Skilled_Trades_Ops,Interpersonal Skills,0.157208,0.106798,0.106798,10
+Education,Skilled_Trades_Ops,Project Management,0.116133,0.099656,0.099656,11
+Education,Skilled_Trades_Ops,Written Communication,0.119329,0.094505,0.094505,12
+Education,Skilled_Trades_Ops,Microsoft Excel,0.10314,0.093095,0.093095,13
+Education,Skilled_Trades_Ops,Patient Care,0.109975,0.090503,0.090503,14
+Education,Skilled_Trades_Ops,Scheduling,0.089301,0.103776,0.089301,15
+Education,Tech_Engineering,Communication,0.487007,0.412846,0.412846,1
+Education,Tech_Engineering,Teamwork,0.438463,0.387018,0.387018,2
+Education,Tech_Engineering,Problem Solving,0.236795,0.262964,0.236795,3
+Education,Tech_Engineering,Workplace / OSHA Safety,0.187235,0.205563,0.187235,4
+Education,Tech_Engineering,Microsoft Office,0.155705,0.157469,0.155705,5
+Education,Tech_Engineering,Attention to Detail,0.144341,0.158922,0.144341,6
+Education,Tech_Engineering,Written Communication,0.119329,0.119802,0.119329,7
+Education,Tech_Engineering,Project Management,0.116133,0.277804,0.116133,8
+Education,Tech_Engineering,Critical Thinking,0.122059,0.111108,0.111108,9
+Education,Tech_Engineering,Interpersonal Skills,0.157208,0.110441,0.110441,10
+Education,Tech_Engineering,Microsoft Excel,0.10314,0.104788,0.10314,11
+Education,Tech_Engineering,Data Analysis,0.122863,0.098628,0.098628,12
+Education,Tech_Engineering,Writing,0.088772,0.101281,0.088772,13
+Education,Tech_Engineering,Presentation Skills,0.112557,0.087054,0.087054,14
+Education,Tech_Engineering,Time Management,0.140596,0.085788,0.085788,15
+Finance_Accounting,Creative_Media,Communication,0.47877,0.470016,0.470016,1
+Finance_Accounting,Creative_Media,Teamwork,0.360745,0.417186,0.360745,2
+Finance_Accounting,Creative_Media,Problem Solving,0.289323,0.260579,0.260579,3
+Finance_Accounting,Creative_Media,Attention to Detail,0.384868,0.213461,0.213461,4
+Finance_Accounting,Creative_Media,Microsoft Office,0.245034,0.169587,0.169587,5
+Finance_Accounting,Creative_Media,Time Management,0.177525,0.143756,0.143756,6
+Finance_Accounting,Creative_Media,Interpersonal Skills,0.174839,0.134605,0.134605,7
+Finance_Accounting,Creative_Media,Written Communication,0.137727,0.114356,0.114356,8
+Finance_Accounting,Creative_Media,Project Management,0.113256,0.321521,0.113256,9
+Finance_Accounting,Creative_Media,Customer Service,0.209311,0.111825,0.111825,10
+Finance_Accounting,Creative_Media,Microsoft Excel,0.321665,0.107477,0.107477,11
+Finance_Accounting,Creative_Media,Critical Thinking,0.219892,0.096768,0.096768,12
+Finance_Accounting,Creative_Media,Budgeting,0.175696,0.091835,0.091835,13
+Finance_Accounting,Creative_Media,People Management,0.109761,0.089434,0.089434,14
+Finance_Accounting,Creative_Media,Workplace / OSHA Safety,0.088693,0.204958,0.088693,15
+Finance_Accounting,Education,Communication,0.47877,0.487007,0.47877,1
+Finance_Accounting,Education,Teamwork,0.360745,0.438463,0.360745,2
+Finance_Accounting,Education,Problem Solving,0.289323,0.236795,0.236795,3
+Finance_Accounting,Education,Customer Service,0.209311,0.172105,0.172105,4
+Finance_Accounting,Education,Interpersonal Skills,0.174839,0.157208,0.157208,5
+Finance_Accounting,Education,Microsoft Office,0.245034,0.155705,0.155705,6
+Finance_Accounting,Education,Attention to Detail,0.384868,0.144341,0.144341,7
+Finance_Accounting,Education,Time Management,0.177525,0.140596,0.140596,8
+Finance_Accounting,Education,Data Analysis,0.170394,0.122863,0.122863,9
+Finance_Accounting,Education,Critical Thinking,0.219892,0.122059,0.122059,10
+Finance_Accounting,Education,Written Communication,0.137727,0.119329,0.119329,11
+Finance_Accounting,Education,Project Management,0.113256,0.116133,0.113256,12
+Finance_Accounting,Education,People Management,0.109761,0.128767,0.109761,13
+Finance_Accounting,Education,Microsoft Excel,0.321665,0.10314,0.10314,14
+Finance_Accounting,Education,Workplace / OSHA Safety,0.088693,0.187235,0.088693,15
+Finance_Accounting,Healthcare_Clinical,Teamwork,0.360745,0.290563,0.290563,1
+Finance_Accounting,Healthcare_Clinical,Communication,0.47877,0.289288,0.289288,2
+Finance_Accounting,Healthcare_Clinical,Problem Solving,0.289323,0.101645,0.101645,3
+Finance_Accounting,Healthcare_Clinical,Interpersonal Skills,0.174839,0.0898,0.0898,4
+Finance_Accounting,Healthcare_Clinical,Workplace / OSHA Safety,0.088693,0.119686,0.088693,5
+Finance_Accounting,Healthcare_Clinical,Customer Service,0.209311,0.087077,0.087077,6
+Finance_Accounting,Healthcare_Clinical,Confidentiality,0.070172,0.071128,0.070172,7
+Finance_Accounting,Healthcare_Clinical,Time Management,0.177525,0.070041,0.070041,8
+Finance_Accounting,Healthcare_Clinical,Critical Thinking,0.219892,0.065946,0.065946,9
+Finance_Accounting,Healthcare_Clinical,Attention to Detail,0.384868,0.063959,0.063959,10
+Finance_Accounting,Healthcare_Clinical,Professional Development,0.058226,0.061858,0.058226,11
+Finance_Accounting,Healthcare_Clinical,Adaptability,0.070681,0.055678,0.055678,12
+Finance_Accounting,Healthcare_Nursing,Communication,0.47877,0.358795,0.358795,1
+Finance_Accounting,Healthcare_Nursing,Teamwork,0.360745,0.35177,0.35177,2
+Finance_Accounting,Healthcare_Nursing,Problem Solving,0.289323,0.156865,0.156865,3
+Finance_Accounting,Healthcare_Nursing,Critical Thinking,0.219892,0.148661,0.148661,4
+Finance_Accounting,Healthcare_Nursing,Time Management,0.177525,0.105257,0.105257,5
+Finance_Accounting,Healthcare_Nursing,Workplace / OSHA Safety,0.088693,0.143931,0.088693,6
+Finance_Accounting,Healthcare_Nursing,Interpersonal Skills,0.174839,0.083485,0.083485,7
+Finance_Accounting,Healthcare_Nursing,Decision Making,0.094296,0.082154,0.082154,8
+Finance_Accounting,Healthcare_Nursing,Customer Service,0.209311,0.080239,0.080239,9
+Finance_Accounting,Healthcare_Nursing,People Management,0.109761,0.074838,0.074838,10
+Finance_Accounting,Healthcare_Nursing,Adaptability,0.070681,0.066634,0.066634,11
+Finance_Accounting,Healthcare_Nursing,Attention to Detail,0.384868,0.061917,0.061917,12
+Finance_Accounting,Healthcare_Nursing,Confidentiality,0.070172,0.061765,0.061765,13
+Finance_Accounting,Healthcare_Nursing,Integrity,0.092883,0.06075,0.06075,14
+Finance_Accounting,Healthcare_Nursing,Professional Development,0.058226,0.062551,0.058226,15
+Finance_Accounting,Hospitality_Food,Communication,0.47877,0.522484,0.47877,1
+Finance_Accounting,Hospitality_Food,Teamwork,0.360745,0.439419,0.360745,2
+Finance_Accounting,Hospitality_Food,Attention to Detail,0.384868,0.274063,0.274063,3
+Finance_Accounting,Hospitality_Food,Problem Solving,0.289323,0.23399,0.23399,4
+Finance_Accounting,Hospitality_Food,Customer Service,0.209311,0.530645,0.209311,5
+Finance_Accounting,Hospitality_Food,Time Management,0.177525,0.177855,0.177525,6
+Finance_Accounting,Hospitality_Food,People Management,0.109761,0.169093,0.109761,7
+Finance_Accounting,Hospitality_Food,Interpersonal Skills,0.174839,0.104626,0.104626,8
+Finance_Accounting,Hospitality_Food,Workplace / OSHA Safety,0.088693,0.290512,0.088693,9
+Finance_Accounting,Hospitality_Food,Initiative,0.090962,0.076107,0.076107,10
+Finance_Accounting,Hospitality_Food,Multitasking,0.073413,0.076494,0.073413,11
+Finance_Accounting,Hospitality_Food,Microsoft Office,0.245034,0.073401,0.073401,12
+Finance_Accounting,Hospitality_Food,Budgeting,0.175696,0.070867,0.070867,13
+Finance_Accounting,Hospitality_Food,Adaptability,0.070681,0.109092,0.070681,14
+Finance_Accounting,Hospitality_Food,Coaching,0.063273,0.080273,0.063273,15
+Finance_Accounting,Legal_Compliance,Communication,0.47877,0.399422,0.399422,1
+Finance_Accounting,Legal_Compliance,Teamwork,0.360745,0.348568,0.348568,2
+Finance_Accounting,Legal_Compliance,Attention to Detail,0.384868,0.237377,0.237377,3
+Finance_Accounting,Legal_Compliance,Critical Thinking,0.219892,0.193569,0.193569,4
+Finance_Accounting,Legal_Compliance,Interpersonal Skills,0.174839,0.181104,0.174839,5
+Finance_Accounting,Legal_Compliance,Problem Solving,0.289323,0.162316,0.162316,6
+Finance_Accounting,Legal_Compliance,Time Management,0.177525,0.153374,0.153374,7
+Finance_Accounting,Legal_Compliance,Written Communication,0.137727,0.134857,0.134857,8
+Finance_Accounting,Legal_Compliance,Customer Service,0.209311,0.122211,0.122211,9
+Finance_Accounting,Legal_Compliance,Microsoft Office,0.245034,0.109656,0.109656,10
+Finance_Accounting,Legal_Compliance,Initiative,0.090962,0.077138,0.077138,11
+Finance_Accounting,Legal_Compliance,Integrity,0.092883,0.070996,0.070996,12
+Finance_Accounting,Legal_Compliance,Presentation Skills,0.079756,0.059073,0.059073,13
+Finance_Accounting,Legal_Compliance,Writing,0.056096,0.228977,0.056096,14
+Finance_Accounting,Legal_Compliance,Marketing,0.082859,0.051215,0.051215,15
+Finance_Accounting,Management_HR_Admin,Communication,0.47877,0.501677,0.47877,1
+Finance_Accounting,Management_HR_Admin,Teamwork,0.360745,0.39959,0.360745,2
+Finance_Accounting,Management_HR_Admin,Problem Solving,0.289323,0.292728,0.289323,3
+Finance_Accounting,Management_HR_Admin,Attention to Detail,0.384868,0.229379,0.229379,4
+Finance_Accounting,Management_HR_Admin,Customer Service,0.209311,0.28955,0.209311,5
+Finance_Accounting,Management_HR_Admin,Microsoft Office,0.245034,0.19392,0.19392,6
+Finance_Accounting,Management_HR_Admin,Time Management,0.177525,0.17184,0.17184,7
+Finance_Accounting,Management_HR_Admin,Interpersonal Skills,0.174839,0.15938,0.15938,8
+Finance_Accounting,Management_HR_Admin,Microsoft Excel,0.321665,0.140521,0.140521,9
+Finance_Accounting,Management_HR_Admin,Critical Thinking,0.219892,0.118762,0.118762,10
+Finance_Accounting,Management_HR_Admin,Written Communication,0.137727,0.113496,0.113496,11
+Finance_Accounting,Management_HR_Admin,Project Management,0.113256,0.15085,0.113256,12
+Finance_Accounting,Management_HR_Admin,People Management,0.109761,0.199667,0.109761,13
+Finance_Accounting,Management_HR_Admin,Data Analysis,0.170394,0.101185,0.101185,14
+Finance_Accounting,Management_HR_Admin,Budgeting,0.175696,0.095705,0.095705,15
+Finance_Accounting,Sales_Customer,Communication,0.47877,0.558607,0.47877,1
+Finance_Accounting,Sales_Customer,Teamwork,0.360745,0.441251,0.360745,2
+Finance_Accounting,Sales_Customer,Problem Solving,0.289323,0.326185,0.289323,3
+Finance_Accounting,Sales_Customer,Attention to Detail,0.384868,0.21571,0.21571,4
+Finance_Accounting,Sales_Customer,Customer Service,0.209311,0.456649,0.209311,5
+Finance_Accounting,Sales_Customer,Microsoft Office,0.245034,0.194694,0.194694,6
+Finance_Accounting,Sales_Customer,Time Management,0.177525,0.189126,0.177525,7
+Finance_Accounting,Sales_Customer,Interpersonal Skills,0.174839,0.193757,0.174839,8
+Finance_Accounting,Sales_Customer,Microsoft Excel,0.321665,0.109763,0.109763,9
+Finance_Accounting,Sales_Customer,People Management,0.109761,0.115351,0.109761,10
+Finance_Accounting,Sales_Customer,Written Communication,0.137727,0.10728,0.10728,11
+Finance_Accounting,Sales_Customer,Critical Thinking,0.219892,0.099443,0.099443,12
+Finance_Accounting,Sales_Customer,Decision Making,0.094296,0.095311,0.094296,13
+Finance_Accounting,Sales_Customer,Integrity,0.092883,0.095189,0.092883,14
+Finance_Accounting,Sales_Customer,Initiative,0.090962,0.090874,0.090874,15
+Finance_Accounting,Science_Research,Teamwork,0.360745,0.376373,0.360745,1
+Finance_Accounting,Science_Research,Communication,0.47877,0.353083,0.353083,2
+Finance_Accounting,Science_Research,Problem Solving,0.289323,0.231727,0.231727,3
+Finance_Accounting,Science_Research,Attention to Detail,0.384868,0.231361,0.231361,4
+Finance_Accounting,Science_Research,Data Analysis,0.170394,0.231361,0.170394,5
+Finance_Accounting,Science_Research,Written Communication,0.137727,0.125165,0.125165,6
+Finance_Accounting,Science_Research,Critical Thinking,0.219892,0.124652,0.124652,7
+Finance_Accounting,Science_Research,Project Management,0.113256,0.119013,0.113256,8
+Finance_Accounting,Science_Research,Microsoft Office,0.245034,0.107734,0.107734,9
+Finance_Accounting,Science_Research,Interpersonal Skills,0.174839,0.096821,0.096821,10
+Finance_Accounting,Science_Research,Microsoft Excel,0.321665,0.096089,0.096089,11
+Finance_Accounting,Science_Research,Time Management,0.177525,0.090962,0.090962,12
+Finance_Accounting,Science_Research,Workplace / OSHA Safety,0.088693,0.227479,0.088693,13
+Finance_Accounting,Science_Research,Manufacturing,0.087975,0.092061,0.087975,14
+Finance_Accounting,Science_Research,Presentation Skills,0.079756,0.107148,0.079756,15
+Finance_Accounting,Skilled_Trades_Ops,Communication,0.47877,0.435806,0.435806,1
+Finance_Accounting,Skilled_Trades_Ops,Teamwork,0.360745,0.339874,0.339874,2
+Finance_Accounting,Skilled_Trades_Ops,Problem Solving,0.289323,0.248096,0.248096,3
+Finance_Accounting,Skilled_Trades_Ops,Customer Service,0.209311,0.253162,0.209311,4
+Finance_Accounting,Skilled_Trades_Ops,Attention to Detail,0.384868,0.20539,0.20539,5
+Finance_Accounting,Skilled_Trades_Ops,Microsoft Office,0.245034,0.144574,0.144574,6
+Finance_Accounting,Skilled_Trades_Ops,Time Management,0.177525,0.12051,0.12051,7
+Finance_Accounting,Skilled_Trades_Ops,People Management,0.109761,0.113477,0.109761,8
+Finance_Accounting,Skilled_Trades_Ops,Interpersonal Skills,0.174839,0.106798,0.106798,9
+Finance_Accounting,Skilled_Trades_Ops,Project Management,0.113256,0.099656,0.099656,10
+Finance_Accounting,Skilled_Trades_Ops,Written Communication,0.137727,0.094505,0.094505,11
+Finance_Accounting,Skilled_Trades_Ops,Microsoft Excel,0.321665,0.093095,0.093095,12
+Finance_Accounting,Skilled_Trades_Ops,Workplace / OSHA Safety,0.088693,0.335737,0.088693,13
+Finance_Accounting,Skilled_Trades_Ops,Manufacturing,0.087975,0.112177,0.087975,14
+Finance_Accounting,Skilled_Trades_Ops,Critical Thinking,0.219892,0.075575,0.075575,15
+Finance_Accounting,Tech_Engineering,Communication,0.47877,0.412846,0.412846,1
+Finance_Accounting,Tech_Engineering,Teamwork,0.360745,0.387018,0.360745,2
+Finance_Accounting,Tech_Engineering,Problem Solving,0.289323,0.262964,0.262964,3
+Finance_Accounting,Tech_Engineering,Attention to Detail,0.384868,0.158922,0.158922,4
+Finance_Accounting,Tech_Engineering,Microsoft Office,0.245034,0.157469,0.157469,5
+Finance_Accounting,Tech_Engineering,Written Communication,0.137727,0.119802,0.119802,6
+Finance_Accounting,Tech_Engineering,Project Management,0.113256,0.277804,0.113256,7
+Finance_Accounting,Tech_Engineering,Critical Thinking,0.219892,0.111108,0.111108,8
+Finance_Accounting,Tech_Engineering,Interpersonal Skills,0.174839,0.110441,0.110441,9
+Finance_Accounting,Tech_Engineering,Microsoft Excel,0.321665,0.104788,0.104788,10
+Finance_Accounting,Tech_Engineering,Process Improvement,0.104042,0.107161,0.104042,11
+Finance_Accounting,Tech_Engineering,Data Analysis,0.170394,0.098628,0.098628,12
+Finance_Accounting,Tech_Engineering,Workplace / OSHA Safety,0.088693,0.205563,0.088693,13
+Finance_Accounting,Tech_Engineering,Manufacturing,0.087975,0.184562,0.087975,14
+Finance_Accounting,Tech_Engineering,Time Management,0.177525,0.085788,0.085788,15
+Healthcare_Clinical,Creative_Media,Teamwork,0.290563,0.417186,0.290563,1
+Healthcare_Clinical,Creative_Media,Communication,0.289288,0.470016,0.289288,2
+Healthcare_Clinical,Creative_Media,Workplace / OSHA Safety,0.119686,0.204958,0.119686,3
+Healthcare_Clinical,Creative_Media,Problem Solving,0.101645,0.260579,0.101645,4
+Healthcare_Clinical,Creative_Media,Interpersonal Skills,0.0898,0.134605,0.0898,5
+Healthcare_Clinical,Creative_Media,Customer Service,0.087077,0.111825,0.087077,6
+Healthcare_Clinical,Creative_Media,Time Management,0.070041,0.143756,0.070041,7
+Healthcare_Clinical,Creative_Media,Critical Thinking,0.065946,0.096768,0.065946,8
+Healthcare_Clinical,Creative_Media,Attention to Detail,0.063959,0.213461,0.063959,9
+Healthcare_Clinical,Creative_Media,Assessment,0.109566,0.057567,0.057567,10
+Healthcare_Clinical,Creative_Media,Scheduling,0.05728,0.096638,0.05728,11
+Healthcare_Clinical,Creative_Media,Professional Development,0.061858,0.056075,0.056075,12
+Healthcare_Clinical,Creative_Media,Adaptability,0.055678,0.065356,0.055678,13
+Healthcare_Clinical,Education,Teamwork,0.290563,0.438463,0.290563,1
+Healthcare_Clinical,Education,Communication,0.289288,0.487007,0.289288,2
+Healthcare_Clinical,Education,Workplace / OSHA Safety,0.119686,0.187235,0.119686,3
+Healthcare_Clinical,Education,Nursing,0.157503,0.116578,0.116578,4
+Healthcare_Clinical,Education,Patient Care,0.297283,0.109975,0.109975,5
+Healthcare_Clinical,Education,Assessment,0.109566,0.180146,0.109566,6
+Healthcare_Clinical,Education,Problem Solving,0.101645,0.236795,0.101645,7
+Healthcare_Clinical,Education,Interpersonal Skills,0.0898,0.157208,0.0898,8
+Healthcare_Clinical,Education,Customer Service,0.087077,0.172105,0.087077,9
+Healthcare_Clinical,Education,Time Management,0.070041,0.140596,0.070041,10
+Healthcare_Clinical,Education,CPR,0.066387,0.079101,0.066387,11
+Healthcare_Clinical,Education,Critical Thinking,0.065946,0.122059,0.065946,12
+Healthcare_Clinical,Education,Attention to Detail,0.063959,0.144341,0.063959,13
+Healthcare_Clinical,Education,Mental Health,0.146712,0.063082,0.063082,14
+Healthcare_Clinical,Education,Diagnosis,0.172814,0.062891,0.062891,15
+Healthcare_Clinical,Finance_Accounting,Teamwork,0.290563,0.360745,0.290563,1
+Healthcare_Clinical,Finance_Accounting,Communication,0.289288,0.47877,0.289288,2
+Healthcare_Clinical,Finance_Accounting,Problem Solving,0.101645,0.289323,0.101645,3
+Healthcare_Clinical,Finance_Accounting,Interpersonal Skills,0.0898,0.174839,0.0898,4
+Healthcare_Clinical,Finance_Accounting,Workplace / OSHA Safety,0.119686,0.088693,0.088693,5
+Healthcare_Clinical,Finance_Accounting,Customer Service,0.087077,0.209311,0.087077,6
+Healthcare_Clinical,Finance_Accounting,Confidentiality,0.071128,0.070172,0.070172,7
+Healthcare_Clinical,Finance_Accounting,Time Management,0.070041,0.177525,0.070041,8
+Healthcare_Clinical,Finance_Accounting,Critical Thinking,0.065946,0.219892,0.065946,9
+Healthcare_Clinical,Finance_Accounting,Attention to Detail,0.063959,0.384868,0.063959,10
+Healthcare_Clinical,Finance_Accounting,Professional Development,0.061858,0.058226,0.058226,11
+Healthcare_Clinical,Finance_Accounting,Adaptability,0.055678,0.070681,0.055678,12
+Healthcare_Clinical,Healthcare_Nursing,Patient Care,0.297283,0.533792,0.297283,1
+Healthcare_Clinical,Healthcare_Nursing,Teamwork,0.290563,0.35177,0.290563,2
+Healthcare_Clinical,Healthcare_Nursing,Communication,0.289288,0.358795,0.289288,3
+Healthcare_Clinical,Healthcare_Nursing,Nursing,0.157503,0.840371,0.157503,4
+Healthcare_Clinical,Healthcare_Nursing,Diagnosis,0.172814,0.155749,0.155749,5
+Healthcare_Clinical,Healthcare_Nursing,Workplace / OSHA Safety,0.119686,0.143931,0.119686,6
+Healthcare_Clinical,Healthcare_Nursing,BLS,0.10995,0.277706,0.10995,7
+Healthcare_Clinical,Healthcare_Nursing,Assessment,0.109566,0.199229,0.109566,8
+Healthcare_Clinical,Healthcare_Nursing,Problem Solving,0.101645,0.156865,0.101645,9
+Healthcare_Clinical,Healthcare_Nursing,Interpersonal Skills,0.0898,0.083485,0.083485,10
+Healthcare_Clinical,Healthcare_Nursing,Customer Service,0.087077,0.080239,0.080239,11
+Healthcare_Clinical,Healthcare_Nursing,Mental Health,0.146712,0.076372,0.076372,12
+Healthcare_Clinical,Healthcare_Nursing,Time Management,0.070041,0.105257,0.070041,13
+Healthcare_Clinical,Healthcare_Nursing,CPR,0.066387,0.164574,0.066387,14
+Healthcare_Clinical,Healthcare_Nursing,Critical Thinking,0.065946,0.148661,0.065946,15
+Healthcare_Clinical,Hospitality_Food,Teamwork,0.290563,0.439419,0.290563,1
+Healthcare_Clinical,Hospitality_Food,Communication,0.289288,0.522484,0.289288,2
+Healthcare_Clinical,Hospitality_Food,Workplace / OSHA Safety,0.119686,0.290512,0.119686,3
+Healthcare_Clinical,Hospitality_Food,Problem Solving,0.101645,0.23399,0.101645,4
+Healthcare_Clinical,Hospitality_Food,Interpersonal Skills,0.0898,0.104626,0.0898,5
+Healthcare_Clinical,Hospitality_Food,Customer Service,0.087077,0.530645,0.087077,6
+Healthcare_Clinical,Hospitality_Food,Time Management,0.070041,0.177855,0.070041,7
+Healthcare_Clinical,Hospitality_Food,Attention to Detail,0.063959,0.274063,0.063959,8
+Healthcare_Clinical,Hospitality_Food,Scheduling,0.05728,0.13031,0.05728,9
+Healthcare_Clinical,Hospitality_Food,Adaptability,0.055678,0.109092,0.055678,10
+Healthcare_Clinical,Legal_Compliance,Teamwork,0.290563,0.348568,0.290563,1
+Healthcare_Clinical,Legal_Compliance,Communication,0.289288,0.399422,0.289288,2
+Healthcare_Clinical,Legal_Compliance,Problem Solving,0.101645,0.162316,0.101645,3
+Healthcare_Clinical,Legal_Compliance,Interpersonal Skills,0.0898,0.181104,0.0898,4
+Healthcare_Clinical,Legal_Compliance,Customer Service,0.087077,0.122211,0.087077,5
+Healthcare_Clinical,Legal_Compliance,Time Management,0.070041,0.153374,0.070041,6
+Healthcare_Clinical,Legal_Compliance,Critical Thinking,0.065946,0.193569,0.065946,7
+Healthcare_Clinical,Legal_Compliance,Attention to Detail,0.063959,0.237377,0.063959,8
+Healthcare_Clinical,Management_HR_Admin,Teamwork,0.290563,0.39959,0.290563,1
+Healthcare_Clinical,Management_HR_Admin,Communication,0.289288,0.501677,0.289288,2
+Healthcare_Clinical,Management_HR_Admin,Workplace / OSHA Safety,0.119686,0.23489,0.119686,3
+Healthcare_Clinical,Management_HR_Admin,Problem Solving,0.101645,0.292728,0.101645,4
+Healthcare_Clinical,Management_HR_Admin,Nursing,0.157503,0.093381,0.093381,5
+Healthcare_Clinical,Management_HR_Admin,Patient Care,0.297283,0.090994,0.090994,6
+Healthcare_Clinical,Management_HR_Admin,Assessment,0.109566,0.090743,0.090743,7
+Healthcare_Clinical,Management_HR_Admin,Interpersonal Skills,0.0898,0.15938,0.0898,8
+Healthcare_Clinical,Management_HR_Admin,Customer Service,0.087077,0.28955,0.087077,9
+Healthcare_Clinical,Management_HR_Admin,Time Management,0.070041,0.17184,0.070041,10
+Healthcare_Clinical,Management_HR_Admin,Critical Thinking,0.065946,0.118762,0.065946,11
+Healthcare_Clinical,Management_HR_Admin,Attention to Detail,0.063959,0.229379,0.063959,12
+Healthcare_Clinical,Management_HR_Admin,Scheduling,0.05728,0.138016,0.05728,13
+Healthcare_Clinical,Management_HR_Admin,Adaptability,0.055678,0.075473,0.055678,14
+Healthcare_Clinical,Management_HR_Admin,Confidentiality,0.071128,0.052908,0.052908,15
+Healthcare_Clinical,Sales_Customer,Teamwork,0.290563,0.441251,0.290563,1
+Healthcare_Clinical,Sales_Customer,Communication,0.289288,0.558607,0.289288,2
+Healthcare_Clinical,Sales_Customer,Workplace / OSHA Safety,0.119686,0.172374,0.119686,3
+Healthcare_Clinical,Sales_Customer,Problem Solving,0.101645,0.326185,0.101645,4
+Healthcare_Clinical,Sales_Customer,Interpersonal Skills,0.0898,0.193757,0.0898,5
+Healthcare_Clinical,Sales_Customer,Customer Service,0.087077,0.456649,0.087077,6
+Healthcare_Clinical,Sales_Customer,Nursing,0.157503,0.081775,0.081775,7
+Healthcare_Clinical,Sales_Customer,Time Management,0.070041,0.189126,0.070041,8
+Healthcare_Clinical,Sales_Customer,Critical Thinking,0.065946,0.099443,0.065946,9
+Healthcare_Clinical,Sales_Customer,Attention to Detail,0.063959,0.21571,0.063959,10
+Healthcare_Clinical,Sales_Customer,Patient Care,0.297283,0.058632,0.058632,11
+Healthcare_Clinical,Sales_Customer,Scheduling,0.05728,0.11702,0.05728,12
+Healthcare_Clinical,Sales_Customer,Adaptability,0.055678,0.086996,0.055678,13
+Healthcare_Clinical,Sales_Customer,Assessment,0.109566,0.054765,0.054765,14
+Healthcare_Clinical,Science_Research,Teamwork,0.290563,0.376373,0.290563,1
+Healthcare_Clinical,Science_Research,Communication,0.289288,0.353083,0.289288,2
+Healthcare_Clinical,Science_Research,Workplace / OSHA Safety,0.119686,0.227479,0.119686,3
+Healthcare_Clinical,Science_Research,Assessment,0.109566,0.125238,0.109566,4
+Healthcare_Clinical,Science_Research,Problem Solving,0.101645,0.231727,0.101645,5
+Healthcare_Clinical,Science_Research,Patient Care,0.297283,0.092281,0.092281,6
+Healthcare_Clinical,Science_Research,Interpersonal Skills,0.0898,0.096821,0.0898,7
+Healthcare_Clinical,Science_Research,Time Management,0.070041,0.090962,0.070041,8
+Healthcare_Clinical,Science_Research,Customer Service,0.087077,0.067526,0.067526,9
+Healthcare_Clinical,Science_Research,Critical Thinking,0.065946,0.124652,0.065946,10
+Healthcare_Clinical,Science_Research,Attention to Detail,0.063959,0.231361,0.063959,11
+Healthcare_Clinical,Science_Research,Adaptability,0.055678,0.055808,0.055678,12
+Healthcare_Clinical,Science_Research,Diagnosis,0.172814,0.052952,0.052952,13
+Healthcare_Clinical,Skilled_Trades_Ops,Teamwork,0.290563,0.339874,0.290563,1
+Healthcare_Clinical,Skilled_Trades_Ops,Communication,0.289288,0.435806,0.289288,2
+Healthcare_Clinical,Skilled_Trades_Ops,Workplace / OSHA Safety,0.119686,0.335737,0.119686,3
+Healthcare_Clinical,Skilled_Trades_Ops,Problem Solving,0.101645,0.248096,0.101645,4
+Healthcare_Clinical,Skilled_Trades_Ops,Patient Care,0.297283,0.090503,0.090503,5
+Healthcare_Clinical,Skilled_Trades_Ops,Interpersonal Skills,0.0898,0.106798,0.0898,6
+Healthcare_Clinical,Skilled_Trades_Ops,Customer Service,0.087077,0.253162,0.087077,7
+Healthcare_Clinical,Skilled_Trades_Ops,Time Management,0.070041,0.12051,0.070041,8
+Healthcare_Clinical,Skilled_Trades_Ops,Critical Thinking,0.065946,0.075575,0.065946,9
+Healthcare_Clinical,Skilled_Trades_Ops,Nursing,0.157503,0.06427,0.06427,10
+Healthcare_Clinical,Skilled_Trades_Ops,Attention to Detail,0.063959,0.20539,0.063959,11
+Healthcare_Clinical,Skilled_Trades_Ops,Assessment,0.109566,0.058199,0.058199,12
+Healthcare_Clinical,Skilled_Trades_Ops,Scheduling,0.05728,0.103776,0.05728,13
+Healthcare_Clinical,Skilled_Trades_Ops,Adaptability,0.055678,0.066533,0.055678,14
+Healthcare_Clinical,Tech_Engineering,Teamwork,0.290563,0.387018,0.290563,1
+Healthcare_Clinical,Tech_Engineering,Communication,0.289288,0.412846,0.289288,2
+Healthcare_Clinical,Tech_Engineering,Workplace / OSHA Safety,0.119686,0.205563,0.119686,3
+Healthcare_Clinical,Tech_Engineering,Problem Solving,0.101645,0.262964,0.101645,4
+Healthcare_Clinical,Tech_Engineering,Interpersonal Skills,0.0898,0.110441,0.0898,5
+Healthcare_Clinical,Tech_Engineering,Customer Service,0.087077,0.075881,0.075881,6
+Healthcare_Clinical,Tech_Engineering,Assessment,0.109566,0.073148,0.073148,7
+Healthcare_Clinical,Tech_Engineering,Time Management,0.070041,0.085788,0.070041,8
+Healthcare_Clinical,Tech_Engineering,Critical Thinking,0.065946,0.111108,0.065946,9
+Healthcare_Clinical,Tech_Engineering,Attention to Detail,0.063959,0.158922,0.063959,10
+Healthcare_Clinical,Tech_Engineering,Scheduling,0.05728,0.063348,0.05728,11
+Healthcare_Clinical,Tech_Engineering,Adaptability,0.055678,0.054107,0.054107,12
+Healthcare_Nursing,Creative_Media,Communication,0.358795,0.470016,0.358795,1
+Healthcare_Nursing,Creative_Media,Teamwork,0.35177,0.417186,0.35177,2
+Healthcare_Nursing,Creative_Media,Problem Solving,0.156865,0.260579,0.156865,3
+Healthcare_Nursing,Creative_Media,Workplace / OSHA Safety,0.143931,0.204958,0.143931,4
+Healthcare_Nursing,Creative_Media,Time Management,0.105257,0.143756,0.105257,5
+Healthcare_Nursing,Creative_Media,Critical Thinking,0.148661,0.096768,0.096768,6
+Healthcare_Nursing,Creative_Media,Interpersonal Skills,0.083485,0.134605,0.083485,7
+Healthcare_Nursing,Creative_Media,Customer Service,0.080239,0.111825,0.080239,8
+Healthcare_Nursing,Creative_Media,People Management,0.074838,0.089434,0.074838,9
+Healthcare_Nursing,Creative_Media,Scheduling,0.070209,0.096638,0.070209,10
+Healthcare_Nursing,Creative_Media,Adaptability,0.066634,0.065356,0.065356,11
+Healthcare_Nursing,Creative_Media,Attention to Detail,0.061917,0.213461,0.061917,12
+Healthcare_Nursing,Creative_Media,Integrity,0.06075,0.072949,0.06075,13
+Healthcare_Nursing,Creative_Media,Assessment,0.199229,0.057567,0.057567,14
+Healthcare_Nursing,Creative_Media,Decision Making,0.082154,0.057178,0.057178,15
+Healthcare_Nursing,Education,Communication,0.358795,0.487007,0.358795,1
+Healthcare_Nursing,Education,Teamwork,0.35177,0.438463,0.35177,2
+Healthcare_Nursing,Education,Assessment,0.199229,0.180146,0.180146,3
+Healthcare_Nursing,Education,Problem Solving,0.156865,0.236795,0.156865,4
+Healthcare_Nursing,Education,Workplace / OSHA Safety,0.143931,0.187235,0.143931,5
+Healthcare_Nursing,Education,Critical Thinking,0.148661,0.122059,0.122059,6
+Healthcare_Nursing,Education,Nursing,0.840371,0.116578,0.116578,7
+Healthcare_Nursing,Education,Patient Care,0.533792,0.109975,0.109975,8
+Healthcare_Nursing,Education,Time Management,0.105257,0.140596,0.105257,9
+Healthcare_Nursing,Education,Interpersonal Skills,0.083485,0.157208,0.083485,10
+Healthcare_Nursing,Education,Decision Making,0.082154,0.08746,0.082154,11
+Healthcare_Nursing,Education,Customer Service,0.080239,0.172105,0.080239,12
+Healthcare_Nursing,Education,CPR,0.164574,0.079101,0.079101,13
+Healthcare_Nursing,Education,People Management,0.074838,0.128767,0.074838,14
+Healthcare_Nursing,Education,Scheduling,0.070209,0.089301,0.070209,15
+Healthcare_Nursing,Finance_Accounting,Communication,0.358795,0.47877,0.358795,1
+Healthcare_Nursing,Finance_Accounting,Teamwork,0.35177,0.360745,0.35177,2
+Healthcare_Nursing,Finance_Accounting,Problem Solving,0.156865,0.289323,0.156865,3
+Healthcare_Nursing,Finance_Accounting,Critical Thinking,0.148661,0.219892,0.148661,4
+Healthcare_Nursing,Finance_Accounting,Time Management,0.105257,0.177525,0.105257,5
+Healthcare_Nursing,Finance_Accounting,Workplace / OSHA Safety,0.143931,0.088693,0.088693,6
+Healthcare_Nursing,Finance_Accounting,Interpersonal Skills,0.083485,0.174839,0.083485,7
+Healthcare_Nursing,Finance_Accounting,Decision Making,0.082154,0.094296,0.082154,8
+Healthcare_Nursing,Finance_Accounting,Customer Service,0.080239,0.209311,0.080239,9
+Healthcare_Nursing,Finance_Accounting,People Management,0.074838,0.109761,0.074838,10
+Healthcare_Nursing,Finance_Accounting,Adaptability,0.066634,0.070681,0.066634,11
+Healthcare_Nursing,Finance_Accounting,Attention to Detail,0.061917,0.384868,0.061917,12
+Healthcare_Nursing,Finance_Accounting,Confidentiality,0.061765,0.070172,0.061765,13
+Healthcare_Nursing,Finance_Accounting,Integrity,0.06075,0.092883,0.06075,14
+Healthcare_Nursing,Finance_Accounting,Professional Development,0.062551,0.058226,0.058226,15
+Healthcare_Nursing,Healthcare_Clinical,Patient Care,0.533792,0.297283,0.297283,1
+Healthcare_Nursing,Healthcare_Clinical,Teamwork,0.35177,0.290563,0.290563,2
+Healthcare_Nursing,Healthcare_Clinical,Communication,0.358795,0.289288,0.289288,3
+Healthcare_Nursing,Healthcare_Clinical,Nursing,0.840371,0.157503,0.157503,4
+Healthcare_Nursing,Healthcare_Clinical,Diagnosis,0.155749,0.172814,0.155749,5
+Healthcare_Nursing,Healthcare_Clinical,Workplace / OSHA Safety,0.143931,0.119686,0.119686,6
+Healthcare_Nursing,Healthcare_Clinical,BLS,0.277706,0.10995,0.10995,7
+Healthcare_Nursing,Healthcare_Clinical,Assessment,0.199229,0.109566,0.109566,8
+Healthcare_Nursing,Healthcare_Clinical,Problem Solving,0.156865,0.101645,0.101645,9
+Healthcare_Nursing,Healthcare_Clinical,Interpersonal Skills,0.083485,0.0898,0.083485,10
+Healthcare_Nursing,Healthcare_Clinical,Customer Service,0.080239,0.087077,0.080239,11
+Healthcare_Nursing,Healthcare_Clinical,Mental Health,0.076372,0.146712,0.076372,12
+Healthcare_Nursing,Healthcare_Clinical,Time Management,0.105257,0.070041,0.070041,13
+Healthcare_Nursing,Healthcare_Clinical,CPR,0.164574,0.066387,0.066387,14
+Healthcare_Nursing,Healthcare_Clinical,Critical Thinking,0.148661,0.065946,0.065946,15
+Healthcare_Nursing,Hospitality_Food,Communication,0.358795,0.522484,0.358795,1
+Healthcare_Nursing,Hospitality_Food,Teamwork,0.35177,0.439419,0.35177,2
+Healthcare_Nursing,Hospitality_Food,Problem Solving,0.156865,0.23399,0.156865,3
+Healthcare_Nursing,Hospitality_Food,Workplace / OSHA Safety,0.143931,0.290512,0.143931,4
+Healthcare_Nursing,Hospitality_Food,Time Management,0.105257,0.177855,0.105257,5
+Healthcare_Nursing,Hospitality_Food,Interpersonal Skills,0.083485,0.104626,0.083485,6
+Healthcare_Nursing,Hospitality_Food,Customer Service,0.080239,0.530645,0.080239,7
+Healthcare_Nursing,Hospitality_Food,People Management,0.074838,0.169093,0.074838,8
+Healthcare_Nursing,Hospitality_Food,Scheduling,0.070209,0.13031,0.070209,9
+Healthcare_Nursing,Hospitality_Food,Adaptability,0.066634,0.109092,0.066634,10
+Healthcare_Nursing,Hospitality_Food,Attention to Detail,0.061917,0.274063,0.061917,11
+Healthcare_Nursing,Hospitality_Food,Integrity,0.06075,0.061118,0.06075,12
+Healthcare_Nursing,Hospitality_Food,Decision Making,0.082154,0.050938,0.050938,13
+Healthcare_Nursing,Hospitality_Food,Written Communication,0.050124,0.054933,0.050124,14
+Healthcare_Nursing,Legal_Compliance,Communication,0.358795,0.399422,0.358795,1
+Healthcare_Nursing,Legal_Compliance,Teamwork,0.35177,0.348568,0.348568,2
+Healthcare_Nursing,Legal_Compliance,Problem Solving,0.156865,0.162316,0.156865,3
+Healthcare_Nursing,Legal_Compliance,Critical Thinking,0.148661,0.193569,0.148661,4
+Healthcare_Nursing,Legal_Compliance,Time Management,0.105257,0.153374,0.105257,5
+Healthcare_Nursing,Legal_Compliance,Interpersonal Skills,0.083485,0.181104,0.083485,6
+Healthcare_Nursing,Legal_Compliance,Customer Service,0.080239,0.122211,0.080239,7
+Healthcare_Nursing,Legal_Compliance,Attention to Detail,0.061917,0.237377,0.061917,8
+Healthcare_Nursing,Legal_Compliance,Integrity,0.06075,0.070996,0.06075,9
+Healthcare_Nursing,Legal_Compliance,Case Management,0.050708,0.154187,0.050708,10
+Healthcare_Nursing,Legal_Compliance,Written Communication,0.050124,0.134857,0.050124,11
+Healthcare_Nursing,Management_HR_Admin,Communication,0.358795,0.501677,0.358795,1
+Healthcare_Nursing,Management_HR_Admin,Teamwork,0.35177,0.39959,0.35177,2
+Healthcare_Nursing,Management_HR_Admin,Problem Solving,0.156865,0.292728,0.156865,3
+Healthcare_Nursing,Management_HR_Admin,Workplace / OSHA Safety,0.143931,0.23489,0.143931,4
+Healthcare_Nursing,Management_HR_Admin,Critical Thinking,0.148661,0.118762,0.118762,5
+Healthcare_Nursing,Management_HR_Admin,Time Management,0.105257,0.17184,0.105257,6
+Healthcare_Nursing,Management_HR_Admin,Nursing,0.840371,0.093381,0.093381,7
+Healthcare_Nursing,Management_HR_Admin,Patient Care,0.533792,0.090994,0.090994,8
+Healthcare_Nursing,Management_HR_Admin,Assessment,0.199229,0.090743,0.090743,9
+Healthcare_Nursing,Management_HR_Admin,Interpersonal Skills,0.083485,0.15938,0.083485,10
+Healthcare_Nursing,Management_HR_Admin,Decision Making,0.082154,0.101927,0.082154,11
+Healthcare_Nursing,Management_HR_Admin,Customer Service,0.080239,0.28955,0.080239,12
+Healthcare_Nursing,Management_HR_Admin,People Management,0.074838,0.199667,0.074838,13
+Healthcare_Nursing,Management_HR_Admin,Scheduling,0.070209,0.138016,0.070209,14
+Healthcare_Nursing,Management_HR_Admin,Adaptability,0.066634,0.075473,0.066634,15
+Healthcare_Nursing,Sales_Customer,Communication,0.358795,0.558607,0.358795,1
+Healthcare_Nursing,Sales_Customer,Teamwork,0.35177,0.441251,0.35177,2
+Healthcare_Nursing,Sales_Customer,Problem Solving,0.156865,0.326185,0.156865,3
+Healthcare_Nursing,Sales_Customer,Workplace / OSHA Safety,0.143931,0.172374,0.143931,4
+Healthcare_Nursing,Sales_Customer,Time Management,0.105257,0.189126,0.105257,5
+Healthcare_Nursing,Sales_Customer,Critical Thinking,0.148661,0.099443,0.099443,6
+Healthcare_Nursing,Sales_Customer,Interpersonal Skills,0.083485,0.193757,0.083485,7
+Healthcare_Nursing,Sales_Customer,Decision Making,0.082154,0.095311,0.082154,8
+Healthcare_Nursing,Sales_Customer,Nursing,0.840371,0.081775,0.081775,9
+Healthcare_Nursing,Sales_Customer,Customer Service,0.080239,0.456649,0.080239,10
+Healthcare_Nursing,Sales_Customer,People Management,0.074838,0.115351,0.074838,11
+Healthcare_Nursing,Sales_Customer,Scheduling,0.070209,0.11702,0.070209,12
+Healthcare_Nursing,Sales_Customer,Adaptability,0.066634,0.086996,0.066634,13
+Healthcare_Nursing,Sales_Customer,Attention to Detail,0.061917,0.21571,0.061917,14
+Healthcare_Nursing,Sales_Customer,Integrity,0.06075,0.095189,0.06075,15
+Healthcare_Nursing,Science_Research,Communication,0.358795,0.353083,0.353083,1
+Healthcare_Nursing,Science_Research,Teamwork,0.35177,0.376373,0.35177,2
+Healthcare_Nursing,Science_Research,Problem Solving,0.156865,0.231727,0.156865,3
+Healthcare_Nursing,Science_Research,Workplace / OSHA Safety,0.143931,0.227479,0.143931,4
+Healthcare_Nursing,Science_Research,Assessment,0.199229,0.125238,0.125238,5
+Healthcare_Nursing,Science_Research,Critical Thinking,0.148661,0.124652,0.124652,6
+Healthcare_Nursing,Science_Research,Patient Care,0.533792,0.092281,0.092281,7
+Healthcare_Nursing,Science_Research,Time Management,0.105257,0.090962,0.090962,8
+Healthcare_Nursing,Science_Research,Interpersonal Skills,0.083485,0.096821,0.083485,9
+Healthcare_Nursing,Science_Research,Customer Service,0.080239,0.067526,0.067526,10
+Healthcare_Nursing,Science_Research,Attention to Detail,0.061917,0.231361,0.061917,11
+Healthcare_Nursing,Science_Research,Integrity,0.06075,0.065915,0.06075,12
+Healthcare_Nursing,Science_Research,Adaptability,0.066634,0.055808,0.055808,13
+Healthcare_Nursing,Science_Research,Diagnosis,0.155749,0.052952,0.052952,14
+Healthcare_Nursing,Science_Research,Computer Proficiency,0.051988,0.059397,0.051988,15
+Healthcare_Nursing,Skilled_Trades_Ops,Communication,0.358795,0.435806,0.358795,1
+Healthcare_Nursing,Skilled_Trades_Ops,Teamwork,0.35177,0.339874,0.339874,2
+Healthcare_Nursing,Skilled_Trades_Ops,Problem Solving,0.156865,0.248096,0.156865,3
+Healthcare_Nursing,Skilled_Trades_Ops,Workplace / OSHA Safety,0.143931,0.335737,0.143931,4
+Healthcare_Nursing,Skilled_Trades_Ops,Time Management,0.105257,0.12051,0.105257,5
+Healthcare_Nursing,Skilled_Trades_Ops,Patient Care,0.533792,0.090503,0.090503,6
+Healthcare_Nursing,Skilled_Trades_Ops,Interpersonal Skills,0.083485,0.106798,0.083485,7
+Healthcare_Nursing,Skilled_Trades_Ops,Customer Service,0.080239,0.253162,0.080239,8
+Healthcare_Nursing,Skilled_Trades_Ops,Critical Thinking,0.148661,0.075575,0.075575,9
+Healthcare_Nursing,Skilled_Trades_Ops,People Management,0.074838,0.113477,0.074838,10
+Healthcare_Nursing,Skilled_Trades_Ops,Scheduling,0.070209,0.103776,0.070209,11
+Healthcare_Nursing,Skilled_Trades_Ops,Adaptability,0.066634,0.066533,0.066533,12
+Healthcare_Nursing,Skilled_Trades_Ops,Nursing,0.840371,0.06427,0.06427,13
+Healthcare_Nursing,Skilled_Trades_Ops,Attention to Detail,0.061917,0.20539,0.061917,14
+Healthcare_Nursing,Skilled_Trades_Ops,Integrity,0.06075,0.066516,0.06075,15
+Healthcare_Nursing,Tech_Engineering,Communication,0.358795,0.412846,0.358795,1
+Healthcare_Nursing,Tech_Engineering,Teamwork,0.35177,0.387018,0.35177,2
+Healthcare_Nursing,Tech_Engineering,Problem Solving,0.156865,0.262964,0.156865,3
+Healthcare_Nursing,Tech_Engineering,Workplace / OSHA Safety,0.143931,0.205563,0.143931,4
+Healthcare_Nursing,Tech_Engineering,Critical Thinking,0.148661,0.111108,0.111108,5
+Healthcare_Nursing,Tech_Engineering,Time Management,0.105257,0.085788,0.085788,6
+Healthcare_Nursing,Tech_Engineering,Interpersonal Skills,0.083485,0.110441,0.083485,7
+Healthcare_Nursing,Tech_Engineering,Customer Service,0.080239,0.075881,0.075881,8
+Healthcare_Nursing,Tech_Engineering,Assessment,0.199229,0.073148,0.073148,9
+Healthcare_Nursing,Tech_Engineering,Scheduling,0.070209,0.063348,0.063348,10
+Healthcare_Nursing,Tech_Engineering,Attention to Detail,0.061917,0.158922,0.061917,11
+Healthcare_Nursing,Tech_Engineering,Integrity,0.06075,0.069281,0.06075,12
+Healthcare_Nursing,Tech_Engineering,People Management,0.074838,0.059174,0.059174,13
+Healthcare_Nursing,Tech_Engineering,Adaptability,0.066634,0.054107,0.054107,14
+Healthcare_Nursing,Tech_Engineering,Decision Making,0.082154,0.053414,0.053414,15
+Hospitality_Food,Creative_Media,Communication,0.522484,0.470016,0.470016,1
+Hospitality_Food,Creative_Media,Teamwork,0.439419,0.417186,0.417186,2
+Hospitality_Food,Creative_Media,Problem Solving,0.23399,0.260579,0.23399,3
+Hospitality_Food,Creative_Media,Attention to Detail,0.274063,0.213461,0.213461,4
+Hospitality_Food,Creative_Media,Workplace / OSHA Safety,0.290512,0.204958,0.204958,5
+Hospitality_Food,Creative_Media,Production,0.165743,0.216641,0.165743,6
+Hospitality_Food,Creative_Media,Time Management,0.177855,0.143756,0.143756,7
+Hospitality_Food,Creative_Media,Customer Service,0.530645,0.111825,0.111825,8
+Hospitality_Food,Creative_Media,Interpersonal Skills,0.104626,0.134605,0.104626,9
+Hospitality_Food,Creative_Media,Scheduling,0.13031,0.096638,0.096638,10
+Hospitality_Food,Creative_Media,People Management,0.169093,0.089434,0.089434,11
+Hospitality_Food,Creative_Media,Driving,0.086286,0.086838,0.086286,12
+Hospitality_Food,Creative_Media,Coaching,0.080273,0.079439,0.079439,13
+Hospitality_Food,Creative_Media,Initiative,0.076107,0.075999,0.075999,14
+Hospitality_Food,Creative_Media,Microsoft Office,0.073401,0.169587,0.073401,15
+Hospitality_Food,Education,Communication,0.522484,0.487007,0.487007,1
+Hospitality_Food,Education,Teamwork,0.439419,0.438463,0.438463,2
+Hospitality_Food,Education,Problem Solving,0.23399,0.236795,0.23399,3
+Hospitality_Food,Education,Workplace / OSHA Safety,0.290512,0.187235,0.187235,4
+Hospitality_Food,Education,Customer Service,0.530645,0.172105,0.172105,5
+Hospitality_Food,Education,Attention to Detail,0.274063,0.144341,0.144341,6
+Hospitality_Food,Education,Time Management,0.177855,0.140596,0.140596,7
+Hospitality_Food,Education,People Management,0.169093,0.128767,0.128767,8
+Hospitality_Food,Education,Interpersonal Skills,0.104626,0.157208,0.104626,9
+Hospitality_Food,Education,Scheduling,0.13031,0.089301,0.089301,10
+Hospitality_Food,Education,Driving,0.086286,0.082021,0.082021,11
+Hospitality_Food,Education,Coaching,0.080273,0.119117,0.080273,12
+Hospitality_Food,Education,Adaptability,0.109092,0.074657,0.074657,13
+Hospitality_Food,Education,Microsoft Office,0.073401,0.155705,0.073401,14
+Hospitality_Food,Education,Budgeting,0.070867,0.066954,0.066954,15
+Hospitality_Food,Finance_Accounting,Communication,0.522484,0.47877,0.47877,1
+Hospitality_Food,Finance_Accounting,Teamwork,0.439419,0.360745,0.360745,2
+Hospitality_Food,Finance_Accounting,Attention to Detail,0.274063,0.384868,0.274063,3
+Hospitality_Food,Finance_Accounting,Problem Solving,0.23399,0.289323,0.23399,4
+Hospitality_Food,Finance_Accounting,Customer Service,0.530645,0.209311,0.209311,5
+Hospitality_Food,Finance_Accounting,Time Management,0.177855,0.177525,0.177525,6
+Hospitality_Food,Finance_Accounting,People Management,0.169093,0.109761,0.109761,7
+Hospitality_Food,Finance_Accounting,Interpersonal Skills,0.104626,0.174839,0.104626,8
+Hospitality_Food,Finance_Accounting,Workplace / OSHA Safety,0.290512,0.088693,0.088693,9
+Hospitality_Food,Finance_Accounting,Initiative,0.076107,0.090962,0.076107,10
+Hospitality_Food,Finance_Accounting,Multitasking,0.076494,0.073413,0.073413,11
+Hospitality_Food,Finance_Accounting,Microsoft Office,0.073401,0.245034,0.073401,12
+Hospitality_Food,Finance_Accounting,Budgeting,0.070867,0.175696,0.070867,13
+Hospitality_Food,Finance_Accounting,Adaptability,0.109092,0.070681,0.070681,14
+Hospitality_Food,Finance_Accounting,Coaching,0.080273,0.063273,0.063273,15
+Hospitality_Food,Healthcare_Clinical,Teamwork,0.439419,0.290563,0.290563,1
+Hospitality_Food,Healthcare_Clinical,Communication,0.522484,0.289288,0.289288,2
+Hospitality_Food,Healthcare_Clinical,Workplace / OSHA Safety,0.290512,0.119686,0.119686,3
+Hospitality_Food,Healthcare_Clinical,Problem Solving,0.23399,0.101645,0.101645,4
+Hospitality_Food,Healthcare_Clinical,Interpersonal Skills,0.104626,0.0898,0.0898,5
+Hospitality_Food,Healthcare_Clinical,Customer Service,0.530645,0.087077,0.087077,6
+Hospitality_Food,Healthcare_Clinical,Time Management,0.177855,0.070041,0.070041,7
+Hospitality_Food,Healthcare_Clinical,Attention to Detail,0.274063,0.063959,0.063959,8
+Hospitality_Food,Healthcare_Clinical,Scheduling,0.13031,0.05728,0.05728,9
+Hospitality_Food,Healthcare_Clinical,Adaptability,0.109092,0.055678,0.055678,10
+Hospitality_Food,Healthcare_Nursing,Communication,0.522484,0.358795,0.358795,1
+Hospitality_Food,Healthcare_Nursing,Teamwork,0.439419,0.35177,0.35177,2
+Hospitality_Food,Healthcare_Nursing,Problem Solving,0.23399,0.156865,0.156865,3
+Hospitality_Food,Healthcare_Nursing,Workplace / OSHA Safety,0.290512,0.143931,0.143931,4
+Hospitality_Food,Healthcare_Nursing,Time Management,0.177855,0.105257,0.105257,5
+Hospitality_Food,Healthcare_Nursing,Interpersonal Skills,0.104626,0.083485,0.083485,6
+Hospitality_Food,Healthcare_Nursing,Customer Service,0.530645,0.080239,0.080239,7
+Hospitality_Food,Healthcare_Nursing,People Management,0.169093,0.074838,0.074838,8
+Hospitality_Food,Healthcare_Nursing,Scheduling,0.13031,0.070209,0.070209,9
+Hospitality_Food,Healthcare_Nursing,Adaptability,0.109092,0.066634,0.066634,10
+Hospitality_Food,Healthcare_Nursing,Attention to Detail,0.274063,0.061917,0.061917,11
+Hospitality_Food,Healthcare_Nursing,Integrity,0.061118,0.06075,0.06075,12
+Hospitality_Food,Healthcare_Nursing,Decision Making,0.050938,0.082154,0.050938,13
+Hospitality_Food,Healthcare_Nursing,Written Communication,0.054933,0.050124,0.050124,14
+Hospitality_Food,Legal_Compliance,Communication,0.522484,0.399422,0.399422,1
+Hospitality_Food,Legal_Compliance,Teamwork,0.439419,0.348568,0.348568,2
+Hospitality_Food,Legal_Compliance,Attention to Detail,0.274063,0.237377,0.237377,3
+Hospitality_Food,Legal_Compliance,Problem Solving,0.23399,0.162316,0.162316,4
+Hospitality_Food,Legal_Compliance,Time Management,0.177855,0.153374,0.153374,5
+Hospitality_Food,Legal_Compliance,Customer Service,0.530645,0.122211,0.122211,6
+Hospitality_Food,Legal_Compliance,Interpersonal Skills,0.104626,0.181104,0.104626,7
+Hospitality_Food,Legal_Compliance,Initiative,0.076107,0.077138,0.076107,8
+Hospitality_Food,Legal_Compliance,Microsoft Office,0.073401,0.109656,0.073401,9
+Hospitality_Food,Legal_Compliance,Integrity,0.061118,0.070996,0.061118,10
+Hospitality_Food,Legal_Compliance,Written Communication,0.054933,0.134857,0.054933,11
+Hospitality_Food,Legal_Compliance,Marketing,0.058884,0.051215,0.051215,12
+Hospitality_Food,Legal_Compliance,Multitasking,0.076494,0.050673,0.050673,13
+Hospitality_Food,Management_HR_Admin,Communication,0.522484,0.501677,0.501677,1
+Hospitality_Food,Management_HR_Admin,Teamwork,0.439419,0.39959,0.39959,2
+Hospitality_Food,Management_HR_Admin,Customer Service,0.530645,0.28955,0.28955,3
+Hospitality_Food,Management_HR_Admin,Workplace / OSHA Safety,0.290512,0.23489,0.23489,4
+Hospitality_Food,Management_HR_Admin,Problem Solving,0.23399,0.292728,0.23399,5
+Hospitality_Food,Management_HR_Admin,Attention to Detail,0.274063,0.229379,0.229379,6
+Hospitality_Food,Management_HR_Admin,Time Management,0.177855,0.17184,0.17184,7
+Hospitality_Food,Management_HR_Admin,People Management,0.169093,0.199667,0.169093,8
+Hospitality_Food,Management_HR_Admin,Scheduling,0.13031,0.138016,0.13031,9
+Hospitality_Food,Management_HR_Admin,Sanitation,0.471116,0.105505,0.105505,10
+Hospitality_Food,Management_HR_Admin,Interpersonal Skills,0.104626,0.15938,0.104626,11
+Hospitality_Food,Management_HR_Admin,Inventory Management,0.181721,0.099545,0.099545,12
+Hospitality_Food,Management_HR_Admin,Production,0.165743,0.089525,0.089525,13
+Hospitality_Food,Management_HR_Admin,Driving,0.086286,0.103695,0.086286,14
+Hospitality_Food,Management_HR_Admin,Coaching,0.080273,0.103337,0.080273,15
+Hospitality_Food,Sales_Customer,Communication,0.522484,0.558607,0.522484,1
+Hospitality_Food,Sales_Customer,Customer Service,0.530645,0.456649,0.456649,2
+Hospitality_Food,Sales_Customer,Teamwork,0.439419,0.441251,0.439419,3
+Hospitality_Food,Sales_Customer,Problem Solving,0.23399,0.326185,0.23399,4
+Hospitality_Food,Sales_Customer,Attention to Detail,0.274063,0.21571,0.21571,5
+Hospitality_Food,Sales_Customer,Time Management,0.177855,0.189126,0.177855,6
+Hospitality_Food,Sales_Customer,Workplace / OSHA Safety,0.290512,0.172374,0.172374,7
+Hospitality_Food,Sales_Customer,Scheduling,0.13031,0.11702,0.11702,8
+Hospitality_Food,Sales_Customer,People Management,0.169093,0.115351,0.115351,9
+Hospitality_Food,Sales_Customer,Interpersonal Skills,0.104626,0.193757,0.104626,10
+Hospitality_Food,Sales_Customer,Inventory Management,0.181721,0.099586,0.099586,11
+Hospitality_Food,Sales_Customer,Sanitation,0.471116,0.094019,0.094019,12
+Hospitality_Food,Sales_Customer,Adaptability,0.109092,0.086996,0.086996,13
+Hospitality_Food,Sales_Customer,Driving,0.086286,0.13423,0.086286,14
+Hospitality_Food,Sales_Customer,Coaching,0.080273,0.093123,0.080273,15
+Hospitality_Food,Science_Research,Teamwork,0.439419,0.376373,0.376373,1
+Hospitality_Food,Science_Research,Communication,0.522484,0.353083,0.353083,2
+Hospitality_Food,Science_Research,Problem Solving,0.23399,0.231727,0.231727,3
+Hospitality_Food,Science_Research,Attention to Detail,0.274063,0.231361,0.231361,4
+Hospitality_Food,Science_Research,Workplace / OSHA Safety,0.290512,0.227479,0.227479,5
+Hospitality_Food,Science_Research,Interpersonal Skills,0.104626,0.096821,0.096821,6
+Hospitality_Food,Science_Research,Time Management,0.177855,0.090962,0.090962,7
+Hospitality_Food,Science_Research,Microsoft Office,0.073401,0.107734,0.073401,8
+Hospitality_Food,Science_Research,Production,0.165743,0.07192,0.07192,9
+Hospitality_Food,Science_Research,Customer Service,0.530645,0.067526,0.067526,10
+Hospitality_Food,Science_Research,Quality Assurance,0.067002,0.234364,0.067002,11
+Hospitality_Food,Science_Research,Creativity,0.062793,0.10583,0.062793,12
+Hospitality_Food,Science_Research,Integrity,0.061118,0.065915,0.061118,13
+Hospitality_Food,Science_Research,Initiative,0.076107,0.05947,0.05947,14
+Hospitality_Food,Science_Research,Sanitation,0.471116,0.056613,0.056613,15
+Hospitality_Food,Skilled_Trades_Ops,Communication,0.522484,0.435806,0.435806,1
+Hospitality_Food,Skilled_Trades_Ops,Teamwork,0.439419,0.339874,0.339874,2
+Hospitality_Food,Skilled_Trades_Ops,Workplace / OSHA Safety,0.290512,0.335737,0.290512,3
+Hospitality_Food,Skilled_Trades_Ops,Customer Service,0.530645,0.253162,0.253162,4
+Hospitality_Food,Skilled_Trades_Ops,Problem Solving,0.23399,0.248096,0.23399,5
+Hospitality_Food,Skilled_Trades_Ops,Attention to Detail,0.274063,0.20539,0.20539,6
+Hospitality_Food,Skilled_Trades_Ops,Production,0.165743,0.140555,0.140555,7
+Hospitality_Food,Skilled_Trades_Ops,Time Management,0.177855,0.12051,0.12051,8
+Hospitality_Food,Skilled_Trades_Ops,Sanitation,0.471116,0.118551,0.118551,9
+Hospitality_Food,Skilled_Trades_Ops,People Management,0.169093,0.113477,0.113477,10
+Hospitality_Food,Skilled_Trades_Ops,Interpersonal Skills,0.104626,0.106798,0.104626,11
+Hospitality_Food,Skilled_Trades_Ops,Scheduling,0.13031,0.103776,0.103776,12
+Hospitality_Food,Skilled_Trades_Ops,Driving,0.086286,0.184713,0.086286,13
+Hospitality_Food,Skilled_Trades_Ops,Microsoft Office,0.073401,0.144574,0.073401,14
+Hospitality_Food,Skilled_Trades_Ops,Inventory Management,0.181721,0.067065,0.067065,15
+Hospitality_Food,Tech_Engineering,Communication,0.522484,0.412846,0.412846,1
+Hospitality_Food,Tech_Engineering,Teamwork,0.439419,0.387018,0.387018,2
+Hospitality_Food,Tech_Engineering,Problem Solving,0.23399,0.262964,0.23399,3
+Hospitality_Food,Tech_Engineering,Workplace / OSHA Safety,0.290512,0.205563,0.205563,4
+Hospitality_Food,Tech_Engineering,Production,0.165743,0.175336,0.165743,5
+Hospitality_Food,Tech_Engineering,Attention to Detail,0.274063,0.158922,0.158922,6
+Hospitality_Food,Tech_Engineering,Interpersonal Skills,0.104626,0.110441,0.104626,7
+Hospitality_Food,Tech_Engineering,Driving,0.086286,0.089175,0.086286,8
+Hospitality_Food,Tech_Engineering,Time Management,0.177855,0.085788,0.085788,9
+Hospitality_Food,Tech_Engineering,Customer Service,0.530645,0.075881,0.075881,10
+Hospitality_Food,Tech_Engineering,Coaching,0.080273,0.073521,0.073521,11
+Hospitality_Food,Tech_Engineering,Microsoft Office,0.073401,0.157469,0.073401,12
+Hospitality_Food,Tech_Engineering,Initiative,0.076107,0.068588,0.068588,13
+Hospitality_Food,Tech_Engineering,Quality Assurance,0.067002,0.095841,0.067002,14
+Hospitality_Food,Tech_Engineering,Scheduling,0.13031,0.063348,0.063348,15
+Legal_Compliance,Creative_Media,Communication,0.399422,0.470016,0.399422,1
+Legal_Compliance,Creative_Media,Teamwork,0.348568,0.417186,0.348568,2
+Legal_Compliance,Creative_Media,Attention to Detail,0.237377,0.213461,0.213461,3
+Legal_Compliance,Creative_Media,Problem Solving,0.162316,0.260579,0.162316,4
+Legal_Compliance,Creative_Media,Time Management,0.153374,0.143756,0.143756,5
+Legal_Compliance,Creative_Media,Interpersonal Skills,0.181104,0.134605,0.134605,6
+Legal_Compliance,Creative_Media,Written Communication,0.134857,0.114356,0.114356,7
+Legal_Compliance,Creative_Media,Customer Service,0.122211,0.111825,0.111825,8
+Legal_Compliance,Creative_Media,Writing,0.228977,0.111695,0.111695,9
+Legal_Compliance,Creative_Media,Microsoft Office,0.109656,0.169587,0.109656,10
+Legal_Compliance,Creative_Media,Critical Thinking,0.193569,0.096768,0.096768,11
+Legal_Compliance,Creative_Media,Initiative,0.077138,0.075999,0.075999,12
+Legal_Compliance,Creative_Media,Integrity,0.070996,0.072949,0.070996,13
+Legal_Compliance,Creative_Media,Presentation Skills,0.059073,0.107477,0.059073,14
+Legal_Compliance,Creative_Media,Marketing,0.051215,0.115979,0.051215,15
+Legal_Compliance,Education,Communication,0.399422,0.487007,0.399422,1
+Legal_Compliance,Education,Teamwork,0.348568,0.438463,0.348568,2
+Legal_Compliance,Education,Problem Solving,0.162316,0.236795,0.162316,3
+Legal_Compliance,Education,Interpersonal Skills,0.181104,0.157208,0.157208,4
+Legal_Compliance,Education,Attention to Detail,0.237377,0.144341,0.144341,5
+Legal_Compliance,Education,Time Management,0.153374,0.140596,0.140596,6
+Legal_Compliance,Education,Customer Service,0.122211,0.172105,0.122211,7
+Legal_Compliance,Education,Critical Thinking,0.193569,0.122059,0.122059,8
+Legal_Compliance,Education,Written Communication,0.134857,0.119329,0.119329,9
+Legal_Compliance,Education,Microsoft Office,0.109656,0.155705,0.109656,10
+Legal_Compliance,Education,Writing,0.228977,0.088772,0.088772,11
+Legal_Compliance,Education,Integrity,0.070996,0.075525,0.070996,12
+Legal_Compliance,Education,Initiative,0.077138,0.060902,0.060902,13
+Legal_Compliance,Education,Presentation Skills,0.059073,0.112557,0.059073,14
+Legal_Compliance,Education,Marketing,0.051215,0.07434,0.051215,15
+Legal_Compliance,Finance_Accounting,Communication,0.399422,0.47877,0.399422,1
+Legal_Compliance,Finance_Accounting,Teamwork,0.348568,0.360745,0.348568,2
+Legal_Compliance,Finance_Accounting,Attention to Detail,0.237377,0.384868,0.237377,3
+Legal_Compliance,Finance_Accounting,Critical Thinking,0.193569,0.219892,0.193569,4
+Legal_Compliance,Finance_Accounting,Interpersonal Skills,0.181104,0.174839,0.174839,5
+Legal_Compliance,Finance_Accounting,Problem Solving,0.162316,0.289323,0.162316,6
+Legal_Compliance,Finance_Accounting,Time Management,0.153374,0.177525,0.153374,7
+Legal_Compliance,Finance_Accounting,Written Communication,0.134857,0.137727,0.134857,8
+Legal_Compliance,Finance_Accounting,Customer Service,0.122211,0.209311,0.122211,9
+Legal_Compliance,Finance_Accounting,Microsoft Office,0.109656,0.245034,0.109656,10
+Legal_Compliance,Finance_Accounting,Initiative,0.077138,0.090962,0.077138,11
+Legal_Compliance,Finance_Accounting,Integrity,0.070996,0.092883,0.070996,12
+Legal_Compliance,Finance_Accounting,Presentation Skills,0.059073,0.079756,0.059073,13
+Legal_Compliance,Finance_Accounting,Writing,0.228977,0.056096,0.056096,14
+Legal_Compliance,Finance_Accounting,Marketing,0.051215,0.082859,0.051215,15
+Legal_Compliance,Healthcare_Clinical,Teamwork,0.348568,0.290563,0.290563,1
+Legal_Compliance,Healthcare_Clinical,Communication,0.399422,0.289288,0.289288,2
+Legal_Compliance,Healthcare_Clinical,Problem Solving,0.162316,0.101645,0.101645,3
+Legal_Compliance,Healthcare_Clinical,Interpersonal Skills,0.181104,0.0898,0.0898,4
+Legal_Compliance,Healthcare_Clinical,Customer Service,0.122211,0.087077,0.087077,5
+Legal_Compliance,Healthcare_Clinical,Time Management,0.153374,0.070041,0.070041,6
+Legal_Compliance,Healthcare_Clinical,Critical Thinking,0.193569,0.065946,0.065946,7
+Legal_Compliance,Healthcare_Clinical,Attention to Detail,0.237377,0.063959,0.063959,8
+Legal_Compliance,Healthcare_Nursing,Communication,0.399422,0.358795,0.358795,1
+Legal_Compliance,Healthcare_Nursing,Teamwork,0.348568,0.35177,0.348568,2
+Legal_Compliance,Healthcare_Nursing,Problem Solving,0.162316,0.156865,0.156865,3
+Legal_Compliance,Healthcare_Nursing,Critical Thinking,0.193569,0.148661,0.148661,4
+Legal_Compliance,Healthcare_Nursing,Time Management,0.153374,0.105257,0.105257,5
+Legal_Compliance,Healthcare_Nursing,Interpersonal Skills,0.181104,0.083485,0.083485,6
+Legal_Compliance,Healthcare_Nursing,Customer Service,0.122211,0.080239,0.080239,7
+Legal_Compliance,Healthcare_Nursing,Attention to Detail,0.237377,0.061917,0.061917,8
+Legal_Compliance,Healthcare_Nursing,Integrity,0.070996,0.06075,0.06075,9
+Legal_Compliance,Healthcare_Nursing,Case Management,0.154187,0.050708,0.050708,10
+Legal_Compliance,Healthcare_Nursing,Written Communication,0.134857,0.050124,0.050124,11
+Legal_Compliance,Hospitality_Food,Communication,0.399422,0.522484,0.399422,1
+Legal_Compliance,Hospitality_Food,Teamwork,0.348568,0.439419,0.348568,2
+Legal_Compliance,Hospitality_Food,Attention to Detail,0.237377,0.274063,0.237377,3
+Legal_Compliance,Hospitality_Food,Problem Solving,0.162316,0.23399,0.162316,4
+Legal_Compliance,Hospitality_Food,Time Management,0.153374,0.177855,0.153374,5
+Legal_Compliance,Hospitality_Food,Customer Service,0.122211,0.530645,0.122211,6
+Legal_Compliance,Hospitality_Food,Interpersonal Skills,0.181104,0.104626,0.104626,7
+Legal_Compliance,Hospitality_Food,Initiative,0.077138,0.076107,0.076107,8
+Legal_Compliance,Hospitality_Food,Microsoft Office,0.109656,0.073401,0.073401,9
+Legal_Compliance,Hospitality_Food,Integrity,0.070996,0.061118,0.061118,10
+Legal_Compliance,Hospitality_Food,Written Communication,0.134857,0.054933,0.054933,11
+Legal_Compliance,Hospitality_Food,Marketing,0.051215,0.058884,0.051215,12
+Legal_Compliance,Hospitality_Food,Multitasking,0.050673,0.076494,0.050673,13
+Legal_Compliance,Management_HR_Admin,Communication,0.399422,0.501677,0.399422,1
+Legal_Compliance,Management_HR_Admin,Teamwork,0.348568,0.39959,0.348568,2
+Legal_Compliance,Management_HR_Admin,Attention to Detail,0.237377,0.229379,0.229379,3
+Legal_Compliance,Management_HR_Admin,Problem Solving,0.162316,0.292728,0.162316,4
+Legal_Compliance,Management_HR_Admin,Interpersonal Skills,0.181104,0.15938,0.15938,5
+Legal_Compliance,Management_HR_Admin,Time Management,0.153374,0.17184,0.153374,6
+Legal_Compliance,Management_HR_Admin,Customer Service,0.122211,0.28955,0.122211,7
+Legal_Compliance,Management_HR_Admin,Critical Thinking,0.193569,0.118762,0.118762,8
+Legal_Compliance,Management_HR_Admin,Written Communication,0.134857,0.113496,0.113496,9
+Legal_Compliance,Management_HR_Admin,Microsoft Office,0.109656,0.19392,0.109656,10
+Legal_Compliance,Management_HR_Admin,Initiative,0.077138,0.080285,0.077138,11
+Legal_Compliance,Management_HR_Admin,Writing,0.228977,0.071462,0.071462,12
+Legal_Compliance,Management_HR_Admin,Integrity,0.070996,0.082085,0.070996,13
+Legal_Compliance,Management_HR_Admin,Presentation Skills,0.059073,0.080926,0.059073,14
+Legal_Compliance,Management_HR_Admin,Marketing,0.051215,0.101446,0.051215,15
+Legal_Compliance,Sales_Customer,Communication,0.399422,0.558607,0.399422,1
+Legal_Compliance,Sales_Customer,Teamwork,0.348568,0.441251,0.348568,2
+Legal_Compliance,Sales_Customer,Attention to Detail,0.237377,0.21571,0.21571,3
+Legal_Compliance,Sales_Customer,Interpersonal Skills,0.181104,0.193757,0.181104,4
+Legal_Compliance,Sales_Customer,Problem Solving,0.162316,0.326185,0.162316,5
+Legal_Compliance,Sales_Customer,Time Management,0.153374,0.189126,0.153374,6
+Legal_Compliance,Sales_Customer,Customer Service,0.122211,0.456649,0.122211,7
+Legal_Compliance,Sales_Customer,Negotiation,0.238371,0.115636,0.115636,8
+Legal_Compliance,Sales_Customer,Microsoft Office,0.109656,0.194694,0.109656,9
+Legal_Compliance,Sales_Customer,Written Communication,0.134857,0.10728,0.10728,10
+Legal_Compliance,Sales_Customer,Critical Thinking,0.193569,0.099443,0.099443,11
+Legal_Compliance,Sales_Customer,Initiative,0.077138,0.090874,0.077138,12
+Legal_Compliance,Sales_Customer,Integrity,0.070996,0.095189,0.070996,13
+Legal_Compliance,Sales_Customer,Writing,0.228977,0.0637,0.0637,14
+Legal_Compliance,Sales_Customer,Presentation Skills,0.059073,0.136733,0.059073,15
+Legal_Compliance,Science_Research,Communication,0.399422,0.353083,0.353083,1
+Legal_Compliance,Science_Research,Teamwork,0.348568,0.376373,0.348568,2
+Legal_Compliance,Science_Research,Attention to Detail,0.237377,0.231361,0.231361,3
+Legal_Compliance,Science_Research,Problem Solving,0.162316,0.231727,0.162316,4
+Legal_Compliance,Science_Research,Written Communication,0.134857,0.125165,0.125165,5
+Legal_Compliance,Science_Research,Critical Thinking,0.193569,0.124652,0.124652,6
+Legal_Compliance,Science_Research,Writing,0.228977,0.121649,0.121649,7
+Legal_Compliance,Science_Research,Microsoft Office,0.109656,0.107734,0.107734,8
+Legal_Compliance,Science_Research,Interpersonal Skills,0.181104,0.096821,0.096821,9
+Legal_Compliance,Science_Research,Time Management,0.153374,0.090962,0.090962,10
+Legal_Compliance,Science_Research,Customer Service,0.122211,0.067526,0.067526,11
+Legal_Compliance,Science_Research,Integrity,0.070996,0.065915,0.065915,12
+Legal_Compliance,Science_Research,Initiative,0.077138,0.05947,0.05947,13
+Legal_Compliance,Science_Research,Presentation Skills,0.059073,0.107148,0.059073,14
+Legal_Compliance,Skilled_Trades_Ops,Communication,0.399422,0.435806,0.399422,1
+Legal_Compliance,Skilled_Trades_Ops,Teamwork,0.348568,0.339874,0.339874,2
+Legal_Compliance,Skilled_Trades_Ops,Attention to Detail,0.237377,0.20539,0.20539,3
+Legal_Compliance,Skilled_Trades_Ops,Problem Solving,0.162316,0.248096,0.162316,4
+Legal_Compliance,Skilled_Trades_Ops,Customer Service,0.122211,0.253162,0.122211,5
+Legal_Compliance,Skilled_Trades_Ops,Time Management,0.153374,0.12051,0.12051,6
+Legal_Compliance,Skilled_Trades_Ops,Microsoft Office,0.109656,0.144574,0.109656,7
+Legal_Compliance,Skilled_Trades_Ops,Interpersonal Skills,0.181104,0.106798,0.106798,8
+Legal_Compliance,Skilled_Trades_Ops,Written Communication,0.134857,0.094505,0.094505,9
+Legal_Compliance,Skilled_Trades_Ops,Critical Thinking,0.193569,0.075575,0.075575,10
+Legal_Compliance,Skilled_Trades_Ops,Integrity,0.070996,0.066516,0.066516,11
+Legal_Compliance,Skilled_Trades_Ops,Initiative,0.077138,0.058832,0.058832,12
+Legal_Compliance,Skilled_Trades_Ops,Writing,0.228977,0.057279,0.057279,13
+Legal_Compliance,Tech_Engineering,Communication,0.399422,0.412846,0.399422,1
+Legal_Compliance,Tech_Engineering,Teamwork,0.348568,0.387018,0.348568,2
+Legal_Compliance,Tech_Engineering,Problem Solving,0.162316,0.262964,0.162316,3
+Legal_Compliance,Tech_Engineering,Attention to Detail,0.237377,0.158922,0.158922,4
+Legal_Compliance,Tech_Engineering,Written Communication,0.134857,0.119802,0.119802,5
+Legal_Compliance,Tech_Engineering,Critical Thinking,0.193569,0.111108,0.111108,6
+Legal_Compliance,Tech_Engineering,Interpersonal Skills,0.181104,0.110441,0.110441,7
+Legal_Compliance,Tech_Engineering,Microsoft Office,0.109656,0.157469,0.109656,8
+Legal_Compliance,Tech_Engineering,Writing,0.228977,0.101281,0.101281,9
+Legal_Compliance,Tech_Engineering,Time Management,0.153374,0.085788,0.085788,10
+Legal_Compliance,Tech_Engineering,Customer Service,0.122211,0.075881,0.075881,11
+Legal_Compliance,Tech_Engineering,Integrity,0.070996,0.069281,0.069281,12
+Legal_Compliance,Tech_Engineering,Initiative,0.077138,0.068588,0.068588,13
+Legal_Compliance,Tech_Engineering,Presentation Skills,0.059073,0.087054,0.059073,14
+Management_HR_Admin,Creative_Media,Communication,0.501677,0.470016,0.470016,1
+Management_HR_Admin,Creative_Media,Teamwork,0.39959,0.417186,0.39959,2
+Management_HR_Admin,Creative_Media,Problem Solving,0.292728,0.260579,0.260579,3
+Management_HR_Admin,Creative_Media,Attention to Detail,0.229379,0.213461,0.213461,4
+Management_HR_Admin,Creative_Media,Workplace / OSHA Safety,0.23489,0.204958,0.204958,5
+Management_HR_Admin,Creative_Media,Microsoft Office,0.19392,0.169587,0.169587,6
+Management_HR_Admin,Creative_Media,Project Management,0.15085,0.321521,0.15085,7
+Management_HR_Admin,Creative_Media,Time Management,0.17184,0.143756,0.143756,8
+Management_HR_Admin,Creative_Media,Interpersonal Skills,0.15938,0.134605,0.134605,9
+Management_HR_Admin,Creative_Media,Written Communication,0.113496,0.114356,0.113496,10
+Management_HR_Admin,Creative_Media,Customer Service,0.28955,0.111825,0.111825,11
+Management_HR_Admin,Creative_Media,Microsoft Excel,0.140521,0.107477,0.107477,12
+Management_HR_Admin,Creative_Media,Marketing,0.101446,0.115979,0.101446,13
+Management_HR_Admin,Creative_Media,Critical Thinking,0.118762,0.096768,0.096768,14
+Management_HR_Admin,Creative_Media,Scheduling,0.138016,0.096638,0.096638,15
+Management_HR_Admin,Education,Communication,0.501677,0.487007,0.487007,1
+Management_HR_Admin,Education,Teamwork,0.39959,0.438463,0.39959,2
+Management_HR_Admin,Education,Problem Solving,0.292728,0.236795,0.236795,3
+Management_HR_Admin,Education,Workplace / OSHA Safety,0.23489,0.187235,0.187235,4
+Management_HR_Admin,Education,Customer Service,0.28955,0.172105,0.172105,5
+Management_HR_Admin,Education,Interpersonal Skills,0.15938,0.157208,0.157208,6
+Management_HR_Admin,Education,Microsoft Office,0.19392,0.155705,0.155705,7
+Management_HR_Admin,Education,Attention to Detail,0.229379,0.144341,0.144341,8
+Management_HR_Admin,Education,Time Management,0.17184,0.140596,0.140596,9
+Management_HR_Admin,Education,People Management,0.199667,0.128767,0.128767,10
+Management_HR_Admin,Education,Critical Thinking,0.118762,0.122059,0.118762,11
+Management_HR_Admin,Education,Project Management,0.15085,0.116133,0.116133,12
+Management_HR_Admin,Education,Written Communication,0.113496,0.119329,0.113496,13
+Management_HR_Admin,Education,Coaching,0.103337,0.119117,0.103337,14
+Management_HR_Admin,Education,Microsoft Excel,0.140521,0.10314,0.10314,15
+Management_HR_Admin,Finance_Accounting,Communication,0.501677,0.47877,0.47877,1
+Management_HR_Admin,Finance_Accounting,Teamwork,0.39959,0.360745,0.360745,2
+Management_HR_Admin,Finance_Accounting,Problem Solving,0.292728,0.289323,0.289323,3
+Management_HR_Admin,Finance_Accounting,Attention to Detail,0.229379,0.384868,0.229379,4
+Management_HR_Admin,Finance_Accounting,Customer Service,0.28955,0.209311,0.209311,5
+Management_HR_Admin,Finance_Accounting,Microsoft Office,0.19392,0.245034,0.19392,6
+Management_HR_Admin,Finance_Accounting,Time Management,0.17184,0.177525,0.17184,7
+Management_HR_Admin,Finance_Accounting,Interpersonal Skills,0.15938,0.174839,0.15938,8
+Management_HR_Admin,Finance_Accounting,Microsoft Excel,0.140521,0.321665,0.140521,9
+Management_HR_Admin,Finance_Accounting,Critical Thinking,0.118762,0.219892,0.118762,10
+Management_HR_Admin,Finance_Accounting,Written Communication,0.113496,0.137727,0.113496,11
+Management_HR_Admin,Finance_Accounting,Project Management,0.15085,0.113256,0.113256,12
+Management_HR_Admin,Finance_Accounting,People Management,0.199667,0.109761,0.109761,13
+Management_HR_Admin,Finance_Accounting,Data Analysis,0.101185,0.170394,0.101185,14
+Management_HR_Admin,Finance_Accounting,Budgeting,0.095705,0.175696,0.095705,15
+Management_HR_Admin,Healthcare_Clinical,Teamwork,0.39959,0.290563,0.290563,1
+Management_HR_Admin,Healthcare_Clinical,Communication,0.501677,0.289288,0.289288,2
+Management_HR_Admin,Healthcare_Clinical,Workplace / OSHA Safety,0.23489,0.119686,0.119686,3
+Management_HR_Admin,Healthcare_Clinical,Problem Solving,0.292728,0.101645,0.101645,4
+Management_HR_Admin,Healthcare_Clinical,Nursing,0.093381,0.157503,0.093381,5
+Management_HR_Admin,Healthcare_Clinical,Patient Care,0.090994,0.297283,0.090994,6
+Management_HR_Admin,Healthcare_Clinical,Assessment,0.090743,0.109566,0.090743,7
+Management_HR_Admin,Healthcare_Clinical,Interpersonal Skills,0.15938,0.0898,0.0898,8
+Management_HR_Admin,Healthcare_Clinical,Customer Service,0.28955,0.087077,0.087077,9
+Management_HR_Admin,Healthcare_Clinical,Time Management,0.17184,0.070041,0.070041,10
+Management_HR_Admin,Healthcare_Clinical,Critical Thinking,0.118762,0.065946,0.065946,11
+Management_HR_Admin,Healthcare_Clinical,Attention to Detail,0.229379,0.063959,0.063959,12
+Management_HR_Admin,Healthcare_Clinical,Scheduling,0.138016,0.05728,0.05728,13
+Management_HR_Admin,Healthcare_Clinical,Adaptability,0.075473,0.055678,0.055678,14
+Management_HR_Admin,Healthcare_Clinical,Confidentiality,0.052908,0.071128,0.052908,15
+Management_HR_Admin,Healthcare_Nursing,Communication,0.501677,0.358795,0.358795,1
+Management_HR_Admin,Healthcare_Nursing,Teamwork,0.39959,0.35177,0.35177,2
+Management_HR_Admin,Healthcare_Nursing,Problem Solving,0.292728,0.156865,0.156865,3
+Management_HR_Admin,Healthcare_Nursing,Workplace / OSHA Safety,0.23489,0.143931,0.143931,4
+Management_HR_Admin,Healthcare_Nursing,Critical Thinking,0.118762,0.148661,0.118762,5
+Management_HR_Admin,Healthcare_Nursing,Time Management,0.17184,0.105257,0.105257,6
+Management_HR_Admin,Healthcare_Nursing,Nursing,0.093381,0.840371,0.093381,7
+Management_HR_Admin,Healthcare_Nursing,Patient Care,0.090994,0.533792,0.090994,8
+Management_HR_Admin,Healthcare_Nursing,Assessment,0.090743,0.199229,0.090743,9
+Management_HR_Admin,Healthcare_Nursing,Interpersonal Skills,0.15938,0.083485,0.083485,10
+Management_HR_Admin,Healthcare_Nursing,Decision Making,0.101927,0.082154,0.082154,11
+Management_HR_Admin,Healthcare_Nursing,Customer Service,0.28955,0.080239,0.080239,12
+Management_HR_Admin,Healthcare_Nursing,People Management,0.199667,0.074838,0.074838,13
+Management_HR_Admin,Healthcare_Nursing,Scheduling,0.138016,0.070209,0.070209,14
+Management_HR_Admin,Healthcare_Nursing,Adaptability,0.075473,0.066634,0.066634,15
+Management_HR_Admin,Hospitality_Food,Communication,0.501677,0.522484,0.501677,1
+Management_HR_Admin,Hospitality_Food,Teamwork,0.39959,0.439419,0.39959,2
+Management_HR_Admin,Hospitality_Food,Customer Service,0.28955,0.530645,0.28955,3
+Management_HR_Admin,Hospitality_Food,Workplace / OSHA Safety,0.23489,0.290512,0.23489,4
+Management_HR_Admin,Hospitality_Food,Problem Solving,0.292728,0.23399,0.23399,5
+Management_HR_Admin,Hospitality_Food,Attention to Detail,0.229379,0.274063,0.229379,6
+Management_HR_Admin,Hospitality_Food,Time Management,0.17184,0.177855,0.17184,7
+Management_HR_Admin,Hospitality_Food,People Management,0.199667,0.169093,0.169093,8
+Management_HR_Admin,Hospitality_Food,Scheduling,0.138016,0.13031,0.13031,9
+Management_HR_Admin,Hospitality_Food,Sanitation,0.105505,0.471116,0.105505,10
+Management_HR_Admin,Hospitality_Food,Interpersonal Skills,0.15938,0.104626,0.104626,11
+Management_HR_Admin,Hospitality_Food,Inventory Management,0.099545,0.181721,0.099545,12
+Management_HR_Admin,Hospitality_Food,Production,0.089525,0.165743,0.089525,13
+Management_HR_Admin,Hospitality_Food,Driving,0.103695,0.086286,0.086286,14
+Management_HR_Admin,Hospitality_Food,Coaching,0.103337,0.080273,0.080273,15
+Management_HR_Admin,Legal_Compliance,Communication,0.501677,0.399422,0.399422,1
+Management_HR_Admin,Legal_Compliance,Teamwork,0.39959,0.348568,0.348568,2
+Management_HR_Admin,Legal_Compliance,Attention to Detail,0.229379,0.237377,0.229379,3
+Management_HR_Admin,Legal_Compliance,Problem Solving,0.292728,0.162316,0.162316,4
+Management_HR_Admin,Legal_Compliance,Interpersonal Skills,0.15938,0.181104,0.15938,5
+Management_HR_Admin,Legal_Compliance,Time Management,0.17184,0.153374,0.153374,6
+Management_HR_Admin,Legal_Compliance,Customer Service,0.28955,0.122211,0.122211,7
+Management_HR_Admin,Legal_Compliance,Critical Thinking,0.118762,0.193569,0.118762,8
+Management_HR_Admin,Legal_Compliance,Written Communication,0.113496,0.134857,0.113496,9
+Management_HR_Admin,Legal_Compliance,Microsoft Office,0.19392,0.109656,0.109656,10
+Management_HR_Admin,Legal_Compliance,Initiative,0.080285,0.077138,0.077138,11
+Management_HR_Admin,Legal_Compliance,Writing,0.071462,0.228977,0.071462,12
+Management_HR_Admin,Legal_Compliance,Integrity,0.082085,0.070996,0.070996,13
+Management_HR_Admin,Legal_Compliance,Presentation Skills,0.080926,0.059073,0.059073,14
+Management_HR_Admin,Legal_Compliance,Marketing,0.101446,0.051215,0.051215,15
+Management_HR_Admin,Sales_Customer,Communication,0.501677,0.558607,0.501677,1
+Management_HR_Admin,Sales_Customer,Teamwork,0.39959,0.441251,0.39959,2
+Management_HR_Admin,Sales_Customer,Problem Solving,0.292728,0.326185,0.292728,3
+Management_HR_Admin,Sales_Customer,Customer Service,0.28955,0.456649,0.28955,4
+Management_HR_Admin,Sales_Customer,Attention to Detail,0.229379,0.21571,0.21571,5
+Management_HR_Admin,Sales_Customer,Microsoft Office,0.19392,0.194694,0.19392,6
+Management_HR_Admin,Sales_Customer,Workplace / OSHA Safety,0.23489,0.172374,0.172374,7
+Management_HR_Admin,Sales_Customer,Time Management,0.17184,0.189126,0.17184,8
+Management_HR_Admin,Sales_Customer,Interpersonal Skills,0.15938,0.193757,0.15938,9
+Management_HR_Admin,Sales_Customer,Scheduling,0.138016,0.11702,0.11702,10
+Management_HR_Admin,Sales_Customer,People Management,0.199667,0.115351,0.115351,11
+Management_HR_Admin,Sales_Customer,Microsoft Excel,0.140521,0.109763,0.109763,12
+Management_HR_Admin,Sales_Customer,Written Communication,0.113496,0.10728,0.10728,13
+Management_HR_Admin,Sales_Customer,Driving,0.103695,0.13423,0.103695,14
+Management_HR_Admin,Sales_Customer,Marketing,0.101446,0.172802,0.101446,15
+Management_HR_Admin,Science_Research,Teamwork,0.39959,0.376373,0.376373,1
+Management_HR_Admin,Science_Research,Communication,0.501677,0.353083,0.353083,2
+Management_HR_Admin,Science_Research,Problem Solving,0.292728,0.231727,0.231727,3
+Management_HR_Admin,Science_Research,Attention to Detail,0.229379,0.231361,0.229379,4
+Management_HR_Admin,Science_Research,Workplace / OSHA Safety,0.23489,0.227479,0.227479,5
+Management_HR_Admin,Science_Research,Project Management,0.15085,0.119013,0.119013,6
+Management_HR_Admin,Science_Research,Critical Thinking,0.118762,0.124652,0.118762,7
+Management_HR_Admin,Science_Research,Written Communication,0.113496,0.125165,0.113496,8
+Management_HR_Admin,Science_Research,Microsoft Office,0.19392,0.107734,0.107734,9
+Management_HR_Admin,Science_Research,Data Analysis,0.101185,0.231361,0.101185,10
+Management_HR_Admin,Science_Research,Interpersonal Skills,0.15938,0.096821,0.096821,11
+Management_HR_Admin,Science_Research,Microsoft Excel,0.140521,0.096089,0.096089,12
+Management_HR_Admin,Science_Research,Patient Care,0.090994,0.092281,0.090994,13
+Management_HR_Admin,Science_Research,Time Management,0.17184,0.090962,0.090962,14
+Management_HR_Admin,Science_Research,Assessment,0.090743,0.125238,0.090743,15
+Management_HR_Admin,Skilled_Trades_Ops,Communication,0.501677,0.435806,0.435806,1
+Management_HR_Admin,Skilled_Trades_Ops,Teamwork,0.39959,0.339874,0.339874,2
+Management_HR_Admin,Skilled_Trades_Ops,Customer Service,0.28955,0.253162,0.253162,3
+Management_HR_Admin,Skilled_Trades_Ops,Problem Solving,0.292728,0.248096,0.248096,4
+Management_HR_Admin,Skilled_Trades_Ops,Workplace / OSHA Safety,0.23489,0.335737,0.23489,5
+Management_HR_Admin,Skilled_Trades_Ops,Attention to Detail,0.229379,0.20539,0.20539,6
+Management_HR_Admin,Skilled_Trades_Ops,Microsoft Office,0.19392,0.144574,0.144574,7
+Management_HR_Admin,Skilled_Trades_Ops,Time Management,0.17184,0.12051,0.12051,8
+Management_HR_Admin,Skilled_Trades_Ops,People Management,0.199667,0.113477,0.113477,9
+Management_HR_Admin,Skilled_Trades_Ops,Interpersonal Skills,0.15938,0.106798,0.106798,10
+Management_HR_Admin,Skilled_Trades_Ops,Sanitation,0.105505,0.118551,0.105505,11
+Management_HR_Admin,Skilled_Trades_Ops,Scheduling,0.138016,0.103776,0.103776,12
+Management_HR_Admin,Skilled_Trades_Ops,Driving,0.103695,0.184713,0.103695,13
+Management_HR_Admin,Skilled_Trades_Ops,Project Management,0.15085,0.099656,0.099656,14
+Management_HR_Admin,Skilled_Trades_Ops,Written Communication,0.113496,0.094505,0.094505,15
+Management_HR_Admin,Tech_Engineering,Communication,0.501677,0.412846,0.412846,1
+Management_HR_Admin,Tech_Engineering,Teamwork,0.39959,0.387018,0.387018,2
+Management_HR_Admin,Tech_Engineering,Problem Solving,0.292728,0.262964,0.262964,3
+Management_HR_Admin,Tech_Engineering,Workplace / OSHA Safety,0.23489,0.205563,0.205563,4
+Management_HR_Admin,Tech_Engineering,Attention to Detail,0.229379,0.158922,0.158922,5
+Management_HR_Admin,Tech_Engineering,Microsoft Office,0.19392,0.157469,0.157469,6
+Management_HR_Admin,Tech_Engineering,Project Management,0.15085,0.277804,0.15085,7
+Management_HR_Admin,Tech_Engineering,Written Communication,0.113496,0.119802,0.113496,8
+Management_HR_Admin,Tech_Engineering,Critical Thinking,0.118762,0.111108,0.111108,9
+Management_HR_Admin,Tech_Engineering,Interpersonal Skills,0.15938,0.110441,0.110441,10
+Management_HR_Admin,Tech_Engineering,Microsoft Excel,0.140521,0.104788,0.104788,11
+Management_HR_Admin,Tech_Engineering,Data Analysis,0.101185,0.098628,0.098628,12
+Management_HR_Admin,Tech_Engineering,Production,0.089525,0.175336,0.089525,13
+Management_HR_Admin,Tech_Engineering,Driving,0.103695,0.089175,0.089175,14
+Management_HR_Admin,Tech_Engineering,Process Improvement,0.085963,0.107161,0.085963,15
+Sales_Customer,Creative_Media,Communication,0.558607,0.470016,0.470016,1
+Sales_Customer,Creative_Media,Teamwork,0.441251,0.417186,0.417186,2
+Sales_Customer,Creative_Media,Problem Solving,0.326185,0.260579,0.260579,3
+Sales_Customer,Creative_Media,Attention to Detail,0.21571,0.213461,0.213461,4
+Sales_Customer,Creative_Media,Workplace / OSHA Safety,0.172374,0.204958,0.172374,5
+Sales_Customer,Creative_Media,Microsoft Office,0.194694,0.169587,0.169587,6
+Sales_Customer,Creative_Media,Time Management,0.189126,0.143756,0.143756,7
+Sales_Customer,Creative_Media,Interpersonal Skills,0.193757,0.134605,0.134605,8
+Sales_Customer,Creative_Media,Marketing,0.172802,0.115979,0.115979,9
+Sales_Customer,Creative_Media,Customer Service,0.456649,0.111825,0.111825,10
+Sales_Customer,Creative_Media,Microsoft Excel,0.109763,0.107477,0.107477,11
+Sales_Customer,Creative_Media,Presentation Skills,0.136733,0.107477,0.107477,12
+Sales_Customer,Creative_Media,Written Communication,0.10728,0.114356,0.10728,13
+Sales_Customer,Creative_Media,Critical Thinking,0.099443,0.096768,0.096768,14
+Sales_Customer,Creative_Media,Scheduling,0.11702,0.096638,0.096638,15
+Sales_Customer,Education,Communication,0.558607,0.487007,0.487007,1
+Sales_Customer,Education,Teamwork,0.441251,0.438463,0.438463,2
+Sales_Customer,Education,Problem Solving,0.326185,0.236795,0.236795,3
+Sales_Customer,Education,Workplace / OSHA Safety,0.172374,0.187235,0.172374,4
+Sales_Customer,Education,Customer Service,0.456649,0.172105,0.172105,5
+Sales_Customer,Education,Interpersonal Skills,0.193757,0.157208,0.157208,6
+Sales_Customer,Education,Microsoft Office,0.194694,0.155705,0.155705,7
+Sales_Customer,Education,Attention to Detail,0.21571,0.144341,0.144341,8
+Sales_Customer,Education,Time Management,0.189126,0.140596,0.140596,9
+Sales_Customer,Education,People Management,0.115351,0.128767,0.115351,10
+Sales_Customer,Education,Presentation Skills,0.136733,0.112557,0.112557,11
+Sales_Customer,Education,Written Communication,0.10728,0.119329,0.10728,12
+Sales_Customer,Education,Microsoft Excel,0.109763,0.10314,0.10314,13
+Sales_Customer,Education,Critical Thinking,0.099443,0.122059,0.099443,14
+Sales_Customer,Education,Coaching,0.093123,0.119117,0.093123,15
+Sales_Customer,Finance_Accounting,Communication,0.558607,0.47877,0.47877,1
+Sales_Customer,Finance_Accounting,Teamwork,0.441251,0.360745,0.360745,2
+Sales_Customer,Finance_Accounting,Problem Solving,0.326185,0.289323,0.289323,3
+Sales_Customer,Finance_Accounting,Attention to Detail,0.21571,0.384868,0.21571,4
+Sales_Customer,Finance_Accounting,Customer Service,0.456649,0.209311,0.209311,5
+Sales_Customer,Finance_Accounting,Microsoft Office,0.194694,0.245034,0.194694,6
+Sales_Customer,Finance_Accounting,Time Management,0.189126,0.177525,0.177525,7
+Sales_Customer,Finance_Accounting,Interpersonal Skills,0.193757,0.174839,0.174839,8
+Sales_Customer,Finance_Accounting,Microsoft Excel,0.109763,0.321665,0.109763,9
+Sales_Customer,Finance_Accounting,People Management,0.115351,0.109761,0.109761,10
+Sales_Customer,Finance_Accounting,Written Communication,0.10728,0.137727,0.10728,11
+Sales_Customer,Finance_Accounting,Critical Thinking,0.099443,0.219892,0.099443,12
+Sales_Customer,Finance_Accounting,Decision Making,0.095311,0.094296,0.094296,13
+Sales_Customer,Finance_Accounting,Integrity,0.095189,0.092883,0.092883,14
+Sales_Customer,Finance_Accounting,Initiative,0.090874,0.090962,0.090874,15
+Sales_Customer,Healthcare_Clinical,Teamwork,0.441251,0.290563,0.290563,1
+Sales_Customer,Healthcare_Clinical,Communication,0.558607,0.289288,0.289288,2
+Sales_Customer,Healthcare_Clinical,Workplace / OSHA Safety,0.172374,0.119686,0.119686,3
+Sales_Customer,Healthcare_Clinical,Problem Solving,0.326185,0.101645,0.101645,4
+Sales_Customer,Healthcare_Clinical,Interpersonal Skills,0.193757,0.0898,0.0898,5
+Sales_Customer,Healthcare_Clinical,Customer Service,0.456649,0.087077,0.087077,6
+Sales_Customer,Healthcare_Clinical,Nursing,0.081775,0.157503,0.081775,7
+Sales_Customer,Healthcare_Clinical,Time Management,0.189126,0.070041,0.070041,8
+Sales_Customer,Healthcare_Clinical,Critical Thinking,0.099443,0.065946,0.065946,9
+Sales_Customer,Healthcare_Clinical,Attention to Detail,0.21571,0.063959,0.063959,10
+Sales_Customer,Healthcare_Clinical,Patient Care,0.058632,0.297283,0.058632,11
+Sales_Customer,Healthcare_Clinical,Scheduling,0.11702,0.05728,0.05728,12
+Sales_Customer,Healthcare_Clinical,Adaptability,0.086996,0.055678,0.055678,13
+Sales_Customer,Healthcare_Clinical,Assessment,0.054765,0.109566,0.054765,14
+Sales_Customer,Healthcare_Nursing,Communication,0.558607,0.358795,0.358795,1
+Sales_Customer,Healthcare_Nursing,Teamwork,0.441251,0.35177,0.35177,2
+Sales_Customer,Healthcare_Nursing,Problem Solving,0.326185,0.156865,0.156865,3
+Sales_Customer,Healthcare_Nursing,Workplace / OSHA Safety,0.172374,0.143931,0.143931,4
+Sales_Customer,Healthcare_Nursing,Time Management,0.189126,0.105257,0.105257,5
+Sales_Customer,Healthcare_Nursing,Critical Thinking,0.099443,0.148661,0.099443,6
+Sales_Customer,Healthcare_Nursing,Interpersonal Skills,0.193757,0.083485,0.083485,7
+Sales_Customer,Healthcare_Nursing,Decision Making,0.095311,0.082154,0.082154,8
+Sales_Customer,Healthcare_Nursing,Nursing,0.081775,0.840371,0.081775,9
+Sales_Customer,Healthcare_Nursing,Customer Service,0.456649,0.080239,0.080239,10
+Sales_Customer,Healthcare_Nursing,People Management,0.115351,0.074838,0.074838,11
+Sales_Customer,Healthcare_Nursing,Scheduling,0.11702,0.070209,0.070209,12
+Sales_Customer,Healthcare_Nursing,Adaptability,0.086996,0.066634,0.066634,13
+Sales_Customer,Healthcare_Nursing,Attention to Detail,0.21571,0.061917,0.061917,14
+Sales_Customer,Healthcare_Nursing,Integrity,0.095189,0.06075,0.06075,15
+Sales_Customer,Hospitality_Food,Communication,0.558607,0.522484,0.522484,1
+Sales_Customer,Hospitality_Food,Customer Service,0.456649,0.530645,0.456649,2
+Sales_Customer,Hospitality_Food,Teamwork,0.441251,0.439419,0.439419,3
+Sales_Customer,Hospitality_Food,Problem Solving,0.326185,0.23399,0.23399,4
+Sales_Customer,Hospitality_Food,Attention to Detail,0.21571,0.274063,0.21571,5
+Sales_Customer,Hospitality_Food,Time Management,0.189126,0.177855,0.177855,6
+Sales_Customer,Hospitality_Food,Workplace / OSHA Safety,0.172374,0.290512,0.172374,7
+Sales_Customer,Hospitality_Food,Scheduling,0.11702,0.13031,0.11702,8
+Sales_Customer,Hospitality_Food,People Management,0.115351,0.169093,0.115351,9
+Sales_Customer,Hospitality_Food,Interpersonal Skills,0.193757,0.104626,0.104626,10
+Sales_Customer,Hospitality_Food,Inventory Management,0.099586,0.181721,0.099586,11
+Sales_Customer,Hospitality_Food,Sanitation,0.094019,0.471116,0.094019,12
+Sales_Customer,Hospitality_Food,Adaptability,0.086996,0.109092,0.086996,13
+Sales_Customer,Hospitality_Food,Driving,0.13423,0.086286,0.086286,14
+Sales_Customer,Hospitality_Food,Coaching,0.093123,0.080273,0.080273,15
+Sales_Customer,Legal_Compliance,Communication,0.558607,0.399422,0.399422,1
+Sales_Customer,Legal_Compliance,Teamwork,0.441251,0.348568,0.348568,2
+Sales_Customer,Legal_Compliance,Attention to Detail,0.21571,0.237377,0.21571,3
+Sales_Customer,Legal_Compliance,Interpersonal Skills,0.193757,0.181104,0.181104,4
+Sales_Customer,Legal_Compliance,Problem Solving,0.326185,0.162316,0.162316,5
+Sales_Customer,Legal_Compliance,Time Management,0.189126,0.153374,0.153374,6
+Sales_Customer,Legal_Compliance,Customer Service,0.456649,0.122211,0.122211,7
+Sales_Customer,Legal_Compliance,Negotiation,0.115636,0.238371,0.115636,8
+Sales_Customer,Legal_Compliance,Microsoft Office,0.194694,0.109656,0.109656,9
+Sales_Customer,Legal_Compliance,Written Communication,0.10728,0.134857,0.10728,10
+Sales_Customer,Legal_Compliance,Critical Thinking,0.099443,0.193569,0.099443,11
+Sales_Customer,Legal_Compliance,Initiative,0.090874,0.077138,0.077138,12
+Sales_Customer,Legal_Compliance,Integrity,0.095189,0.070996,0.070996,13
+Sales_Customer,Legal_Compliance,Writing,0.0637,0.228977,0.0637,14
+Sales_Customer,Legal_Compliance,Presentation Skills,0.136733,0.059073,0.059073,15
+Sales_Customer,Management_HR_Admin,Communication,0.558607,0.501677,0.501677,1
+Sales_Customer,Management_HR_Admin,Teamwork,0.441251,0.39959,0.39959,2
+Sales_Customer,Management_HR_Admin,Problem Solving,0.326185,0.292728,0.292728,3
+Sales_Customer,Management_HR_Admin,Customer Service,0.456649,0.28955,0.28955,4
+Sales_Customer,Management_HR_Admin,Attention to Detail,0.21571,0.229379,0.21571,5
+Sales_Customer,Management_HR_Admin,Microsoft Office,0.194694,0.19392,0.19392,6
+Sales_Customer,Management_HR_Admin,Workplace / OSHA Safety,0.172374,0.23489,0.172374,7
+Sales_Customer,Management_HR_Admin,Time Management,0.189126,0.17184,0.17184,8
+Sales_Customer,Management_HR_Admin,Interpersonal Skills,0.193757,0.15938,0.15938,9
+Sales_Customer,Management_HR_Admin,Scheduling,0.11702,0.138016,0.11702,10
+Sales_Customer,Management_HR_Admin,People Management,0.115351,0.199667,0.115351,11
+Sales_Customer,Management_HR_Admin,Microsoft Excel,0.109763,0.140521,0.109763,12
+Sales_Customer,Management_HR_Admin,Written Communication,0.10728,0.113496,0.10728,13
+Sales_Customer,Management_HR_Admin,Driving,0.13423,0.103695,0.103695,14
+Sales_Customer,Management_HR_Admin,Marketing,0.172802,0.101446,0.101446,15
+Sales_Customer,Science_Research,Teamwork,0.441251,0.376373,0.376373,1
+Sales_Customer,Science_Research,Communication,0.558607,0.353083,0.353083,2
+Sales_Customer,Science_Research,Problem Solving,0.326185,0.231727,0.231727,3
+Sales_Customer,Science_Research,Attention to Detail,0.21571,0.231361,0.21571,4
+Sales_Customer,Science_Research,Workplace / OSHA Safety,0.172374,0.227479,0.172374,5
+Sales_Customer,Science_Research,Microsoft Office,0.194694,0.107734,0.107734,6
+Sales_Customer,Science_Research,Written Communication,0.10728,0.125165,0.10728,7
+Sales_Customer,Science_Research,Presentation Skills,0.136733,0.107148,0.107148,8
+Sales_Customer,Science_Research,Critical Thinking,0.099443,0.124652,0.099443,9
+Sales_Customer,Science_Research,Interpersonal Skills,0.193757,0.096821,0.096821,10
+Sales_Customer,Science_Research,Microsoft Excel,0.109763,0.096089,0.096089,11
+Sales_Customer,Science_Research,Time Management,0.189126,0.090962,0.090962,12
+Sales_Customer,Science_Research,Project Management,0.087393,0.119013,0.087393,13
+Sales_Customer,Science_Research,Data Analysis,0.086304,0.231361,0.086304,14
+Sales_Customer,Science_Research,Creativity,0.072239,0.10583,0.072239,15
+Sales_Customer,Skilled_Trades_Ops,Communication,0.558607,0.435806,0.435806,1
+Sales_Customer,Skilled_Trades_Ops,Teamwork,0.441251,0.339874,0.339874,2
+Sales_Customer,Skilled_Trades_Ops,Customer Service,0.456649,0.253162,0.253162,3
+Sales_Customer,Skilled_Trades_Ops,Problem Solving,0.326185,0.248096,0.248096,4
+Sales_Customer,Skilled_Trades_Ops,Attention to Detail,0.21571,0.20539,0.20539,5
+Sales_Customer,Skilled_Trades_Ops,Workplace / OSHA Safety,0.172374,0.335737,0.172374,6
+Sales_Customer,Skilled_Trades_Ops,Microsoft Office,0.194694,0.144574,0.144574,7
+Sales_Customer,Skilled_Trades_Ops,Driving,0.13423,0.184713,0.13423,8
+Sales_Customer,Skilled_Trades_Ops,Time Management,0.189126,0.12051,0.12051,9
+Sales_Customer,Skilled_Trades_Ops,People Management,0.115351,0.113477,0.113477,10
+Sales_Customer,Skilled_Trades_Ops,Interpersonal Skills,0.193757,0.106798,0.106798,11
+Sales_Customer,Skilled_Trades_Ops,Scheduling,0.11702,0.103776,0.103776,12
+Sales_Customer,Skilled_Trades_Ops,Written Communication,0.10728,0.094505,0.094505,13
+Sales_Customer,Skilled_Trades_Ops,Sanitation,0.094019,0.118551,0.094019,14
+Sales_Customer,Skilled_Trades_Ops,Microsoft Excel,0.109763,0.093095,0.093095,15
+Sales_Customer,Tech_Engineering,Communication,0.558607,0.412846,0.412846,1
+Sales_Customer,Tech_Engineering,Teamwork,0.441251,0.387018,0.387018,2
+Sales_Customer,Tech_Engineering,Problem Solving,0.326185,0.262964,0.262964,3
+Sales_Customer,Tech_Engineering,Workplace / OSHA Safety,0.172374,0.205563,0.172374,4
+Sales_Customer,Tech_Engineering,Attention to Detail,0.21571,0.158922,0.158922,5
+Sales_Customer,Tech_Engineering,Microsoft Office,0.194694,0.157469,0.157469,6
+Sales_Customer,Tech_Engineering,Interpersonal Skills,0.193757,0.110441,0.110441,7
+Sales_Customer,Tech_Engineering,Written Communication,0.10728,0.119802,0.10728,8
+Sales_Customer,Tech_Engineering,Microsoft Excel,0.109763,0.104788,0.104788,9
+Sales_Customer,Tech_Engineering,Critical Thinking,0.099443,0.111108,0.099443,10
+Sales_Customer,Tech_Engineering,Driving,0.13423,0.089175,0.089175,11
+Sales_Customer,Tech_Engineering,Project Management,0.087393,0.277804,0.087393,12
+Sales_Customer,Tech_Engineering,Presentation Skills,0.136733,0.087054,0.087054,13
+Sales_Customer,Tech_Engineering,Data Analysis,0.086304,0.098628,0.086304,14
+Sales_Customer,Tech_Engineering,Time Management,0.189126,0.085788,0.085788,15
+Science_Research,Creative_Media,Teamwork,0.376373,0.417186,0.376373,1
+Science_Research,Creative_Media,Communication,0.353083,0.470016,0.353083,2
+Science_Research,Creative_Media,Problem Solving,0.231727,0.260579,0.231727,3
+Science_Research,Creative_Media,Attention to Detail,0.231361,0.213461,0.213461,4
+Science_Research,Creative_Media,Workplace / OSHA Safety,0.227479,0.204958,0.204958,5
+Science_Research,Creative_Media,Troubleshooting,0.165885,0.13175,0.13175,6
+Science_Research,Creative_Media,Project Management,0.119013,0.321521,0.119013,7
+Science_Research,Creative_Media,Written Communication,0.125165,0.114356,0.114356,8
+Science_Research,Creative_Media,Writing,0.121649,0.111695,0.111695,9
+Science_Research,Creative_Media,Microsoft Office,0.107734,0.169587,0.107734,10
+Science_Research,Creative_Media,Presentation Skills,0.107148,0.107477,0.107148,11
+Science_Research,Creative_Media,Creativity,0.10583,0.118705,0.10583,12
+Science_Research,Creative_Media,Interpersonal Skills,0.096821,0.134605,0.096821,13
+Science_Research,Creative_Media,Critical Thinking,0.124652,0.096768,0.096768,14
+Science_Research,Creative_Media,Quality Assurance,0.234364,0.096573,0.096573,15
+Science_Research,Education,Teamwork,0.376373,0.438463,0.376373,1
+Science_Research,Education,Communication,0.353083,0.487007,0.353083,2
+Science_Research,Education,Problem Solving,0.231727,0.236795,0.231727,3
+Science_Research,Education,Workplace / OSHA Safety,0.227479,0.187235,0.187235,4
+Science_Research,Education,Attention to Detail,0.231361,0.144341,0.144341,5
+Science_Research,Education,Assessment,0.125238,0.180146,0.125238,6
+Science_Research,Education,Data Analysis,0.231361,0.122863,0.122863,7
+Science_Research,Education,Critical Thinking,0.124652,0.122059,0.122059,8
+Science_Research,Education,Written Communication,0.125165,0.119329,0.119329,9
+Science_Research,Education,Project Management,0.119013,0.116133,0.116133,10
+Science_Research,Education,Microsoft Office,0.107734,0.155705,0.107734,11
+Science_Research,Education,Presentation Skills,0.107148,0.112557,0.107148,12
+Science_Research,Education,Interpersonal Skills,0.096821,0.157208,0.096821,13
+Science_Research,Education,Microsoft Excel,0.096089,0.10314,0.096089,14
+Science_Research,Education,Patient Care,0.092281,0.109975,0.092281,15
+Science_Research,Finance_Accounting,Teamwork,0.376373,0.360745,0.360745,1
+Science_Research,Finance_Accounting,Communication,0.353083,0.47877,0.353083,2
+Science_Research,Finance_Accounting,Problem Solving,0.231727,0.289323,0.231727,3
+Science_Research,Finance_Accounting,Attention to Detail,0.231361,0.384868,0.231361,4
+Science_Research,Finance_Accounting,Data Analysis,0.231361,0.170394,0.170394,5
+Science_Research,Finance_Accounting,Written Communication,0.125165,0.137727,0.125165,6
+Science_Research,Finance_Accounting,Critical Thinking,0.124652,0.219892,0.124652,7
+Science_Research,Finance_Accounting,Project Management,0.119013,0.113256,0.113256,8
+Science_Research,Finance_Accounting,Microsoft Office,0.107734,0.245034,0.107734,9
+Science_Research,Finance_Accounting,Interpersonal Skills,0.096821,0.174839,0.096821,10
+Science_Research,Finance_Accounting,Microsoft Excel,0.096089,0.321665,0.096089,11
+Science_Research,Finance_Accounting,Time Management,0.090962,0.177525,0.090962,12
+Science_Research,Finance_Accounting,Workplace / OSHA Safety,0.227479,0.088693,0.088693,13
+Science_Research,Finance_Accounting,Manufacturing,0.092061,0.087975,0.087975,14
+Science_Research,Finance_Accounting,Presentation Skills,0.107148,0.079756,0.079756,15
+Science_Research,Healthcare_Clinical,Teamwork,0.376373,0.290563,0.290563,1
+Science_Research,Healthcare_Clinical,Communication,0.353083,0.289288,0.289288,2
+Science_Research,Healthcare_Clinical,Workplace / OSHA Safety,0.227479,0.119686,0.119686,3
+Science_Research,Healthcare_Clinical,Assessment,0.125238,0.109566,0.109566,4
+Science_Research,Healthcare_Clinical,Problem Solving,0.231727,0.101645,0.101645,5
+Science_Research,Healthcare_Clinical,Patient Care,0.092281,0.297283,0.092281,6
+Science_Research,Healthcare_Clinical,Interpersonal Skills,0.096821,0.0898,0.0898,7
+Science_Research,Healthcare_Clinical,Time Management,0.090962,0.070041,0.070041,8
+Science_Research,Healthcare_Clinical,Customer Service,0.067526,0.087077,0.067526,9
+Science_Research,Healthcare_Clinical,Critical Thinking,0.124652,0.065946,0.065946,10
+Science_Research,Healthcare_Clinical,Attention to Detail,0.231361,0.063959,0.063959,11
+Science_Research,Healthcare_Clinical,Adaptability,0.055808,0.055678,0.055678,12
+Science_Research,Healthcare_Clinical,Diagnosis,0.052952,0.172814,0.052952,13
+Science_Research,Healthcare_Nursing,Communication,0.353083,0.358795,0.353083,1
+Science_Research,Healthcare_Nursing,Teamwork,0.376373,0.35177,0.35177,2
+Science_Research,Healthcare_Nursing,Problem Solving,0.231727,0.156865,0.156865,3
+Science_Research,Healthcare_Nursing,Workplace / OSHA Safety,0.227479,0.143931,0.143931,4
+Science_Research,Healthcare_Nursing,Assessment,0.125238,0.199229,0.125238,5
+Science_Research,Healthcare_Nursing,Critical Thinking,0.124652,0.148661,0.124652,6
+Science_Research,Healthcare_Nursing,Patient Care,0.092281,0.533792,0.092281,7
+Science_Research,Healthcare_Nursing,Time Management,0.090962,0.105257,0.090962,8
+Science_Research,Healthcare_Nursing,Interpersonal Skills,0.096821,0.083485,0.083485,9
+Science_Research,Healthcare_Nursing,Customer Service,0.067526,0.080239,0.067526,10
+Science_Research,Healthcare_Nursing,Attention to Detail,0.231361,0.061917,0.061917,11
+Science_Research,Healthcare_Nursing,Integrity,0.065915,0.06075,0.06075,12
+Science_Research,Healthcare_Nursing,Adaptability,0.055808,0.066634,0.055808,13
+Science_Research,Healthcare_Nursing,Diagnosis,0.052952,0.155749,0.052952,14
+Science_Research,Healthcare_Nursing,Computer Proficiency,0.059397,0.051988,0.051988,15
+Science_Research,Hospitality_Food,Teamwork,0.376373,0.439419,0.376373,1
+Science_Research,Hospitality_Food,Communication,0.353083,0.522484,0.353083,2
+Science_Research,Hospitality_Food,Problem Solving,0.231727,0.23399,0.231727,3
+Science_Research,Hospitality_Food,Attention to Detail,0.231361,0.274063,0.231361,4
+Science_Research,Hospitality_Food,Workplace / OSHA Safety,0.227479,0.290512,0.227479,5
+Science_Research,Hospitality_Food,Interpersonal Skills,0.096821,0.104626,0.096821,6
+Science_Research,Hospitality_Food,Time Management,0.090962,0.177855,0.090962,7
+Science_Research,Hospitality_Food,Microsoft Office,0.107734,0.073401,0.073401,8
+Science_Research,Hospitality_Food,Production,0.07192,0.165743,0.07192,9
+Science_Research,Hospitality_Food,Customer Service,0.067526,0.530645,0.067526,10
+Science_Research,Hospitality_Food,Quality Assurance,0.234364,0.067002,0.067002,11
+Science_Research,Hospitality_Food,Creativity,0.10583,0.062793,0.062793,12
+Science_Research,Hospitality_Food,Integrity,0.065915,0.061118,0.061118,13
+Science_Research,Hospitality_Food,Initiative,0.05947,0.076107,0.05947,14
+Science_Research,Hospitality_Food,Sanitation,0.056613,0.471116,0.056613,15
+Science_Research,Legal_Compliance,Communication,0.353083,0.399422,0.353083,1
+Science_Research,Legal_Compliance,Teamwork,0.376373,0.348568,0.348568,2
+Science_Research,Legal_Compliance,Attention to Detail,0.231361,0.237377,0.231361,3
+Science_Research,Legal_Compliance,Problem Solving,0.231727,0.162316,0.162316,4
+Science_Research,Legal_Compliance,Written Communication,0.125165,0.134857,0.125165,5
+Science_Research,Legal_Compliance,Critical Thinking,0.124652,0.193569,0.124652,6
+Science_Research,Legal_Compliance,Writing,0.121649,0.228977,0.121649,7
+Science_Research,Legal_Compliance,Microsoft Office,0.107734,0.109656,0.107734,8
+Science_Research,Legal_Compliance,Interpersonal Skills,0.096821,0.181104,0.096821,9
+Science_Research,Legal_Compliance,Time Management,0.090962,0.153374,0.090962,10
+Science_Research,Legal_Compliance,Customer Service,0.067526,0.122211,0.067526,11
+Science_Research,Legal_Compliance,Integrity,0.065915,0.070996,0.065915,12
+Science_Research,Legal_Compliance,Initiative,0.05947,0.077138,0.05947,13
+Science_Research,Legal_Compliance,Presentation Skills,0.107148,0.059073,0.059073,14
+Science_Research,Management_HR_Admin,Teamwork,0.376373,0.39959,0.376373,1
+Science_Research,Management_HR_Admin,Communication,0.353083,0.501677,0.353083,2
+Science_Research,Management_HR_Admin,Problem Solving,0.231727,0.292728,0.231727,3
+Science_Research,Management_HR_Admin,Attention to Detail,0.231361,0.229379,0.229379,4
+Science_Research,Management_HR_Admin,Workplace / OSHA Safety,0.227479,0.23489,0.227479,5
+Science_Research,Management_HR_Admin,Project Management,0.119013,0.15085,0.119013,6
+Science_Research,Management_HR_Admin,Critical Thinking,0.124652,0.118762,0.118762,7
+Science_Research,Management_HR_Admin,Written Communication,0.125165,0.113496,0.113496,8
+Science_Research,Management_HR_Admin,Microsoft Office,0.107734,0.19392,0.107734,9
+Science_Research,Management_HR_Admin,Data Analysis,0.231361,0.101185,0.101185,10
+Science_Research,Management_HR_Admin,Interpersonal Skills,0.096821,0.15938,0.096821,11
+Science_Research,Management_HR_Admin,Microsoft Excel,0.096089,0.140521,0.096089,12
+Science_Research,Management_HR_Admin,Patient Care,0.092281,0.090994,0.090994,13
+Science_Research,Management_HR_Admin,Time Management,0.090962,0.17184,0.090962,14
+Science_Research,Management_HR_Admin,Assessment,0.125238,0.090743,0.090743,15
+Science_Research,Sales_Customer,Teamwork,0.376373,0.441251,0.376373,1
+Science_Research,Sales_Customer,Communication,0.353083,0.558607,0.353083,2
+Science_Research,Sales_Customer,Problem Solving,0.231727,0.326185,0.231727,3
+Science_Research,Sales_Customer,Attention to Detail,0.231361,0.21571,0.21571,4
+Science_Research,Sales_Customer,Workplace / OSHA Safety,0.227479,0.172374,0.172374,5
+Science_Research,Sales_Customer,Microsoft Office,0.107734,0.194694,0.107734,6
+Science_Research,Sales_Customer,Written Communication,0.125165,0.10728,0.10728,7
+Science_Research,Sales_Customer,Presentation Skills,0.107148,0.136733,0.107148,8
+Science_Research,Sales_Customer,Critical Thinking,0.124652,0.099443,0.099443,9
+Science_Research,Sales_Customer,Interpersonal Skills,0.096821,0.193757,0.096821,10
+Science_Research,Sales_Customer,Microsoft Excel,0.096089,0.109763,0.096089,11
+Science_Research,Sales_Customer,Time Management,0.090962,0.189126,0.090962,12
+Science_Research,Sales_Customer,Project Management,0.119013,0.087393,0.087393,13
+Science_Research,Sales_Customer,Data Analysis,0.231361,0.086304,0.086304,14
+Science_Research,Sales_Customer,Creativity,0.10583,0.072239,0.072239,15
+Science_Research,Skilled_Trades_Ops,Communication,0.353083,0.435806,0.353083,1
+Science_Research,Skilled_Trades_Ops,Teamwork,0.376373,0.339874,0.339874,2
+Science_Research,Skilled_Trades_Ops,Problem Solving,0.231727,0.248096,0.231727,3
+Science_Research,Skilled_Trades_Ops,Workplace / OSHA Safety,0.227479,0.335737,0.227479,4
+Science_Research,Skilled_Trades_Ops,Attention to Detail,0.231361,0.20539,0.20539,5
+Science_Research,Skilled_Trades_Ops,Troubleshooting,0.165885,0.138866,0.138866,6
+Science_Research,Skilled_Trades_Ops,Quality Assurance,0.234364,0.124268,0.124268,7
+Science_Research,Skilled_Trades_Ops,Microsoft Office,0.107734,0.144574,0.107734,8
+Science_Research,Skilled_Trades_Ops,Project Management,0.119013,0.099656,0.099656,9
+Science_Research,Skilled_Trades_Ops,Interpersonal Skills,0.096821,0.106798,0.096821,10
+Science_Research,Skilled_Trades_Ops,Written Communication,0.125165,0.094505,0.094505,11
+Science_Research,Skilled_Trades_Ops,Microsoft Excel,0.096089,0.093095,0.093095,12
+Science_Research,Skilled_Trades_Ops,Manufacturing,0.092061,0.112177,0.092061,13
+Science_Research,Skilled_Trades_Ops,Time Management,0.090962,0.12051,0.090962,14
+Science_Research,Skilled_Trades_Ops,Patient Care,0.092281,0.090503,0.090503,15
+Science_Research,Tech_Engineering,Teamwork,0.376373,0.387018,0.376373,1
+Science_Research,Tech_Engineering,Communication,0.353083,0.412846,0.353083,2
+Science_Research,Tech_Engineering,Problem Solving,0.231727,0.262964,0.231727,3
+Science_Research,Tech_Engineering,Workplace / OSHA Safety,0.227479,0.205563,0.205563,4
+Science_Research,Tech_Engineering,Attention to Detail,0.231361,0.158922,0.158922,5
+Science_Research,Tech_Engineering,Troubleshooting,0.165885,0.148922,0.148922,6
+Science_Research,Tech_Engineering,Written Communication,0.125165,0.119802,0.119802,7
+Science_Research,Tech_Engineering,Project Management,0.119013,0.277804,0.119013,8
+Science_Research,Tech_Engineering,Critical Thinking,0.124652,0.111108,0.111108,9
+Science_Research,Tech_Engineering,Microsoft Office,0.107734,0.157469,0.107734,10
+Science_Research,Tech_Engineering,Creativity,0.10583,0.112108,0.10583,11
+Science_Research,Tech_Engineering,Writing,0.121649,0.101281,0.101281,12
+Science_Research,Tech_Engineering,Data Analysis,0.231361,0.098628,0.098628,13
+Science_Research,Tech_Engineering,Interpersonal Skills,0.096821,0.110441,0.096821,14
+Science_Research,Tech_Engineering,Microsoft Excel,0.096089,0.104788,0.096089,15
+Skilled_Trades_Ops,Creative_Media,Communication,0.435806,0.470016,0.435806,1
+Skilled_Trades_Ops,Creative_Media,Teamwork,0.339874,0.417186,0.339874,2
+Skilled_Trades_Ops,Creative_Media,Problem Solving,0.248096,0.260579,0.248096,3
+Skilled_Trades_Ops,Creative_Media,Attention to Detail,0.20539,0.213461,0.20539,4
+Skilled_Trades_Ops,Creative_Media,Workplace / OSHA Safety,0.335737,0.204958,0.204958,5
+Skilled_Trades_Ops,Creative_Media,Microsoft Office,0.144574,0.169587,0.144574,6
+Skilled_Trades_Ops,Creative_Media,Production,0.140555,0.216641,0.140555,7
+Skilled_Trades_Ops,Creative_Media,Electrical Systems,0.139018,0.21067,0.139018,8
+Skilled_Trades_Ops,Creative_Media,Troubleshooting,0.138866,0.13175,0.13175,9
+Skilled_Trades_Ops,Creative_Media,Time Management,0.12051,0.143756,0.12051,10
+Skilled_Trades_Ops,Creative_Media,Manufacturing,0.112177,0.147326,0.112177,11
+Skilled_Trades_Ops,Creative_Media,Customer Service,0.253162,0.111825,0.111825,12
+Skilled_Trades_Ops,Creative_Media,Interpersonal Skills,0.106798,0.134605,0.106798,13
+Skilled_Trades_Ops,Creative_Media,Project Management,0.099656,0.321521,0.099656,14
+Skilled_Trades_Ops,Creative_Media,Scheduling,0.103776,0.096638,0.096638,15
+Skilled_Trades_Ops,Education,Communication,0.435806,0.487007,0.435806,1
+Skilled_Trades_Ops,Education,Teamwork,0.339874,0.438463,0.339874,2
+Skilled_Trades_Ops,Education,Problem Solving,0.248096,0.236795,0.236795,3
+Skilled_Trades_Ops,Education,Workplace / OSHA Safety,0.335737,0.187235,0.187235,4
+Skilled_Trades_Ops,Education,Customer Service,0.253162,0.172105,0.172105,5
+Skilled_Trades_Ops,Education,Microsoft Office,0.144574,0.155705,0.144574,6
+Skilled_Trades_Ops,Education,Attention to Detail,0.20539,0.144341,0.144341,7
+Skilled_Trades_Ops,Education,Time Management,0.12051,0.140596,0.12051,8
+Skilled_Trades_Ops,Education,People Management,0.113477,0.128767,0.113477,9
+Skilled_Trades_Ops,Education,Interpersonal Skills,0.106798,0.157208,0.106798,10
+Skilled_Trades_Ops,Education,Project Management,0.099656,0.116133,0.099656,11
+Skilled_Trades_Ops,Education,Written Communication,0.094505,0.119329,0.094505,12
+Skilled_Trades_Ops,Education,Microsoft Excel,0.093095,0.10314,0.093095,13
+Skilled_Trades_Ops,Education,Patient Care,0.090503,0.109975,0.090503,14
+Skilled_Trades_Ops,Education,Scheduling,0.103776,0.089301,0.089301,15
+Skilled_Trades_Ops,Finance_Accounting,Communication,0.435806,0.47877,0.435806,1
+Skilled_Trades_Ops,Finance_Accounting,Teamwork,0.339874,0.360745,0.339874,2
+Skilled_Trades_Ops,Finance_Accounting,Problem Solving,0.248096,0.289323,0.248096,3
+Skilled_Trades_Ops,Finance_Accounting,Customer Service,0.253162,0.209311,0.209311,4
+Skilled_Trades_Ops,Finance_Accounting,Attention to Detail,0.20539,0.384868,0.20539,5
+Skilled_Trades_Ops,Finance_Accounting,Microsoft Office,0.144574,0.245034,0.144574,6
+Skilled_Trades_Ops,Finance_Accounting,Time Management,0.12051,0.177525,0.12051,7
+Skilled_Trades_Ops,Finance_Accounting,People Management,0.113477,0.109761,0.109761,8
+Skilled_Trades_Ops,Finance_Accounting,Interpersonal Skills,0.106798,0.174839,0.106798,9
+Skilled_Trades_Ops,Finance_Accounting,Project Management,0.099656,0.113256,0.099656,10
+Skilled_Trades_Ops,Finance_Accounting,Written Communication,0.094505,0.137727,0.094505,11
+Skilled_Trades_Ops,Finance_Accounting,Microsoft Excel,0.093095,0.321665,0.093095,12
+Skilled_Trades_Ops,Finance_Accounting,Workplace / OSHA Safety,0.335737,0.088693,0.088693,13
+Skilled_Trades_Ops,Finance_Accounting,Manufacturing,0.112177,0.087975,0.087975,14
+Skilled_Trades_Ops,Finance_Accounting,Critical Thinking,0.075575,0.219892,0.075575,15
+Skilled_Trades_Ops,Healthcare_Clinical,Teamwork,0.339874,0.290563,0.290563,1
+Skilled_Trades_Ops,Healthcare_Clinical,Communication,0.435806,0.289288,0.289288,2
+Skilled_Trades_Ops,Healthcare_Clinical,Workplace / OSHA Safety,0.335737,0.119686,0.119686,3
+Skilled_Trades_Ops,Healthcare_Clinical,Problem Solving,0.248096,0.101645,0.101645,4
+Skilled_Trades_Ops,Healthcare_Clinical,Patient Care,0.090503,0.297283,0.090503,5
+Skilled_Trades_Ops,Healthcare_Clinical,Interpersonal Skills,0.106798,0.0898,0.0898,6
+Skilled_Trades_Ops,Healthcare_Clinical,Customer Service,0.253162,0.087077,0.087077,7
+Skilled_Trades_Ops,Healthcare_Clinical,Time Management,0.12051,0.070041,0.070041,8
+Skilled_Trades_Ops,Healthcare_Clinical,Critical Thinking,0.075575,0.065946,0.065946,9
+Skilled_Trades_Ops,Healthcare_Clinical,Nursing,0.06427,0.157503,0.06427,10
+Skilled_Trades_Ops,Healthcare_Clinical,Attention to Detail,0.20539,0.063959,0.063959,11
+Skilled_Trades_Ops,Healthcare_Clinical,Assessment,0.058199,0.109566,0.058199,12
+Skilled_Trades_Ops,Healthcare_Clinical,Scheduling,0.103776,0.05728,0.05728,13
+Skilled_Trades_Ops,Healthcare_Clinical,Adaptability,0.066533,0.055678,0.055678,14
+Skilled_Trades_Ops,Healthcare_Nursing,Communication,0.435806,0.358795,0.358795,1
+Skilled_Trades_Ops,Healthcare_Nursing,Teamwork,0.339874,0.35177,0.339874,2
+Skilled_Trades_Ops,Healthcare_Nursing,Problem Solving,0.248096,0.156865,0.156865,3
+Skilled_Trades_Ops,Healthcare_Nursing,Workplace / OSHA Safety,0.335737,0.143931,0.143931,4
+Skilled_Trades_Ops,Healthcare_Nursing,Time Management,0.12051,0.105257,0.105257,5
+Skilled_Trades_Ops,Healthcare_Nursing,Patient Care,0.090503,0.533792,0.090503,6
+Skilled_Trades_Ops,Healthcare_Nursing,Interpersonal Skills,0.106798,0.083485,0.083485,7
+Skilled_Trades_Ops,Healthcare_Nursing,Customer Service,0.253162,0.080239,0.080239,8
+Skilled_Trades_Ops,Healthcare_Nursing,Critical Thinking,0.075575,0.148661,0.075575,9
+Skilled_Trades_Ops,Healthcare_Nursing,People Management,0.113477,0.074838,0.074838,10
+Skilled_Trades_Ops,Healthcare_Nursing,Scheduling,0.103776,0.070209,0.070209,11
+Skilled_Trades_Ops,Healthcare_Nursing,Adaptability,0.066533,0.066634,0.066533,12
+Skilled_Trades_Ops,Healthcare_Nursing,Nursing,0.06427,0.840371,0.06427,13
+Skilled_Trades_Ops,Healthcare_Nursing,Attention to Detail,0.20539,0.061917,0.061917,14
+Skilled_Trades_Ops,Healthcare_Nursing,Integrity,0.066516,0.06075,0.06075,15
+Skilled_Trades_Ops,Hospitality_Food,Communication,0.435806,0.522484,0.435806,1
+Skilled_Trades_Ops,Hospitality_Food,Teamwork,0.339874,0.439419,0.339874,2
+Skilled_Trades_Ops,Hospitality_Food,Workplace / OSHA Safety,0.335737,0.290512,0.290512,3
+Skilled_Trades_Ops,Hospitality_Food,Customer Service,0.253162,0.530645,0.253162,4
+Skilled_Trades_Ops,Hospitality_Food,Problem Solving,0.248096,0.23399,0.23399,5
+Skilled_Trades_Ops,Hospitality_Food,Attention to Detail,0.20539,0.274063,0.20539,6
+Skilled_Trades_Ops,Hospitality_Food,Production,0.140555,0.165743,0.140555,7
+Skilled_Trades_Ops,Hospitality_Food,Time Management,0.12051,0.177855,0.12051,8
+Skilled_Trades_Ops,Hospitality_Food,Sanitation,0.118551,0.471116,0.118551,9
+Skilled_Trades_Ops,Hospitality_Food,People Management,0.113477,0.169093,0.113477,10
+Skilled_Trades_Ops,Hospitality_Food,Interpersonal Skills,0.106798,0.104626,0.104626,11
+Skilled_Trades_Ops,Hospitality_Food,Scheduling,0.103776,0.13031,0.103776,12
+Skilled_Trades_Ops,Hospitality_Food,Driving,0.184713,0.086286,0.086286,13
+Skilled_Trades_Ops,Hospitality_Food,Microsoft Office,0.144574,0.073401,0.073401,14
+Skilled_Trades_Ops,Hospitality_Food,Inventory Management,0.067065,0.181721,0.067065,15
+Skilled_Trades_Ops,Legal_Compliance,Communication,0.435806,0.399422,0.399422,1
+Skilled_Trades_Ops,Legal_Compliance,Teamwork,0.339874,0.348568,0.339874,2
+Skilled_Trades_Ops,Legal_Compliance,Attention to Detail,0.20539,0.237377,0.20539,3
+Skilled_Trades_Ops,Legal_Compliance,Problem Solving,0.248096,0.162316,0.162316,4
+Skilled_Trades_Ops,Legal_Compliance,Customer Service,0.253162,0.122211,0.122211,5
+Skilled_Trades_Ops,Legal_Compliance,Time Management,0.12051,0.153374,0.12051,6
+Skilled_Trades_Ops,Legal_Compliance,Microsoft Office,0.144574,0.109656,0.109656,7
+Skilled_Trades_Ops,Legal_Compliance,Interpersonal Skills,0.106798,0.181104,0.106798,8
+Skilled_Trades_Ops,Legal_Compliance,Written Communication,0.094505,0.134857,0.094505,9
+Skilled_Trades_Ops,Legal_Compliance,Critical Thinking,0.075575,0.193569,0.075575,10
+Skilled_Trades_Ops,Legal_Compliance,Integrity,0.066516,0.070996,0.066516,11
+Skilled_Trades_Ops,Legal_Compliance,Initiative,0.058832,0.077138,0.058832,12
+Skilled_Trades_Ops,Legal_Compliance,Writing,0.057279,0.228977,0.057279,13
+Skilled_Trades_Ops,Management_HR_Admin,Communication,0.435806,0.501677,0.435806,1
+Skilled_Trades_Ops,Management_HR_Admin,Teamwork,0.339874,0.39959,0.339874,2
+Skilled_Trades_Ops,Management_HR_Admin,Customer Service,0.253162,0.28955,0.253162,3
+Skilled_Trades_Ops,Management_HR_Admin,Problem Solving,0.248096,0.292728,0.248096,4
+Skilled_Trades_Ops,Management_HR_Admin,Workplace / OSHA Safety,0.335737,0.23489,0.23489,5
+Skilled_Trades_Ops,Management_HR_Admin,Attention to Detail,0.20539,0.229379,0.20539,6
+Skilled_Trades_Ops,Management_HR_Admin,Microsoft Office,0.144574,0.19392,0.144574,7
+Skilled_Trades_Ops,Management_HR_Admin,Time Management,0.12051,0.17184,0.12051,8
+Skilled_Trades_Ops,Management_HR_Admin,People Management,0.113477,0.199667,0.113477,9
+Skilled_Trades_Ops,Management_HR_Admin,Interpersonal Skills,0.106798,0.15938,0.106798,10
+Skilled_Trades_Ops,Management_HR_Admin,Sanitation,0.118551,0.105505,0.105505,11
+Skilled_Trades_Ops,Management_HR_Admin,Scheduling,0.103776,0.138016,0.103776,12
+Skilled_Trades_Ops,Management_HR_Admin,Driving,0.184713,0.103695,0.103695,13
+Skilled_Trades_Ops,Management_HR_Admin,Project Management,0.099656,0.15085,0.099656,14
+Skilled_Trades_Ops,Management_HR_Admin,Written Communication,0.094505,0.113496,0.094505,15
+Skilled_Trades_Ops,Sales_Customer,Communication,0.435806,0.558607,0.435806,1
+Skilled_Trades_Ops,Sales_Customer,Teamwork,0.339874,0.441251,0.339874,2
+Skilled_Trades_Ops,Sales_Customer,Customer Service,0.253162,0.456649,0.253162,3
+Skilled_Trades_Ops,Sales_Customer,Problem Solving,0.248096,0.326185,0.248096,4
+Skilled_Trades_Ops,Sales_Customer,Attention to Detail,0.20539,0.21571,0.20539,5
+Skilled_Trades_Ops,Sales_Customer,Workplace / OSHA Safety,0.335737,0.172374,0.172374,6
+Skilled_Trades_Ops,Sales_Customer,Microsoft Office,0.144574,0.194694,0.144574,7
+Skilled_Trades_Ops,Sales_Customer,Driving,0.184713,0.13423,0.13423,8
+Skilled_Trades_Ops,Sales_Customer,Time Management,0.12051,0.189126,0.12051,9
+Skilled_Trades_Ops,Sales_Customer,People Management,0.113477,0.115351,0.113477,10
+Skilled_Trades_Ops,Sales_Customer,Interpersonal Skills,0.106798,0.193757,0.106798,11
+Skilled_Trades_Ops,Sales_Customer,Scheduling,0.103776,0.11702,0.103776,12
+Skilled_Trades_Ops,Sales_Customer,Written Communication,0.094505,0.10728,0.094505,13
+Skilled_Trades_Ops,Sales_Customer,Sanitation,0.118551,0.094019,0.094019,14
+Skilled_Trades_Ops,Sales_Customer,Microsoft Excel,0.093095,0.109763,0.093095,15
+Skilled_Trades_Ops,Science_Research,Communication,0.435806,0.353083,0.353083,1
+Skilled_Trades_Ops,Science_Research,Teamwork,0.339874,0.376373,0.339874,2
+Skilled_Trades_Ops,Science_Research,Problem Solving,0.248096,0.231727,0.231727,3
+Skilled_Trades_Ops,Science_Research,Workplace / OSHA Safety,0.335737,0.227479,0.227479,4
+Skilled_Trades_Ops,Science_Research,Attention to Detail,0.20539,0.231361,0.20539,5
+Skilled_Trades_Ops,Science_Research,Troubleshooting,0.138866,0.165885,0.138866,6
+Skilled_Trades_Ops,Science_Research,Quality Assurance,0.124268,0.234364,0.124268,7
+Skilled_Trades_Ops,Science_Research,Microsoft Office,0.144574,0.107734,0.107734,8
+Skilled_Trades_Ops,Science_Research,Project Management,0.099656,0.119013,0.099656,9
+Skilled_Trades_Ops,Science_Research,Interpersonal Skills,0.106798,0.096821,0.096821,10
+Skilled_Trades_Ops,Science_Research,Written Communication,0.094505,0.125165,0.094505,11
+Skilled_Trades_Ops,Science_Research,Microsoft Excel,0.093095,0.096089,0.093095,12
+Skilled_Trades_Ops,Science_Research,Manufacturing,0.112177,0.092061,0.092061,13
+Skilled_Trades_Ops,Science_Research,Time Management,0.12051,0.090962,0.090962,14
+Skilled_Trades_Ops,Science_Research,Patient Care,0.090503,0.092281,0.090503,15
+Skilled_Trades_Ops,Tech_Engineering,Communication,0.435806,0.412846,0.412846,1
+Skilled_Trades_Ops,Tech_Engineering,Teamwork,0.339874,0.387018,0.339874,2
+Skilled_Trades_Ops,Tech_Engineering,Problem Solving,0.248096,0.262964,0.248096,3
+Skilled_Trades_Ops,Tech_Engineering,Workplace / OSHA Safety,0.335737,0.205563,0.205563,4
+Skilled_Trades_Ops,Tech_Engineering,Attention to Detail,0.20539,0.158922,0.158922,5
+Skilled_Trades_Ops,Tech_Engineering,Microsoft Office,0.144574,0.157469,0.144574,6
+Skilled_Trades_Ops,Tech_Engineering,Production,0.140555,0.175336,0.140555,7
+Skilled_Trades_Ops,Tech_Engineering,Electrical Systems,0.139018,0.139309,0.139018,8
+Skilled_Trades_Ops,Tech_Engineering,Troubleshooting,0.138866,0.148922,0.138866,9
+Skilled_Trades_Ops,Tech_Engineering,Manufacturing,0.112177,0.184562,0.112177,10
+Skilled_Trades_Ops,Tech_Engineering,Interpersonal Skills,0.106798,0.110441,0.106798,11
+Skilled_Trades_Ops,Tech_Engineering,Project Management,0.099656,0.277804,0.099656,12
+Skilled_Trades_Ops,Tech_Engineering,Quality Assurance,0.124268,0.095841,0.095841,13
+Skilled_Trades_Ops,Tech_Engineering,Written Communication,0.094505,0.119802,0.094505,14
+Skilled_Trades_Ops,Tech_Engineering,Microsoft Excel,0.093095,0.104788,0.093095,15
+Tech_Engineering,Creative_Media,Communication,0.412846,0.470016,0.412846,1
+Tech_Engineering,Creative_Media,Teamwork,0.387018,0.417186,0.387018,2
+Tech_Engineering,Creative_Media,Project Management,0.277804,0.321521,0.277804,3
+Tech_Engineering,Creative_Media,Problem Solving,0.262964,0.260579,0.260579,4
+Tech_Engineering,Creative_Media,Workplace / OSHA Safety,0.205563,0.204958,0.204958,5
+Tech_Engineering,Creative_Media,Production,0.175336,0.216641,0.175336,6
+Tech_Engineering,Creative_Media,Software Development,0.219363,0.173936,0.173936,7
+Tech_Engineering,Creative_Media,Attention to Detail,0.158922,0.213461,0.158922,8
+Tech_Engineering,Creative_Media,Microsoft Office,0.157469,0.169587,0.157469,9
+Tech_Engineering,Creative_Media,Architecture,0.162602,0.151934,0.151934,10
+Tech_Engineering,Creative_Media,Manufacturing,0.184562,0.147326,0.147326,11
+Tech_Engineering,Creative_Media,Electrical Systems,0.139309,0.21067,0.139309,12
+Tech_Engineering,Creative_Media,Troubleshooting,0.148922,0.13175,0.13175,13
+Tech_Engineering,Creative_Media,Written Communication,0.119802,0.114356,0.114356,14
+Tech_Engineering,Creative_Media,Creativity,0.112108,0.118705,0.112108,15
+Tech_Engineering,Education,Communication,0.412846,0.487007,0.412846,1
+Tech_Engineering,Education,Teamwork,0.387018,0.438463,0.387018,2
+Tech_Engineering,Education,Problem Solving,0.262964,0.236795,0.236795,3
+Tech_Engineering,Education,Workplace / OSHA Safety,0.205563,0.187235,0.187235,4
+Tech_Engineering,Education,Microsoft Office,0.157469,0.155705,0.155705,5
+Tech_Engineering,Education,Attention to Detail,0.158922,0.144341,0.144341,6
+Tech_Engineering,Education,Written Communication,0.119802,0.119329,0.119329,7
+Tech_Engineering,Education,Project Management,0.277804,0.116133,0.116133,8
+Tech_Engineering,Education,Critical Thinking,0.111108,0.122059,0.111108,9
+Tech_Engineering,Education,Interpersonal Skills,0.110441,0.157208,0.110441,10
+Tech_Engineering,Education,Microsoft Excel,0.104788,0.10314,0.10314,11
+Tech_Engineering,Education,Data Analysis,0.098628,0.122863,0.098628,12
+Tech_Engineering,Education,Writing,0.101281,0.088772,0.088772,13
+Tech_Engineering,Education,Presentation Skills,0.087054,0.112557,0.087054,14
+Tech_Engineering,Education,Time Management,0.085788,0.140596,0.085788,15
+Tech_Engineering,Finance_Accounting,Communication,0.412846,0.47877,0.412846,1
+Tech_Engineering,Finance_Accounting,Teamwork,0.387018,0.360745,0.360745,2
+Tech_Engineering,Finance_Accounting,Problem Solving,0.262964,0.289323,0.262964,3
+Tech_Engineering,Finance_Accounting,Attention to Detail,0.158922,0.384868,0.158922,4
+Tech_Engineering,Finance_Accounting,Microsoft Office,0.157469,0.245034,0.157469,5
+Tech_Engineering,Finance_Accounting,Written Communication,0.119802,0.137727,0.119802,6
+Tech_Engineering,Finance_Accounting,Project Management,0.277804,0.113256,0.113256,7
+Tech_Engineering,Finance_Accounting,Critical Thinking,0.111108,0.219892,0.111108,8
+Tech_Engineering,Finance_Accounting,Interpersonal Skills,0.110441,0.174839,0.110441,9
+Tech_Engineering,Finance_Accounting,Microsoft Excel,0.104788,0.321665,0.104788,10
+Tech_Engineering,Finance_Accounting,Process Improvement,0.107161,0.104042,0.104042,11
+Tech_Engineering,Finance_Accounting,Data Analysis,0.098628,0.170394,0.098628,12
+Tech_Engineering,Finance_Accounting,Workplace / OSHA Safety,0.205563,0.088693,0.088693,13
+Tech_Engineering,Finance_Accounting,Manufacturing,0.184562,0.087975,0.087975,14
+Tech_Engineering,Finance_Accounting,Time Management,0.085788,0.177525,0.085788,15
+Tech_Engineering,Healthcare_Clinical,Teamwork,0.387018,0.290563,0.290563,1
+Tech_Engineering,Healthcare_Clinical,Communication,0.412846,0.289288,0.289288,2
+Tech_Engineering,Healthcare_Clinical,Workplace / OSHA Safety,0.205563,0.119686,0.119686,3
+Tech_Engineering,Healthcare_Clinical,Problem Solving,0.262964,0.101645,0.101645,4
+Tech_Engineering,Healthcare_Clinical,Interpersonal Skills,0.110441,0.0898,0.0898,5
+Tech_Engineering,Healthcare_Clinical,Customer Service,0.075881,0.087077,0.075881,6
+Tech_Engineering,Healthcare_Clinical,Assessment,0.073148,0.109566,0.073148,7
+Tech_Engineering,Healthcare_Clinical,Time Management,0.085788,0.070041,0.070041,8
+Tech_Engineering,Healthcare_Clinical,Critical Thinking,0.111108,0.065946,0.065946,9
+Tech_Engineering,Healthcare_Clinical,Attention to Detail,0.158922,0.063959,0.063959,10
+Tech_Engineering,Healthcare_Clinical,Scheduling,0.063348,0.05728,0.05728,11
+Tech_Engineering,Healthcare_Clinical,Adaptability,0.054107,0.055678,0.054107,12
+Tech_Engineering,Healthcare_Nursing,Communication,0.412846,0.358795,0.358795,1
+Tech_Engineering,Healthcare_Nursing,Teamwork,0.387018,0.35177,0.35177,2
+Tech_Engineering,Healthcare_Nursing,Problem Solving,0.262964,0.156865,0.156865,3
+Tech_Engineering,Healthcare_Nursing,Workplace / OSHA Safety,0.205563,0.143931,0.143931,4
+Tech_Engineering,Healthcare_Nursing,Critical Thinking,0.111108,0.148661,0.111108,5
+Tech_Engineering,Healthcare_Nursing,Time Management,0.085788,0.105257,0.085788,6
+Tech_Engineering,Healthcare_Nursing,Interpersonal Skills,0.110441,0.083485,0.083485,7
+Tech_Engineering,Healthcare_Nursing,Customer Service,0.075881,0.080239,0.075881,8
+Tech_Engineering,Healthcare_Nursing,Assessment,0.073148,0.199229,0.073148,9
+Tech_Engineering,Healthcare_Nursing,Scheduling,0.063348,0.070209,0.063348,10
+Tech_Engineering,Healthcare_Nursing,Attention to Detail,0.158922,0.061917,0.061917,11
+Tech_Engineering,Healthcare_Nursing,Integrity,0.069281,0.06075,0.06075,12
+Tech_Engineering,Healthcare_Nursing,People Management,0.059174,0.074838,0.059174,13
+Tech_Engineering,Healthcare_Nursing,Adaptability,0.054107,0.066634,0.054107,14
+Tech_Engineering,Healthcare_Nursing,Decision Making,0.053414,0.082154,0.053414,15
+Tech_Engineering,Hospitality_Food,Communication,0.412846,0.522484,0.412846,1
+Tech_Engineering,Hospitality_Food,Teamwork,0.387018,0.439419,0.387018,2
+Tech_Engineering,Hospitality_Food,Problem Solving,0.262964,0.23399,0.23399,3
+Tech_Engineering,Hospitality_Food,Workplace / OSHA Safety,0.205563,0.290512,0.205563,4
+Tech_Engineering,Hospitality_Food,Production,0.175336,0.165743,0.165743,5
+Tech_Engineering,Hospitality_Food,Attention to Detail,0.158922,0.274063,0.158922,6
+Tech_Engineering,Hospitality_Food,Interpersonal Skills,0.110441,0.104626,0.104626,7
+Tech_Engineering,Hospitality_Food,Driving,0.089175,0.086286,0.086286,8
+Tech_Engineering,Hospitality_Food,Time Management,0.085788,0.177855,0.085788,9
+Tech_Engineering,Hospitality_Food,Customer Service,0.075881,0.530645,0.075881,10
+Tech_Engineering,Hospitality_Food,Coaching,0.073521,0.080273,0.073521,11
+Tech_Engineering,Hospitality_Food,Microsoft Office,0.157469,0.073401,0.073401,12
+Tech_Engineering,Hospitality_Food,Initiative,0.068588,0.076107,0.068588,13
+Tech_Engineering,Hospitality_Food,Quality Assurance,0.095841,0.067002,0.067002,14
+Tech_Engineering,Hospitality_Food,Scheduling,0.063348,0.13031,0.063348,15
+Tech_Engineering,Legal_Compliance,Communication,0.412846,0.399422,0.399422,1
+Tech_Engineering,Legal_Compliance,Teamwork,0.387018,0.348568,0.348568,2
+Tech_Engineering,Legal_Compliance,Problem Solving,0.262964,0.162316,0.162316,3
+Tech_Engineering,Legal_Compliance,Attention to Detail,0.158922,0.237377,0.158922,4
+Tech_Engineering,Legal_Compliance,Written Communication,0.119802,0.134857,0.119802,5
+Tech_Engineering,Legal_Compliance,Critical Thinking,0.111108,0.193569,0.111108,6
+Tech_Engineering,Legal_Compliance,Interpersonal Skills,0.110441,0.181104,0.110441,7
+Tech_Engineering,Legal_Compliance,Microsoft Office,0.157469,0.109656,0.109656,8
+Tech_Engineering,Legal_Compliance,Writing,0.101281,0.228977,0.101281,9
+Tech_Engineering,Legal_Compliance,Time Management,0.085788,0.153374,0.085788,10
+Tech_Engineering,Legal_Compliance,Customer Service,0.075881,0.122211,0.075881,11
+Tech_Engineering,Legal_Compliance,Integrity,0.069281,0.070996,0.069281,12
+Tech_Engineering,Legal_Compliance,Initiative,0.068588,0.077138,0.068588,13
+Tech_Engineering,Legal_Compliance,Presentation Skills,0.087054,0.059073,0.059073,14
+Tech_Engineering,Management_HR_Admin,Communication,0.412846,0.501677,0.412846,1
+Tech_Engineering,Management_HR_Admin,Teamwork,0.387018,0.39959,0.387018,2
+Tech_Engineering,Management_HR_Admin,Problem Solving,0.262964,0.292728,0.262964,3
+Tech_Engineering,Management_HR_Admin,Workplace / OSHA Safety,0.205563,0.23489,0.205563,4
+Tech_Engineering,Management_HR_Admin,Attention to Detail,0.158922,0.229379,0.158922,5
+Tech_Engineering,Management_HR_Admin,Microsoft Office,0.157469,0.19392,0.157469,6
+Tech_Engineering,Management_HR_Admin,Project Management,0.277804,0.15085,0.15085,7
+Tech_Engineering,Management_HR_Admin,Written Communication,0.119802,0.113496,0.113496,8
+Tech_Engineering,Management_HR_Admin,Critical Thinking,0.111108,0.118762,0.111108,9
+Tech_Engineering,Management_HR_Admin,Interpersonal Skills,0.110441,0.15938,0.110441,10
+Tech_Engineering,Management_HR_Admin,Microsoft Excel,0.104788,0.140521,0.104788,11
+Tech_Engineering,Management_HR_Admin,Data Analysis,0.098628,0.101185,0.098628,12
+Tech_Engineering,Management_HR_Admin,Production,0.175336,0.089525,0.089525,13
+Tech_Engineering,Management_HR_Admin,Driving,0.089175,0.103695,0.089175,14
+Tech_Engineering,Management_HR_Admin,Process Improvement,0.107161,0.085963,0.085963,15
+Tech_Engineering,Sales_Customer,Communication,0.412846,0.558607,0.412846,1
+Tech_Engineering,Sales_Customer,Teamwork,0.387018,0.441251,0.387018,2
+Tech_Engineering,Sales_Customer,Problem Solving,0.262964,0.326185,0.262964,3
+Tech_Engineering,Sales_Customer,Workplace / OSHA Safety,0.205563,0.172374,0.172374,4
+Tech_Engineering,Sales_Customer,Attention to Detail,0.158922,0.21571,0.158922,5
+Tech_Engineering,Sales_Customer,Microsoft Office,0.157469,0.194694,0.157469,6
+Tech_Engineering,Sales_Customer,Interpersonal Skills,0.110441,0.193757,0.110441,7
+Tech_Engineering,Sales_Customer,Written Communication,0.119802,0.10728,0.10728,8
+Tech_Engineering,Sales_Customer,Microsoft Excel,0.104788,0.109763,0.104788,9
+Tech_Engineering,Sales_Customer,Critical Thinking,0.111108,0.099443,0.099443,10
+Tech_Engineering,Sales_Customer,Driving,0.089175,0.13423,0.089175,11
+Tech_Engineering,Sales_Customer,Project Management,0.277804,0.087393,0.087393,12
+Tech_Engineering,Sales_Customer,Presentation Skills,0.087054,0.136733,0.087054,13
+Tech_Engineering,Sales_Customer,Data Analysis,0.098628,0.086304,0.086304,14
+Tech_Engineering,Sales_Customer,Time Management,0.085788,0.189126,0.085788,15
+Tech_Engineering,Science_Research,Teamwork,0.387018,0.376373,0.376373,1
+Tech_Engineering,Science_Research,Communication,0.412846,0.353083,0.353083,2
+Tech_Engineering,Science_Research,Problem Solving,0.262964,0.231727,0.231727,3
+Tech_Engineering,Science_Research,Workplace / OSHA Safety,0.205563,0.227479,0.205563,4
+Tech_Engineering,Science_Research,Attention to Detail,0.158922,0.231361,0.158922,5
+Tech_Engineering,Science_Research,Troubleshooting,0.148922,0.165885,0.148922,6
+Tech_Engineering,Science_Research,Written Communication,0.119802,0.125165,0.119802,7
+Tech_Engineering,Science_Research,Project Management,0.277804,0.119013,0.119013,8
+Tech_Engineering,Science_Research,Critical Thinking,0.111108,0.124652,0.111108,9
+Tech_Engineering,Science_Research,Microsoft Office,0.157469,0.107734,0.107734,10
+Tech_Engineering,Science_Research,Creativity,0.112108,0.10583,0.10583,11
+Tech_Engineering,Science_Research,Writing,0.101281,0.121649,0.101281,12
+Tech_Engineering,Science_Research,Data Analysis,0.098628,0.231361,0.098628,13
+Tech_Engineering,Science_Research,Interpersonal Skills,0.110441,0.096821,0.096821,14
+Tech_Engineering,Science_Research,Microsoft Excel,0.104788,0.096089,0.096089,15
+Tech_Engineering,Skilled_Trades_Ops,Communication,0.412846,0.435806,0.412846,1
+Tech_Engineering,Skilled_Trades_Ops,Teamwork,0.387018,0.339874,0.339874,2
+Tech_Engineering,Skilled_Trades_Ops,Problem Solving,0.262964,0.248096,0.248096,3
+Tech_Engineering,Skilled_Trades_Ops,Workplace / OSHA Safety,0.205563,0.335737,0.205563,4
+Tech_Engineering,Skilled_Trades_Ops,Attention to Detail,0.158922,0.20539,0.158922,5
+Tech_Engineering,Skilled_Trades_Ops,Microsoft Office,0.157469,0.144574,0.144574,6
+Tech_Engineering,Skilled_Trades_Ops,Production,0.175336,0.140555,0.140555,7
+Tech_Engineering,Skilled_Trades_Ops,Electrical Systems,0.139309,0.139018,0.139018,8
+Tech_Engineering,Skilled_Trades_Ops,Troubleshooting,0.148922,0.138866,0.138866,9
+Tech_Engineering,Skilled_Trades_Ops,Manufacturing,0.184562,0.112177,0.112177,10
+Tech_Engineering,Skilled_Trades_Ops,Interpersonal Skills,0.110441,0.106798,0.106798,11
+Tech_Engineering,Skilled_Trades_Ops,Project Management,0.277804,0.099656,0.099656,12
+Tech_Engineering,Skilled_Trades_Ops,Quality Assurance,0.095841,0.124268,0.095841,13
+Tech_Engineering,Skilled_Trades_Ops,Written Communication,0.119802,0.094505,0.094505,14
+Tech_Engineering,Skilled_Trades_Ops,Microsoft Excel,0.104788,0.093095,0.093095,15

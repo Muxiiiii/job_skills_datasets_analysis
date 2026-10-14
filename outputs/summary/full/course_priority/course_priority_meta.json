@@ -1,0 +1,70 @@
+{
+  "generated_at_utc": "2026-10-14T10:44:49+00:00",
+  "source": "outputs/full_v8 (1 file(s))",
+  "out_dir": "outputs/summary/full/course_priority",
+  "n_postings_dedup": 1078070,
+  "n_skills": 280,
+  "params": {
+    "min_skill_jobs": 100,
+    "min_lift": 1.5,
+    "min_co_jobs": 30,
+    "rca_min": 1.0,
+    "rca_min_group_jobs": 20,
+    "group_min_skill_jobs": 20,
+    "normalize": "minmax",
+    "n_draws": 2000,
+    "alpha": 1.0,
+    "seed": 42,
+    "stable_p": 0.8,
+    "top_k": [
+      10,
+      20
+    ]
+  },
+  "groups": [
+    "Creative_Media",
+    "Education",
+    "Finance_Accounting",
+    "Healthcare_Clinical",
+    "Healthcare_Nursing",
+    "Hospitality_Food",
+    "Legal_Compliance",
+    "Management_HR_Admin",
+    "Sales_Customer",
+    "Science_Research",
+    "Skilled_Trades_Ops",
+    "Tech_Engineering"
+  ],
+  "n_groups": 12,
+  "spearman_strength_pagerank": 0.9678676659505495,
+  "dims": {
+    "4d": [
+      "demand",
+      "breadth",
+      "centrality",
+      "accessibility"
+    ],
+    "3d": [
+      "demand",
+      "breadth",
+      "centrality"
+    ]
+  },
+  "top10_equal_4d": [
+    "Communication",
+    "Teamwork",
+    "Written Communication",
+    "Problem Solving",
+    "Attention to Detail",
+    "Workplace / OSHA Safety",
+    "Mathematical Calculations",
+    "Microsoft Office",
+    "Power BI",
+    "Databases"
+  ],
+  "stable_top10_4d": [],
+  "stable_top20_4d": [],
+  "partial_slice": false,
+  "sample_note": "Postings are those returned by LinkedIn searches in four English-speaking countries in early 2024; they are not a random sample of the labour market.",
+  "quality_note": "Skill extraction precision≈0.66 / recall≈0.58 on 50 unseen postings (two-source high-confidence subset: precision≈0.93). Use for rankings and group comparisons, not as per-posting skill lists."
+}

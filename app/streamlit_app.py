@@ -2,6 +2,9 @@
 
     streamlit run app/streamlit_app.py
     SKILL_SUMMARY_DIR=outputs/summary/full streamlit run app/streamlit_app.py
+
+The summary directory comes from the SKILL_SUMMARY_DIR environment variable, else from a
+SKILL_SUMMARY_DIR entry in Streamlit secrets (Streamlit Community Cloud), else the pilot tables.
 """
 
 from __future__ import annotations
@@ -16,7 +19,7 @@ import plotly.graph_objects as go
 import streamlit as st
 
 ROOT = Path(__file__).resolve().parents[1]
-DEFAULT_DIR = os.environ.get("SKILL_SUMMARY_DIR", "outputs/summary/pilot")
+PILOT_DIR = "outputs/summary/pilot"
 BLUE, ORANGE = "#2a78d6", "#eb6834"
 SEQ = ["#f0efec", "#86b6ef", "#2a78d6", "#0d366b"]
 DIV = ["#1c5cab", "#86b6ef", "#f0efec", "#f2a98a", "#c44a1c"]
@@ -25,6 +28,16 @@ EDU_ORDER = ["high_school", "associate", "bachelor", "master", "phd", "professio
 BA_PLUS = ["bachelor", "master", "phd", "professional_doctorate"]
 
 st.set_page_config(page_title="LinkedIn skill demand", page_icon="📊", layout="wide")
+
+
+def default_dir() -> str:
+    """SKILL_SUMMARY_DIR from the environment, then from st.secrets, else the pilot tables."""
+    if os.environ.get("SKILL_SUMMARY_DIR"):
+        return os.environ["SKILL_SUMMARY_DIR"]
+    try:
+        return str(st.secrets.get("SKILL_SUMMARY_DIR", PILOT_DIR))
+    except Exception:  # no secrets file
+        return PILOT_DIR
 
 
 def resolve(d: str) -> Path:
@@ -338,16 +351,22 @@ def page_curriculum(base, ov):
     render(base, ov)
 
 
+def page_course_priority(base, ov):
+    from course_priority_page import render  # app/course_priority_page.py, reads <summary-dir>/course_priority/
+    render(base, ov)
+
+
 PAGES = {"Overview": page_overview, "Skill ranking": page_ranking, "Co-occurrence": page_cooccurrence,
          "Education & experience": page_edu_yoe, "Certificates": page_certs, "Model results": page_models,
-         "Data quality": page_quality, "Curriculum insights": page_curriculum}
+         "Data quality": page_quality, "Curriculum insights": page_curriculum,
+         "Course priority": page_course_priority}
 
 
 def main():
     st.sidebar.header("LinkedIn skill demand")
     page = st.sidebar.radio("Page", list(PAGES), label_visibility="collapsed")
     with st.sidebar.expander("Data source"):
-        d = st.text_input("Summary directory", DEFAULT_DIR, help="Folder produced by src/analysis/build_summaries.py")
+        d = st.text_input("Summary directory", default_dir(), help="Folder produced by src/analysis/build_summaries.py")
     base = resolve(d)
     if not (base / "overview.json").exists():
         st.error(f"No summary tables in `{base}`. Run `python -m src.analysis.build_summaries` first.")

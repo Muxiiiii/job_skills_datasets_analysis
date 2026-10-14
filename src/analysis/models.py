@@ -55,6 +55,7 @@ def load_matrix(inp: dict, min_skills: int = 3, min_skill_jobs: int = 50, max_jo
     n_per = long.groupby("job_link").skill.transform("size")
     long = long[n_per >= min_skills]
     jobs = long.drop_duplicates("job_link")[["job_link", "position_group", "search_country"]].reset_index(drop=True)
+    n_eligible = len(jobs)
     if max_jobs and len(jobs) > max_jobs:
         jobs = jobs.sample(max_jobs, random_state=SEED).reset_index(drop=True)
         long = long[long.job_link.isin(set(jobs.job_link))]
@@ -64,7 +65,7 @@ def load_matrix(inp: dict, min_skills: int = 3, min_skill_jobs: int = 50, max_jo
     X = sparse.csr_matrix((np.ones(len(long), dtype=np.float32),
                            (ji.loc[long.job_link].to_numpy(), si.loc[long.skill].to_numpy())),
                           shape=(len(jobs), len(skills)))
-    return X, jobs, skills
+    return X, jobs, skills, n_eligible
 
 
 def umass_coherence(top_idx: np.ndarray, Xb: sparse.csr_matrix) -> float:
@@ -203,6 +204,7 @@ def write_report(path: Path, meta: dict, prof: dict, clf: dict):
 
 Input: {meta['n_jobs']:,} deduplicated postings with ≥{meta['min_skills']} specific skills × {meta['n_skills']} skills
 (skills appearing in ≥{meta['min_skill_jobs']} postings; generic / unspecified labels excluded). Source: `{meta['source']}`.
+{meta.get('sample_note', '')}
 
 > {QUALITY_NOTE}
 > Extraction noise (precision≈0.66) blurs both the clusters and the classifier; treat results as descriptive.
@@ -257,7 +259,7 @@ independent of the extracted skills.
 
 ## Caveats
 
-- The pilot slice is not a random sample of the corpus (URL-ordered: AU/CA/UK complete, US only early-alphabet titles); re-run with `--preset full`.
+- {meta.get('slice_caveat', '')}
 - `position_group` is a coarse mapping of 1,993 search positions; `Management_HR_Admin` in particular is heterogeneous, which caps accuracy.
 - Coefficients show association with a group relative to the others, not importance of the skill in absolute demand.
 """
@@ -272,14 +274,15 @@ def main(argv=None):
     ap.add_argument("--min-skill-jobs", type=int, default=50, help="min postings per skill")
     ap.add_argument("--max-jobs", type=int, default=None, help="optional random cap on postings (memory)")
     ap.add_argument("--include-other", action="store_true", help="keep the catch-all Other group as a class")
-    ap.add_argument("--report", type=Path, default=ROOT / "outputs" / "models_report.md")
+    ap.add_argument("--report", type=Path, help="default: outputs/models_report.md (pilot) / _full.md (full)")
     args = ap.parse_args(argv)
     inp = resolve_inputs(args)
+    args.report = args.report or ROOT / "outputs" / ("models_report.md" if args.preset == "pilot" else f"models_report_{args.preset}.md")
     out = Path(inp["summary_dir"]) / "models"
     out.mkdir(parents=True, exist_ok=True)
 
     print("loading matrix…")
-    X, jobs, skills = load_matrix(inp, args.min_skills, args.min_skill_jobs, args.max_jobs)
+    X, jobs, skills, n_eligible = load_matrix(inp, args.min_skills, args.min_skill_jobs, args.max_jobs)
     print(f"  {X.shape[0]:,} postings × {X.shape[1]} skills, {X.nnz:,} non-zeros")
     sil_sample = 10_000
     print("skill profiles…")
@@ -298,7 +301,13 @@ def main(argv=None):
     meta = {"n_jobs": int(X.shape[0]), "n_skills": int(X.shape[1]), "min_skills": args.min_skills,
             "min_skill_jobs": args.min_skill_jobs, "k_grid": args.k_grid, "sil_sample": min(sil_sample, X.shape[0]),
             "k_nmf": prof["k_nmf"], "k_kmeans": prof["k_kmeans"], "source": f"{src} ({len(inp['jobs'])} file(s))",
-            "classifier": clf["metrics"]}
+            "classifier": clf["metrics"], "max_jobs": args.max_jobs, "n_jobs_eligible": int(n_eligible),
+            "sample_note": (f"Random sample of {X.shape[0]:,} of {n_eligible:,} eligible postings (seed {SEED}, `--max-jobs`)."
+                            if X.shape[0] < n_eligible else ""),
+            "slice_caveat": ("The pilot slice is not a random sample of the corpus (URL-ordered: AU/CA/UK complete, "
+                             "US only early-alphabet titles); re-run with `--preset full`." if args.preset == "pilot" else
+                             "Postings come from LinkedIn searches in four English-speaking countries in early 2024; "
+                             "they are not a random sample of the labour market.")}
     (out / "model_metrics.json").write_text(json.dumps(meta, indent=2))
     write_report(args.report, meta, prof, clf)
     print("report →", args.report)

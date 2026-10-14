@@ -4,12 +4,18 @@ A rule-based pipeline that extracts skills, education, experience and certificat
 from 1.35 million LinkedIn job postings, then summarises what employers ask for by occupation
 group, country and seniority.
 
-> **Status: preliminary.** The full run over all 1,348,454 postings is still in progress.
-> Every result in this repository comes from the first 300,000 postings (259,589 after
-> deduplication). That slice is not a random sample; see [Pilot caveat](#pilot-caveat).
-> The numbers will be updated when the full run finishes.
+> **Status.** The full run over all 1,348,454 postings (1,078,070 after deduplication) is
+> complete; its tables are in `outputs/summary/full/` and are the reference results. The
+> earlier pilot tables (first 300,000 postings, not a random sample; see
+> [Pilot caveat](#pilot-caveat)) are kept in `outputs/summary/pilot/` for comparison.
+> The [key findings](#key-findings) below still quote the pilot; the
+> [pilot vs full](#pilot-vs-full-run) table shows how the main figures moved.
 
-Link to the Streamlit Dashboard is: https://linkedin-job-skills-datasets-analysis.streamlit.app/
+**Dashboards.** The same app serves both sets of tables (see [Two dashboards](#two-dashboards)):
+
+- Pilot: https://linkedin-job-skills-datasets-analysis.streamlit.app/
+- Full run: a second deployment with `SKILL_SUMMARY_DIR=outputs/summary/full`
+
 ## Contents
 
 - [Overview](#overview)
@@ -38,17 +44,20 @@ then evaluated on postings they had never seen. Analysis runs on small aggregate
 
 | Output | Location |
 |---|---|
-| EDA report with eight figures | [`outputs/eda_report.md`](outputs/eda_report.md), `outputs/figures/` |
-| Clustering and classification report | [`outputs/models_report.md`](outputs/models_report.md) |
-| Aggregated summary tables | `outputs/summary/pilot/` |
+| EDA report with eight figures | Full: [`outputs/eda_report_full.md`](outputs/eda_report_full.md), `outputs/figures_full/` · pilot: [`outputs/eda_report.md`](outputs/eda_report.md), `outputs/figures/` |
+| Clustering and classification report | Full: [`outputs/models_report_full.md`](outputs/models_report_full.md) · pilot: [`outputs/models_report.md`](outputs/models_report.md) |
+| Curriculum report (skill bundles, transition gaps) | Full: [`outputs/curriculum_report_full.md`](outputs/curriculum_report_full.md) · pilot: [`outputs/curriculum_report.md`](outputs/curriculum_report.md) |
+| Course-priority report (composite skill ranking) | Full: [`outputs/course_priority_report_full.md`](outputs/course_priority_report_full.md) · pilot: [`outputs/course_priority_report.md`](outputs/course_priority_report.md) |
+| Aggregated summary tables | `outputs/summary/full/` (reference), `outputs/summary/pilot/` |
 | Validation report | [`cleaned/final_eval_v8.md`](cleaned/final_eval_v8.md) |
-| Streamlit dashboard (eight pages) | `app/streamlit_app.py`, runs locally; see [Quickstart](#quickstart) |
+| Streamlit dashboard (nine pages) | `app/streamlit_app.py`; see [Quickstart](#quickstart) |
 
-![Top 30 skills overall](outputs/figures/02_top30_skills.png)
+![Top 30 skills overall, full run](outputs/figures_full/02_top30_skills.png)
 
 ## Key findings
 
-These are preliminary results from the 300,000-posting pilot slice. Shares are percentages of
+These figures come from the 300,000-posting pilot slice; the [pilot vs full](#pilot-vs-full-run)
+table gives the full-run values of the headline numbers. Shares are percentages of
 deduplicated postings unless stated otherwise.
 
 1. **Soft skills lead the ranking.** Communication appears in 47.9% of postings and Teamwork in
@@ -69,6 +78,22 @@ deduplicated postings unless stated otherwise.
    0.28 and 0.04. Nursing (F1 0.73) and finance (0.68) are easy to recognise. The broad
    management and admin group is not (0.25). Skill clusters are soft themes, not well-separated
    groups (cosine silhouette about 0.06).
+
+### Pilot vs full run
+
+| Figure | Pilot (first 300k) | Full run |
+|---|---|---|
+| Postings after deduplication | 259,589 (13.5% duplicates) | 1,078,070 (20.1% duplicates) |
+| US share of postings | 31.8% | 83.4% |
+| Communication / Teamwork | 47.9% / 39.1% | 44.1% / 37.2% |
+| Soft share of skill mentions | 40.5% | 37.1% |
+| Postings stating a degree / of those, bachelor's or higher | 22.3% / 75.9% | 36.4% / 68.3% |
+| Postings stating years of experience / median minimum | 30.6% / 3 years | 43.2% / 2 years |
+| Top credentials | Driver's License 9.2%, RN 4.4%, CPR 2.1% | RN 11.8%, Driver's License 9.3%, BLS 7.6% |
+| Occupation classifier accuracy / macro-F1 (majority baseline) | 0.44 / 0.44 (0.28) | 0.46 / 0.44 (0.23)¹ |
+| Skill communities (modularity, mean ARI over seeds) | 7 (0.33, 0.98) | 8 (0.28, 0.97) |
+
+¹ Models on the full run use a random sample of 300,000 eligible postings (`--max-jobs 300000`, seed 42).
 
 ### Pilot caveat
 
@@ -113,13 +138,42 @@ CSV files from Kaggle and place them in the repository root.
 | 5 | Build aggregated summary tables | `src/analysis/build_summaries.py` | `outputs/summary/<name>/` |
 | 6 | Produce figures and the EDA report | `src/analysis/eda.py` | `outputs/figures/`, `outputs/eda_report.md` |
 | 7 | Cluster skill profiles and predict occupation group | `src/analysis/models.py` | `outputs/models_report.md` |
-| 8 | Skill bundles and occupation-transition gaps (curriculum view) | `src/analysis/curriculum.py` | `outputs/summary/<name>/curriculum/`, `outputs/curriculum_report.md` |
-| 9 | Serve the dashboard from the summary tables | `app/streamlit_app.py` | Local web app |
+| 8 | Skill bundles and occupation-transition gaps (curriculum view) | `src/analysis/curriculum.py` | `outputs/summary/<name>/curriculum/`, `outputs/curriculum_report[_full].md` |
+| 9 | Composite course-priority ranking with weight-uncertainty analysis | `src/analysis/course_priority.py` | `outputs/summary/<name>/course_priority/`, `outputs/course_priority_report[_full].md` |
+| 10 | Serve the dashboard from the summary tables | `app/streamlit_app.py` | Web app |
 
 Skills come from two sources: LinkedIn's `job_skills` list and a dictionary and context match on
 the description text. A skill found in both sources is flagged `high_confidence`.
 
 [`CHANGELOG.md`](CHANGELOG.md) describes how the rules evolved up to the v8 freeze.
+
+### Course priority
+
+`src/analysis/course_priority.py` ranks every specific skill (≥ 100 postings) for curriculum
+planning on four dimensions, each scaled to 0–1 so that higher means higher priority:
+
+| Dimension | Definition |
+|---|---|
+| Demand | Share of deduplicated postings that mention the skill |
+| Breadth | Number of occupation groups (Other excluded) where the skill's RCA > 1 |
+| Centrality | Weighted degree in the PMI co-occurrence network of the curriculum analysis (PageRank kept as an alternative) |
+| Accessibility (optional) | Reverse-scored median minimum years of experience and share requiring a bachelor's degree or higher, among postings with the skill |
+
+The headline ranking uses equal weights. Weight uncertainty is handled following the OECD &
+JRC (2008) handbook and Saisana, Saltelli & Tarantola (2005): (A) 2,000 weight vectors drawn
+from a flat Dirichlet(α = 1) give each skill a median rank, a 5–95 % rank interval and the
+probability of a top-10 / top-20 rank; (B) entropy and CRITIC (Diakoulaki et al. 1995) weights
+give two data-driven rankings; (C) Kendall tau and top-10 overlap compare all four. Everything is
+repeated without accessibility as a robustness check, and once per occupation group (demand and
+centrality recomputed inside the group).
+
+On the full run, the equal-weight top 10 is Communication, Teamwork, Written Communication,
+Problem Solving, Attention to Detail, Workplace / OSHA Safety, Mathematical Calculations,
+Microsoft Office, Power BI and Databases. No skill reaches P(top 10) ≥ 0.8 under random weights
+(the highest is Attention to Detail at 0.58), so the ranking depends on how the dimensions are
+weighted. Read it with the intervals. Details and limitations (single snapshot, so no growth
+dimension; skill precision ≈ 0.66) are in
+[`outputs/course_priority_report_full.md`](outputs/course_priority_report_full.md).
 
 ## Validation and data quality
 
@@ -197,24 +251,29 @@ Full details are in [`cleaned/final_eval_v8.md`](cleaned/final_eval_v8.md),
 │   ├── build_summaries.py
 │   ├── eda.py
 │   ├── models.py
-│   └── curriculum.py                 skill communities, RCA, occupation-transition gaps
+│   ├── curriculum.py                 skill communities, RCA, occupation-transition gaps
+│   └── course_priority.py            composite skill ranking, Monte Carlo / entropy / CRITIC weights
 ├── app/
 │   ├── streamlit_app.py              dashboard
-│   └── curriculum_page.py            "Curriculum insights" page
+│   ├── curriculum_page.py            "Curriculum insights" page
+│   └── course_priority_page.py       "Course priority" page
 ├── tests/
 │   ├── test_rules.py                 extraction rule tests
 │   ├── test_analysis.py              analysis-layer tests
-│   └── test_curriculum.py            curriculum-analysis tests
+│   ├── test_curriculum.py            curriculum-analysis tests
+│   └── test_course_priority.py       course-priority tests
 ├── cleaned/                          validation reports, gold labels, frozen job-family model
 └── outputs/
-    ├── eda_report.md
-    ├── models_report.md
-    ├── curriculum_report.md
-    ├── figures/                      eight EDA figures
+    ├── eda_report[_full].md
+    ├── models_report[_full].md
+    ├── curriculum_report[_full].md
+    ├── course_priority_report[_full].md
+    ├── figures/, figures_full/       eight EDA figures each (pilot, full run)
     └── summary/
         ├── DATA_QUALITY.md
         ├── search_position_all_counts.csv
-        └── pilot/                    aggregated tables read by the dashboard
+        ├── full/                     aggregated tables of the full run (CSV / JSON)
+        └── pilot/                    aggregated tables of the 300k pilot slice
 ```
 
 The suffixes `_v3`, `_v4` and `_v6` mark the version in which a helper last changed. All of
@@ -234,14 +293,45 @@ The project was developed with Python 3.14.
 
 ### 2. Open the dashboard
 
-The dashboard reads only the committed tables in `outputs/summary/pilot/`. It needs no raw data.
+The dashboard reads only the committed summary tables. It needs no raw data.
 
 ```bash
-streamlit run app/streamlit_app.py
+streamlit run app/streamlit_app.py                                          # pilot tables
+SKILL_SUMMARY_DIR=outputs/summary/full streamlit run app/streamlit_app.py   # full-run tables
 ```
 
-It has eight pages: Overview, Skill ranking, Co-occurrence, Education & experience,
-Certificates, Model results, Data quality and Curriculum insights.
+It has nine pages: Overview, Skill ranking, Co-occurrence, Education & experience,
+Certificates, Model results, Data quality, Curriculum insights and Course priority.
+
+### Two dashboards
+
+The app picks its summary directory from the `SKILL_SUMMARY_DIR` environment variable, then
+from a `SKILL_SUMMARY_DIR` entry in Streamlit secrets, and otherwise falls back to
+`outputs/summary/pilot`. The directory can also be changed in the sidebar under *Data source*.
+
+- **Pilot** (`outputs/summary/pilot/`): the first 300,000 postings in URL order. It is not a
+  random sample. The US is under-weighted and limited to titles early in the alphabet, so
+  English-speaking markets outside the US (UK, Canada, Australia) dominate.
+- **Full run** (`outputs/summary/full/`): all 1,078,070 deduplicated postings. This is the
+  reference version.
+
+To deploy the full-run dashboard as a second app on Streamlit Community Cloud:
+
+1. On [share.streamlit.io](https://share.streamlit.io), click **Create app** and choose to deploy
+   from GitHub.
+2. Repository `Muxiiiii/job_skills_datasets_analysis`, branch `main`, main file path
+   `app/streamlit_app.py`. Pick a different app URL from the pilot app, e.g.
+   `linkedin-job-skills-full`.
+3. Open **Advanced settings**, choose the Python version, and paste into **Secrets**:
+
+   ```toml
+   SKILL_SUMMARY_DIR = "outputs/summary/full"
+   ```
+
+4. Click **Deploy**. The sidebar should then read "1,078,070 postings". For an app that is
+   already deployed, the same line goes under the app's **Settings → Secrets**.
+
+The existing pilot app needs no change: without the secret it keeps showing the pilot tables.
 
 ### 3. Rebuild the summaries, EDA and models
 
@@ -255,19 +345,23 @@ python -m src.analysis.models             # outputs/models_report.md
 python -m src.analysis.curriculum         # outputs/summary/pilot/curriculum/ and outputs/curriculum_report.md
 ```
 
-### 4. Switch to the full run
+Add `python -m src.analysis.course_priority` for `outputs/summary/pilot/course_priority/` and
+`outputs/course_priority_report.md`.
 
-Once the full run has finished and merged its chunks:
+### 4. Rebuild the full-run tables
+
+From the merged full-run output (`outputs/full_v8/*_v8.parquet`):
 
 ```bash
-python -m src.analysis.build_summaries --preset full
-python -m src.analysis.eda --summary-dir outputs/summary/full --figures-dir outputs/figures_full --report outputs/eda_report_full.md
-python -m src.analysis.models --preset full --report outputs/models_report_full.md
-python -m src.analysis.curriculum --preset full    # outputs/summary/full/curriculum/, outputs/curriculum_report_full.md
-SKILL_SUMMARY_DIR=outputs/summary/full streamlit run app/streamlit_app.py
+python -m src.analysis.build_summaries --preset full                 # outputs/summary/full/
+python -m src.analysis.eda --preset full                             # outputs/figures_full/, outputs/eda_report_full.md
+python -m src.analysis.models --preset full --max-jobs 300000        # random 300k sample, ~7 GB RAM
+python -m src.analysis.curriculum --preset full                      # outputs/summary/full/curriculum/
+python -m src.analysis.course_priority --preset full                 # outputs/summary/full/course_priority/
 ```
 
-`build_summaries` and `models` also accept explicit `--jobs`, `--skills`, `--certs` and
+Reports for the full run get a `_full` suffix. `build_summaries`, `models`, `curriculum` and
+`course_priority` also accept explicit `--jobs`, `--skills`, `--certs` and
 `--summary-dir` paths. Run any script with `--help` to see its options.
 
 ### 5. Run the extraction (optional)
@@ -289,9 +383,9 @@ pytest
 
 - **Demand side only.** Postings show what employers ask for. They do not show what workers
   have, who gets hired, or what the job requires in practice.
-- **Sampling bias in the current results.** The pilot slice under-represents the US (32% of the
-  slice, 85% of the corpus) and covers only US titles early in the alphabet. See
-  [Pilot caveat](#pilot-caveat).
+- **Sampling bias in the pilot.** The pilot slice under-represents the US (32% of the slice,
+  85% of the corpus) and covers only US titles early in the alphabet. See
+  [Pilot caveat](#pilot-caveat). Use the full-run tables for conclusions.
 - **Single LLM annotator.** Claude produced all gold labels, and no human reviewed them. The
   evaluation sample is small (n = 50), so each accuracy figure carries an interval of roughly
   ±0.12 to ±0.14.
@@ -308,4 +402,4 @@ The dataset was collected and published on Kaggle by
 [asaniczka](https://www.kaggle.com/datasets/asaniczka/1-3m-linkedin-jobs-and-skills-2024). Its
 use is subject to the terms on the dataset page.
 
-This repository does not yet include a license file.
+The code is released under the MIT License (see [`LICENSE`](LICENSE)).

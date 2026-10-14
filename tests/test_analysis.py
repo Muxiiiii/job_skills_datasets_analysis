@@ -85,7 +85,7 @@ def test_build_summaries(data):
 
 
 def test_models(data):
-    X, jobs, skills = models.load_matrix(data, min_skills=3, min_skill_jobs=5)
+    X, jobs, skills, _ = models.load_matrix(data, min_skills=3, min_skill_jobs=5)
     assert X.shape == (594, 13) and X.max() == 1
     prof = models.run_profiles(X, jobs, skills, k_grid=[2, 3], top_n=5, sil_sample=300)
     assert prof["k_kmeans"] == 3  # three planted occupational skill bundles

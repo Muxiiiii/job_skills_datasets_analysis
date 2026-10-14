@@ -1,8 +1,7 @@
 """EDA figures + markdown report, built only from the summary tables.
 
     python -m src.analysis.eda                                   # pilot summaries
-    python -m src.analysis.eda --summary-dir outputs/summary/full --figures-dir outputs/figures_full \
-        --report outputs/eda_report_full.md
+    python -m src.analysis.eda --preset full                     # -> outputs/figures_full/, eda_report_full.md
 """
 
 from __future__ import annotations
@@ -171,7 +170,8 @@ def fig_country(S, rep, n=25):
              f"{pct(m.loc[s0].max())} in {m.loc[s0].idxmax()} vs {pct(m.loc[s0].min())} in {m.loc[s0].idxmin()}. "
              f"Second is {spread.index[1]} ({pct(m.loc[spread.index[1]].max())} in {m.loc[spread.index[1]].idxmax()} "
              f"vs {pct(m.loc[spread.index[1]].min())} in {m.loc[spread.index[1]].idxmin()}).",
-             caption=CAPTION + " US rows in the pilot cover only titles early in the alphabet (see report caveats).")
+             caption=CAPTION + (" US rows in the pilot cover only titles early in the alphabet (see report caveats)."
+                                if S["partial"] else ""))
 
 
 def fig_cooccurrence(S, rep, n=50):
@@ -294,7 +294,14 @@ def load(summary_dir: Path) -> tuple[dict, dict]:
          "by_group": r("skill_freq_by_position_group.csv"), "by_country": r("skill_freq_by_search_country.csv"),
          "co": pd.read_csv(co), "edu": r("edu_dist.csv"), "yoe": r("yoe_dist.csv"),
          "cert": r("cert_occurrence.csv"), "soft": r("soft_hard_by_position_group.csv")}
-    return S, json.loads((summary_dir / "overview.json").read_text())
+    ov = json.loads((summary_dir / "overview.json").read_text())
+    S["partial"] = is_partial(ov)
+    return S, ov
+
+
+def is_partial(ov: dict) -> bool:
+    """True when the summaries were built from a slice of the run's chunk files (the pilot)."""
+    return any("chunk" in Path(p).name for p in ov["inputs"]["jobs"])
 
 
 def caveats(ov: dict) -> str:
@@ -304,11 +311,14 @@ def caveats(ov: dict) -> str:
     return (
         "## Caveats\n\n"
         f"- **Sample composition.** Inputs: `{ov['inputs']['jobs'][0]}` … ({len(ov['inputs']['jobs'])} file(s)). "
-        f"Country mix here: {mix}. The full run processes postings in `job_link` order, so a partial slice is not a random "
-        "sample: non-US postings come first, and US postings arrive alphabetically by title slug. In the 300k pilot slice, "
-        "Australia, Canada and the UK are essentially complete, but the US covers only titles from 'a' to about 'band', "
-        "and the US is ~32% of the slice versus ~85% of the full corpus. Treat pilot US and overall figures as provisional; "
-        "re-run with `--preset full` when the full run completes.\n"
+        f"Country mix here: {mix}. " + (
+            "The full run processes postings in `job_link` order, so a partial slice is not a random "
+            "sample: non-US postings come first, and US postings arrive alphabetically by title slug. In the 300k pilot slice, "
+            "Australia, Canada and the UK are essentially complete, but the US covers only titles from 'a' to about 'band', "
+            "and the US is ~32% of the slice versus ~85% of the full corpus. Treat pilot US and overall figures as provisional; "
+            "the full-corpus version is built with `--preset full`.\n" if is_partial(ov) else
+            "These are all postings of the full run. They come from LinkedIn searches in four English-speaking countries in "
+            "early 2024 and are not a random sample of the labour market.\n") +
         "- **Skills.** Precision≈0.66, recall≈0.58 on 50 unseen postings: good for rankings and group comparisons, "
         "not for exact per-posting lists. The high-confidence subset (both `job_skills` and the description agree) has precision≈0.93 "
         "but lower coverage.\n"
@@ -320,10 +330,14 @@ def caveats(ov: dict) -> str:
 
 def main(argv=None):
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
-    ap.add_argument("--summary-dir", type=Path, default=PRESETS["pilot"]["summary_dir"])
-    ap.add_argument("--figures-dir", type=Path, default=PRESETS["pilot"]["figures_dir"])
-    ap.add_argument("--report", type=Path, default=ROOT / "outputs" / "eda_report.md")
+    ap.add_argument("--preset", choices=sorted(PRESETS), default="pilot", help="sets the three defaults below")
+    ap.add_argument("--summary-dir", type=Path)
+    ap.add_argument("--figures-dir", type=Path)
+    ap.add_argument("--report", type=Path, help="default: outputs/eda_report.md (pilot) / _full.md (full)")
     args = ap.parse_args(argv)
+    args.summary_dir = args.summary_dir or PRESETS[args.preset]["summary_dir"]
+    args.figures_dir = args.figures_dir or PRESETS[args.preset]["figures_dir"]
+    args.report = args.report or ROOT / "outputs" / ("eda_report.md" if args.preset == "pilot" else f"eda_report_{args.preset}.md")
     S, ov = load(args.summary_dir)
     rep = Report(args.figures_dir, args.report)
     fig_overview(S, ov, rep)

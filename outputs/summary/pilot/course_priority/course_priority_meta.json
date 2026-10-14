@@ -1,0 +1,70 @@
+{
+  "generated_at_utc": "2026-10-14T10:44:40+00:00",
+  "source": "outputs/full_v8/chunks (6 file(s))",
+  "out_dir": "outputs/summary/pilot/course_priority",
+  "n_postings_dedup": 259589,
+  "n_skills": 278,
+  "params": {
+    "min_skill_jobs": 100,
+    "min_lift": 1.5,
+    "min_co_jobs": 30,
+    "rca_min": 1.0,
+    "rca_min_group_jobs": 20,
+    "group_min_skill_jobs": 20,
+    "normalize": "minmax",
+    "n_draws": 2000,
+    "alpha": 1.0,
+    "seed": 42,
+    "stable_p": 0.8,
+    "top_k": [
+      10,
+      20
+    ]
+  },
+  "groups": [
+    "Creative_Media",
+    "Education",
+    "Finance_Accounting",
+    "Healthcare_Clinical",
+    "Healthcare_Nursing",
+    "Hospitality_Food",
+    "Legal_Compliance",
+    "Management_HR_Admin",
+    "Sales_Customer",
+    "Science_Research",
+    "Skilled_Trades_Ops",
+    "Tech_Engineering"
+  ],
+  "n_groups": 12,
+  "spearman_strength_pagerank": 0.9823228409237208,
+  "dims": {
+    "4d": [
+      "demand",
+      "breadth",
+      "centrality",
+      "accessibility"
+    ],
+    "3d": [
+      "demand",
+      "breadth",
+      "centrality"
+    ]
+  },
+  "top10_equal_4d": [
+    "Teamwork",
+    "Attention to Detail",
+    "Mathematical Calculations",
+    "Goal Setting",
+    "Workplace / OSHA Safety",
+    "Automation",
+    "Confidentiality",
+    "Cash Handling",
+    "Conflict Resolution",
+    "Creativity"
+  ],
+  "stable_top10_4d": [],
+  "stable_top20_4d": [],
+  "partial_slice": true,
+  "sample_note": "These tables come from a partial slice of the full run (the first 300k postings in URL order), not a random sample: the US is under-weighted and covers only job titles early in the alphabet. Use the full-run tables for decisions.",
+  "quality_note": "Skill extraction precision≈0.66 / recall≈0.58 on 50 unseen postings (two-source high-confidence subset: precision≈0.93). Use for rankings and group comparisons, not as per-posting skill lists."
+}

@@ -1,0 +1,47 @@
+{
+  "generated_at_utc": "2026-10-14T10:37:27+00:00",
+  "inputs": {
+    "jobs": [
+      "outputs/full_v8/jobs_v8.parquet"
+    ],
+    "skills": [
+      "outputs/full_v8/job_skills_v8.parquet"
+    ],
+    "certs": [
+      "outputs/full_v8/job_certs_v8.parquet"
+    ]
+  },
+  "n_postings_raw": 1348454,
+  "n_postings_dedup": 1078070,
+  "dup_share": 0.2005140701870438,
+  "n_distinct_skills": 312,
+  "n_distinct_skills_specific": 281,
+  "share_jobs_with_any_specific_skill": 0.927474097229308,
+  "skills_per_job_mean_specific": 8.633939804896977,
+  "skills_per_job_median_specific": 8.0,
+  "skills_per_job_mean_incl_generic": 11.424252281163504,
+  "share_skill_rows_high_conf": 0.40581328150691987,
+  "share_jobs_edu_stated": 0.3643204986689176,
+  "share_jobs_yoe_stated": 0.4322724869442615,
+  "yoe_median_when_stated": 2.0,
+  "share_jobs_text_ok": 0.9525800736501341,
+  "n_distinct_certs": 43,
+  "share_jobs_any_cert": 0.34202231766026325,
+  "by_country": {
+    "United States": 899544,
+    "United Kingdom": 102759,
+    "Canada": 47758,
+    "Australia": 28009
+  },
+  "cooccurrence_top_n": 200,
+  "quality": {
+    "skill_precision": 0.66,
+    "skill_recall": 0.58,
+    "skill_precision_high_conf": 0.93,
+    "edu_required_acc": 0.86,
+    "yoe_overall_acc": 0.84,
+    "certs_exact_set_acc": 0.56,
+    "job_family_pred_acc": 0.62
+  },
+  "quality_note": "Skill extraction precision≈0.66 / recall≈0.58 on 50 unseen postings (two-source high-confidence subset: precision≈0.93). Use for rankings and group comparisons, not as per-posting skill lists."
+}
