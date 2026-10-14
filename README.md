@@ -8,6 +8,8 @@ group, country and seniority.
 > Every result in this repository comes from the first 300,000 postings (259,589 after
 > deduplication). That slice is not a random sample; see [Pilot caveat](#pilot-caveat).
 > The numbers will be updated when the full run finishes.
+>
+> Link to Streamlit Dashboard: https://linkedin-job-skills-datasets-analysis.streamlit.app/
 
 ## Contents
 
