@@ -9,6 +9,7 @@ group, country and seniority.
 > deduplication). That slice is not a random sample; see [Pilot caveat](#pilot-caveat).
 > The numbers will be updated when the full run finishes.
 
+Link to the Streamlit Dashboard is: https://linkedin-job-skills-datasets-analysis.streamlit.app/
 ## Contents
 
 - [Overview](#overview)
