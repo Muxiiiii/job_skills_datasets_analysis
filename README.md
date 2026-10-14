@@ -13,8 +13,7 @@ group, country and seniority.
 
 **Dashboards.** The same app serves both sets of tables (see [Two dashboards](#two-dashboards)):
 
-- Pilot: https://linkedin-job-skills-datasets-analysis.streamlit.app/
-- Full run: a second deployment with `SKILL_SUMMARY_DIR=outputs/summary/full`
+- Updated Streamlit Dashboard: https://linkedin-job-skills-datasets-analysis.streamlit.app/
 
 ## Contents
 
