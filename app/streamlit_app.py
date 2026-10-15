@@ -83,6 +83,40 @@ def filt(df: pd.DataFrame, sel: dict) -> pd.DataFrame:
 # ------------------------------------------------------------------------------- pages
 def page_overview(base, ov):
     st.title("LinkedIn skill demand — overview")
+    st.markdown(
+        f"**What employers ask for, and what that means for course design.** This dashboard summarises "
+        f"{ov['n_postings_dedup']:,} deduplicated LinkedIn job postings from the "
+        "[1.3M LinkedIn Jobs & Skills (2024)](https://www.kaggle.com/datasets/asaniczka/1-3m-linkedin-jobs-and-skills-2024) "
+        "dataset. A rule-based pipeline reads each posting and extracts the skills, degree, years of experience "
+        "and certificates it asks for. The pages then show which skills are in demand, which skills are asked for "
+        "together, and which skills a curriculum should teach first."
+    )
+    st.markdown(
+        "**Questions this dashboard answers**\n"
+        "- Which skills do employers mention most, by occupation group, country and job level?\n"
+        "- Which skills tend to appear together, and do they form natural skill bundles?\n"
+        "- How much education and experience do postings ask for?\n"
+        "- Which skills should a course cover first?"
+    )
+    with st.expander("How to read this dashboard"):
+        st.markdown(
+            "| Page | What it shows |\n"
+            "|---|---|\n"
+            "| **Overview** | Size of the data and the most common skills |\n"
+            "| **Skill ranking** | Share of postings that mention each skill; filter by group, country and level |\n"
+            "| **Co-occurrence** | Skill pairs that appear together more often than chance |\n"
+            "| **Education & experience** | Required degree and minimum years of experience |\n"
+            "| **Certificates** | Licences and certificates that postings mention |\n"
+            "| **Model results** | Skill themes (NMF), posting clusters (KMeans) and how well skills predict the occupation group |\n"
+            "| **Data quality** | How accurate the extraction is, checked against hand-labelled postings |\n"
+            "| **Curriculum insights** | Skill bundles that could become course modules, distinctive skills per group, and skill gaps between occupations |\n"
+            "| **Course priority** | A ranking of skills to teach first, with its uncertainty |\n\n"
+            f"**Reading the numbers.** A *share* is the percentage of postings that mention a skill. Extracted skills "
+            f"are about {ov['quality']['skill_precision']:.0%} correct overall and above 90% for *high-confidence* "
+            "mentions (both sources agree or the skill appears at least twice), so compare skills by rank and "
+            "trend rather than by exact value. All results describe what postings ask for; they do not measure "
+            "what workers actually have."
+        )
     c = st.columns(4)
     c[0].metric("Postings (deduplicated)", f"{ov['n_postings_dedup']:,}", f"-{ov['dup_share']:.1%} duplicates removed", delta_color="off")
     c[1].metric("Specific skills tracked", ov["n_distinct_skills_specific"])
